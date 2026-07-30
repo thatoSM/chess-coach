@@ -12,6 +12,20 @@ need a longer write-up.
 
 ---
 
+## Game 12 — WIN · White vs MarcoxNew (1009) · Black resigned
+
+- Colour: I played White. Eval direction: positive evals are my advantage.
+- Link: https://lichess.org/G9ZL0pV1
+- PGN: `games/pgn/game-12-marcoxnew.pgn`
+- Result: Black resigned.
+- **Me: [NOT YET ANALYSED] accuracy · [NOT YET ANALYSED] blunders · inaccuracies · ACPL.**
+  Phases: [NOT YET ANALYSED].
+- **Opponent: [NOT YET ANALYSED]**
+
+*(Draft entry — leak number and lesson pending my review.)*
+
+---
+
 ## Game 11 — LOSS · Black vs yahto19 (1061) · 31.Qxh7# (checkmate)
 
 - Colour: I played Black. Eval direction: NEGATIVE evals are my advantage.
