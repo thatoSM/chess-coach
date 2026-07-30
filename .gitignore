@@ -11,3 +11,6 @@ desktop.ini
 # Scratch / drafts I don't want in the repo
 scratch/
 *.tmp
+
+chess-coach-bundle.md
+repomix-output.xml
