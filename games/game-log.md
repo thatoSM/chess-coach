@@ -12,6 +12,20 @@ need a longer write-up.
 
 ---
 
+## Game 13 — WIN · Black vs samerhatam (947) · White resigned
+
+- Colour: I played Black. Eval direction: NEGATIVE evals are my advantage.
+- Link: https://lichess.org/BUqKSmpi
+- PGN: `games/pgn/game-13-samerhatam.pgn`
+- Result: White resigned.
+- **Me: [NOT YET ANALYSED] accuracy · [NOT YET ANALYSED] blunders · inaccuracies · ACPL.**
+  Phases: [NOT YET ANALYSED].
+- **Opponent: [NOT YET ANALYSED]**
+
+*(Draft entry — leak number and lesson pending my review.)*
+
+---
+
 ## Game 12 — WIN · White vs MarcoxNew (1009) · Black resigned
 
 - Colour: I played White. Eval direction: positive evals are my advantage.
