@@ -76,3 +76,8 @@ Tilted from a loss?            → one more game MAX, then stop
 ## The one line
 
 **Checks, captures, threats — especially when the position looks quiet.**
+
+## The moment the game ends
+
+Click **Request computer analysis** before you do anything else.
+Before the rematch. Before closing the tab.
