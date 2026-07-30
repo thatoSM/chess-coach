@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/V49fceDL"]
+[Date "2026.07.25"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "Danincontro"]
+[Result "0-1"]
+[GameId "V49fceDL"]
+[UTCDate "2026.07.25"]
+[UTCTime "14:12:02"]
+[WhiteElo "941"]
+[BlackElo "871"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+46"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C50"]
+[Opening "Italian Game: Giuoco Pianissimo"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. Nc3 { [%eval 0.06] } 3... Nf6 { [%eval 0.07] } 4. Bc4 { [%eval 0.0] } 4... Bc5 { [%eval 0.09] } 5. d3 { [%eval 0.07] } 5... d6 { [%eval 0.09] } 6. O-O { [%eval 0.04] } 6... Bg4 { [%eval 0.07] } 7. Bg5 { [%eval -0.86] } 7... h6 { [%eval 0.0] } 8. Bh4 { [%eval -1.95] } 8... Nd4 { [%eval -1.72] } 9. a3 { [%eval -3.02] } 9... O-O { [%eval -2.0] } 10. b4 { [%eval -2.01] } 10... Nxf3+ { [%eval 0.0] } 11. gxf3 { [%eval 0.02] } 11... Bh3 { [%eval 2.44] } 12. Re1 { [%eval -3.44] } 12... Bd4 { [%eval -3.51] } 13. Rb1 { [%eval -4.44] } 13... Bxc3 { [%eval -4.92] } 14. Re2 { [%eval -4.99] } 14... Re8 { [%eval -4.82] } 15. d4 { [%eval -4.64] } 15... exd4 { [%eval -4.7] } 16. f4 { [%eval -5.49] } 16... Qd7 { [%eval -4.77] } 17. f5 { [%eval -6.07] } 17... d5 { [%eval -5.6] } 18. exd5 { [%eval -5.79] } 18... Qxf5 { [%eval -5.91] } 19. Bxf6 { [%eval #-2] } 19... Qxf6 { [%eval -6.14] } 20. Rxe8+ { [%eval -5.89] } 20... Rxe8 { [%eval -6.22] } 21. b5 { [%eval #-3] } 21... Qg6+ { [%eval #-2] } 22. Kh1 { [%eval #-1] } 22... Qg2# 0-1
+
+

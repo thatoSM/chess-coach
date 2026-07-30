@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/cgYF8YgR"]
+[Date "2026.07.29"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "spoof-em-up"]
+[Result "0-1"]
+[GameId "cgYF8YgR"]
+[UTCDate "2026.07.29"]
+[UTCTime "14:19:04"]
+[WhiteElo "970"]
+[BlackElo "971"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+9"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nc3 d5 3. exd5 cxd5 4. Nf3 Bg4 5. h3 Bh5 6. g4 Bg6 7. Bb5+ Nc6 8. Ba4 h5 9. gxh5 Bxh5 10. Bb3 e6 11. d4 Nf6 12. Bf4 Bd6 13. Qd2 Bxf3 14. Bxd6 Qxd6 15. Qg5 Bxh1 16. Qxg7 O-O-O 17. Qxf6 Rxh3 18. Qxf7 Nxd4 19. O-O-O Bf3 20. Rxd4 Rh1+ 21. Kd2 Rf8 22. Qg7 Be4 23. Nxe4 Qf4+ 24. Kc3 Qc7+ 25. Kd3 Rd1+ 26. Nd2 Rf3+ 27. Ke2 Qxg7 28. Kxf3 Qxd4 29. Ke2 Qxd2+ 30. Kf3 0-1
+
+
