@@ -12,6 +12,20 @@ need a longer write-up.
 
 ---
 
+## Game 14 — LOSS · White vs rafffaelll2022 (1018) · 13...Bh6# (checkmate)
+
+- Colour: I played White. Eval direction: positive evals are my advantage.
+- Link: https://lichess.org/gzSLsOUb
+- PGN: `games/pgn/game-14-rafffaelll2022.pgn`
+- Result: Black won by checkmate.
+- **Me: [NOT YET ANALYSED] accuracy · [NOT YET ANALYSED] blunders · inaccuracies · ACPL.**
+  Phases: [NOT YET ANALYSED].
+- **Opponent: [NOT YET ANALYSED]**
+
+*(Draft entry — leak number and lesson pending my review.)*
+
+---
+
 ## Game 13 — WIN · Black vs samerhatam (947) · White resigned
 
 - Colour: I played Black. Eval direction: NEGATIVE evals are my advantage.
