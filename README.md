@@ -9,7 +9,7 @@ training system I'm working through — without me having to re-explain any of i
 
 - Lichess username: **ThatoSM**
 - Format I play: **10+5 Rapid**
-- Rating: **~940 rapid** (climbed from a low of ~600 in May 2026)
+- Rating: **980 rapid** (climbed from a low of ~600 in May 2026)
 - Puzzle rating: **~1116** (jumped from a stale ~610 once I started training properly)
 - Colour repertoire: **1.e4 as White, 1...e5 as Black**, Italian-style development
 - I learnt fundamentals via Duolingo starting May 2026, then moved to real
@@ -17,10 +17,14 @@ training system I'm working through — without me having to re-explain any of i
 
 ## The single most important fact about my chess
 
-**My puzzle rating (1116) is now HIGHER than my game rating (940).**
+**My puzzle rating (1116) is now HIGHER than my game rating (980).**
 
-My tactics are not the bottleneck. I can SEE the moves — I proved it in Game 8,
-where I missed `Rf2+` on move 29 and then played that exact move on move 33.
+My tactics are not the bottleneck. I can SEE the moves — and I've now proved it
+TWICE, both verified against the PGN:
+
+- **Game 5:** missed `Nxf3+` on move 11, played it on move 12.
+- **Game 8:** missed `Rf2+` on move 29, played it on move 33.
+
 The move was always in my chess. The **search** was missing from my routine.
 
 The gap between puzzle rating and game rating is the whole diagnosis: in a
@@ -66,15 +70,36 @@ Full detail on how I want to be coached: `docs/05-coaching-principles.md`.
 | `training/board-card.md` | The one-screen checklist I keep open WHILE playing |
 | `training/wellbeing-and-schedule.md` | Chess-first rule, gaming drain, day structure |
 
-## The current frontier (as of Game 8 vs Clotilde78891)
+## The current frontier (as of Game 10 vs esteesAmin)
 
-Leak #1 is still the leak. In Game 8 I played 90% accuracy and outplayed my
-opponent on every single metric — but my one blunder was the same old shape: a
-quiet pawn move (`29...g5??`) when a check (`Rf2+`) was winning. I played that
-exact check four moves later, once the opponent handed the chance back.
+**Leak #1 is still the leak, but it has changed shape.** In Game 10 I found a
+forcing move — I captured a rook — while `29...Qxg2#` was mate in one. That's
+not a failure to search; it's searching in the wrong ORDER. It's also the second
+forced mate I've missed.
 
-Endgame remains my strongest phase (91% here, clean conversion to mate on move
-67). **Middlegame (75%) is now my weakest phase**, and both of my middlegame
-errors in Game 8 were Leak #1 in flavour, not positional drift.
+> **Mate → checks → captures. In that order, every time.**
 
-The next rating points come from one place: running Scan A before quiet moves.
+**The opening is no longer my weak phase.** 57% → 86% → 80% → **95%** across
+games 7 to 10. Game 10 is my best opening score in the log. That's the first
+leak in this repo to visibly close, and it closed through attention, not study —
+which is the best evidence I have that the same fix works elsewhere.
+
+**Middlegame is now the phase to watch** (73%, 75% in my two loosest games; 99%,
+100% in my two cleanest). It tracks one thing: whether I ran the scan.
+
+**Endgame remains a genuine weapon** — 91–100%, and 100% in each of the last two
+games.
+
+**Best game so far:** Game 9. 93% accuracy, zero blunders, 15 ACPL, 100% in both
+middlegame and endgame, against an opponent 147 points above me.
+
+The next rating points come from one place: running Scan A, in the right order,
+before every move — especially the quiet-looking ones.
+
+## A standing warning
+
+Three claims in this repo turned out to be **the opponent's moves recorded as
+mine** — the retracted Leak #4, and the unverified `Qe2`/`Rxf2` row. Before
+repeating any claim about a specific move, check it against the PGN in
+`games/pgn/`. Only cite rows from the VERIFIED table in
+`docs/03-my-recurring-mistakes.md`.
