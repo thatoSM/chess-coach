@@ -12,6 +12,20 @@ need a longer write-up.
 
 ---
 
+## Game 11 — LOSS · Black vs yahto19 (1061) · 31.Qxh7# (checkmate)
+
+- Colour: I played Black. Eval direction: NEGATIVE evals are my advantage.
+- Link: https://lichess.org/6DCNXsRu
+- PGN: `games/pgn/game-11-yahto19.pgn`
+- Result: White won by checkmate.
+- **Me: [NOT YET ANALYSED] accuracy · [NOT YET ANALYSED] blunders · inaccuracies · ACPL.**
+  Phases: [NOT YET ANALYSED].
+- **Opponent: [NOT YET ANALYSED]**
+
+*(Draft entry — leak number and lesson pending my review.)*
+
+---
+
 ## Game 10 — WIN · Black vs esteesAmin (1059) · White resigned
 
 - Link: https://lichess.org/Wy1M8OYQ
