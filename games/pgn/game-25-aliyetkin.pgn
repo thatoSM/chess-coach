@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/YRHBy6JF"]
+[Date "2026.07.31"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "Aliyetkin"]
+[Result "0-1"]
+[GameId "YRHBy6JF"]
+[UTCDate "2026.07.31"]
+[UTCTime "08:00:52"]
+[WhiteElo "971"]
+[BlackElo "855"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+34"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Bowdler Attack"]
+[Termination "Normal"]
+
+1. e4 c5 2. Bc4 d6 3. Nf3 Nf6 4. O-O Nxe4 5. d3 Nf6 6. Nc3 g6 7. Bb5+ Bd7 8. Bg5 Bg7 9. Qe2 O-O 10. Bxf6 Bxf6 11. Qe4 Bxb5 12. Nxb5 Bxb2 13. Qxb7 Nd7 14. Nc7 Rb8 15. Qxa7 Bxa1 16. Rxa1 Rb2 17. Ne1 Ne5 18. Qa3 Rb7 19. Nd5 e6 20. Nf4 Qg5 21. Qa6 Rfb8 22. Nh3 Qd2 23. Qxd6 Rb1 24. Rxb1 Rxb1 25. g3 Qxe1+ 26. Kg2 Qh1# 0-1
+
+

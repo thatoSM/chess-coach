@@ -12,6 +12,397 @@ need a longer write-up.
 
 ---
 
+## Game 38 — DRAW · White vs BiswajitShuvo (959) · draw by stalemate
+
+- Colour: I played White. Eval direction: positive evals are my advantage.
+- Link: https://lichess.org/6zckr6VF
+- PGN: `games/pgn/game-38-biswajitshuvo.pgn`
+- Result: Draw by stalemate.
+- **Me: [NOT YET ANALYSED] accuracy · blunders · mistakes · inaccuracies · ACPL.**
+- **Opponent: [NOT YET ANALYSED]**
+
+**Lesson — [DRAFT: needs review, no leak number assigned yet].**
+
+[DRAFT — fill in after reviewing the game with computer analysis.]
+
+**The ONE thing to fix:** [DRAFT — not yet determined]
+
+---
+
+## Game 37 — LOSS · Black vs pavanraaj (978) · Black resigned
+
+- Colour: I played Black. Eval direction: NEGATIVE evals are my advantage.
+- Link: https://lichess.org/DEBUu98z
+- PGN: `games/pgn/game-37-pavanraaj.pgn`
+- Result: Black resigned.
+- **Me: [NOT YET ANALYSED] accuracy · blunders · mistakes · inaccuracies · ACPL.**
+- **Opponent: [NOT YET ANALYSED]**
+
+**Lesson — [DRAFT: needs review, no leak number assigned yet].**
+
+[DRAFT — fill in after reviewing the game with computer analysis.]
+
+**The ONE thing to fix:** [DRAFT — not yet determined]
+
+---
+
+## Game 36 — WIN · White vs abdel05 (827) · 28.Qg8# (checkmate)
+
+- Colour: I played White. Eval direction: positive evals are my advantage.
+- Link: https://lichess.org/4mMKGf2E
+- PGN: `games/pgn/game-36-abdel05.pgn`
+- Result: White won by checkmate.
+- **Me: [NOT YET ANALYSED] accuracy · blunders · mistakes · inaccuracies · ACPL.**
+- **Opponent: [NOT YET ANALYSED]**
+
+**Lesson — [DRAFT: needs review, no leak number assigned yet].**
+
+[DRAFT — fill in after reviewing the game with computer analysis.]
+
+**The ONE thing to fix:** [DRAFT — not yet determined]
+
+---
+
+## Game 35 — WIN · Black vs Artemii_Burlakov (998) · White resigned
+
+- Colour: I played Black. Eval direction: NEGATIVE evals are my advantage.
+- Link: https://lichess.org/MAWfNHxi
+- PGN: `games/pgn/game-35-artemii-burlakov.pgn`
+- Result: White resigned.
+- **Me: [NOT YET ANALYSED] accuracy · blunders · mistakes · inaccuracies · ACPL.**
+- **Opponent: [NOT YET ANALYSED]**
+
+**Lesson — [DRAFT: needs review, no leak number assigned yet].**
+
+[DRAFT — fill in after reviewing the game with computer analysis.]
+
+**The ONE thing to fix:** [DRAFT — not yet determined]
+
+---
+
+## Game 34 — LOSS · White vs doctorexcal (1011) · 36...Rc1# (checkmate)
+
+- Colour: I played White. Eval direction: positive evals are my advantage.
+- Link: https://lichess.org/HoRvvHVG
+- PGN: `games/pgn/game-34-doctorexcal.pgn`
+- Result: Black won by checkmate.
+- **Me: [NOT YET ANALYSED] accuracy · blunders · mistakes · inaccuracies · ACPL.**
+- **Opponent: [NOT YET ANALYSED]**
+
+**Lesson — [DRAFT: needs review, no leak number assigned yet].**
+
+[DRAFT — fill in after reviewing the game with computer analysis.]
+
+**The ONE thing to fix:** [DRAFT — not yet determined]
+
+---
+
+## Game 33 — DRAW · White vs abeer_elewy (1093) · draw by stalemate
+
+- Colour: I played White. Eval direction: positive evals are my advantage.
+- Link: https://lichess.org/xHxJvPnA
+- PGN: `games/pgn/game-33-abeer-elewy.pgn`
+- Result: Draw by stalemate.
+- **Me: [NOT YET ANALYSED] accuracy · blunders · mistakes · inaccuracies · ACPL.**
+- **Opponent: [NOT YET ANALYSED]**
+
+**Lesson — [DRAFT: needs review, no leak number assigned yet].**
+
+[DRAFT — fill in after reviewing the game with computer analysis.]
+
+**The ONE thing to fix:** [DRAFT — not yet determined]
+
+---
+
+## Game 32 — WIN · Black vs ChinJay (991) · 28...Qxe1# (checkmate)
+
+- Colour: I played Black. Eval direction: NEGATIVE evals are my advantage.
+- Link: https://lichess.org/2aHCBGRS
+- PGN: `games/pgn/game-32-chinjay.pgn`
+- Result: Black won by checkmate.
+- **Me: [NOT YET ANALYSED] accuracy · blunders · mistakes · inaccuracies · ACPL.**
+- **Opponent: [NOT YET ANALYSED]**
+
+**Lesson — [DRAFT: needs review, no leak number assigned yet].**
+
+[DRAFT — fill in after reviewing the game with computer analysis.]
+
+**The ONE thing to fix:** [DRAFT — not yet determined]
+
+---
+
+## Game 31 — WIN · Black vs aor_aladin (945) · White resigned
+
+- Colour: I played Black. Eval direction: NEGATIVE evals are my advantage.
+- Link: https://lichess.org/Ax8j5RpM
+- PGN: `games/pgn/game-31-aor-aladin.pgn`
+- Result: White resigned.
+- **Me: [NOT YET ANALYSED] accuracy · blunders · mistakes · inaccuracies · ACPL.**
+- **Opponent: [NOT YET ANALYSED]**
+
+**Lesson — [DRAFT: needs review, no leak number assigned yet].**
+
+[DRAFT — fill in after reviewing the game with computer analysis.]
+
+**The ONE thing to fix:** [DRAFT — not yet determined]
+
+---
+
+## Game 30 — LOSS · White vs AnayAnand2016 (917) · 14...Qxh2# (checkmate)
+
+- Colour: I played White. Eval direction: positive evals are my advantage.
+- Link: https://lichess.org/RkPK5crI
+- PGN: `games/pgn/game-30-anayanand2016.pgn`
+- Result: Black won by checkmate.
+- **Me: [NOT YET ANALYSED] accuracy · blunders · mistakes · inaccuracies · ACPL.**
+- **Opponent: [NOT YET ANALYSED]**
+
+**Lesson — [DRAFT: needs review, no leak number assigned yet].**
+
+[DRAFT — fill in after reviewing the game with computer analysis.]
+
+**The ONE thing to fix:** [DRAFT — not yet determined]
+
+---
+
+## Game 29 — WIN · Black vs anforce (1075) · 65...Qd2# (checkmate)
+
+- Colour: I played Black. Eval direction: NEGATIVE evals are my advantage.
+- Link: https://lichess.org/0ZCzjUFy
+- PGN: `games/pgn/game-29-anforce.pgn`
+- Result: Black won by checkmate.
+- **Me: [NOT YET ANALYSED] accuracy · blunders · mistakes · inaccuracies · ACPL.**
+- **Opponent: [NOT YET ANALYSED]**
+
+**Lesson — [DRAFT: needs review, no leak number assigned yet].**
+
+[DRAFT — fill in after reviewing the game with computer analysis.]
+
+**The ONE thing to fix:** [DRAFT — not yet determined]
+
+---
+
+## Game 28 — WIN · White vs BjkGoktug09 (1006) · 36.Qf2# (checkmate)
+
+- Colour: I played White. Eval direction: positive evals are my advantage.
+- Link: https://lichess.org/F82JQuvC
+- PGN: `games/pgn/game-28-bjkgoktug09.pgn`
+- Result: White won by checkmate.
+- **Me: [NOT YET ANALYSED] accuracy · blunders · mistakes · inaccuracies · ACPL.**
+- **Opponent: [NOT YET ANALYSED]**
+
+**Lesson — [DRAFT: needs review, no leak number assigned yet].**
+
+[DRAFT — fill in after reviewing the game with computer analysis.]
+
+**The ONE thing to fix:** [DRAFT — not yet determined]
+
+---
+
+## Game 27 — WIN · Black vs mrgrtsh (973) · White resigned
+
+- Colour: I played Black. Eval direction: NEGATIVE evals are my advantage.
+- Link: https://lichess.org/B5pAtVDT
+- PGN: `games/pgn/game-27-mrgrtsh.pgn`
+- Result: White resigned.
+- **Me: [NOT YET ANALYSED] accuracy · blunders · mistakes · inaccuracies · ACPL.**
+- **Opponent: [NOT YET ANALYSED]**
+
+**Lesson — [DRAFT: needs review, no leak number assigned yet].**
+
+[DRAFT — fill in after reviewing the game with computer analysis.]
+
+**The ONE thing to fix:** [DRAFT — not yet determined]
+
+---
+
+## Game 26 — LOSS · Black vs Aaryav555 (902) · Black resigned
+
+- Colour: I played Black. Eval direction: NEGATIVE evals are my advantage.
+- Link: https://lichess.org/jeh8Fn3t
+- PGN: `games/pgn/game-26-aaryav555.pgn`
+- Result: Black resigned.
+- **Me: [NOT YET ANALYSED] accuracy · blunders · mistakes · inaccuracies · ACPL.**
+- **Opponent: [NOT YET ANALYSED]**
+
+**Lesson — [DRAFT: needs review, no leak number assigned yet].**
+
+[DRAFT — fill in after reviewing the game with computer analysis.]
+
+**The ONE thing to fix:** [DRAFT — not yet determined]
+
+---
+
+## Game 25 — LOSS · White vs Aliyetkin (855) · 26...Qh1# (checkmate)
+
+- Colour: I played White. Eval direction: positive evals are my advantage.
+- Link: https://lichess.org/YRHBy6JF
+- PGN: `games/pgn/game-25-aliyetkin.pgn`
+- Result: Black won by checkmate.
+- **Me: [NOT YET ANALYSED] accuracy · blunders · mistakes · inaccuracies · ACPL.**
+- **Opponent: [NOT YET ANALYSED]**
+
+**Lesson — [DRAFT: needs review, no leak number assigned yet].**
+
+[DRAFT — fill in after reviewing the game with computer analysis.]
+
+**The ONE thing to fix:** [DRAFT — not yet determined]
+
+---
+
+## Game 24 — LOSS · White vs mlbbhunter (987) · 16...Qb2# (checkmate)
+
+- Colour: I played White. Eval direction: positive evals are my advantage.
+- Link: https://lichess.org/LGHaF8gj
+- PGN: `games/pgn/game-24-mlbbhunter.pgn`
+- Result: Black won by checkmate.
+- **Me: [NOT YET ANALYSED] accuracy · blunders · mistakes · inaccuracies · ACPL.**
+- **Opponent: [NOT YET ANALYSED]**
+
+**Lesson — [DRAFT: needs review, no leak number assigned yet].**
+
+[DRAFT — fill in after reviewing the game with computer analysis.]
+
+**The ONE thing to fix:** [DRAFT — not yet determined]
+
+---
+
+## Game 23 — LOSS · White vs spoof-em-up (971) · White resigned
+
+- Colour: I played White. Eval direction: positive evals are my advantage.
+- Link: https://lichess.org/cgYF8YgR
+- PGN: `games/pgn/game-23-spoof-em-up.pgn`
+- Result: White resigned.
+- **Me: [NOT YET ANALYSED] accuracy · blunders · mistakes · inaccuracies · ACPL.**
+- **Opponent: [NOT YET ANALYSED]**
+
+**Lesson — [DRAFT: needs review, no leak number assigned yet].**
+
+[DRAFT — fill in after reviewing the game with computer analysis.]
+
+**The ONE thing to fix:** [DRAFT — not yet determined]
+
+---
+
+## Game 22 — WIN · Black vs PTSD_chess (893) · on time
+
+- Colour: I played Black. Eval direction: NEGATIVE evals are my advantage.
+- Link: https://lichess.org/ztyU5exA
+- PGN: `games/pgn/game-22-ptsd-chess.pgn`
+- Result: Black won on time.
+- **Me: [NOT YET ANALYSED] accuracy · blunders · mistakes · inaccuracies · ACPL.**
+- **Opponent: [NOT YET ANALYSED]**
+
+**Lesson — [DRAFT: needs review, no leak number assigned yet].**
+
+[DRAFT — fill in after reviewing the game with computer analysis.]
+
+**The ONE thing to fix:** [DRAFT — not yet determined]
+
+---
+
+## Game 21 — LOSS · Black vs kai-reader (961) · 15.Qg7# (checkmate)
+
+- Colour: I played Black. Eval direction: NEGATIVE evals are my advantage.
+- Link: https://lichess.org/gGP3SzuK
+- PGN: `games/pgn/game-21-kai-reader.pgn`
+- Result: White won by checkmate.
+- **Me: [NOT YET ANALYSED] accuracy · blunders · mistakes · inaccuracies · ACPL.**
+- **Opponent: [NOT YET ANALYSED]**
+
+**Lesson — [DRAFT: needs review, no leak number assigned yet].**
+
+[DRAFT — fill in after reviewing the game with computer analysis.]
+
+**The ONE thing to fix:** [DRAFT — not yet determined]
+
+---
+
+## Game 20 — LOSS · White vs minikmustafa (998) · 92...Qb6# (checkmate)
+
+- Colour: I played White. Eval direction: positive evals are my advantage.
+- Link: https://lichess.org/J8xB213W
+- PGN: `games/pgn/game-20-minikmustafa.pgn`
+- Result: Black won by checkmate.
+- **Me: [NOT YET ANALYSED] accuracy · blunders · mistakes · inaccuracies · ACPL.**
+- **Opponent: [NOT YET ANALYSED]**
+
+**Lesson — [DRAFT: needs review, no leak number assigned yet].**
+
+[DRAFT — fill in after reviewing the game with computer analysis.]
+
+**The ONE thing to fix:** [DRAFT — not yet determined]
+
+---
+
+## Game 19 — WIN · Black vs mixiaoquan (949) · 76...Qc1# (checkmate)
+
+- Colour: I played Black. Eval direction: NEGATIVE evals are my advantage.
+- Link: https://lichess.org/mWdR1i2R
+- PGN: `games/pgn/game-19-mixiaoquan.pgn`
+- Result: Black won by checkmate.
+- **Me: [NOT YET ANALYSED] accuracy · blunders · mistakes · inaccuracies · ACPL.**
+- **Opponent: [NOT YET ANALYSED]**
+
+**Lesson — [DRAFT: needs review, no leak number assigned yet].**
+
+[DRAFT — fill in after reviewing the game with computer analysis.]
+
+**The ONE thing to fix:** [DRAFT — not yet determined]
+
+---
+
+## Game 18 — WIN · White vs judy08 (919) · Black resigned
+
+- Colour: I played White. Eval direction: positive evals are my advantage.
+- Link: https://lichess.org/p4N9lzno
+- PGN: `games/pgn/game-18-judy08.pgn`
+- Result: Black resigned.
+- **Me: [NOT YET ANALYSED] accuracy · blunders · mistakes · inaccuracies · ACPL.**
+- **Opponent: [NOT YET ANALYSED]**
+
+**Lesson — [DRAFT: needs review, no leak number assigned yet].**
+
+[DRAFT — fill in after reviewing the game with computer analysis.]
+
+**The ONE thing to fix:** [DRAFT — not yet determined]
+
+---
+
+## Game 17 — WIN · White vs Kavikg (950) · Black resigned
+
+- Colour: I played White. Eval direction: positive evals are my advantage.
+- Link: https://lichess.org/mbHl3Ybl
+- PGN: `games/pgn/game-17-kavikg.pgn`
+- Result: Black resigned.
+- **Me: [NOT YET ANALYSED] accuracy · blunders · mistakes · inaccuracies · ACPL.**
+- **Opponent: [NOT YET ANALYSED]**
+
+**Lesson — [DRAFT: needs review, no leak number assigned yet].**
+
+[DRAFT — fill in after reviewing the game with computer analysis.]
+
+**The ONE thing to fix:** [DRAFT — not yet determined]
+
+---
+
+## Game 16 — LOSS · White vs GiftmischerPTA (973) · 63...Qgg5# (checkmate)
+
+- Colour: I played White. Eval direction: positive evals are my advantage.
+- Link: https://lichess.org/AfDFvPd9
+- PGN: `games/pgn/game-16-giftmischerpta.pgn`
+- Result: Black won by checkmate.
+- **Me: [NOT YET ANALYSED] accuracy · blunders · mistakes · inaccuracies · ACPL.**
+- **Opponent: [NOT YET ANALYSED]**
+
+**Lesson — [DRAFT: needs review, no leak number assigned yet].**
+
+[DRAFT — fill in after reviewing the game with computer analysis.]
+
+**The ONE thing to fix:** [DRAFT — not yet determined]
+
+---
+
 ## Game 15 — LOSS · Black vs rafffaelll2022 (1024) · Black resigned
 
 - Colour: I played Black. Eval direction: NEGATIVE evals are my advantage.

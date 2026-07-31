@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/Ax8j5RpM"]
+[Date "2026.07.31"]
+[Round "-"]
+[White "aor_aladin"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "Ax8j5RpM"]
+[UTCDate "2026.07.31"]
+[UTCTime "14:13:32"]
+[WhiteElo "945"]
+[BlackElo "971"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C20"]
+[Opening "Barnes Opening: Walkerling"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. f3 { [%eval -0.65] } 2... Nf6 { [%eval -0.46] } 3. Bc4 { [%eval -1.14] } 3... Bc5 { [%eval -0.71] } 4. d3 { [%eval -0.96] } 4... Nc6 { [%eval -0.45] } 5. Bg5 { [%eval -0.59] } 5... O-O { [%eval -0.25] } 6. Ne2 { [%eval -0.44] } 6... d6 { [%eval -0.26] } 7. Nd2 { [%eval -0.47] } 7... Re8 { [%eval -0.34] } 8. c3 { [%eval -0.37] } 8... Be6 { [%eval 0.41] } 9. Qa4 { [%eval -0.38] } 9... Bxc4 { [%eval -0.26] } 10. Nxc4 { [%eval -0.32] } 10... a6 { [%eval -0.27] } 11. Ng3 { [%eval -2.99] } 11... b5 { [%eval -3.0] } 12. Qc2 { [%eval -3.05] } 12... bxc4 { [%eval -3.27] } 13. dxc4 { [%eval -3.32] } 13... Na5 { [%eval -1.0] } 14. Nf5 { [%eval -3.22] } 14... Nxc4 { [%eval -3.42] } 15. Qd3 { [%eval -4.25] } 15... Nxb2 { [%eval -4.21] } 16. Rb1 { [%eval -8.21] } 16... Nxd3+ { [%eval -8.04] } 0-1
+
+
