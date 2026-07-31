@@ -646,8 +646,20 @@ need a longer write-up.
   1. e4 e5 2. Nf3 d5 3. exd5 e4 4. Ng1 Nf6 5. Nc3 Nxd5 6. Nxe4 Qe7 7. Qe2 Bf5 8. d3 Nf4 9. Bxf4 Bxe4 10. dxe4 g6 11. O-O-O Bg7 12. Qe3 Qb4 13. b3 a5 14. Bxc7 Bc3 15. Bxb8 Qa3+ 16. Kb1 Qb2# 0-1
   ```
 - Result: Black won by checkmate.
-- **Me: [NOT YET ANALYSED] accuracy · blunders · mistakes · inaccuracies · ACPL.**
-- **Opponent: [NOT YET ANALYSED]**
+- **Me: 1 blunders · 0 mistakes · 2 inaccuracies · 158 ACPL.** (accuracy % isn't exposed by Lichess's API — read it off the Link above)
+- **Opponent: 1 blunders · 1 mistakes · 1 inaccuracies · 100 ACPL.**
+- Phases (Lichess division): opening ends ~move 15.
+
+**Computer analysis — flagged moves (from Lichess):**
+
+| Move | Side | Played | Eval before → after | Judgment | Best |
+|---|---|---|---|---|---|
+| 2 | Opponent (Black) | `d5` | +0.18 → +0.81 | Inaccuracy | `Nc6` |
+| 4 | Me (White) | `Ng1` | +0.92 → +0.00 | Inaccuracy | `Qe2` |
+| 8 | Opponent (Black) | `Nf4` | -0.49 → +5.66 | Blunder | `Nc6` |
+| 13 | Me (White) | `b3` | +6.54 → +4.82 | Inaccuracy | `e5` |
+| 14 | Opponent (Black) | `Bc3` | +4.82 → +9.72 | Mistake | `Qa3+` |
+| 15 | Me (White) | `Bxb8` | +9.72 → #-2 | Blunder | `Bd6` |
 
 **Lesson — [DRAFT: needs review, no leak number assigned yet].**
 
@@ -663,8 +675,29 @@ need a longer write-up.
 - Link: https://lichess.org/cgYF8YgR
 - PGN: `games/pgn/game-23-spoof-em-up.pgn`
 - Result: White resigned.
-- **Me: [NOT YET ANALYSED] accuracy · blunders · mistakes · inaccuracies · ACPL.**
-- **Opponent: [NOT YET ANALYSED]**
+- **Me: 4 blunders · 2 mistakes · 2 inaccuracies · 111 ACPL.** (accuracy % isn't exposed by Lichess's API — read it off the Link above)
+- **Opponent: 2 blunders · 2 mistakes · 3 inaccuracies · 80 ACPL.**
+- Phases (Lichess division): opening ends ~move 7, endgame starts ~move 27.
+
+**Computer analysis — flagged moves (from Lichess):**
+
+| Move | Side | Played | Eval before → after | Judgment | Best |
+|---|---|---|---|---|---|
+| 5 | Opponent (Black) | `Bh5` | -0.04 → +0.98 | Inaccuracy | `Bxf3` |
+| 8 | Me (White) | `Ba4` | +0.45 → -0.47 | Inaccuracy | `Ne5` |
+| 8 | Opponent (Black) | `h5` | -0.47 → +1.12 | Mistake | `e6` |
+| 9 | Me (White) | `gxh5` | +1.12 → -1.74 | Blunder | `Ne5` |
+| 10 | Me (White) | `Bb3` | -1.63 → -4.24 | Blunder | `d4` |
+| 11 | Me (White) | `d4` | -3.57 → -4.67 | Inaccuracy | `Qe2` |
+| 11 | Opponent (Black) | `Nf6` | -4.67 → -2.35 | Mistake | `Qf6` |
+| 12 | Me (White) | `Bf4` | -2.35 → -4.04 | Mistake | `Qd3` |
+| 12 | Opponent (Black) | `Bd6` | -4.04 → -2.93 | Inaccuracy | `Ne4` |
+| 13 | Me (White) | `Qd2` | -2.93 → -4.84 | Mistake | `Bg5` |
+| 16 | Opponent (Black) | `O-O-O` | -7.83 → -5.61 | Inaccuracy | `Ke7` |
+| 22 | Opponent (Black) | `Be4` | -4.92 → +0.04 | Blunder | `Bh5` |
+| 24 | Opponent (Black) | `Qc7+` | -0.02 → +1.81 | Blunder | `dxe4` |
+| 25 | Me (White) | `Kd3` | +1.81 → -8.87 | Blunder | `Qxc7+` |
+| 28 | Me (White) | `Kxf3` | -6.87 → #-9 | Blunder | `c3` |
 
 **Lesson — [DRAFT: needs review, no leak number assigned yet].**
 
@@ -680,8 +713,21 @@ need a longer write-up.
 - Link: https://lichess.org/ztyU5exA
 - PGN: `games/pgn/game-22-ptsd-chess.pgn`
 - Result: Black won on time.
-- **Me: [NOT YET ANALYSED] accuracy · blunders · mistakes · inaccuracies · ACPL.**
-- **Opponent: [NOT YET ANALYSED]**
+- **Me: 1 blunders · 1 mistakes · 0 inaccuracies · 52 ACPL.** (accuracy % isn't exposed by Lichess's API — read it off the Link above)
+- **Opponent: 3 blunders · 0 mistakes · 2 inaccuracies · 87 ACPL.**
+- Phases (Lichess division): opening ends ~move 9.
+
+**Computer analysis — flagged moves (from Lichess):**
+
+| Move | Side | Played | Eval before → after | Judgment | Best |
+|---|---|---|---|---|---|
+| 5 | Opponent (White) | `c3` | +0.73 → +0.09 | Inaccuracy | `Bb5` |
+| 11 | Opponent (White) | `Ndf3` | +0.93 → +0.04 | Inaccuracy | `Nb3` |
+| 12 | Me (Black) | `Rb8` | +0.05 → +3.87 | Blunder | `c5` |
+| 14 | Opponent (White) | `Nfe5` | +3.85 → -0.33 | Blunder | `Nxb8` |
+| 15 | Opponent (White) | `Rb1` | -0.42 → -4.41 | Blunder | `Qc1` |
+| 15 | Me (Black) | `Rxa2` | -4.41 → -2.17 | Mistake | `Nxc3` |
+| 16 | Opponent (White) | `f3` | -2.17 → -5.48 | Blunder | `Qb3` |
 
 **Lesson — [DRAFT: needs review, no leak number assigned yet].**
 
@@ -697,8 +743,19 @@ need a longer write-up.
 - Link: https://lichess.org/gGP3SzuK
 - PGN: `games/pgn/game-21-kai-reader.pgn`
 - Result: White won by checkmate.
-- **Me: [NOT YET ANALYSED] accuracy · blunders · mistakes · inaccuracies · ACPL.**
-- **Opponent: [NOT YET ANALYSED]**
+- **Me: 3 blunders · 0 mistakes · 0 inaccuracies · 128 ACPL.** (accuracy % isn't exposed by Lichess's API — read it off the Link above)
+- **Opponent: 1 blunders · 1 mistakes · 0 inaccuracies · 58 ACPL.**
+- Phases (Lichess division): opening ends ~move 12.
+
+**Computer analysis — flagged moves (from Lichess):**
+
+| Move | Side | Played | Eval before → after | Judgment | Best |
+|---|---|---|---|---|---|
+| 9 | Me (Black) | `h6` | +0.29 → +2.78 | Blunder | `Bxd5` |
+| 12 | Opponent (White) | `dxc4` | +3.00 → +1.59 | Mistake | `Nh4` |
+| 12 | Me (Black) | `Na5` | +1.59 → +7.04 | Blunder | `f5` |
+| 13 | Opponent (White) | `Nxe5` | +7.04 → +0.97 | Blunder | `Nh2` |
+| 13 | Me (Black) | `dxe5` | +0.97 → #2 | Blunder | `Rxe5` |
 
 **Lesson — [DRAFT: needs review, no leak number assigned yet].**
 
@@ -714,8 +771,44 @@ need a longer write-up.
 - Link: https://lichess.org/J8xB213W
 - PGN: `games/pgn/game-20-minikmustafa.pgn`
 - Result: Black won by checkmate.
-- **Me: [NOT YET ANALYSED] accuracy · blunders · mistakes · inaccuracies · ACPL.**
-- **Opponent: [NOT YET ANALYSED]**
+- **Me: 3 blunders · 5 mistakes · 11 inaccuracies · 40 ACPL.** (accuracy % isn't exposed by Lichess's API — read it off the Link above)
+- **Opponent: 2 blunders · 6 mistakes · 3 inaccuracies · 29 ACPL.**
+- Phases (Lichess division): opening ends ~move 8, endgame starts ~move 23.
+
+**Computer analysis — flagged moves (from Lichess):**
+
+| Move | Side | Played | Eval before → after | Judgment | Best |
+|---|---|---|---|---|---|
+| 5 | Opponent (Black) | `Ng4` | +0.07 → +0.95 | Inaccuracy | `d6` |
+| 6 | Opponent (Black) | `Nxf2` | +0.72 → +2.39 | Mistake | `h6` |
+| 8 | Opponent (Black) | `Nd4` | +2.88 → +4.53 | Inaccuracy | `h6` |
+| 11 | Me (White) | `Ke1` | +3.53 → +2.69 | Inaccuracy | `Qg3` |
+| 11 | Opponent (Black) | `Qh4+` | +2.69 → +4.56 | Mistake | `d6` |
+| 12 | Me (White) | `Bf2` | +4.56 → +2.82 | Mistake | `Qg3` |
+| 13 | Me (White) | `Kd2` | +2.81 → +2.07 | Inaccuracy | `Rd1` |
+| 13 | Opponent (Black) | `Qh6+` | +2.07 → +4.62 | Blunder | `c6` |
+| 15 | Me (White) | `Nd5` | +4.03 → +2.29 | Mistake | `g3` |
+| 16 | Me (White) | `Nc7` | +2.31 → +1.35 | Inaccuracy | `Qh3` |
+| 16 | Opponent (Black) | `Rb8` | +1.35 → +2.90 | Mistake | `b5` |
+| 17 | Me (White) | `Bxa7` | +2.90 → +1.99 | Inaccuracy | `Rf1` |
+| 17 | Opponent (Black) | `Qg5+` | +1.99 → +5.18 | Blunder | `b5` |
+| 19 | Me (White) | `Qe2` | +5.46 → +2.06 | Blunder | `Kc3` |
+| 19 | Opponent (Black) | `Qg5+` | +2.06 → +4.24 | Mistake | `Qxe2+` |
+| 20 | Me (White) | `Kc3` | +4.24 → +2.10 | Mistake | `Qe3` |
+| 20 | Opponent (Black) | `d6` | +2.10 → +4.05 | Mistake | `b5` |
+| 21 | Me (White) | `Bxb8` | +4.05 → +2.86 | Inaccuracy | `Rg1` |
+| 22 | Me (White) | `Qd2` | +3.11 → +1.70 | Mistake | `Qf2` |
+| 24 | Opponent (Black) | `Bh5` | +1.73 → +2.90 | Inaccuracy | `Bh3` |
+| 25 | Me (White) | `Rh1` | +2.90 → +0.79 | Blunder | `b4` |
+| 26 | Me (White) | `Ne6` | +0.96 → -2.33 | Blunder | `Rf1` |
+| 28 | Me (White) | `Rf1` | -2.20 → -3.27 | Inaccuracy | `a4` |
+| 28 | Opponent (Black) | `Re8` | -3.27 → -1.83 | Mistake | `g5` |
+| 29 | Me (White) | `Bb3` | -1.83 → -2.83 | Inaccuracy | `Rf7+` |
+| 31 | Me (White) | `Ba4` | -2.70 → -3.96 | Inaccuracy | `a4` |
+| 37 | Me (White) | `a4` | -3.16 → -5.13 | Mistake | `Ke3` |
+| 44 | Me (White) | `Bxc8` | -5.73 → -8.71 | Inaccuracy | `Be2` |
+| 51 | Me (White) | `Kf6` | -21.71 → #-23 | Inaccuracy | `Kd6` |
+| 52 | Me (White) | `Kxg6` | -23.43 → #-13 | Inaccuracy | `e5` |
 
 **Lesson — [DRAFT: needs review, no leak number assigned yet].**
 
@@ -839,8 +932,24 @@ need a longer write-up.
 - Link: https://lichess.org/mbHl3Ybl
 - PGN: `games/pgn/game-17-kavikg.pgn`
 - Result: Black resigned.
-- **Me: [NOT YET ANALYSED] accuracy · blunders · mistakes · inaccuracies · ACPL.**
-- **Opponent: [NOT YET ANALYSED]**
+- **Me: 3 blunders · 1 mistakes · 1 inaccuracies · 56 ACPL.** (accuracy % isn't exposed by Lichess's API — read it off the Link above)
+- **Opponent: 3 blunders · 1 mistakes · 1 inaccuracies · 85 ACPL.**
+- Phases (Lichess division): opening ends ~move 8, endgame starts ~move 16.
+
+**Computer analysis — flagged moves (from Lichess):**
+
+| Move | Side | Played | Eval before → after | Judgment | Best |
+|---|---|---|---|---|---|
+| 16 | Opponent (Black) | `e5` | -0.16 → +0.96 | Mistake | `c6` |
+| 18 | Opponent (Black) | `c6` | +0.79 → +2.78 | Blunder | `Qd4` |
+| 20 | Me (White) | `a3` | +3.30 → +0.99 | Blunder | `Qb3+` |
+| 20 | Opponent (Black) | `Ra4` | +0.99 → +7.61 | Blunder | `Rb8` |
+| 34 | Me (White) | `Re1` | +6.59 → -0.62 | Blunder | `Rb4` |
+| 35 | Me (White) | `f4` | -0.67 → -3.60 | Blunder | `e5` |
+| 36 | Me (White) | `e5` | -3.13 → -5.00 | Mistake | `g3` |
+| 37 | Me (White) | `Kh1` | -4.00 → -5.18 | Inaccuracy | `Kf1` |
+| 37 | Opponent (Black) | `Qxf4` | -5.18 → -4.01 | Inaccuracy | `Qf2` |
+| 38 | Opponent (Black) | `Qxe5` | -4.84 → #13 | Blunder | `Qf2` |
 
 **Lesson — [DRAFT: needs review, no leak number assigned yet].**
 
@@ -856,8 +965,45 @@ need a longer write-up.
 - Link: https://lichess.org/AfDFvPd9
 - PGN: `games/pgn/game-16-giftmischerpta.pgn`
 - Result: Black won by checkmate.
-- **Me: [NOT YET ANALYSED] accuracy · blunders · mistakes · inaccuracies · ACPL.**
-- **Opponent: [NOT YET ANALYSED]**
+- **Me: 12 blunders · 3 mistakes · 5 inaccuracies · 108 ACPL.** (accuracy % isn't exposed by Lichess's API — read it off the Link above)
+- **Opponent: 9 blunders · 1 mistakes · 1 inaccuracies · 90 ACPL.**
+- Phases (Lichess division): opening ends ~move 9, endgame starts ~move 26.
+
+**Computer analysis — flagged moves (from Lichess):**
+
+| Move | Side | Played | Eval before → after | Judgment | Best |
+|---|---|---|---|---|---|
+| 9 | Me (White) | `a3` | +0.16 → -2.21 | Blunder | `Nxd4` |
+| 9 | Opponent (Black) | `b5` | -2.21 → +0.94 | Blunder | `Nxf3+` |
+| 10 | Me (White) | `Bxb5` | +0.94 → -1.67 | Blunder | `Nxd4` |
+| 10 | Opponent (Black) | `Nxb5` | -1.67 → +0.46 | Blunder | `Nxf3+` |
+| 13 | Me (White) | `b4` | +1.16 → -1.21 | Blunder | `h3` |
+| 13 | Opponent (Black) | `Bb6` | -1.21 → +0.67 | Blunder | `Bd4` |
+| 17 | Me (White) | `Rad1` | +0.40 → -0.74 | Mistake | `h3` |
+| 17 | Opponent (Black) | `Qd7` | -0.74 → +0.46 | Mistake | `Qe8` |
+| 19 | Me (White) | `c4` | +0.47 → -3.87 | Blunder | `Bxf6` |
+| 19 | Opponent (Black) | `dxc4` | -3.87 → +0.19 | Blunder | `e4` |
+| 20 | Me (White) | `dxc4` | +0.19 → -3.73 | Blunder | `Bxf6` |
+| 20 | Opponent (Black) | `Qg6` | -3.73 → +1.35 | Blunder | `e4` |
+| 21 | Me (White) | `Nd7` | +1.35 → -5.21 | Blunder | `Bxf6` |
+| 21 | Opponent (Black) | `Rfd8` | -5.21 → -0.08 | Blunder | `Nxd7` |
+| 24 | Me (White) | `c5` | -0.12 → -3.73 | Blunder | `h3` |
+| 24 | Opponent (Black) | `Bh3` | -3.73 → +0.90 | Blunder | `e4` |
+| 25 | Me (White) | `g3` | +0.90 → -2.51 | Blunder | `Bg3` |
+| 26 | Me (White) | `Qxf1` | -2.40 → -4.24 | Mistake | `Kxf1` |
+| 27 | Me (White) | `Nd4` | -4.29 → -6.72 | Inaccuracy | `Ne1` |
+| 31 | Me (White) | `Qa4` | -6.45 → #-19 | Blunder | `Qa8+` |
+| 32 | Me (White) | `f3` | -16.52 → #-3 | Inaccuracy | `Kh3` |
+| 32 | Opponent (Black) | `Bb2` | #-3 → +6.57 | Blunder | `Rd2+` |
+| 33 | Me (White) | `Qxd1` | +6.57 → -0.04 | Blunder | `fxe4` |
+| 33 | Opponent (Black) | `e2` | -0.04 → +3.25 | Blunder | `Qc4` |
+| 34 | Me (White) | `Qe1` | +3.25 → -2.88 | Blunder | `Qd8+` |
+| 36 | Me (White) | `Qg1` | -3.24 → -11.03 | Blunder | `Qf2` |
+| 40 | Me (White) | `Bg3` | -8.02 → #-6 | Mistake | `Bxd4` |
+| 51 | Me (White) | `g5` | -11.16 → #-4 | Inaccuracy | `Kg3` |
+| 51 | Opponent (Black) | `fxg5` | #-4 → -13.57 | Inaccuracy | `Qf3+` |
+| 52 | Me (White) | `fxg5` | -13.57 → #-19 | Inaccuracy | `Kg3` |
+| 54 | Me (White) | `Kxg5` | -20.92 → #-15 | Inaccuracy | `Kf3` |
 
 **Lesson — [DRAFT: needs review, no leak number assigned yet].**
 
