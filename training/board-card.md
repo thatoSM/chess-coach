@@ -81,3 +81,8 @@ Tilted from a loss?            → one more game MAX, then stop
 
 Click **Request computer analysis** before you do anything else.
 Before the rematch. Before closing the tab.
+
+## The moment the game ends
+
+Click **Request computer analysis** before you do anything else.
+Before the rematch. Before closing the tab.
