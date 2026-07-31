@@ -22,8 +22,41 @@ need a longer write-up.
   1. e4 Nc6 2. Bc4 e6 3. d3 d5 4. exd5 exd5 5. Qe2+ Qe7 6. Qxe7+ Bxe7 7. Bb3 Nf6 8. Nc3 O-O 9. Nxd5 Nxd5 10. Bxd5 Nd4 11. Kd2 Bg5+ 12. Kc3 Bxc1 13. Rxc1 Nb5+ 14. Kb4 Nd6 15. Nf3 c6 16. Be4 Nxe4 17. dxe4 a5+ 18. Kb3 Be6+ 19. c4 b5 20. Ne5 a4+ 21. Kb4 bxc4 22. Nxc6 Rac8 23. Ne7+ Kh8 24. Nxc8 Rxc8 25. Rhd1 g6 26. Rd2 Kg7 27. Rdc2 h5 28. Rxc4 Bxc4 29. Rxc4 Rb8+ 30. Kxa4 Rxb2 31. Rc7 Rxa2+ 32. Kb3 Rxf2 33. e5 Re2 34. Re7 Re3+ 35. Kc4 Re4+ 36. Kd5 Re2 37. e6 Rxe6 38. Rxe6 fxe6+ 39. Kxe6 Kh6 40. Ke5 g5 41. Kf5 h4 42. Kg4 h3 43. gxh3 Kg6 44. h4 gxh4 45. Kxh4 Kh6 46. Kg4 Kg6 47. h4 Kh6 48. h5 Kh7 49. Kg5 Kg7 50. h6+ Kh7 51. Kh5 Kh8 52. Kg6 Kg8 53. h7+ Kh8 54. Kh6 1/2-1/2
   ```
 - Result: Draw by stalemate.
-- **Me: [NOT YET ANALYSED] accuracy · blunders · mistakes · inaccuracies · ACPL.**
-- **Opponent: [NOT YET ANALYSED]**
+- **Me: 5 blunders · 1 mistakes · 8 inaccuracies · 62 ACPL.** (accuracy % isn't exposed by Lichess's API — read it off the Link above)
+- **Opponent: 4 blunders · 3 mistakes · 6 inaccuracies · 64 ACPL.**
+- Phases (Lichess division): opening ends ~move 10, endgame starts ~move 17.
+
+**Computer analysis — flagged moves (from Lichess):**
+
+| Move | Side | Played | Eval before → after | Judgment | Best |
+|---|---|---|---|---|---|
+| 2 | Me (White) | `Bc4` | +0.44 → -0.15 | Inaccuracy | `d4` |
+| 5 | Opponent (Black) | `Qe7` | -0.66 → +0.57 | Mistake | `Be6` |
+| 6 | Me (White) | `Qxe7+` | +0.57 → -0.29 | Inaccuracy | `Bxd5` |
+| 6 | Opponent (Black) | `Bxe7` | -0.29 → +0.75 | Inaccuracy | `Ngxe7` |
+| 7 | Me (White) | `Bb3` | +0.75 → -0.16 | Inaccuracy | `Bxd5` |
+| 8 | Opponent (Black) | `O-O` | -0.12 → +0.64 | Inaccuracy | `Be6` |
+| 11 | Opponent (Black) | `Bg5+` | +0.04 → +0.90 | Inaccuracy | `c6` |
+| 12 | Me (White) | `Kc3` | +0.90 → +0.00 | Inaccuracy | `Kd1` |
+| 12 | Opponent (Black) | `Bxc1` | +0.00 → +1.57 | Mistake | `Nb5+` |
+| 14 | Me (White) | `Kb4` | +1.68 → +0.43 | Mistake | `Kd2` |
+| 14 | Opponent (Black) | `Nd6` | +0.43 → +1.48 | Inaccuracy | `c6` |
+| 15 | Me (White) | `Nf3` | +1.48 → -0.38 | Blunder | `Kc3` |
+| 15 | Opponent (Black) | `c6` | -0.38 → +0.38 | Inaccuracy | `a5+` |
+| 16 | Me (White) | `Be4` | +0.38 → -1.78 | Blunder | `Bb3` |
+| 16 | Opponent (Black) | `Nxe4` | -1.78 → +1.18 | Blunder | `f5` |
+| 19 | Me (White) | `c4` | +0.85 → +0.26 | Inaccuracy | `Kc3` |
+| 20 | Me (White) | `Ne5` | +0.40 → -0.21 | Inaccuracy | `Kc3` |
+| 20 | Opponent (Black) | `a4+` | -0.21 → +0.96 | Mistake | `f5` |
+| 21 | Me (White) | `Kb4` | +0.96 → +0.11 | Inaccuracy | `Ka3` |
+| 22 | Opponent (Black) | `Rac8` | +0.40 → +5.33 | Blunder | `a3` |
+| 30 | Me (White) | `Kxa4` | +5.04 → +0.11 | Blunder | `Ka3` |
+| 33 | Me (White) | `e5` | -0.31 → -0.86 | Inaccuracy | `Rc2` |
+| 34 | Me (White) | `Re7` | -0.48 → -5.18 | Blunder | `Kc3` |
+| 34 | Opponent (Black) | `Re3+` | -5.18 → -0.85 | Blunder | `Rxg2` |
+| 35 | Opponent (Black) | `Re4+` | -1.07 → +0.00 | Inaccuracy | `Re2` |
+| 42 | Opponent (Black) | `h3` | +0.00 → +10.63 | Blunder | `Kg6` |
+| 43 | Me (White) | `gxh3` | +10.63 → +0.00 | Blunder | `Kxh3` |
 
 **Lesson — [DRAFT: needs review, no leak number assigned yet].**
 
@@ -43,8 +76,43 @@ need a longer write-up.
   1. Nf3 Nc6 2. g3 e5 3. d3 Bc5 4. Bg2 Nf6 5. O-O O-O 6. Bg5 d6 7. Nc3 Nd4 8. Ne4 Nxf3+ 9. Bxf3 h6 10. Bxf6 gxf6 11. Nxc5 dxc5 12. e3 Kh8 13. d4 cxd4 14. exd4 exd4 15. c3 dxc3 16. bxc3 Rg8 17. Qd4 Be6 18. Bxb7 Rb8 19. Ba6 Rb6 20. Bd3 Rd6 21. Qxa7 Rxd3 22. Rad1 Rxd1 23. a4 Rxf1+ 24. Kxf1 Bd5 25. c4 Qa8 26. Qxc7 Qc6 27. Qf4 Qxc4+ 28. Kg1 Qc1+ 29. Qxc1 Ra8 30. Qa1 Bc6 31. a5 Kg7 32. a6 Bf3 33. Qa3 Be2 34. a7 Kg6 35. Kg2 Kg5 36. h4+ Kg4 37. Qb4+ Kh5 38. Qc5+ Kg4 39. Qd4+ Kf5 40. Qd5+ Kg6 41. Qxa8 1-0
   ```
 - Result: Black resigned.
-- **Me: [NOT YET ANALYSED] accuracy · blunders · mistakes · inaccuracies · ACPL.**
-- **Opponent: [NOT YET ANALYSED]**
+- **Me: 2 blunders · 6 mistakes · 7 inaccuracies · 119 ACPL.** (accuracy % isn't exposed by Lichess's API — read it off the Link above)
+- **Opponent: 2 blunders · 6 mistakes · 6 inaccuracies · 92 ACPL.**
+- Phases (Lichess division): opening ends ~move 10, endgame starts ~move 22.
+
+**Computer analysis — flagged moves (from Lichess):**
+
+| Move | Side | Played | Eval before → after | Judgment | Best |
+|---|---|---|---|---|---|
+| 7 | Me (Black) | `Nd4` | +0.20 → +1.45 | Mistake | `h6` |
+| 9 | Me (Black) | `h6` | +0.94 → +1.89 | Inaccuracy | `Qe7` |
+| 10 | Opponent (White) | `Bxf6` | +1.89 → +0.67 | Mistake | `Nxf6+` |
+| 13 | Opponent (White) | `d4` | +0.92 → -0.10 | Inaccuracy | `Be4` |
+| 16 | Me (Black) | `Rg8` | -0.44 → +0.19 | Inaccuracy | `Qxd1` |
+| 17 | Opponent (White) | `Qd4` | +0.19 → -0.39 | Inaccuracy | `Bd5` |
+| 17 | Me (Black) | `Be6` | -0.39 → +0.28 | Inaccuracy | `Qxd4` |
+| 18 | Me (Black) | `Rb8` | +0.07 → +0.70 | Inaccuracy | `Qxd4` |
+| 19 | Opponent (White) | `Ba6` | +0.70 → -0.10 | Inaccuracy | `Qxa7` |
+| 21 | Opponent (White) | `Qxa7` | -0.01 → -5.61 | Blunder | `Qh4` |
+| 22 | Opponent (White) | `Rad1` | -5.87 → -8.60 | Inaccuracy | `Qa4` |
+| 23 | Opponent (White) | `a4` | -8.17 → #-5 | Mistake | `Qe3` |
+| 24 | Me (Black) | `Bd5` | #-4 → -7.49 | Mistake | `Qd1+` |
+| 25 | Opponent (White) | `c4` | -7.49 → #-5 | Mistake | `Qe3` |
+| 25 | Me (Black) | `Qa8` | #-5 → -7.82 | Mistake | `Bf3` |
+| 28 | Opponent (White) | `Kg1` | -7.33 → #-4 | Mistake | `Qxc4` |
+| 28 | Me (Black) | `Qc1+` | #-4 → +3.20 | Blunder | `Qxf4` |
+| 29 | Me (Black) | `Ra8` | +3.34 → +6.58 | Mistake | `Kg7` |
+| 30 | Opponent (White) | `Qa1` | +6.58 → +2.97 | Blunder | `Qxh6+` |
+| 30 | Me (Black) | `Bc6` | +2.97 → +8.14 | Blunder | `Kg7` |
+| 31 | Opponent (White) | `a5` | +8.14 → +3.88 | Mistake | `Qxf6+` |
+| 33 | Me (Black) | `Be2` | +3.86 → +5.28 | Inaccuracy | `Be4` |
+| 35 | Opponent (White) | `Kg2` | +6.36 → +4.82 | Inaccuracy | `Qe3` |
+| 35 | Me (Black) | `Kg5` | +4.82 → +16.67 | Mistake | `Kg7` |
+| 36 | Opponent (White) | `h4+` | +16.67 → +7.75 | Inaccuracy | `Qe3+` |
+| 36 | Me (Black) | `Kg4` | +7.75 → +21.09 | Inaccuracy | `Kg6` |
+| 37 | Me (Black) | `Kh5` | +16.81 → #8 | Inaccuracy | `Kf5` |
+| 38 | Opponent (White) | `Qc5+` | #8 → +7.28 | Mistake | `Qe4` |
+| 38 | Me (Black) | `Kg4` | +7.28 → #4 | Mistake | `Kg6` |
 
 **Lesson — [DRAFT: needs review, no leak number assigned yet].**
 
@@ -64,8 +132,30 @@ need a longer write-up.
   1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. Bc4 { [%eval 0.07] } 3... Nf6 { [%eval 0.22] } 4. O-O { [%eval -0.2] } 4... Na5 { [%eval 0.51] } 5. Qe2 { [%eval 0.1] } 5... Bc5 { [%eval 1.13] } 6. Nc3 { [%eval 0.39] } 6... O-O { [%eval 0.69] } 7. d3 { [%eval -0.21] } 7... Nc6 { [%eval 0.52] } 8. Bg5 { [%eval 0.47] } 8... d5 { [%eval 2.42] } 9. Nxd5 { [%eval 2.42] } 9... Nxd5 { [%eval 5.44] } 10. Bxd8 { [%eval 5.37] } 10... Nf4 { [%eval 5.2] } 11. Qd2 { [%eval 5.32] } 11... Rxd8 { [%eval 5.1] } 12. b4 { [%eval 3.35] } 12... Bxb4 { [%eval 3.33] } 13. Qe3 { [%eval 3.46] } 13... Bc3 { [%eval 3.58] } 14. Qc5 { [%eval 2.61] } 14... Ne2+ { [%eval 4.08] } 15. Kh1 { [%eval 4.1] } 15... b6 { [%eval 6.54] } 16. Qxc6 { [%eval 6.79] } 16... Rd6 { [%eval #1] } 17. Qxa8 { [%eval 10.75] } 17... Rd8 { [%eval 10.5] } 18. Qxa7 { [%eval 10.37] } 18... Ba5 { [%eval 16.95] } 19. Qxc7 { [%eval 15.0] } 19... h6 { [%eval #5] } 20. Qxd8+ { [%eval #4] } 20... Kh7 { [%eval #4] } 21. Qxc8 { [%eval #4] } 21... b5 { [%eval #4] } 22. Qf5+ { [%eval #5] } 22... Kg8 { [%eval #3] } 23. Qxe5 { [%eval 23.86] } 23... Bc3 { [%eval #5] } 24. Qxb5 { [%eval #6] } 24... Bxa1 { [%eval #5] } 25. Rxa1 { [%eval #5] } 25... g6 { [%eval #3] } 26. Qe8+ { [%eval #2] } 26... Kg7 { [%eval #2] } 27. Qxf7+ { [%eval #1] } 27... Kh8 { [%eval #1] } 28. Qg8# 1-0
   ```
 - Result: White won by checkmate.
-- **Me: [NOT YET ANALYSED] accuracy · blunders · mistakes · inaccuracies · ACPL.**
-- **Opponent: [NOT YET ANALYSED]**
+- **Me: 0 blunders · 0 mistakes · 6 inaccuracies · 20 ACPL.** (accuracy % isn't exposed by Lichess's API — read it off the Link above)
+- **Opponent: 3 blunders · 0 mistakes · 7 inaccuracies · 56 ACPL.**
+- Phases (Lichess division): opening ends ~move 8, endgame starts ~move 24.
+
+**Computer analysis — flagged moves (from Lichess):**
+
+| Move | Side | Played | Eval before → after | Judgment | Best |
+|---|---|---|---|---|---|
+| 4 | Opponent (Black) | `Na5` | -0.20 → +0.51 | Inaccuracy | `Nxe4` |
+| 5 | Opponent (Black) | `Bc5` | +0.10 → +1.13 | Inaccuracy | `Nxc4` |
+| 6 | Me (White) | `Nc3` | +1.13 → +0.39 | Inaccuracy | `Nxe5` |
+| 7 | Me (White) | `d3` | +0.69 → -0.21 | Inaccuracy | `Nxe5` |
+| 7 | Opponent (Black) | `Nc6` | -0.21 → +0.52 | Inaccuracy | `Re8` |
+| 8 | Opponent (Black) | `d5` | +0.47 → +2.42 | Blunder | `h6` |
+| 9 | Opponent (Black) | `Nxd5` | +2.42 → +5.44 | Blunder | `Be7` |
+| 12 | Me (White) | `b4` | +5.10 → +3.35 | Inaccuracy | `Kh1` |
+| 14 | Me (White) | `Qc5` | +3.58 → +2.61 | Inaccuracy | `Rab1` |
+| 14 | Opponent (Black) | `Ne2+` | +2.61 → +4.08 | Inaccuracy | `Rd6` |
+| 15 | Opponent (Black) | `b6` | +4.10 → +6.54 | Inaccuracy | `Bd7` |
+| 16 | Opponent (Black) | `Rd6` | +6.79 → #1 | Blunder | `Bg4` |
+| 17 | Me (White) | `Qxa8` | #1 → +10.75 | Inaccuracy | `Qe8#` |
+| 19 | Opponent (Black) | `h6` | +15.00 → #5 | Inaccuracy | `Rf8` |
+| 23 | Me (White) | `Qxe5` | #3 → +23.86 | Inaccuracy | `Qxf7+` |
+| 23 | Opponent (Black) | `Bc3` | +23.86 → #5 | Inaccuracy | `bxc4` |
 
 **Lesson — [DRAFT: needs review, no leak number assigned yet].**
 
@@ -85,8 +175,29 @@ need a longer write-up.
   1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. f4 { [%eval -0.34] } 2... exf4 { [%eval -0.39] } 3. Nf3 { [%eval -0.39] } 3... Nf6 { [%eval -0.31] } 4. Nc3 { [%eval -0.33] } 4... Bc5 { [%eval 0.96] } 5. d4 { [%eval 0.61] } 5... Bb6 { [%eval 2.46] } 6. Bxf4 { [%eval 1.07] } 6... d6 { [%eval 1.23] } 7. Bc4 { [%eval 0.8] } 7... O-O { [%eval 0.87] } 8. O-O { [%eval 0.75] } 8... Nc6 { [%eval 0.75] } 9. Be3 { [%eval 0.32] } 9... Qe7 { [%eval 2.03] } 10. Nd2 { [%eval -1.59] } 10... Nxd4 { [%eval -1.56] } 11. Nd5 { [%eval -1.56] } 11... Qe5 { [%eval 3.1] } 12. Nxb6 { [%eval -1.36] } 12... cxb6 { [%eval -0.18] } 13. Nb3 { [%eval -1.3] } 13... Nxb3 { [%eval -1.35] } 14. Bxb3 { [%eval -2.13] } 14... Qxb2 { [%eval 5.64] } 15. Rb1 { [%eval 0.05] } 15... Qe5 { [%eval 0.04] } 16. Bd4 { [%eval 0.0] } 16... Qxe4 { [%eval -0.14] } 17. Bf2 { [%eval -2.99] } 17... Bg4 { [%eval -2.62] } 18. Qxd6 { [%eval -2.63] } 18... Rad8 { [%eval -2.25] } 19. Qb4 { [%eval -6.1] } 19... Qxb4 { [%eval -6.14] } 0-1
   ```
 - Result: White resigned.
-- **Me: [NOT YET ANALYSED] accuracy · blunders · mistakes · inaccuracies · ACPL.**
-- **Opponent: [NOT YET ANALYSED]**
+- **Me: 3 blunders · 3 mistakes · 0 inaccuracies · 103 ACPL.** (accuracy % isn't exposed by Lichess's API — read it off the Link above)
+- **Opponent: 5 blunders · 2 mistakes · 2 inaccuracies · 135 ACPL.**
+- Phases (Lichess division): opening ends ~move 13.
+
+**Computer analysis — flagged moves (from Lichess):**
+
+| Move | Side | Played | Eval before → after | Judgment | Best |
+|---|---|---|---|---|---|
+| 2 | Opponent (White) | `f4` | +0.22 → -0.34 | Inaccuracy | `Nf3` |
+| 4 | Me (Black) | `Bc5` | -0.33 → +0.96 | Mistake | `d5` |
+| 5 | Me (Black) | `Bb6` | +0.61 → +2.46 | Blunder | `Bb4` |
+| 6 | Opponent (White) | `Bxf4` | +2.46 → +1.07 | Mistake | `e5` |
+| 9 | Me (Black) | `Qe7` | +0.32 → +2.03 | Mistake | `Ne5` |
+| 10 | Opponent (White) | `Nd2` | +2.03 → -1.59 | Blunder | `Bg5` |
+| 11 | Me (Black) | `Qe5` | -1.56 → +3.10 | Blunder | `Nxd5` |
+| 12 | Opponent (White) | `Nxb6` | +3.10 → -1.36 | Blunder | `Rxf6` |
+| 12 | Me (Black) | `cxb6` | -1.36 → -0.18 | Mistake | `axb6` |
+| 13 | Opponent (White) | `Nb3` | -0.18 → -1.30 | Mistake | `Bxf7+` |
+| 14 | Opponent (White) | `Bxb3` | -1.35 → -2.13 | Inaccuracy | `axb3` |
+| 14 | Me (Black) | `Qxb2` | -2.13 → +5.64 | Blunder | `Ng4` |
+| 15 | Opponent (White) | `Rb1` | +5.64 → +0.05 | Blunder | `Bd4` |
+| 17 | Opponent (White) | `Bf2` | -0.14 → -2.99 | Blunder | `Bxf6` |
+| 19 | Opponent (White) | `Qb4` | -2.25 → -6.10 | Blunder | `Qg3` |
 
 **Lesson — [DRAFT: needs review, no leak number assigned yet].**
 
@@ -106,8 +217,30 @@ need a longer write-up.
   1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. Bc4 { [%eval 0.07] } 3... f6 { [%eval 1.32] } 4. O-O { [%eval 1.27] } 4... Bc5 { [%eval 1.36] } 5. d3 { [%eval 0.78] } 5... Nd4 { [%eval 2.81] } 6. Nc3 { [%eval 1.5] } 6... Ne7 { [%eval 1.72] } 7. Be3 { [%eval 0.95] } 7... d6 { [%eval 0.98] } 8. Nd5 { [%eval 0.11] } 8... c6 { [%eval 0.52] } 9. Nxe7 { [%eval 0.36] } 9... Qxe7 { [%eval 0.56] } 10. c3 { [%eval 0.1] } 10... Nxf3+ { [%eval 0.09] } 11. Qxf3 { [%eval 0.17] } 11... Be6 { [%eval 0.24] } 12. Bxe6 { [%eval 0.26] } 12... Qxe6 { [%eval 0.34] } 13. b4 { [%eval 0.09] } 13... Bb6 { [%eval 0.13] } 14. Bxb6 { [%eval 0.13] } 14... axb6 { [%eval 0.25] } 15. Qe3 { [%eval -0.08] } 15... b5 { [%eval -0.03] } 16. Qb6 { [%eval -0.05] } 16... Qd7 { [%eval 0.04] } 17. d4 { [%eval -5.19] } 17... O-O { [%eval -0.19] } 18. dxe5 { [%eval -0.2] } 18... dxe5 { [%eval -0.2] } 19. Rfd1 { [%eval -0.65] } 19... Qc8 { [%eval 0.18] } 20. Qc5 { [%eval -0.05] } 20... Qg4 { [%eval 0.0] } 21. c4 { [%eval 0.0] } 21... Rxa2 { [%eval 0.0] } 22. cxb5 { [%eval 0.0] } 22... Rxa1 { [%eval -0.03] } 23. Rxa1 { [%eval -0.02] } 23... cxb5 { [%eval -0.01] } 24. Qxb5 { [%eval -0.59] } 24... Qxe4 { [%eval -0.43] } 25. g3 { [%eval -0.49] } 25... Rd8 { [%eval -0.4] } 26. Qb6 { [%eval -0.4] } 26... Rd7 { [%eval #3] } 27. Qe6+ { [%eval #2] } 27... Rf7 { [%eval #1] } 28. b5 { [%eval 0.0] } 28... b6 { [%eval 7.75] } 29. Ra8+ { [%eval -5.8] } 29... Qxa8 { [%eval -6.07] } 30. Qxb6 { [%eval -6.73] } 30... Qa1+ { [%eval -6.65] } 31. Kg2 { [%eval -6.42] } 31... g6 { [%eval -5.94] } 32. Qd8+ { [%eval -6.5] } 32... Rf8 { [%eval -6.14] } 33. Qe7 { [%eval -6.1] } 33... Qa8+ { [%eval -6.04] } 34. Kg1 { [%eval -6.22] } 34... Re8 { [%eval -5.86] } 35. Qc7 { [%eval -8.45] } 35... Rc8 { [%eval -7.87] } 36. Qe7 { [%eval #-1] } 36... Rc1# 0-1
   ```
 - Result: Black won by checkmate.
-- **Me: [NOT YET ANALYSED] accuracy · blunders · mistakes · inaccuracies · ACPL.**
-- **Opponent: [NOT YET ANALYSED]**
+- **Me: 3 blunders · 2 mistakes · 5 inaccuracies · 115 ACPL.** (accuracy % isn't exposed by Lichess's API — read it off the Link above)
+- **Opponent: 4 blunders · 1 mistakes · 1 inaccuracies · 88 ACPL.**
+- Phases (Lichess division): opening ends ~move 11, endgame starts ~move 14.
+
+**Computer analysis — flagged moves (from Lichess):**
+
+| Move | Side | Played | Eval before → after | Judgment | Best |
+|---|---|---|---|---|---|
+| 3 | Opponent (Black) | `f6` | +0.07 → +1.32 | Mistake | `Nf6` |
+| 5 | Me (White) | `d3` | +1.36 → +0.78 | Inaccuracy | `c3` |
+| 5 | Opponent (Black) | `Nd4` | +0.78 → +2.81 | Blunder | `d6` |
+| 6 | Me (White) | `Nc3` | +2.81 → +1.50 | Mistake | `Nxe5` |
+| 7 | Me (White) | `Be3` | +1.72 → +0.95 | Inaccuracy | `Nxd4` |
+| 8 | Me (White) | `Nd5` | +0.98 → +0.11 | Inaccuracy | `Bxd4` |
+| 17 | Me (White) | `d4` | +0.04 → -5.19 | Blunder | `c4` |
+| 17 | Opponent (Black) | `O-O` | -5.19 → -0.19 | Blunder | `Ra6` |
+| 19 | Opponent (Black) | `Qc8` | -0.65 → +0.18 | Inaccuracy | `Rxa2` |
+| 24 | Me (White) | `Qxb5` | -0.01 → -0.59 | Inaccuracy | `Qd5+` |
+| 26 | Opponent (Black) | `Rd7` | -0.40 → #3 | Blunder | `Re8` |
+| 28 | Me (White) | `b5` | #1 → +0.00 | Blunder | `Ra8#` |
+| 28 | Opponent (Black) | `b6` | +0.00 → +7.75 | Blunder | `g6` |
+| 29 | Me (White) | `Ra8+` | +7.75 → -5.80 | Blunder | `Ra7` |
+| 35 | Me (White) | `Qc7` | -5.86 → -8.45 | Inaccuracy | `Qd6` |
+| 36 | Me (White) | `Qe7` | -7.87 → #-1 | Mistake | `Qxc8+` |
 
 **Lesson — [DRAFT: needs review, no leak number assigned yet].**
 
@@ -127,8 +260,35 @@ need a longer write-up.
   1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... d6 { [%eval 0.55] } 3. Bc4 { [%eval 0.23] } 3... Nf6 { [%eval 0.25] } 4. Nc3 { [%eval 0.24] } 4... Be7 { [%eval 0.37] } 5. O-O { [%eval 0.28] } 5... O-O { [%eval 0.16] } 6. d3 { [%eval 0.2] } 6... Bd7 { [%eval 0.38] } 7. Bg5 { [%eval 0.2] } 7... Nc6 { [%eval 0.21] } 8. Nd5 { [%eval -2.08] } 8... Nxd5 { [%eval -2.04] } 9. Bxd5 { [%eval -5.62] } 9... Bxg5 { [%eval -5.59] } 10. Nxg5 { [%eval -5.54] } 10... Be8 { [%eval 0.09] } 11. Nf3 { [%eval 0.02] } 11... g6 { [%eval 0.31] } 12. Qd2 { [%eval 0.36] } 12... b6 { [%eval 0.95] } 13. Qg5 { [%eval -0.2] } 13... Qxg5 { [%eval -0.14] } 14. Nxg5 { [%eval -0.15] } 14... a5 { [%eval 0.1] } 15. Nxf7 { [%eval -1.97] } 15... Bxf7 { [%eval 1.29] } 16. Bxc6 { [%eval 1.39] } 16... Rac8 { [%eval 1.6] } 17. Bd7 { [%eval 1.1] } 17... Rcd8 { [%eval 1.01] } 18. Bc6 { [%eval 1.07] } 18... Be8 { [%eval 1.35] } 19. Bxe8 { [%eval 1.36] } 19... Rdxe8 { [%eval 1.3] } 20. a4 { [%eval 1.27] } 20... Re6 { [%eval 1.38] } 21. Rab1 { [%eval 1.1] } 21... Ref6 { [%eval 1.09] } 22. b4 { [%eval 0.47] } 22... axb4 { [%eval 0.56] } 23. Rxb4 { [%eval 0.54] } 23... Ra8 { [%eval 0.55] } 24. c4 { [%eval 0.33] } 24... Ra5 { [%eval 0.34] } 25. Rb5 { [%eval 0.0] } 25... Rxa4 { [%eval 0.07] } 26. Rb3 { [%eval 0.0] } 26... Kg7 { [%eval 0.0] } 27. g3 { [%eval -0.14] } 27... Rf3 { [%eval -0.03] } 28. Kg2 { [%eval 0.06] } 28... Rf7 { [%eval 0.06] } 29. f4 { [%eval -0.17] } 29... exf4 { [%eval 0.0] } 30. gxf4 { [%eval 0.0] } 30... Ra2+ { [%eval -0.22] } 31. Rf2 { [%eval -3.15] } 31... Rxf2+ { [%eval -2.66] } 32. Kxf2 { [%eval -2.72] } 32... Rxf4+ { [%eval -2.11] } 33. Ke3 { [%eval -2.93] } 33... g5 { [%eval -1.83] } 34. h3 { [%eval -3.54] } 34... h6 { [%eval -2.47] } 35. Ra3 { [%eval -2.05] } 35... Kg6 { [%eval -0.58] } 36. Ra7 { [%eval -0.59] } 36... Rf7 { [%eval -0.67] } 37. Ra8 { [%eval -0.75] } 37... Kh5 { [%eval -1.07] } 38. Ra2 { [%eval -3.59] } 38... Kh4 { [%eval -3.07] } 39. Rh2 { [%eval -5.14] } 39... Kg3 { [%eval -5.1] } 40. Rh1 { [%eval -5.12] } 40... Rf3+ { [%eval -4.73] } 41. Kd4 { [%eval -4.51] } 41... Kg2 { [%eval -4.21] } 42. Ra1 { [%eval -5.29] } 42... Kxh3 { [%eval -4.23] } 43. Ra3 { [%eval -6.84] } 43... g4 { [%eval -6.68] } 44. Kd5 { [%eval -8.23] } 44... g3 { [%eval -8.5] } 45. Ra1 { [%eval -8.01] } 45... h5 { [%eval -7.28] } 46. e5 { [%eval -8.0] } 46... dxe5 { [%eval -7.98] } 47. Kxe5 { [%eval -10.12] } 47... g2 { [%eval -9.54] } 48. Ke4 { [%eval #-13] } 48... Rf1 { [%eval -13.43] } 49. Ke3 { [%eval #-7] } 49... g1=Q+ { [%eval #-7] } 50. Ke2 { [%eval #-1] } 50... Rxa1 { [%eval #-3] } 51. Kf3 { [%eval #-2] } 51... Qf1+ { [%eval #-4] } 52. Ke3 { [%eval #-4] } 52... Rd1 { [%eval #-4] } 53. Kd4 { [%eval #-4] } 53... Qxd3+ { [%eval #-3] } 54. Ke5 { [%eval #-3] } 54... Qxc4 { [%eval #-4] } 55. Kf5 { [%eval #-3] } 55... Qc5+ { [%eval #-4] } 56. Kg6 { [%eval #-3] } 56... Rd6+ { [%eval #-3] } 57. Kf7 { [%eval #-3] } 57... Qd5+ { [%eval #-3] } 58. Ke7 { [%eval #-3] } 58... Rd7+ { [%eval #-2] } 59. Kf6 { [%eval #-2] } 59... b5 { [%eval #-2] } 60. Kg6 { [%eval #-2] } 60... b4 { [%eval #-2] } 61. Kh6 { [%eval #-2] } 61... b3 { [%eval #-2] } 62. Kg6 { [%eval #-2] } 62... Rd6+ { [%eval #-3] } 63. Kg7 { [%eval #-3] } 63... b2 { [%eval #-2] } 64. Kf8 { [%eval #-2] } 64... Rd7 { [%eval #-1] } 65. Ke8 { [%eval #-1] } 65... b1=Q { [%eval #-1] } 66. Kf8 { [%eval #-1] } 66... Qg1 { [%eval #-1] } 67. Ke8 { [%eval #-1] } 67... Qf1 { [%eval 0.0] } 1/2-1/2
   ```
 - Result: Draw by stalemate.
-- **Me: [NOT YET ANALYSED] accuracy · blunders · mistakes · inaccuracies · ACPL.**
-- **Opponent: [NOT YET ANALYSED]**
+- **Me: 5 blunders · 4 mistakes · 5 inaccuracies · 46 ACPL.** (accuracy % isn't exposed by Lichess's API — read it off the Link above)
+- **Opponent: 3 blunders · 1 mistakes · 3 inaccuracies · 45 ACPL.**
+- Phases (Lichess division): opening ends ~move 10, endgame starts ~move 16.
+
+**Computer analysis — flagged moves (from Lichess):**
+
+| Move | Side | Played | Eval before → after | Judgment | Best |
+|---|---|---|---|---|---|
+| 8 | Me (White) | `Nd5` | +0.21 → -2.08 | Blunder | `a4` |
+| 9 | Me (White) | `Bxd5` | -2.04 → -5.62 | Blunder | `exd5` |
+| 10 | Opponent (Black) | `Be8` | -5.54 → +0.09 | Blunder | `Qxg5` |
+| 12 | Opponent (Black) | `b6` | +0.36 → +0.95 | Inaccuracy | `a5` |
+| 13 | Me (White) | `Qg5` | +0.95 → -0.20 | Mistake | `Ng5` |
+| 15 | Me (White) | `Nxf7` | +0.10 → -1.97 | Blunder | `f4` |
+| 15 | Opponent (Black) | `Bxf7` | -1.97 → +1.29 | Blunder | `Rxf7` |
+| 22 | Me (White) | `b4` | +1.09 → +0.47 | Inaccuracy | `h4` |
+| 31 | Me (White) | `Rf2` | -0.22 → -3.15 | Blunder | `Kg3` |
+| 33 | Me (White) | `Ke3` | -2.11 → -2.93 | Inaccuracy | `Kg3` |
+| 33 | Opponent (Black) | `g5` | -2.93 → -1.83 | Inaccuracy | `Rh4` |
+| 34 | Me (White) | `h3` | -1.83 → -3.54 | Mistake | `Ra3` |
+| 34 | Opponent (Black) | `h6` | -3.54 → -2.47 | Inaccuracy | `h5` |
+| 35 | Opponent (Black) | `Kg6` | -2.05 → -0.58 | Mistake | `Kf6` |
+| 38 | Me (White) | `Ra2` | -1.07 → -3.59 | Blunder | `d4` |
+| 39 | Me (White) | `Rh2` | -3.07 → -5.14 | Mistake | `Ra1` |
+| 42 | Me (White) | `Ra1` | -4.21 → -5.29 | Inaccuracy | `Rd1` |
+| 43 | Me (White) | `Ra3` | -4.23 → -6.84 | Inaccuracy | `Rh1+` |
+| 48 | Me (White) | `Ke4` | -9.54 → #-13 | Mistake | `Rg1` |
+| 49 | Me (White) | `Ke3` | -13.43 → #-7 | Inaccuracy | `Rxf1` |
+| 67 | Opponent (Black) | `Qf1` | #-1 → +0.00 | Blunder | `Qgg8#` |
 
 **Lesson — [DRAFT: needs review, no leak number assigned yet].**
 
@@ -148,8 +308,29 @@ need a longer write-up.
   1. d4 { [%eval 0.15] } 1... d5 { [%eval 0.27] } 2. Nf3 { [%eval 0.08] } 2... Bf5 { [%eval 0.34] } 3. Bf4 { [%eval 0.07] } 3... e6 { [%eval 0.03] } 4. Nc3 { [%eval -0.08] } 4... Nc6 { [%eval 0.01] } 5. e3 { [%eval 0.0] } 5... Bd6 { [%eval 0.0] } 6. Qd2 { [%eval -0.09] } 6... Bxf4 { [%eval -0.1] } 7. exf4 { [%eval -0.04] } 7... Nf6 { [%eval 0.55] } 8. O-O-O { [%eval -0.1] } 8... Ne4 { [%eval 0.19] } 9. Nxe4 { [%eval 0.16] } 9... Bxe4 { [%eval 0.13] } 10. Ne5 { [%eval 0.24] } 10... O-O { [%eval 1.18] } 11. Nxc6 { [%eval 0.91] } 11... bxc6 { [%eval 1.05] } 12. f3 { [%eval 0.79] } 12... Bg6 { [%eval 0.79] } 13. Bd3 { [%eval 0.03] } 13... Bxd3 { [%eval 0.04] } 14. Qxd3 { [%eval 0.12] } 14... Qd6 { [%eval 0.07] } 15. Rd2 { [%eval -0.58] } 15... Qxf4 { [%eval -0.63] } 16. Rd1 { [%eval -1.3] } 16... Qxh2 { [%eval -1.35] } 17. g4 { [%eval -1.8] } 17... Qg3 { [%eval -1.15] } 18. Qc3 { [%eval -1.47] } 18... Rfe8 { [%eval -1.4] } 19. Qxc6 { [%eval -2.04] } 19... Qxf3 { [%eval -2.1] } 20. g5 { [%eval -3.91] } 20... Qe3 { [%eval -3.75] } 21. Qxc7 { [%eval -3.58] } 21... Qxg5 { [%eval -3.64] } 22. Rf1 { [%eval -4.25] } 22... Qd8 { [%eval -0.18] } 23. Qxf7+ { [%eval -0.22] } 23... Kh8 { [%eval -0.27] } 24. Rg2 { [%eval -0.26] } 24... Rg8 { [%eval 1.62] } 25. Qxe6 { [%eval 0.54] } 25... Qa5 { [%eval 11.2] } 26. Rh1 { [%eval 11.36] } 26... Rae8 { [%eval #2] } 27. Qh3 { [%eval #-2] } 27... Re1+ { [%eval #-1] } 28. Rxe1 { [%eval #-1] } 28... Qxe1# 0-1
   ```
 - Result: Black won by checkmate.
-- **Me: [NOT YET ANALYSED] accuracy · blunders · mistakes · inaccuracies · ACPL.**
-- **Opponent: [NOT YET ANALYSED]**
+- **Me: 3 blunders · 0 mistakes · 4 inaccuracies · 69 ACPL.** (accuracy % isn't exposed by Lichess's API — read it off the Link above)
+- **Opponent: 1 blunders · 1 mistakes · 6 inaccuracies · 103 ACPL.**
+- Phases (Lichess division): opening ends ~move 9, endgame starts ~move 14.
+
+**Computer analysis — flagged moves (from Lichess):**
+
+| Move | Side | Played | Eval before → after | Judgment | Best |
+|---|---|---|---|---|---|
+| 7 | Me (Black) | `Nf6` | -0.04 → +0.55 | Inaccuracy | `Nge7` |
+| 8 | Opponent (White) | `O-O-O` | +0.55 → -0.10 | Inaccuracy | `Bb5` |
+| 10 | Me (Black) | `O-O` | +0.24 → +1.18 | Inaccuracy | `Nxe5` |
+| 13 | Opponent (White) | `Bd3` | +0.79 → +0.03 | Inaccuracy | `Qa5` |
+| 15 | Opponent (White) | `Rd2` | +0.07 → -0.58 | Inaccuracy | `g3` |
+| 16 | Opponent (White) | `Rd1` | -0.63 → -1.30 | Inaccuracy | `Qc3` |
+| 17 | Me (Black) | `Qg3` | -1.80 → -1.15 | Inaccuracy | `Qf4` |
+| 19 | Opponent (White) | `Qxc6` | -1.40 → -2.04 | Inaccuracy | `Rf1` |
+| 20 | Opponent (White) | `g5` | -2.10 → -3.91 | Mistake | `Qxc7` |
+| 22 | Me (Black) | `Qd8` | -4.25 → -0.18 | Blunder | `Re7` |
+| 24 | Me (Black) | `Rg8` | -0.26 → +1.62 | Blunder | `Re7` |
+| 25 | Opponent (White) | `Qxe6` | +1.62 → +0.54 | Inaccuracy | `Rh1` |
+| 25 | Me (Black) | `Qa5` | +0.54 → +11.20 | Blunder | `Qh4` |
+| 26 | Me (Black) | `Rae8` | +11.36 → #2 | Inaccuracy | `Qe1+` |
+| 27 | Opponent (White) | `Qh3` | #2 → #-2 | Blunder | `Rxh7+` |
 
 **Lesson — [DRAFT: needs review, no leak number assigned yet].**
 
@@ -169,8 +350,22 @@ need a longer write-up.
   1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. f3 { [%eval -0.65] } 2... Nf6 { [%eval -0.46] } 3. Bc4 { [%eval -1.14] } 3... Bc5 { [%eval -0.71] } 4. d3 { [%eval -0.96] } 4... Nc6 { [%eval -0.45] } 5. Bg5 { [%eval -0.59] } 5... O-O { [%eval -0.25] } 6. Ne2 { [%eval -0.44] } 6... d6 { [%eval -0.26] } 7. Nd2 { [%eval -0.47] } 7... Re8 { [%eval -0.34] } 8. c3 { [%eval -0.37] } 8... Be6 { [%eval 0.41] } 9. Qa4 { [%eval -0.38] } 9... Bxc4 { [%eval -0.26] } 10. Nxc4 { [%eval -0.32] } 10... a6 { [%eval -0.27] } 11. Ng3 { [%eval -2.99] } 11... b5 { [%eval -3.0] } 12. Qc2 { [%eval -3.05] } 12... bxc4 { [%eval -3.27] } 13. dxc4 { [%eval -3.32] } 13... Na5 { [%eval -1.0] } 14. Nf5 { [%eval -3.22] } 14... Nxc4 { [%eval -3.42] } 15. Qd3 { [%eval -4.25] } 15... Nxb2 { [%eval -4.21] } 16. Rb1 { [%eval -8.21] } 16... Nxd3+ { [%eval -8.04] } 0-1
   ```
 - Result: White resigned.
-- **Me: [NOT YET ANALYSED] accuracy · blunders · mistakes · inaccuracies · ACPL.**
-- **Opponent: [NOT YET ANALYSED]**
+- **Me: 1 blunders · 0 mistakes · 1 inaccuracies · 33 ACPL.** (accuracy % isn't exposed by Lichess's API — read it off the Link above)
+- **Opponent: 2 blunders · 1 mistakes · 3 inaccuracies · 82 ACPL.**
+- Phases (Lichess division): opening ends ~move 9.
+
+**Computer analysis — flagged moves (from Lichess):**
+
+| Move | Side | Played | Eval before → after | Judgment | Best |
+|---|---|---|---|---|---|
+| 2 | Opponent (White) | `f3` | +0.22 → -0.65 | Inaccuracy | `Nf3` |
+| 3 | Opponent (White) | `Bc4` | -0.46 → -1.14 | Inaccuracy | `d4` |
+| 8 | Me (Black) | `Be6` | -0.37 → +0.41 | Inaccuracy | `a6` |
+| 9 | Opponent (White) | `Qa4` | +0.41 → -0.38 | Inaccuracy | `Bxe6` |
+| 11 | Opponent (White) | `Ng3` | -0.27 → -2.99 | Blunder | `Ne3` |
+| 13 | Me (Black) | `Na5` | -3.32 → -1.00 | Blunder | `h6` |
+| 14 | Opponent (White) | `Nf5` | -1.00 → -3.22 | Blunder | `b4` |
+| 16 | Opponent (White) | `Rb1` | -4.21 → -8.21 | Mistake | `Qc2` |
 
 **Lesson — [DRAFT: needs review, no leak number assigned yet].**
 
@@ -190,8 +385,27 @@ need a longer write-up.
   1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Bc5 { [%eval 1.81] } 3. Bc4 { [%eval 0.26] } 3... d5 { [%eval 1.2] } 4. Bxd5 { [%eval 0.98] } 4... Nf6 { [%eval 0.91] } 5. Bb3 { [%eval 0.98] } 5... Nxe4 { [%eval 0.97] } 6. O-O { [%eval 0.75] } 6... Be6 { [%eval 2.15] } 7. Nxe5 { [%eval -2.94] } 7... Qf6 { [%eval 3.89] } 8. Ng4 { [%eval 0.0] } 8... Qg6 { [%eval 2.41] } 9. Bxe6 { [%eval 2.26] } 9... fxe6 { [%eval 2.34] } 10. d3 { [%eval 2.3] } 10... Nf6 { [%eval 2.23] } 11. Nxf6+ { [%eval 1.43] } 11... Qxf6 { [%eval 6.21] } 12. Be3 { [%eval 2.09] } 12... Bd6 { [%eval 2.08] } 13. Nc3 { [%eval 1.63] } 13... Qh4 { [%eval 2.47] } 14. Qd2 { [%eval #-1] } 14... Qxh2# 0-1
   ```
 - Result: Black won by checkmate.
-- **Me: [NOT YET ANALYSED] accuracy · blunders · mistakes · inaccuracies · ACPL.**
-- **Opponent: [NOT YET ANALYSED]**
+- **Me: 4 blunders · 1 mistakes · 1 inaccuracies · 207 ACPL.** (accuracy % isn't exposed by Lichess's API — read it off the Link above)
+- **Opponent: 3 blunders · 2 mistakes · 2 inaccuracies · 146 ACPL.**
+- Phases (Lichess division): opening ends ~move 8.
+
+**Computer analysis — flagged moves (from Lichess):**
+
+| Move | Side | Played | Eval before → after | Judgment | Best |
+|---|---|---|---|---|---|
+| 2 | Opponent (Black) | `Bc5` | +0.18 → +1.81 | Mistake | `Nc6` |
+| 3 | Me (White) | `Bc4` | +1.81 → +0.26 | Mistake | `Nxe5` |
+| 3 | Opponent (Black) | `d5` | +0.26 → +1.20 | Inaccuracy | `Nc6` |
+| 6 | Opponent (Black) | `Be6` | +0.75 → +2.15 | Mistake | `Nc6` |
+| 7 | Me (White) | `Nxe5` | +2.15 → -2.94 | Blunder | `Qe2` |
+| 7 | Opponent (Black) | `Qf6` | -2.94 → +3.89 | Blunder | `Nxf2` |
+| 8 | Me (White) | `Ng4` | +3.89 → +0.00 | Blunder | `d4` |
+| 8 | Opponent (Black) | `Qg6` | +0.00 → +2.41 | Blunder | `Bxg4` |
+| 11 | Me (White) | `Nxf6+` | +2.23 → +1.43 | Inaccuracy | `Ne5` |
+| 11 | Opponent (Black) | `Qxf6` | +1.43 → +6.21 | Blunder | `gxf6` |
+| 12 | Me (White) | `Be3` | +6.21 → +2.09 | Blunder | `Qh5+` |
+| 13 | Opponent (Black) | `Qh4` | +1.63 → +2.47 | Inaccuracy | `O-O` |
+| 14 | Me (White) | `Qd2` | +2.47 → #-1 | Blunder | `h3` |
 
 **Lesson — [DRAFT: needs review, no leak number assigned yet].**
 
@@ -211,8 +425,40 @@ need a longer write-up.
   1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. Nc3 { [%eval 0.06] } 3... Bc5 { [%eval 0.46] } 4. d3 { [%eval 0.0] } 4... Nf6 { [%eval 0.11] } 5. Be3 { [%eval -0.1] } 5... Qe7 { [%eval 0.06] } 6. Bxc5 { [%eval -0.17] } 6... Qxc5 { [%eval -0.22] } 7. Na4 { [%eval -0.34] } 7... Qb4+ { [%eval -0.42] } 8. Nc3 { [%eval -2.28] } 8... O-O { [%eval -0.39] } 9. Rb1 { [%eval -0.42] } 9... d6 { [%eval -0.42] } 10. a3 { [%eval -0.41] } 10... Qc5 { [%eval -0.45] } 11. Na4 { [%eval -0.54] } 11... Qa5+ { [%eval -0.57] } 12. Nc3 { [%eval -0.56] } 12... Bg4 { [%eval -0.38] } 13. h3 { [%eval -1.3] } 13... Bh5 { [%eval 0.34] } 14. g4 { [%eval 0.25] } 14... Bg6 { [%eval 0.31] } 15. h4 { [%eval 0.0] } 15... h5 { [%eval 0.09] } 16. g5 { [%eval 0.03] } 16... Ng4 { [%eval 0.06] } 17. Nh2 { [%eval -1.05] } 17... Nxh2 { [%eval -0.92] } 18. Rxh2 { [%eval -1.09] } 18... f5 { [%eval 0.0] } 19. exf5 { [%eval -1.23] } 19... Bxf5 { [%eval -0.28] } 20. Qxh5 { [%eval -0.75] } 20... Nd4 { [%eval 0.42] } 21. Bh3 { [%eval -0.97] } 21... g6 { [%eval -0.79] } 22. Qh6 { [%eval -1.26] } 22... Nxc2+ { [%eval 3.15] } 23. Kd2 { [%eval 3.04] } 23... Nd4 { [%eval 3.32] } 24. Bxf5 { [%eval 2.32] } 24... Nxf5 { [%eval 3.15] } 25. Qxg6+ { [%eval 3.08] } 25... Ng7 { [%eval 6.98] } 26. h5 { [%eval 7.85] } 26... Qd5 { [%eval #7] } 27. h6 { [%eval 5.87] } 27... Qf7 { [%eval 5.81] } 28. h7+ { [%eval 2.53] } 28... Kh8 { [%eval 2.81] } 29. Qxf7 { [%eval 2.54] } 29... Rxf7 { [%eval 2.71] } 30. g6 { [%eval 2.49] } 30... Rf6 { [%eval 3.46] } 31. Rg1 { [%eval 2.87] } 31... Raf8 { [%eval 3.66] } 32. Nd5 { [%eval 3.76] } 32... Rxf2+ { [%eval 3.62] } 33. Ke3 { [%eval -4.92] } 33... Rxh2 { [%eval -5.59] } 34. Ne7 { [%eval -5.8] } 34... Rxh7 { [%eval -2.93] } 35. gxh7 { [%eval -3.06] } 35... Kxh7 { [%eval 1.87] } 36. Rh1+ { [%eval 1.87] } 36... Nh5 { [%eval 1.92] } 37. Rxh5+ { [%eval 1.93] } 37... Kg7 { [%eval 2.0] } 38. Rg5+ { [%eval -3.34] } 38... Kf6 { [%eval -3.13] } 39. Rf5+ { [%eval -3.93] } 39... Kxe7 { [%eval -3.94] } 40. Rxf8 { [%eval -5.04] } 40... Kxf8 { [%eval -4.96] } 41. b4 { [%eval -6.55] } 41... b5 { [%eval -6.63] } 42. Ke4 { [%eval -6.72] } 42... Ke7 { [%eval -6.37] } 43. Kd5 { [%eval -6.81] } 43... Kd7 { [%eval -6.66] } 44. Ke4 { [%eval -5.98] } 44... Kc6 { [%eval -6.37] } 45. Ke3 { [%eval -7.83] } 45... Kd5 { [%eval -7.75] } 46. Kd2 { [%eval -7.04] } 46... c5 { [%eval -7.25] } 47. bxc5 { [%eval -8.33] } 47... Kxc5 { [%eval -8.25] } 48. Kc3 { [%eval -8.62] } 48... a5 { [%eval -10.34] } 49. Kb3 { [%eval -9.8] } 49... b4 { [%eval -8.99] } 50. a4 { [%eval #-13] } 50... d5 { [%eval #-12] } 51. Kc2 { [%eval -60.61] } 51... e4 { [%eval -53.65] } 52. dxe4 { [%eval -59.8] } 52... dxe4 { [%eval -81.15] } 53. Kd2 { [%eval -81.15] } 53... Kc4 { [%eval -60.6] } 54. Ke3 { [%eval -81.15] } 54... b3 { [%eval -12.64] } 55. Kd2 { [%eval #-9] } 55... Kd4 { [%eval #-8] } 56. Kc1 { [%eval #-7] } 56... e3 { [%eval #-7] } 57. Kd1 { [%eval #-7] } 57... Kd3 { [%eval #-6] } 58. Kc1 { [%eval #-5] } 58... b2+ { [%eval #-5] } 59. Kxb2 { [%eval #-5] } 59... e2 { [%eval #-4] } 60. Kc1 { [%eval #-3] } 60... e1=Q+ { [%eval #-3] } 61. Kb2 { [%eval #-3] } 61... Qb4+ { [%eval #-2] } 62. Ka2 { [%eval #-2] } 62... Qxa4+ { [%eval #-3] } 63. Kb2 { [%eval #-3] } 63... Qb4+ { [%eval #-2] } 64. Kc1 { [%eval #-2] } 64... Qc3+ { [%eval #-3] } 65. Kd1 { [%eval #-1] } 65... Qd2# 0-1
   ```
 - Result: Black won by checkmate.
-- **Me: [NOT YET ANALYSED] accuracy · blunders · mistakes · inaccuracies · ACPL.**
-- **Opponent: [NOT YET ANALYSED]**
+- **Me: 4 blunders · 4 mistakes · 5 inaccuracies · 49 ACPL.** (accuracy % isn't exposed by Lichess's API — read it off the Link above)
+- **Opponent: 5 blunders · 4 mistakes · 4 inaccuracies · 63 ACPL.**
+- Phases (Lichess division): opening ends ~move 12, endgame starts ~move 29.
+
+**Computer analysis — flagged moves (from Lichess):**
+
+| Move | Side | Played | Eval before → after | Judgment | Best |
+|---|---|---|---|---|---|
+| 8 | Opponent (White) | `Nc3` | -0.42 → -2.28 | Blunder | `c3` |
+| 8 | Me (Black) | `O-O` | -2.28 → -0.39 | Blunder | `Qxb2` |
+| 13 | Opponent (White) | `h3` | -0.38 → -1.30 | Inaccuracy | `Be2` |
+| 13 | Me (Black) | `Bh5` | -1.30 → +0.34 | Mistake | `Bxf3` |
+| 17 | Opponent (White) | `Nh2` | +0.06 → -1.05 | Mistake | `Bh3` |
+| 18 | Me (Black) | `f5` | -1.09 → +0.00 | Inaccuracy | `Nd4` |
+| 19 | Opponent (White) | `exf5` | +0.00 → -1.23 | Mistake | `b4` |
+| 19 | Me (Black) | `Bxf5` | -1.23 → -0.28 | Inaccuracy | `Rxf5` |
+| 20 | Me (Black) | `Nd4` | -0.75 → +0.42 | Mistake | `g6` |
+| 21 | Opponent (White) | `Bh3` | +0.42 → -0.97 | Mistake | `g6` |
+| 22 | Me (Black) | `Nxc2+` | -1.26 → +3.15 | Blunder | `e4` |
+| 24 | Me (Black) | `Nxf5` | +2.32 → +3.15 | Inaccuracy | `Rxf5` |
+| 25 | Me (Black) | `Ng7` | +3.08 → +6.98 | Blunder | `Kh8` |
+| 26 | Me (Black) | `Qd5` | +7.85 → #7 | Mistake | `e4` |
+| 27 | Opponent (White) | `h6` | #7 → +5.87 | Blunder | `Nxd5` |
+| 28 | Opponent (White) | `h7+` | +5.81 → +2.53 | Blunder | `Qxg7+` |
+| 30 | Me (Black) | `Rf6` | +2.49 → +3.46 | Inaccuracy | `Rf3` |
+| 31 | Me (Black) | `Raf8` | +2.87 → +3.66 | Inaccuracy | `Rf5` |
+| 33 | Opponent (White) | `Ke3` | +3.62 → -4.92 | Blunder | `Rxf2` |
+| 34 | Me (Black) | `Rxh7` | -5.80 → -2.93 | Mistake | `c6` |
+| 35 | Me (Black) | `Kxh7` | -3.06 → +1.87 | Blunder | `Rf7` |
+| 38 | Opponent (White) | `Rg5+` | +2.00 → -3.34 | Blunder | `Nd5` |
+| 40 | Opponent (White) | `Rxf8` | -3.94 → -5.04 | Inaccuracy | `Rh5` |
+| 41 | Opponent (White) | `b4` | -4.96 → -6.55 | Inaccuracy | `Ke4` |
+| 50 | Opponent (White) | `a4` | -8.99 → #-13 | Mistake | `axb4+` |
+| 55 | Opponent (White) | `Kd2` | -12.64 → #-9 | Inaccuracy | `Kf4` |
 
 **Lesson — [DRAFT: needs review, no leak number assigned yet].**
 
@@ -232,8 +478,35 @@ need a longer write-up.
   1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. Bc4 { [%eval 0.07] } 3... Nf6 { [%eval 0.22] } 4. Nc3 { [%eval 0.0] } 4... Bc5 { [%eval 0.09] } 5. O-O { [%eval 0.07] } 5... O-O { [%eval 0.14] } 6. d3 { [%eval 0.14] } 6... d6 { [%eval 0.1] } 7. Re1 { [%eval 0.0] } 7... Ng4 { [%eval 0.16] } 8. Be3 { [%eval -0.52] } 8... Bxe3 { [%eval -0.24] } 9. fxe3 { [%eval -0.17] } 9... Be6 { [%eval 0.09] } 10. Bxe6 { [%eval 0.05] } 10... fxe6 { [%eval 0.08] } 11. Nd2 { [%eval -5.38] } 11... Qf6 { [%eval 5.29] } 12. Qxg4 { [%eval 5.27] } 12... Qf2+ { [%eval 5.54] } 13. Kh1 { [%eval 5.46] } 13... Rf7 { [%eval 6.63] } 14. Qxe6 { [%eval 5.81] } 14... Rf8 { [%eval 5.92] } 15. Rf1 { [%eval 6.28] } 15... Qh4 { [%eval 6.21] } 16. Rxf7 { [%eval 6.19] } 16... Rxf7 { [%eval 6.09] } 17. Nf3 { [%eval 6.08] } 17... Qh5 { [%eval 10.9] } 18. Nb5 { [%eval 6.25] } 18... g5 { [%eval 6.91] } 19. Nxc7 { [%eval 5.64] } 19... Kg7 { [%eval 7.33] } 20. Qxd6 { [%eval 7.41] } 20... Rf6 { [%eval 7.92] } 21. Ne8+ { [%eval 4.23] } 21... Qxe8 { [%eval 4.56] } 22. Nxg5 { [%eval -6.65] } 22... Qh5 { [%eval 5.59] } 23. Qd7+ { [%eval 5.37] } 23... Kg6 { [%eval 5.56] } 24. Qxb7 { [%eval 0.0] } 24... Qe2 { [%eval 7.92] } 25. h3 { [%eval 2.28] } 25... Kxg5 { [%eval 2.24] } 26. Qxh7 { [%eval 1.64] } 26... Rh6 { [%eval #5] } 27. Qg7+ { [%eval 5.3] } 27... Rg6 { [%eval 4.49] } 28. Qd7 { [%eval 0.82] } 28... Kh4 { [%eval 2.91] } 29. Qh7+ { [%eval 2.62] } 29... Kg3 { [%eval 14.28] } 30. Qxg6+ { [%eval 12.86] } 30... Kh4 { [%eval #3] } 31. Qf6+ { [%eval 15.6] } 31... Kg3 { [%eval 16.84] } 32. Qf1 { [%eval 8.04] } 32... Qxc2 { [%eval #2] } 33. Kg1 { [%eval #3] } 33... Qxb2 { [%eval #2] } 34. Rc1 { [%eval #5] } 34... Nb4 { [%eval #2] } 35. Rb1 { [%eval 15.69] } 35... Qa3 { [%eval #1] } 36. Qf2# 1-0
   ```
 - Result: White won by checkmate.
-- **Me: [NOT YET ANALYSED] accuracy · blunders · mistakes · inaccuracies · ACPL.**
-- **Opponent: [NOT YET ANALYSED]**
+- **Me: 6 blunders · 1 mistakes · 4 inaccuracies · 143 ACPL.** (accuracy % isn't exposed by Lichess's API — read it off the Link above)
+- **Opponent: 6 blunders · 1 mistakes · 3 inaccuracies · 173 ACPL.**
+- Phases (Lichess division): opening ends ~move 10, endgame starts ~move 21.
+
+**Computer analysis — flagged moves (from Lichess):**
+
+| Move | Side | Played | Eval before → after | Judgment | Best |
+|---|---|---|---|---|---|
+| 8 | Me (White) | `Be3` | +0.16 → -0.52 | Inaccuracy | `Rf1` |
+| 11 | Me (White) | `Nd2` | +0.08 → -5.38 | Blunder | `Nb1` |
+| 11 | Opponent (Black) | `Qf6` | -5.38 → +5.29 | Blunder | `Qh4` |
+| 17 | Opponent (Black) | `Qh5` | +6.08 → +10.90 | Inaccuracy | `Qe7` |
+| 18 | Me (White) | `Nb5` | +10.90 → +6.25 | Inaccuracy | `Qe8+` |
+| 21 | Me (White) | `Ne8+` | +7.92 → +4.23 | Mistake | `Ne6+` |
+| 22 | Me (White) | `Nxg5` | +4.56 → -6.65 | Blunder | `Qd5` |
+| 22 | Opponent (Black) | `Qh5` | -6.65 → +5.59 | Blunder | `Rxd6` |
+| 24 | Me (White) | `Qxb7` | +5.56 → +0.00 | Blunder | `Ne6` |
+| 24 | Opponent (Black) | `Qe2` | +0.00 → +7.92 | Blunder | `Qxg5` |
+| 25 | Me (White) | `h3` | +7.92 → +2.28 | Blunder | `Qxh7+` |
+| 26 | Opponent (Black) | `Rh6` | +1.64 → #5 | Blunder | `Qf2` |
+| 27 | Me (White) | `Qg7+` | #5 → +5.30 | Blunder | `Qf5+` |
+| 28 | Me (White) | `Qd7` | +4.49 → +0.82 | Blunder | `Qf8` |
+| 28 | Opponent (Black) | `Kh4` | +0.82 → +2.91 | Blunder | `Kh6` |
+| 29 | Opponent (Black) | `Kg3` | +2.62 → +14.28 | Blunder | `Kg5` |
+| 30 | Opponent (Black) | `Kh4` | +12.86 → #3 | Inaccuracy | `Kf2` |
+| 31 | Me (White) | `Qf6+` | #3 → +15.60 | Inaccuracy | `Kh2` |
+| 32 | Opponent (Black) | `Qxc2` | +8.04 → #2 | Mistake | `Qf2` |
+| 35 | Me (White) | `Rb1` | #2 → +15.69 | Inaccuracy | `Qe1+` |
+| 35 | Opponent (Black) | `Qa3` | +15.69 → #1 | Inaccuracy | `Qxb1` |
 
 **Lesson — [DRAFT: needs review, no leak number assigned yet].**
 
@@ -253,8 +526,38 @@ need a longer write-up.
   1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. d4 { [%eval -0.11] } 2... exd4 { [%eval 0.0] } 3. Nf3 { [%eval -0.1] } 3... Nc6 { [%eval 0.04] } 4. Nxd4 { [%eval 0.06] } 4... Nf6 { [%eval 0.1] } 5. Nxc6 { [%eval 0.05] } 5... dxc6 { [%eval 0.58] } 6. e5 { [%eval -2.04] } 6... Ng4 { [%eval -0.14] } 7. Qxd8+ { [%eval -0.08] } 7... Kxd8 { [%eval -0.1] } 8. Be2 { [%eval -0.6] } 8... Nxe5 { [%eval -0.64] } 9. O-O { [%eval -1.54] } 9... Bc5 { [%eval -1.01] } 10. Bg5+ { [%eval -1.32] } 10... f6 { [%eval -1.29] } 11. Bf4 { [%eval -1.41] } 11... Re8 { [%eval -1.36] } 12. Rd1+ { [%eval -1.4] } 12... Bd6 { [%eval -1.33] } 13. Bxe5 { [%eval -1.39] } 13... Rxe5 { [%eval -1.67] } 14. Bf3 { [%eval -1.96] } 14... Bf5 { [%eval -1.82] } 15. Nc3 { [%eval -4.12] } 15... Bxc2 { [%eval -4.07] } 16. Rd2 { [%eval -4.39] } 16... Ba4 { [%eval 4.08] } 17. Nxa4 { [%eval 4.14] } 17... b5 { [%eval 5.58] } 18. Nc5 { [%eval -1.77] } 18... Rxc5 { [%eval -1.83] } 19. a4 { [%eval -1.74] } 19... Ke8 { [%eval 0.07] } 20. axb5 { [%eval -0.16] } 20... cxb5 { [%eval 5.53] } 21. Ra5 { [%eval -2.33] } 21... Rb8 { [%eval -0.35] } 22. Rxa7 { [%eval -1.52] } 22... Rc1+ { [%eval -1.49] } 23. Bd1 { [%eval -6.36] } 23... Rc5 { [%eval -0.34] } 24. f3 { [%eval -3.49] } 24... Bf4 { [%eval -1.34] } 25. Re2+ { [%eval -1.32] } 25... Kf8 { [%eval -1.03] } 26. g3 { [%eval -1.78] } 26... Be5 { [%eval -0.71] } 27. f4 { [%eval -6.08] } 27... Bd6 { [%eval -0.41] } 28. Kg2 { [%eval -0.36] } 28... Rc1 { [%eval -0.2] } 29. Rd2 { [%eval -0.35] } 29... Bb4 { [%eval 0.05] } 30. Rd5 { [%eval -0.31] } 30... c6 { [%eval 4.75] } 31. Rdd7 { [%eval 4.27] } 31... Bc5 { [%eval 4.29] } 32. Rab7 { [%eval -6.05] } 32... Rxb7 { [%eval -6.15] } 33. Rxb7 { [%eval -6.14] } 33... Rxd1 { [%eval -5.99] } 34. Rb8+ { [%eval -6.39] } 34... Kf7 { [%eval -6.19] } 35. b3 { [%eval -6.56] } 35... Rb1 { [%eval -6.44] } 36. Rb7+ { [%eval -6.81] } 36... Be7 { [%eval -6.64] } 37. Rb6 { [%eval -6.56] } 37... Rxb3 { [%eval -6.82] } 38. Rxc6 { [%eval -6.68] } 38... Rb2+ { [%eval -6.73] } 39. Kf3 { [%eval -6.7] } 39... b4 { [%eval -6.57] } 40. Ke3 { [%eval -7.34] } 40... b3 { [%eval -7.21] } 41. Kd3 { [%eval -7.55] } 41... Ra2 { [%eval -7.3] } 42. Rb6 { [%eval -6.43] } 42... b2 { [%eval -7.01] } 43. Kc2 { [%eval -7.16] } 43... Ba3 { [%eval -7.09] } 44. Rb7+ { [%eval -7.29] } 44... Kg6 { [%eval -6.99] } 45. Rb3 { [%eval -7.7] } 45... Ra1 { [%eval -7.6] } 46. Rxa3 { [%eval #-6] } 46... Rxa3 { [%eval -9.9] } 47. Kxb2 { [%eval -8.6] } 47... Rf3 { [%eval -9.21] } 48. Kc2 { [%eval -10.67] } 48... Rf2+ { [%eval -8.42] } 49. Kd3 { [%eval -11.93] } 49... Rxh2 { [%eval -11.45] } 0-1
   ```
 - Result: White resigned.
-- **Me: [NOT YET ANALYSED] accuracy · blunders · mistakes · inaccuracies · ACPL.**
-- **Opponent: [NOT YET ANALYSED]**
+- **Me: 9 blunders · 1 mistakes · 2 inaccuracies · 96 ACPL.** (accuracy % isn't exposed by Lichess's API — read it off the Link above)
+- **Opponent: 8 blunders · 2 mistakes · 2 inaccuracies · 119 ACPL.**
+- Phases (Lichess division): opening ends ~move 7, endgame starts ~move 18.
+
+**Computer analysis — flagged moves (from Lichess):**
+
+| Move | Side | Played | Eval before → after | Judgment | Best |
+|---|---|---|---|---|---|
+| 6 | Opponent (White) | `e5` | +0.58 → -2.04 | Blunder | `Qxd8+` |
+| 6 | Me (Black) | `Ng4` | -2.04 → -0.14 | Blunder | `Qxd1+` |
+| 9 | Opponent (White) | `O-O` | -0.64 → -1.54 | Inaccuracy | `Nc3` |
+| 15 | Opponent (White) | `Nc3` | -1.82 → -4.12 | Blunder | `c3` |
+| 16 | Me (Black) | `Ba4` | -4.39 → +4.08 | Blunder | `Bg6` |
+| 17 | Me (Black) | `b5` | +4.14 → +5.58 | Inaccuracy | `Ke7` |
+| 18 | Opponent (White) | `Nc5` | +5.58 → -1.77 | Blunder | `Bxc6` |
+| 19 | Me (Black) | `Ke8` | -1.74 → +0.07 | Blunder | `b4` |
+| 20 | Me (Black) | `cxb5` | -0.16 → +5.53 | Blunder | `Rb8` |
+| 21 | Opponent (White) | `Ra5` | +5.53 → -2.33 | Blunder | `Bxa8` |
+| 21 | Me (Black) | `Rb8` | -2.33 → -0.35 | Blunder | `a6` |
+| 22 | Opponent (White) | `Rxa7` | -0.35 → -1.52 | Mistake | `g3` |
+| 23 | Opponent (White) | `Bd1` | -1.49 → -6.36 | Blunder | `Rd1` |
+| 23 | Me (Black) | `Rc5` | -6.36 → -0.34 | Blunder | `Bb4` |
+| 24 | Opponent (White) | `f3` | -0.34 → -3.49 | Blunder | `g3` |
+| 24 | Me (Black) | `Bf4` | -3.49 → -1.34 | Blunder | `Rc1` |
+| 26 | Opponent (White) | `g3` | -1.03 → -1.78 | Inaccuracy | `Ra1` |
+| 26 | Me (Black) | `Be5` | -1.78 → -0.71 | Inaccuracy | `Rd8` |
+| 27 | Opponent (White) | `f4` | -0.71 → -6.08 | Blunder | `Rd2` |
+| 27 | Me (Black) | `Bd6` | -6.08 → -0.41 | Blunder | `Bd4+` |
+| 30 | Me (Black) | `c6` | -0.31 → +4.75 | Blunder | `Bd6` |
+| 32 | Opponent (White) | `Rab7` | +4.29 → -6.05 | Blunder | `Rac7` |
+| 46 | Opponent (White) | `Rxa3` | -7.60 → #-6 | Mistake | `g4` |
+| 46 | Me (Black) | `Rxa3` | #-6 → -9.90 | Mistake | `b1=Q+` |
 
 **Lesson — [DRAFT: needs review, no leak number assigned yet].**
 
@@ -274,8 +577,21 @@ need a longer write-up.
   1. e4 e5 2. Nf3 Nc6 3. Nc3 Bc5 4. Bc4 Nf6 5. O-O O-O 6. d3 d6 7. Bg5 Bg4 8. Qe2 Nd4 9. Qe3 Nxc2 10. Qc1 Nxa1 11. Qxa1 Bxf3 12. gxf3 h6 13. Bh4 g5 14. Bg3 Nh5 15. Nd5 c6 16. Ne3 Bxe3 17. fxe3 Nxg3 18. hxg3 b5 19. Bb3 Qb6 20. Qe1 a5 21. a3 a4 22. Bc2 Qc5 23. Bb1 d5 24. f4 dxe4 25. fxg5 hxg5 26. Rf5 f6 27. d4 exd4 28. Rxc5 1-0
   ```
 - Result: Black resigned.
-- **Me: [NOT YET ANALYSED] accuracy · blunders · mistakes · inaccuracies · ACPL.**
-- **Opponent: [NOT YET ANALYSED]**
+- **Me: 1 blunders · 1 mistakes · 1 inaccuracies · 68 ACPL.** (accuracy % isn't exposed by Lichess's API — read it off the Link above)
+- **Opponent: 3 blunders · 0 mistakes · 1 inaccuracies · 46 ACPL.**
+- Phases (Lichess division): opening ends ~move 8, endgame starts ~move 18.
+
+**Computer analysis — flagged moves (from Lichess):**
+
+| Move | Side | Played | Eval before → after | Judgment | Best |
+|---|---|---|---|---|---|
+| 7 | Me (Black) | `Bg4` | +0.12 → +0.84 | Inaccuracy | `h6` |
+| 8 | Opponent (White) | `Qe2` | +0.84 → -3.01 | Blunder | `Nd5` |
+| 9 | Opponent (White) | `Qe3` | -2.89 → -6.39 | Blunder | `Qd1` |
+| 9 | Me (Black) | `Nxc2` | -6.39 → -3.40 | Mistake | `Nxf3+` |
+| 11 | Opponent (White) | `Qxa1` | -2.21 → -4.76 | Blunder | `Nd5` |
+| 22 | Opponent (White) | `Bc2` | -3.51 → -4.59 | Inaccuracy | `Ba2` |
+| 27 | Me (Black) | `exd4` | -4.38 → +6.59 | Blunder | `Qe7` |
 
 **Lesson — [DRAFT: needs review, no leak number assigned yet].**
 
@@ -295,8 +611,22 @@ need a longer write-up.
   1. e4 c5 2. Bc4 d6 3. Nf3 Nf6 4. O-O Nxe4 5. d3 Nf6 6. Nc3 g6 7. Bb5+ Bd7 8. Bg5 Bg7 9. Qe2 O-O 10. Bxf6 Bxf6 11. Qe4 Bxb5 12. Nxb5 Bxb2 13. Qxb7 Nd7 14. Nc7 Rb8 15. Qxa7 Bxa1 16. Rxa1 Rb2 17. Ne1 Ne5 18. Qa3 Rb7 19. Nd5 e6 20. Nf4 Qg5 21. Qa6 Rfb8 22. Nh3 Qd2 23. Qxd6 Rb1 24. Rxb1 Rxb1 25. g3 Qxe1+ 26. Kg2 Qh1# 0-1
   ```
 - Result: Black won by checkmate.
-- **Me: [NOT YET ANALYSED] accuracy · blunders · mistakes · inaccuracies · ACPL.**
-- **Opponent: [NOT YET ANALYSED]**
+- **Me: 2 blunders · 0 mistakes · 4 inaccuracies · 80 ACPL.** (accuracy % isn't exposed by Lichess's API — read it off the Link above)
+- **Opponent: 1 blunders · 1 mistakes · 0 inaccuracies · 44 ACPL.**
+- Phases (Lichess division): opening ends ~move 9, endgame starts ~move 24.
+
+**Computer analysis — flagged moves (from Lichess):**
+
+| Move | Side | Played | Eval before → after | Judgment | Best |
+|---|---|---|---|---|---|
+| 4 | Me (White) | `O-O` | +0.07 → -0.55 | Inaccuracy | `Nc3` |
+| 7 | Me (White) | `Bb5+` | -0.78 → -1.35 | Inaccuracy | `Bg5` |
+| 11 | Me (White) | `Qe4` | -2.24 → -3.67 | Inaccuracy | `Bxd7` |
+| 13 | Me (White) | `Qxb7` | -2.57 → -3.30 | Inaccuracy | `Rab1` |
+| 13 | Opponent (Black) | `Nd7` | -3.30 → -1.66 | Mistake | `Qb6` |
+| 14 | Me (White) | `Nc7` | -1.66 → -4.55 | Blunder | `Rab1` |
+| 23 | Opponent (Black) | `Rb1` | -6.61 → +0.32 | Blunder | `Qc3` |
+| 24 | Me (White) | `Rxb1` | +0.32 → #-7 | Blunder | `Qxe5` |
 
 **Lesson — [DRAFT: needs review, no leak number assigned yet].**
 
@@ -401,8 +731,49 @@ need a longer write-up.
 - Link: https://lichess.org/mWdR1i2R
 - PGN: `games/pgn/game-19-mixiaoquan.pgn`
 - Result: Black won by checkmate.
-- **Me: [NOT YET ANALYSED] accuracy · blunders · mistakes · inaccuracies · ACPL.**
-- **Opponent: [NOT YET ANALYSED]**
+- **Me: 5 blunders · 5 mistakes · 8 inaccuracies · 49 ACPL.** (accuracy % isn't exposed by Lichess's API — read it off the Link above)
+- **Opponent: 7 blunders · 3 mistakes · 7 inaccuracies · 59 ACPL.**
+- Phases (Lichess division): opening ends ~move 10, endgame starts ~move 31.
+
+**Computer analysis — flagged moves (from Lichess):**
+
+| Move | Side | Played | Eval before → after | Judgment | Best |
+|---|---|---|---|---|---|
+| 7 | Me (Black) | `Bg4` | +0.12 → +0.84 | Inaccuracy | `h6` |
+| 8 | Opponent (White) | `h3` | +0.84 → +0.24 | Inaccuracy | `Nd5` |
+| 8 | Me (Black) | `Bh5` | +0.24 → +2.12 | Blunder | `Bxf3` |
+| 9 | Opponent (White) | `Nb5` | +2.12 → -0.25 | Blunder | `Nd5` |
+| 11 | Me (Black) | `a5` | -0.20 → +2.08 | Blunder | `Bxf3` |
+| 12 | Opponent (White) | `Nxb5` | +2.08 → +1.33 | Inaccuracy | `g4` |
+| 13 | Opponent (White) | `Bc4` | +1.84 → +0.60 | Mistake | `Bd5` |
+| 13 | Me (Black) | `Rb8` | +0.60 → +1.31 | Inaccuracy | `Na5` |
+| 14 | Opponent (White) | `a3` | +1.31 → +0.70 | Inaccuracy | `Rb1` |
+| 14 | Me (Black) | `Bxf3` | +0.70 → +1.77 | Inaccuracy | `Na5` |
+| 16 | Opponent (White) | `Qg3` | +2.14 → -1.02 | Blunder | `Nc3` |
+| 16 | Me (Black) | `Nd4` | -1.02 → +1.91 | Blunder | `Rxb5` |
+| 18 | Opponent (White) | `Bh6` | +1.87 → +0.10 | Blunder | `c3` |
+| 19 | Me (Black) | `Qf6` | +0.15 → +1.65 | Mistake | `Rxb2` |
+| 22 | Me (Black) | `Ba7` | +0.85 → +2.65 | Mistake | `axb3` |
+| 23 | Opponent (White) | `b5` | +2.65 → +1.98 | Inaccuracy | `Bc1` |
+| 23 | Me (Black) | `Bc5` | +1.98 → +2.63 | Inaccuracy | `Nf6` |
+| 24 | Opponent (White) | `Qf5` | +2.63 → +0.97 | Mistake | `Be3` |
+| 25 | Me (Black) | `Rbc8` | +0.88 → +2.30 | Mistake | `d5` |
+| 27 | Opponent (White) | `Re4` | +1.90 → -1.49 | Blunder | `bxc6` |
+| 27 | Me (Black) | `Nf6` | -1.49 → +1.52 | Blunder | `d5` |
+| 28 | Opponent (White) | `Rh4` | +1.52 → +0.00 | Mistake | `Bxf6` |
+| 28 | Me (Black) | `cxb5` | +0.00 → +0.97 | Inaccuracy | `d5` |
+| 30 | Opponent (White) | `Bc4` | +0.98 → +0.40 | Inaccuracy | `Bxa4` |
+| 30 | Me (Black) | `Rbd8` | +0.40 → +2.14 | Blunder | `Rb2` |
+| 33 | Opponent (White) | `d4` | +1.95 → +0.91 | Inaccuracy | `Bd5` |
+| 35 | Me (Black) | `Ba7` | +1.45 → +3.36 | Mistake | `Rb8` |
+| 36 | Me (Black) | `Bb8` | +3.39 → +4.75 | Inaccuracy | `d5` |
+| 37 | Opponent (White) | `Rxf7` | +4.75 → +2.20 | Blunder | `Bxf7` |
+| 37 | Me (Black) | `d5` | +2.20 → +3.02 | Inaccuracy | `Rxf7` |
+| 40 | Opponent (White) | `h4` | +3.09 → +0.87 | Blunder | `Bc6` |
+| 40 | Me (Black) | `Bxa3` | +0.87 → +2.13 | Mistake | `h5` |
+| 41 | Me (Black) | `Bc1` | +1.95 → +2.71 | Inaccuracy | `h6` |
+| 42 | Opponent (White) | `Rg8+` | +2.71 → -7.43 | Blunder | `Ba2` |
+| 52 | Opponent (White) | `f4` | -14.02 → #-18 | Inaccuracy | `g5` |
 
 **Lesson — [DRAFT: needs review, no leak number assigned yet].**
 
@@ -418,8 +789,41 @@ need a longer write-up.
 - Link: https://lichess.org/p4N9lzno
 - PGN: `games/pgn/game-18-judy08.pgn`
 - Result: Black resigned.
-- **Me: [NOT YET ANALYSED] accuracy · blunders · mistakes · inaccuracies · ACPL.**
-- **Opponent: [NOT YET ANALYSED]**
+- **Me: 7 blunders · 2 mistakes · 4 inaccuracies · 131 ACPL.** (accuracy % isn't exposed by Lichess's API — read it off the Link above)
+- **Opponent: 10 blunders · 1 mistakes · 3 inaccuracies · 160 ACPL.**
+- Phases (Lichess division): opening ends ~move 11, endgame starts ~move 23.
+
+**Computer analysis — flagged moves (from Lichess):**
+
+| Move | Side | Played | Eval before → after | Judgment | Best |
+|---|---|---|---|---|---|
+| 4 | Me (White) | `Nc3` | -0.05 → -0.67 | Inaccuracy | `h3` |
+| 4 | Opponent (Black) | `Nf6` | -0.67 → -0.11 | Inaccuracy | `d4` |
+| 8 | Opponent (Black) | `Nbd7` | -0.23 → +0.46 | Inaccuracy | `O-O` |
+| 9 | Me (White) | `Be3` | +0.46 → -0.57 | Inaccuracy | `Re1+` |
+| 10 | Me (White) | `b4` | -0.51 → -1.11 | Inaccuracy | `h3` |
+| 10 | Opponent (Black) | `b6` | -1.11 → -0.55 | Inaccuracy | `Re8` |
+| 11 | Me (White) | `Qe2` | -0.55 → -1.49 | Inaccuracy | `h3` |
+| 12 | Opponent (Black) | `c5` | -1.85 → -0.60 | Mistake | `Ne4` |
+| 14 | Me (White) | `dxc5` | -0.77 → -3.41 | Blunder | `Nb5` |
+| 14 | Opponent (Black) | `Nxc5` | -3.41 → -1.04 | Blunder | `Be5` |
+| 16 | Me (White) | `Qd2` | -0.53 → -3.83 | Blunder | `Nb5` |
+| 17 | Opponent (Black) | `Qc7` | -3.92 → +0.11 | Blunder | `Be5` |
+| 18 | Me (White) | `Bxc5` | +0.11 → -1.54 | Mistake | `Nb5` |
+| 20 | Me (White) | `Bb5` | -1.72 → -5.66 | Blunder | `Rb1` |
+| 20 | Opponent (Black) | `Rb8` | -5.66 → -2.41 | Blunder | `Rc8` |
+| 21 | Me (White) | `a4` | -2.41 → -5.95 | Blunder | `Bd3` |
+| 21 | Opponent (Black) | `d4` | -5.95 → -0.84 | Blunder | `Be5` |
+| 22 | Me (White) | `Ne4` | -0.84 → -2.49 | Mistake | `Ne2` |
+| 22 | Opponent (Black) | `Qe5` | -2.49 → +0.00 | Blunder | `Nxe4` |
+| 24 | Opponent (Black) | `dxc3` | +0.00 → +8.42 | Blunder | `Rd8` |
+| 25 | Me (White) | `Qxc3` | +8.42 → -0.35 | Blunder | `Qxd6` |
+| 29 | Me (White) | `Bd7` | +0.00 → -4.00 | Blunder | `Qe3` |
+| 29 | Opponent (Black) | `Nxd7` | -4.00 → +0.00 | Blunder | `Rd8` |
+| 33 | Opponent (Black) | `Rb1` | -0.07 → #8 | Blunder | `Re8` |
+| 34 | Me (White) | `Qxa7` | #8 → -3.30 | Blunder | `Qc8+` |
+| 34 | Opponent (Black) | `Rb2` | -3.30 → +0.03 | Blunder | `Qh1+` |
+| 36 | Opponent (Black) | `Rd2` | +0.00 → +9.78 | Blunder | `Rb1` |
 
 **Lesson — [DRAFT: needs review, no leak number assigned yet].**
 
@@ -469,9 +873,26 @@ need a longer write-up.
 - Link: https://lichess.org/rUcIIfKh
 - PGN: `games/pgn/game-15-rafffaelll2022.pgn`
 - Result: Black resigned.
-- **Me: [NOT YET ANALYSED] accuracy · [NOT YET ANALYSED] blunders · inaccuracies · ACPL.**
-  Phases: [NOT YET ANALYSED].
-- **Opponent: [NOT YET ANALYSED]**
+- **Me: 4 blunders · 2 mistakes · 1 inaccuracies · 220 ACPL.** (accuracy % isn't exposed by Lichess's API — read it off the Link above)
+- **Opponent: 3 blunders · 2 mistakes · 1 inaccuracies · 124 ACPL.**
+
+**Computer analysis — flagged moves (from Lichess):**
+
+| Move | Side | Played | Eval before → after | Judgment | Best |
+|---|---|---|---|---|---|
+| 3 | Opponent (White) | `f3` | +0.11 → -1.14 | Mistake | `Nc3` |
+| 5 | Opponent (White) | `Nh3` | -0.74 → -2.14 | Mistake | `Nc3` |
+| 5 | Me (Black) | `d6` | -2.14 → -0.55 | Mistake | `d5` |
+| 6 | Opponent (White) | `g4` | -0.55 → -3.10 | Blunder | `Nf2` |
+| 6 | Me (Black) | `Re8` | -3.10 → -0.91 | Blunder | `Nxg4` |
+| 7 | Opponent (White) | `g5` | -0.91 → -3.83 | Blunder | `Ng5` |
+| 7 | Me (Black) | `Nh5` | -3.83 → -2.07 | Mistake | `Bxh3` |
+| 8 | Opponent (White) | `f4` | -2.07 → -2.96 | Inaccuracy | `Nf2` |
+| 8 | Me (Black) | `exf4` | -2.96 → +0.64 | Blunder | `Nxf4` |
+| 9 | Me (Black) | `g6` | +0.66 → +6.16 | Blunder | `d5` |
+| 10 | Opponent (White) | `Qh6` | +6.16 → +1.01 | Blunder | `Bxf7+` |
+| 10 | Me (Black) | `Qd7` | +1.01 → +5.94 | Blunder | `d5` |
+| 11 | Me (Black) | `Qh3` | +6.13 → +10.08 | Inaccuracy | `d5` |
 
 *(Draft entry — leak number and lesson pending my review.)*
 
@@ -483,9 +904,23 @@ need a longer write-up.
 - Link: https://lichess.org/gzSLsOUb
 - PGN: `games/pgn/game-14-rafffaelll2022.pgn`
 - Result: Black won by checkmate.
-- **Me: [NOT YET ANALYSED] accuracy · [NOT YET ANALYSED] blunders · inaccuracies · ACPL.**
-  Phases: [NOT YET ANALYSED].
-- **Opponent: [NOT YET ANALYSED]**
+- **Me: 2 blunders · 0 mistakes · 3 inaccuracies · 175 ACPL.** (accuracy % isn't exposed by Lichess's API — read it off the Link above)
+- **Opponent: 2 blunders · 1 mistakes · 2 inaccuracies · 106 ACPL.**
+
+**Computer analysis — flagged moves (from Lichess):**
+
+| Move | Side | Played | Eval before → after | Judgment | Best |
+|---|---|---|---|---|---|
+| 2 | Opponent (Black) | `f6` | +0.18 → +1.62 | Mistake | `Nc6` |
+| 3 | Opponent (Black) | `Nh6` | +1.31 → +2.11 | Inaccuracy | `d6` |
+| 4 | Me (White) | `O-O` | +2.11 → +1.23 | Inaccuracy | `d4` |
+| 4 | Opponent (Black) | `g5` | +1.23 → +3.18 | Blunder | `Nf7` |
+| 6 | Me (White) | `Ne1` | +2.41 → +1.57 | Inaccuracy | `h3` |
+| 6 | Opponent (Black) | `Nxh2` | +1.57 → +5.67 | Blunder | `h5` |
+| 7 | Me (White) | `Kxh2` | +5.67 → +4.10 | Inaccuracy | `Qh5+` |
+| 7 | Opponent (Black) | `d5` | +4.10 → +5.45 | Inaccuracy | `h5` |
+| 9 | Me (White) | `Qxg4` | +5.27 → -5.99 | Blunder | `Nc3` |
+| 13 | Me (White) | `Kf4` | -5.32 → #-1 | Blunder | `Kh2` |
 
 *(Draft entry — leak number and lesson pending my review.)*
 
@@ -497,9 +932,35 @@ need a longer write-up.
 - Link: https://lichess.org/BUqKSmpi
 - PGN: `games/pgn/game-13-samerhatam.pgn`
 - Result: White resigned.
-- **Me: [NOT YET ANALYSED] accuracy · [NOT YET ANALYSED] blunders · inaccuracies · ACPL.**
-  Phases: [NOT YET ANALYSED].
-- **Opponent: [NOT YET ANALYSED]**
+- **Me: 3 blunders · 1 mistakes · 5 inaccuracies · 63 ACPL.** (accuracy % isn't exposed by Lichess's API — read it off the Link above)
+- **Opponent: 3 blunders · 2 mistakes · 7 inaccuracies · 87 ACPL.**
+- Phases (Lichess division): opening ends ~move 13, endgame starts ~move 19.
+
+**Computer analysis — flagged moves (from Lichess):**
+
+| Move | Side | Played | Eval before → after | Judgment | Best |
+|---|---|---|---|---|---|
+| 3 | Opponent (White) | `Bb5` | -0.42 → -1.29 | Inaccuracy | `Bc4` |
+| 4 | Opponent (White) | `Qf5` | -1.23 → -2.00 | Inaccuracy | `Qd1` |
+| 4 | Me (Black) | `d6` | -2.00 → -0.80 | Mistake | `g6` |
+| 7 | Opponent (White) | `Qb3` | -0.49 → -1.32 | Inaccuracy | `Qg3` |
+| 8 | Me (Black) | `Qd7` | -1.65 → -0.95 | Inaccuracy | `Bd6` |
+| 9 | Opponent (White) | `exd5` | -0.95 → -2.00 | Inaccuracy | `h3` |
+| 11 | Opponent (White) | `dxe4` | -1.77 → -2.63 | Inaccuracy | `h3` |
+| 12 | Me (Black) | `Be6` | -2.95 → -0.94 | Blunder | `Be7` |
+| 13 | Opponent (White) | `Bg5` | -0.94 → -2.18 | Mistake | `Nc3` |
+| 13 | Me (Black) | `Be7` | -2.18 → -1.20 | Inaccuracy | `O-O-O` |
+| 14 | Opponent (White) | `Bxf6` | -1.20 → -5.08 | Blunder | `Nc3` |
+| 15 | Me (Black) | `Bxb2` | -4.87 → -0.63 | Blunder | `O-O` |
+| 18 | Me (Black) | `Bxd7` | -1.04 → -0.13 | Inaccuracy | `Kxd7` |
+| 21 | Opponent (White) | `Re1+` | -0.71 → -1.33 | Inaccuracy | `Nbd2` |
+| 22 | Opponent (White) | `Na3` | -1.17 → -1.95 | Inaccuracy | `Nbd2` |
+| 22 | Me (Black) | `O-O` | -1.95 → -1.25 | Inaccuracy | `Kd7` |
+| 23 | Me (Black) | `Bxa2` | -1.12 → -0.49 | Inaccuracy | `Rb8` |
+| 24 | Opponent (White) | `Nxc7` | -0.49 → -2.21 | Mistake | `Nxa7` |
+| 24 | Me (Black) | `Be6` | -2.21 → +0.08 | Blunder | `Rb8` |
+| 25 | Opponent (White) | `g4` | +0.08 → -1.61 | Blunder | `Nxe6` |
+| 26 | Opponent (White) | `Re8` | -1.62 → -6.73 | Blunder | `Ne5` |
 
 *(Draft entry — leak number and lesson pending my review.)*
 
@@ -511,9 +972,38 @@ need a longer write-up.
 - Link: https://lichess.org/G9ZL0pV1
 - PGN: `games/pgn/game-12-marcoxnew.pgn`
 - Result: Black resigned.
-- **Me: [NOT YET ANALYSED] accuracy · [NOT YET ANALYSED] blunders · inaccuracies · ACPL.**
-  Phases: [NOT YET ANALYSED].
-- **Opponent: [NOT YET ANALYSED]**
+- **Me: 4 blunders · 5 mistakes · 4 inaccuracies · 135 ACPL.** (accuracy % isn't exposed by Lichess's API — read it off the Link above)
+- **Opponent: 4 blunders · 4 mistakes · 3 inaccuracies · 152 ACPL.**
+- Phases (Lichess division): opening ends ~move 8, endgame starts ~move 16.
+
+**Computer analysis — flagged moves (from Lichess):**
+
+| Move | Side | Played | Eval before → after | Judgment | Best |
+|---|---|---|---|---|---|
+| 7 | Opponent (Black) | `e5` | -0.58 → +0.23 | Inaccuracy | `Nc6` |
+| 10 | Me (White) | `Nd5` | -0.31 → -3.67 | Blunder | `Qe3` |
+| 11 | Me (White) | `Nxf6+` | -3.18 → -4.18 | Inaccuracy | `Qd2` |
+| 12 | Me (White) | `Bxf6` | -3.77 → -7.33 | Mistake | `Qe3` |
+| 12 | Opponent (Black) | `Qxf6` | -7.33 → -3.99 | Mistake | `Nxe2+` |
+| 18 | Opponent (Black) | `Qxf3` | -4.09 → +0.00 | Blunder | `a5` |
+| 19 | Me (White) | `Qg5` | +0.00 → -5.93 | Blunder | `Qxg6+` |
+| 20 | Opponent (Black) | `Qxd3` | -5.42 → +5.35 | Blunder | `Kg7` |
+| 21 | Me (White) | `Qe7` | +5.35 → -5.69 | Blunder | `Qxg6+` |
+| 26 | Me (White) | `Qd1` | -6.45 → -9.48 | Inaccuracy | `Rf1` |
+| 27 | Opponent (Black) | `Re4` | -9.51 → -6.29 | Inaccuracy | `Qf3` |
+| 28 | Me (White) | `Bc2` | -6.29 → -9.95 | Inaccuracy | `Qxg4` |
+| 28 | Opponent (Black) | `Qxd1+` | -9.95 → -6.51 | Inaccuracy | `Qh3+` |
+| 33 | Me (White) | `Bb3+` | -6.48 → -12.06 | Inaccuracy | `Rd7` |
+| 34 | Me (White) | `a4` | -9.68 → #-9 | Mistake | `Rd7+` |
+| 34 | Opponent (Black) | `bxa4` | #-9 → -8.37 | Mistake | `Rh8` |
+| 35 | Me (White) | `Bxa4` | -8.37 → #-6 | Mistake | `Rd7+` |
+| 35 | Opponent (Black) | `c5` | #-6 → -7.12 | Mistake | `Rh8` |
+| 36 | Me (White) | `Rc1` | -7.12 → #-2 | Mistake | `Rd7+` |
+| 36 | Opponent (Black) | `Rc8` | #-2 → -6.76 | Blunder | `Rh8` |
+| 37 | Me (White) | `Bd7` | -6.76 → #-3 | Blunder | `Rc3` |
+| 37 | Opponent (Black) | `Rc7` | #-3 → -8.06 | Mistake | `Rh8` |
+| 38 | Me (White) | `Be6` | -8.06 → #-3 | Mistake | `Rd1` |
+| 38 | Opponent (Black) | `g5` | #-3 → +5.56 | Blunder | `Kh8` |
 
 *(Draft entry — leak number and lesson pending my review.)*
 
@@ -525,9 +1015,38 @@ need a longer write-up.
 - Link: https://lichess.org/6DCNXsRu
 - PGN: `games/pgn/game-11-yahto19.pgn`
 - Result: White won by checkmate.
-- **Me: [NOT YET ANALYSED] accuracy · [NOT YET ANALYSED] blunders · inaccuracies · ACPL.**
-  Phases: [NOT YET ANALYSED].
-- **Opponent: [NOT YET ANALYSED]**
+- **Me: 10 blunders · 2 mistakes · 0 inaccuracies · 147 ACPL.** (accuracy % isn't exposed by Lichess's API — read it off the Link above)
+- **Opponent: 4 blunders · 4 mistakes · 4 inaccuracies · 113 ACPL.**
+- Phases (Lichess division): opening ends ~move 11, endgame starts ~move 22.
+
+**Computer analysis — flagged moves (from Lichess):**
+
+| Move | Side | Played | Eval before → after | Judgment | Best |
+|---|---|---|---|---|---|
+| 9 | Me (Black) | `Bh5` | +0.41 → +1.93 | Mistake | `Be6` |
+| 10 | Opponent (White) | `O-O` | +1.93 → +1.04 | Inaccuracy | `g4` |
+| 11 | Opponent (White) | `g4` | +1.26 → +0.00 | Mistake | `f3` |
+| 11 | Me (Black) | `Nxe2+` | +0.00 → +1.42 | Mistake | `Nf3+` |
+| 13 | Opponent (White) | `g5` | +1.37 → +0.35 | Inaccuracy | `a4` |
+| 15 | Me (Black) | `Nf4` | +0.41 → +2.63 | Blunder | `a5` |
+| 17 | Opponent (White) | `Qf3` | +2.51 → +1.04 | Mistake | `h4` |
+| 17 | Me (Black) | `Qd6` | +1.04 → +3.78 | Blunder | `Kh8` |
+| 18 | Opponent (White) | `Rae1` | +3.78 → +1.79 | Mistake | `h4` |
+| 18 | Me (Black) | `a6` | +1.79 → +3.93 | Blunder | `Kh8` |
+| 19 | Opponent (White) | `e5` | +3.93 → +2.23 | Mistake | `h4` |
+| 20 | Me (Black) | `Bh5` | +2.23 → +5.87 | Blunder | `Qd8` |
+| 22 | Opponent (White) | `Rg2` | +5.70 → +0.00 | Blunder | `Kh1` |
+| 23 | Opponent (White) | `Re2` | +0.00 → -7.79 | Blunder | `g6` |
+| 23 | Me (Black) | `Qd1` | -7.79 → -2.85 | Blunder | `Qg3+` |
+| 24 | Opponent (White) | `Qf3` | -2.85 → -3.64 | Inaccuracy | `e6` |
+| 24 | Me (Black) | `b5` | -3.64 → +0.00 | Blunder | `Rae8` |
+| 25 | Opponent (White) | `Bd5` | +0.00 → -4.03 | Blunder | `Bxf7+` |
+| 26 | Me (Black) | `c4` | -4.26 → -0.78 | Blunder | `Rfe8` |
+| 27 | Me (Black) | `Qb3` | -0.87 → +1.22 | Blunder | `g6` |
+| 28 | Opponent (White) | `Qxf4` | +1.22 → +0.46 | Inaccuracy | `Rf2` |
+| 28 | Me (Black) | `b4` | +0.46 → +5.11 | Blunder | `Qd1` |
+| 30 | Opponent (White) | `Qh4` | +4.94 → -0.08 | Blunder | `e6` |
+| 30 | Me (Black) | `Qxb2` | -0.08 → #1 | Blunder | `g6` |
 
 *(Draft entry — leak number and lesson pending my review.)*
 
