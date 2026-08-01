@@ -14,6 +14,7 @@ Detail file for games 1–40: [`logs/games-001-040.md`](logs/games-001-040.md)
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 39 | WIN | Black | khardikov (1004) | *pending* |
 | 38 | DRAW | White | BiswajitShuvo (959) | **#1** (wrong capture) |
 | 37 | LOSS | Black | pavanraaj (978) | *pending* |
 | 36 | WIN | White | abdel05 (827) | *pending* |
