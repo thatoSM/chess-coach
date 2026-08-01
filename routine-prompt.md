@@ -10,10 +10,10 @@ REPO STRUCTURE — read this first, it governs every part below:
   analysis live here.
 - `docs/` is off limits. Never edit anything in it.
 
-Your job tonight has THREE parts: (1) sync any new finished games as DRAFT
+Your job tonight has FOUR parts: (1) sync any new finished games as DRAFT
 entries, (2) backfill real computer-analysis data into existing draft entries
-that are now analysed on Lichess, and (3) remove any zero-move games that
-slipped in.
+that are now analysed on Lichess, (3) backfill my Elo into old entry headings
+that don't have it yet, and (4) remove any zero-move games that slipped in.
 
 === PART 1 — SYNC NEW GAMES ===
 
@@ -169,7 +169,29 @@ Do NOT touch the `**Lesson —` section, the leak number, `**The ONE thing to
 fix:**`, or the row in `games/game-log.md` — those stay as human-review
 placeholders. Do NOT touch `docs/`.
 
-=== PART 3 — REMOVE ZERO-MOVE GAMES ===
+=== PART 3 — BACKFILL MY ELO INTO OLD HEADINGS ===
+
+Older entries were logged before headings included my Elo, so their heading
+still reads `## Game NN — RESULT · COLOUR vs Opponent (OpponentElo if
+present) · how it ended` with nothing in parentheses after COLOUR.
+
+STEP 1 — Search EVERY file in `games/logs/` for `## Game NN —` headings where
+COLOUR (`White` or `Black`) is NOT immediately followed by `(`. Those are the
+ones missing my Elo.
+
+STEP 2 — For each such entry, read its own `- PGN:` line to find its local
+PGN file (e.g. `games/pgn/game-NN-opponentname.pgn`) — no need to hit the
+Lichess API, the file is already saved locally. Read that file's `[WhiteElo
+"..."]` or `[BlackElo "..."]` tag, matching the colour stated in the entry's
+`- Colour: I played [White/Black].` line.
+
+STEP 3 — If that Elo tag has a real value (not empty or `?`), edit the
+heading in place to insert it right after COLOUR, e.g. change `· White vs
+Opponent (959) ·` to `· White (1523) vs Opponent (959) ·`. If the tag is
+missing or `?`, leave that heading untouched. Don't touch anything else in
+the entry.
+
+=== PART 4 — REMOVE ZERO-MOVE GAMES ===
 
 For every game currently logged in any `games/logs/` file (via its `Link:` game
 ID), fetch the JSON export and check the `moves` field. If a game has zero moves
@@ -186,10 +208,10 @@ remove here.
 
 === COMMIT AND PUSH ===
 
-If you made ANY changes (new games, backfilled analysis, and/or removed
-zero-move games): stage everything changed, commit with a clear message
-describing what happened, and push straight to `origin main`. Never open a pull
-request, never push to a side branch. If nothing changed at all, skip committing
-entirely.
+If you made ANY changes (new games, backfilled analysis, backfilled old
+headings with my Elo, and/or removed zero-move games): stage everything
+changed, commit with a clear message describing what happened, and push
+straight to `origin main`. Never open a pull request, never push to a side
+branch. If nothing changed at all, skip committing entirely.
 
 After committing and pushing, run `npx repomix` in the repo root.
