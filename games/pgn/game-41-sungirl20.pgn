@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/QAQKhTeN"]
+[Date "2026.08.01"]
+[Round "-"]
+[White "Sungirl20"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "QAQKhTeN"]
+[UTCDate "2026.08.01"]
+[UTCTime "10:23:13"]
+[WhiteElo "1009"]
+[BlackElo "988"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C54"]
+[Opening "Italian Game: Classical Variation, Greco Gambit, Traditional Line"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. Bc4 { [%eval 0.07] } 3... Bc5 { [%eval 0.2] } 4. c3 { [%eval 0.09] } 4... Nf6 { [%eval 0.13] } 5. d4 { [%eval 0.0] } 5... exd4 { [%eval 0.18] } 6. cxd4 { [%eval -0.01] } 6... Bb6 { [%eval 2.46] } 7. d5 { [%eval 1.36] } 7... Na5 { [%eval 3.06] } 8. Bd3 { [%eval 3.0] } 8... O-O { [%eval 3.19] } 9. b4 { [%eval 2.93] } 9... d6 { [%eval 3.75] } 10. bxa5 { [%eval 3.66] } 10... Bxa5+ { [%eval 3.84] } 11. Bd2 { [%eval 3.56] } 11... Bb6 { [%eval 3.53] } 12. Nc3 { [%eval 3.44] } 12... Bg4 { [%eval 3.47] } 13. h3 { [%eval 3.39] } 13... Bh5 { [%eval 3.43] } 14. O-O { [%eval 3.47] } 14... Bd4 { [%eval 4.01] } 15. Be2 { [%eval 3.76] } 15... Qe7 { [%eval 6.47] } 16. Nxd4 { [%eval 6.53] } 16... Nxe4 { [%eval 7.73] } 17. Nxe4 { [%eval 6.23] } 17... Qxe4 { [%eval 6.35] } 18. Bxh5 { [%eval 6.33] } 18... Qxd4 { [%eval 6.23] } 19. Bg4 { [%eval 6.01] } 19... Qxd5 { [%eval 6.04] } 20. Re1 { [%eval 5.8] } 20... Rae8 { [%eval 5.82] } 21. Rc1 { [%eval 5.53] } 21... c5 { [%eval 5.98] } 22. Re3 { [%eval 5.55] } 22... Rxe3 { [%eval 5.65] } 23. Bxe3 { [%eval 5.5] } 23... Qxa2 { [%eval 5.68] } 24. Qxd6 { [%eval 5.58] } 24... Qa3 { [%eval 7.19] } 25. Bxc5 { [%eval 1.53] } 25... Qxc1+ { [%eval 1.37] } 26. Kh2 { [%eval 1.53] } 26... Rc8 { [%eval #9] } 27. Bxc8 { [%eval #8] } 1-0
+
+

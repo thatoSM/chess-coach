@@ -11,9 +11,19 @@ Full entries live in `games/logs/`. Aggregate evidence lives in
 colour and eval direction first.
 
 Detail file for games 1–40: [`logs/games-001-040.md`](logs/games-001-040.md)
+Detail file for games 41–80: [`logs/games-041-080.md`](logs/games-041-080.md)
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 48 | WIN | Black | hokybox10 (1011) | *pending* |
+| 47 | WIN | White | Dem0nAlive (996) | *pending* |
+| 46 | WIN | White | Clotilde78891 (968) | *pending* |
+| 45 | WIN | Black | costamar55 (966) | *pending* |
+| 44 | WIN | Black | FrankJavi (964) | *pending* |
+| 43 | LOSS | White | kaveriram (1047) | *pending* |
+| 42 | LOSS | White | prince202621 (926) | *pending* |
+| 41 | LOSS | Black | Sungirl20 (1009) | *pending* |
+| 40 | WIN | Black | MGPier (990) | *pending* |
 | 39 | WIN | Black | khardikov (1004) | *pending* |
 | 38 | DRAW | White | BiswajitShuvo (959) | **#1** (wrong capture) |
 | 37 | LOSS | Black | pavanraaj (978) | *pending* |

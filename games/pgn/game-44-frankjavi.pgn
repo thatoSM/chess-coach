@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/sRO2skAa"]
+[Date "2026.08.01"]
+[Round "-"]
+[White "FrankJavi"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "sRO2skAa"]
+[UTCDate "2026.08.01"]
+[UTCTime "11:08:54"]
+[WhiteElo "964"]
+[BlackElo "971"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C46"]
+[Opening "Three Knights Opening"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. Nc3 { [%eval 0.06] } 3... Bc5 { [%eval 0.46] } 4. d3 { [%eval 0.0] } 4... d6 { [%eval 0.03] } 5. Be3 { [%eval -0.21] } 5... Bxe3 { [%eval 0.0] } 6. fxe3 { [%eval 0.0] } 6... Nf6 { [%eval 0.0] } 7. d4 { [%eval -0.1] } 7... exd4 { [%eval -0.28] } 8. exd4 { [%eval -0.34] } 8... Bg4 { [%eval 0.26] } 9. Be2 { [%eval -0.34] } 9... O-O { [%eval -0.33] } 10. Nh4 { [%eval -2.18] } 10... Bxe2 { [%eval -1.87] } 11. Qxe2 { [%eval -2.46] } 11... Nxd4 { [%eval -2.55] } 12. Qd3 { [%eval -2.85] } 12... Nc6 { [%eval -1.11] } 13. Nf5 { [%eval -1.37] } 13... Ne7 { [%eval -1.2] } 14. Qg3 { [%eval -2.92] } 14... Nxf5 { [%eval -2.96] } 15. exf5 { [%eval -3.21] } 15... Qe8+ { [%eval -2.44] } 16. Ne2 { [%eval -3.68] } 16... Qe4 { [%eval -3.44] } 17. O-O-O { [%eval -4.67] } 17... Qxe2 { [%eval -4.55] } 18. Rhe1 { [%eval -4.72] } 18... Qb5 { [%eval -4.77] } 19. Rf1 { [%eval -4.92] } 19... Nh5 { [%eval -3.89] } 20. Qg5 { [%eval -4.41] } 20... Nf6 { [%eval -4.53] } 21. g4 { [%eval -4.5] } 21... h6 { [%eval -4.29] } 22. Qf4 { [%eval -4.11] } 22... g5 { [%eval -2.3] } 23. Qd4 { [%eval -3.96] } 23... Kg7 { [%eval -3.76] } 24. h4 { [%eval -3.29] } 24... Qe2 { [%eval -3.75] } 25. hxg5 { [%eval -4.02] } 25... hxg5 { [%eval -4.13] } 26. Rg1 { [%eval -4.31] } 26... Rh8 { [%eval -4.08] } 27. Rde1 { [%eval -3.72] } 27... Qa6 { [%eval -1.81] } 28. Qd2 { [%eval -3.49] } 28... Nh7 { [%eval -1.94] } 29. Rh1 { [%eval -2.25] } 29... Qxa2 { [%eval -1.92] } 30. f6+ { [%eval -2.32] } 30... Kxf6 { [%eval -1.91] } 31. Qd4+ { [%eval -3.06] } 31... Kg6 { [%eval -2.86] } 32. Qe4+ { [%eval -4.44] } 32... Kg7 { [%eval -4.29] } 0-1
+
+
