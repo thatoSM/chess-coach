@@ -77,7 +77,7 @@ immediately after the header/`---` divider, before the current topmost
 `## Game N` heading. Follow `docs/06-reading-an-analysis.md`: state my colour and
 eval-sign direction FIRST. Use this structure:
 
-    ## Game NN — RESULT · COLOUR vs Opponent (OpponentElo if present) · how it ended
+    ## Game NN — RESULT · COLOUR (MyElo if present) vs Opponent (OpponentElo if present) · how it ended
 
     - Colour: I played [White/Black]. Eval direction: [positive/NEGATIVE] evals are my advantage.
     - Link: https://lichess.org/GAMEID
