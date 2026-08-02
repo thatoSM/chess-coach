@@ -1,5 +1,9 @@
 # My Recurring Mistakes — THE CORE FILE
 
+_Last updated: 2 August 2026, after a full review of all 13 analysed losses and
+the games 43–48 winning streak. Every move claim below was verified against the
+PGN in `games/pgn/` with a legal-move generator._
+
 Read this first when analysing any new game (after confirming colour and eval
 sign — see `docs/06-reading-an-analysis.md`).
 
@@ -28,6 +32,44 @@ exact position):
 | vs Clotilde78891 (Black) | `29...g5??` | `29...Rf2+` | a CHECK; -2.3 → +0.1 — **and I played `Rf2+` on move 33** |
 | vs water-dragon562 (White) | `3.Bc4?` | `3.Nxe5` | `2...Bc5` stopped defending e5; +1.8 → +0.3 |
 | vs esteesAmin (Black) | `29...Nxd1??` | `29...Qxg2#` | **MATE IN ONE — I took a rook instead** |
+| Game 34 vs doctorexcal (White) | `28.b5` | `28.Ra8#` | **MATE IN ONE — and I played `Ra8+` on move 29** |
+| Game 37 vs pavanraaj (Black) | `28...Qc1+` | `28...Qxf4` | had `#-4`; played the wrong forcing move. `#-4` → +3.20 |
+| Game 30 vs AnayAnand2016 (White) | `12.Be3` | `12.Qh5+` | a CHECK at +6.21; quiet bishop move instead. +6.21 → +2.09 |
+| Game 23 vs spoof-em-up (White) | `25.Kd3` | `25.Qxc7+` | check-AND-capture of the queen; I moved my king. +1.81 → -8.87 |
+| Game 11 vs yahto19 (Black) | `23...Qd1` | `23...Qg3+` | a CHECK, handed a -7.79 position. -7.79 → -2.85 |
+| Game 21 vs kai-reader (Black) | `9...h6` | `9...Bxd5` | a CAPTURE; quiet pawn move instead |
+| Game 16 vs GiftmischerPTA (White) | `19.c4`, `20.dxc4`, `21.Nd7` | `Bxf6` | **the same capture available three moves running** |
+| Game 15 vs rafffaelll2022 (Black) | `6...Re8`, `7...Nh5` | `Nxg4`, `Bxh3` | two captures on offer during a wild attack; played quiet moves |
+
+**Added after the loss review of 2 Aug 2026.** Every row above was checked
+against the PGN in `games/pgn/` with a legal-move generator — the suggested move
+was legal in that exact position, and the colour was confirmed from the
+`Colour:` line of each log entry first.
+
+**Leak #1 is the decisive error in 8 of my 13 analysed losses.**
+
+### It is present in my WINS too — 2 Aug 2026
+
+Verified against the PGNs. These are all games I **won**:
+
+| Game | I played | Was available | Swing |
+|---|---|---|---|
+| 44 (WIN) | `25...f5` | `Qf4+` | mate in 2 → -6.09 |
+| 44 (WIN) | `26...Qd2` | `Qf4+` | mate in 2 → -5.16 |
+| 44 (WIN) | `27...f4` | `Qf4+` | mate in 2 → -4.85 |
+| 44 (WIN) | `30...f3` | **`Qg3#`** | **mate in one** → +2.85 |
+| 48 (WIN) | `19...fxe5` | `Qg4+` | +0.59 → +8.49 — **played `Qg4+` on move 22** |
+| 47 (WIN) | `10...exd4` | `Nxe3` | -7.59 → -0.84 |
+| 47 (WIN) | `11...Nxd4` | `Nxe3` | -6.92 → -0.11 |
+
+Game 44 is the Game 16 shape inside a win: the same check missed on three
+consecutive moves, each time from a forced mate, then mate in one missed three
+moves later. I won because the opponent blundered nine times to my seven.
+
+**Game 47 is the warning.** 2 blunders, 0 mistakes, 0 inaccuracies —
+statistically my cleanest game in the set. Both blunders were the same missed
+capture, two moves running, each throwing away a completely winning position.
+**A low blunder count is not evidence the leak is gone.**
 
 **Unverified — do not cite as evidence:**
 
@@ -42,13 +84,22 @@ exact position):
 
 ### The one-move-late pattern — the strongest evidence in this repo
 
-Twice now I have played the exact move I missed, a move or two later, with
-nothing learned in between:
+**Four times now** I have played the exact move I missed, a move or two later,
+with nothing learned in between:
 
 - **Game 5, move 11:** played `O-O`. `Nxf3+` was legal. **Played `Nxf3+` on move 12.**
 - **Game 8, move 29:** played `g5`. `Rf2+` was legal. **Played `Rf2+` on move 33.**
+- **Game 34, move 28:** played `b5`. **`Ra8#` was legal — mate in one.**
+  **Played `Ra8+` on move 29**, by which point it lost: +7.75 → -5.80. Mated
+  seven moves later.
+- **Game 42, move 10:** played `Bg5` (+1.37 → -0.34). `Nxe5` was best.
+  **Played `Nxe5` on move 11** (+0.02 → -4.23) and **resigned on move 11.**
+  An eleven-move loss caused by nothing but playing the right move one move late.
 
-Both confirmed against the PGN. The move was never missing from my chess. **The
+A fifth near-instance, in a game I won: **Game 48, move 19** — missed `Qg4+`,
+played it on move 22.
+
+All confirmed against the PGN with a legal-move generator. The move was never missing from my chess. **The
 search was missing from my routine.** My puzzle rating being above my game
 rating says the same thing — in a puzzle, someone else runs the search for me.
 
@@ -143,12 +194,59 @@ or I'll fix the wrong thing.
 
 ---
 
+---
+
+## CANDIDATE — capturing without checking the reply (NOT YET NUMBERED)
+
+**Do not treat this as a documented leak. It has evidence but no human review.**
+
+The reverse shape of Leak #1: instead of missing a forcing move, I *make* one —
+usually a capture — without asking what it allows. Four instances, all verified
+against the PGN:
+
+| Game | I played | Was best | Swing |
+|---|---|---|---|
+| 24 vs mlbbhunter (White) | `15.Bxb8` | `15.Bd6` | +9.72 → mate in 2 against me |
+| 14 vs rafffaelll2022 (White) | `9.Qxg4` | `9.Nc3` | +5.27 → -5.99 |
+| 25 vs Aliyetkin (White) | `24.Rxb1` | `24.Qxe5` | +0.32 → mate in 7 against me |
+| 26 vs Aaryav555 (Black) | `27...exd4` | `27...Qe7` | -4.38 → +6.59 |
+
+Game 21 move 13 (`dxe5` instead of `Rxe5`, straight into mate in 2) may belong
+here too — it also breaks the board card's existing rule, *"recapture near my
+king with a PIECE, not a pawn."*
+
+**Four losses is enough to notice. It is not enough to number.** It might be a
+genuine sixth leak, or it might be the far side of the same missing habit as
+Leak #1. **I review those four positions myself before this becomes a numbered
+leak.** That is the Leak #4 lesson.
+
+---
+
+## CANDIDATE — failing to convert a winning endgame (NOT YET NUMBERED)
+
+Two instances of a smooth decline rather than a blunder-brawl:
+
+- **Game 20 vs minikmustafa (White):** 40 ACPL, no catastrophe. +5.46 at move 19
+  declining steadily to -3 by move 31 across a dozen small errors. The engine
+  wanted quiet improving moves — `Rf1`, `Rg1`, `a4`, `Ke3`.
+- **Game 41 vs prince202621 (White):** +7.37 at move 35 bleeding to +1.20 by
+  move 42, then `48.Kb3` (+6.01 → -6.63). A 71-move loss.
+
+**Two is not a pattern.** Watch for a third before writing anything down. This
+also sits oddly against endgame being my strongest phase — which may mean it's a
+*long-game* problem rather than an endgame one.
+
+---
+
 ## The meta-pattern
 
 - **Leaks 1, 2 and 3 are the same root:** I don't run the forcing search before
   quiet-looking moves — or I run it in the wrong order.
 - **Leak 4 is unproven.** Don't reach for it.
 - **Leak 5 is a state problem, not a skill problem.**
+- **Two candidates are unnumbered on purpose.** Capturing-without-checking (4
+  instances) and endgame conversion (2 instances). Evidence exists; human review
+  doesn't. They stay unnumbered until I've looked at the positions myself.
 
 When coaching me: figure out which of these a game shows. It's almost always one
 of these, and **usually #1**. Do not reach for a new, more sophisticated
