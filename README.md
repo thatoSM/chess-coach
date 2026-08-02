@@ -11,10 +11,9 @@ _Numbers last verified against my Lichess profile on **2 August 2026**._
 
 - Lichess username: **ThatoSM** (South Africa, member since 24 Nov 2024)
 - Format I play: **10+5 Rapid**
-- Current rapid rating: Current numbers: see [STATS.md](STATS.md), regenerated nightly.
-- Rating: **1026 rapid** — an all-time high, set 2 Aug 2026. Low of **601** on
-  25 May 2026. That is **+425 in roughly ten weeks.**
-- Puzzle rating: Current numbers: see [STATS.md](STATS.md), regenerated nightly.
+- Current numbers: see [STATS.md](STATS.md), regenerated nightly.
+- Lowest rapid rating was **601** on 25 May 2026.
+- Puzzle rating: see [STATS.md](STATS.md), regenerated nightly.
 - Colour repertoire: **1.e4 as White, 1...e5 as Black**, Italian-style development
 - I learnt fundamentals via Duolingo starting May 2026, then moved to real
   coaching and Lichess puzzle training.
