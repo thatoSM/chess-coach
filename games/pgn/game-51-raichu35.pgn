@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/MlFKnACJ"]
+[Date "2026.08.02"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "raichu35"]
+[Result "1-0"]
+[GameId "MlFKnACJ"]
+[UTCDate "2026.08.02"]
+[UTCTime "13:24:48"]
+[WhiteElo "1018"]
+[BlackElo "969"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-74"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C57"]
+[Opening "Italian Game: Two Knights Defense, Ponziani-Steinitz Gambit"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nf6 { [%eval 0.34] } 3. Bc4 { [%eval -0.5] } 3... Nc6 { [%eval 0.22] } 4. Ng5 { [%eval 0.04] } 4... Nxe4 { [%eval 2.0] } 5. Nxf7 { [%eval -0.47] } 1-0
+
+

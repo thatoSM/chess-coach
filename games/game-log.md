@@ -15,6 +15,9 @@ Detail file for games 41–80: [`logs/games-041-080.md`](logs/games-041-080.md)
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 52 | WIN | White | tnslangwen (946) | *pending* |
+| 51 | WIN | White | raichu35 (969) | *pending* |
+| 50 | WIN | White | mgdewidar (1016) | *pending* |
 | 49 | WIN | White | toreporru (1033) | *pending* |
 | 48 | WIN | Black | khardikov (1004) | *pending* |
 | 47 | WIN | Black | hokybox10 (1011) | *pending* |
