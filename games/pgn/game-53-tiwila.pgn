@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/tQdA4r7C"]
+[Date "2026.08.02"]
+[Round "-"]
+[White "tiwila"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "tQdA4r7C"]
+[UTCDate "2026.08.02"]
+[UTCTime "14:52:22"]
+[WhiteElo "1019"]
+[BlackElo "1026"]
+[WhiteRatingDiff "-15"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Zukertort Variation"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.15] } 1... d5 { [%eval 0.27] } 2. Nf3 { [%eval 0.08] } 2... Bf5 { [%eval 0.34] } 3. Bf4 { [%eval 0.07] } 3... e6 { [%eval 0.03] } 4. e3 { [%eval 0.14] } 4... Nc6 { [%eval 0.26] } 5. Bd3 { [%eval 0.21] } 5... Nf6 { [%eval 0.26] } 6. O-O { [%eval 0.1] } 6... Bd6 { [%eval 0.24] } 7. Bxf5 { [%eval 0.32] } 7... exf5 { [%eval 0.26] } 8. Bxd6 { [%eval 0.32] } 8... Qxd6 { [%eval 0.39] } 9. Nc3 { [%eval 0.19] } 9... O-O { [%eval 0.17] } 10. Ne5 { [%eval -1.38] } 10... Nxe5 { [%eval -1.39] } 11. dxe5 { [%eval -1.41] } 11... Qxe5 { [%eval -1.4] } 12. Nxd5 { [%eval -4.86] } 0-1
+
+

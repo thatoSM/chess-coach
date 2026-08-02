@@ -15,6 +15,8 @@ Detail file for games 41–80: [`logs/games-041-080.md`](logs/games-041-080.md)
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 54 | WIN | Black | Miscio (1069) | *pending* |
+| 53 | WIN | Black | tiwila (1019) | *pending* |
 | 52 | WIN | White | tnslangwen (946) | *pending* |
 | 51 | WIN | White | raichu35 (969) | *pending* |
 | 50 | WIN | White | mgdewidar (1016) | *pending* |
