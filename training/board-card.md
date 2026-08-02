@@ -8,9 +8,10 @@ system stripped to what I can actually read mid-game.**
 ## Every single move, before I touch a piece
 
 ```
-1. CHECKS      — every check I have
-2. CAPTURES    — every capture I have
-3. THREATS     — anything undefended? any fork?
+0. MATE       — is there a mate? in one? in two?
+1. CHECKS     — every check I have
+2. CAPTURES   — every capture I have
+3. THREATS    — anything undefended? any fork?
 ```
 
 **If a quiet move feels obviously right — that is the trigger to scan, not to
@@ -75,7 +76,7 @@ Tilted from a loss?            → one more game MAX, then stop
 
 ## The one line
 
-**Checks, captures, threats — especially when the position looks quiet.**
+**Mate, checks, captures — in that order, especially when I'm already winning.**
 
 ## The moment the game ends
 

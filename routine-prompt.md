@@ -1,5 +1,12 @@
 This is a personal chess-training repo. My Lichess username is ThatoSM.
 
+IMPORTANT — always send a `User-Agent` header on every curl request to
+lichess.org (e.g. `-A "Mozilla/5.0"` or `-H 'User-Agent: Mozilla/5.0'`).
+Without one, `lichess.org/api/games/user/{username}` returns a bare 404
+`{"error":"Not found"}` even though the endpoint is fine — this cost a full
+night's sync before the cause was found. Every curl example below already
+includes it; keep it on any curl command you add.
+
 REPO STRUCTURE — read this first, it governs every part below:
 
 - `games/game-log.md` is an INDEX ONLY. It is a markdown table, newest game at
@@ -26,7 +33,7 @@ number in the table's `#` column. Do NOT look for game IDs in
 
 STEP 2 — Find new games.
 Query the Lichess API for my recent finished games, e.g.:
-`curl -s 'https://lichess.org/api/games/user/ThatoSM?max=30&opening=true' -H 'Accept: application/x-ndjson'`
+`curl -s -A "Mozilla/5.0" 'https://lichess.org/api/games/user/ThatoSM?max=30&opening=true' -H 'Accept: application/x-ndjson'`
 If more than 30 games might be missing (e.g. after a gap), increase `max` so
 nothing is missed. If this endpoint errors or 404s transiently, retry once after
 a short pause before giving up on this part — don't let it block Parts 2/3.
@@ -40,7 +47,7 @@ STEP 3 — Process each new game, oldest to newest (so numbering stays sequentia
 For each new game ID:
 
 (a) Export its PGN:
-`curl -s 'https://lichess.org/game/export/GAMEID?evals=true&clocks=false' -H 'Accept: application/x-chess-pgn'`
+`curl -s -A "Mozilla/5.0" 'https://lichess.org/game/export/GAMEID?evals=true&clocks=false' -H 'Accept: application/x-chess-pgn'`
 Also fetch the JSON form (`Accept: application/json`) and check the `moves`
 field — if it is empty or has zero half-moves, SKIP this game entirely: do not
 create a PGN file, a log entry, or an index row. Never log a game with no moves
@@ -122,7 +129,7 @@ literal text `[NOT YET ANALYSED]`. For each, extract its Lichess game ID from it
 the right one.
 
 STEP 2 — For each such game ID, query:
-`curl -s 'https://lichess.org/game/export/GAMEID?evals=true' -H 'Accept: application/json'`
+`curl -s -A "Mozilla/5.0" 'https://lichess.org/game/export/GAMEID?evals=true' -H 'Accept: application/json'`
 and check whether the response's top-level `analysis` array is present AND
 `players.white.analysis` / `players.black.analysis` objects are present (both
 must exist — that means Lichess has finished analysing it). If not present yet,
