@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/NrqqHy6s"]
+[Date "2026.08.01"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "toreporru"]
+[Result "1-0"]
+[GameId "NrqqHy6s"]
+[UTCDate "2026.08.01"]
+[UTCTime "20:42:13"]
+[WhiteElo "1006"]
+[BlackElo "1033"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C50"]
+[Opening "Italian Game: Giuoco Pianissimo"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. Bc4 { [%eval 0.07] } 3... Bc5 { [%eval 0.2] } 4. O-O { [%eval 0.13] } 4... Nf6 { [%eval 0.2] } 5. Nc3 { [%eval 0.07] } 5... d6 { [%eval 0.11] } 6. d3 { [%eval 0.04] } 6... Bg4 { [%eval 0.07] } 7. Bg5 { [%eval -0.86] } 7... h6 { [%eval 0.0] } 8. Bh4 { [%eval -1.82] } 8... g5 { [%eval -1.68] } 9. Bg3 { [%eval -1.62] } 9... h5 { [%eval -1.47] } 10. h4 { [%eval -2.24] } 10... gxh4 { [%eval 1.28] } 11. Bxh4 { [%eval 1.4] } 11... Rh6 { [%eval 1.39] } 12. Nd5 { [%eval 1.13] } 12... Qd7 { [%eval 3.64] } 13. Nxf6+ { [%eval 3.49] } 13... Rxf6 { [%eval 3.5] } 14. Bxf6 { [%eval 3.42] } 14... Nd4 { [%eval 3.04] } 15. c3 { [%eval 0.0] } 15... Bh3 { [%eval 6.55] } 16. Nh4 { [%eval 5.39] } 16... Bg4 { [%eval 5.1] } 17. f3 { [%eval 3.73] } 17... Bh3 { [%eval 6.39] } 18. cxd4 { [%eval 6.22] } 18... Bxd4+ { [%eval 6.22] } 19. Rf2 { [%eval 5.48] } 19... Bxf2+ { [%eval 6.32] } 20. Kxf2 { [%eval 6.25] } 20... Be6 { [%eval 6.61] } 21. Bxe6 { [%eval 6.28] } 21... Qxe6 { [%eval 6.13] } 22. Bg7 { [%eval 5.42] } 22... Ke7 { [%eval 6.41] } 23. Qb3 { [%eval 6.3] } 23... Qd7 { [%eval 8.5] } 24. Nf5+ { [%eval 8.55] } 24... Ke8 { [%eval 8.64] } 25. Qxb7 { [%eval 8.44] } 25... Rd8 { [%eval 8.15] } 26. Qxa7 { [%eval 6.7] } 26... d5 { [%eval 8.54] } 27. Rc1 { [%eval 8.57] } 27... dxe4 { [%eval 7.07] } 28. dxe4 { [%eval 6.89] } 28... Qd2+ { [%eval 6.73] } 29. Kg3 { [%eval 6.71] } 29... Qxc1 { [%eval 6.41] } 30. Bxe5 { [%eval 6.82] } 30... Qg5+ { [%eval 7.8] } 31. Kh2 { [%eval 7.38] } 31... f6 { [%eval 8.71] } 32. Bxc7 { [%eval 9.14] } 32... Rd7 { [%eval #19] } 33. Qb8+ { [%eval 11.1] } 33... Kf7 { [%eval 9.33] } 34. Nd6+ { [%eval 0.0] } 34... Ke6 { [%eval #3] } 35. Qe8+ { [%eval #11] } 35... Re7 { [%eval #11] } 36. Qc8+ { [%eval #10] } 36... Rd7 { [%eval #10] } 37. Nf7 { [%eval 0.0] } 37... Qg7 { [%eval #2] } 38. Qe8+ { [%eval #1] } 38... Re7 { [%eval #1] } 39. Nd8# 1-0
+
+
