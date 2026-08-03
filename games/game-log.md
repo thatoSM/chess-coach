@@ -15,6 +15,10 @@ Detail file for games 41–80: [`logs/games-041-080.md`](logs/games-041-080.md)
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 58 | LOSS | White | NguyenAn0808_Xu (1000) | *pending* |
+| 57 | LOSS | Black | Eduardo-1977 (1033) | *pending* |
+| 56 | LOSS | Black | Muk_Singh (1062) | *pending* |
+| 55 | LOSS | White | Calvaroragy (1097) | *pending* |
 | 54 | WIN | Black | Miscio (1069) | *pending* |
 | 53 | WIN | Black | tiwila (1019) | *pending* |
 | 52 | WIN | White | tnslangwen (946) | *pending* |

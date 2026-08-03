@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/r9VNRU3n"]
+[Date "2026.08.03"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "NguyenAn0808_Xu"]
+[Result "0-1"]
+[GameId "r9VNRU3n"]
+[UTCDate "2026.08.03"]
+[UTCTime "12:47:36"]
+[WhiteElo "1024"]
+[BlackElo "1000"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+10"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C50"]
+[Opening "Italian Game: Giuoco Pianissimo"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. Bc4 { [%eval 0.07] } 3... Nf6 { [%eval 0.22] } 4. Nc3 { [%eval 0.0] } 4... Bc5 { [%eval 0.09] } 5. O-O { [%eval 0.07] } 5... d6 { [%eval 0.11] } 6. d3 { [%eval 0.04] } 6... Bg4 { [%eval 0.07] } 7. h3 { [%eval 0.08] } 7... Bh5 { [%eval 0.12] } 8. Bg5 { [%eval -0.1] } 8... Nd4 { [%eval 0.5] } 9. Nd5 { [%eval -1.89] } 9... Nxf3+ { [%eval -2.18] } 10. gxf3 { [%eval -2.02] } 10... O-O { [%eval 0.66] } 11. Nxf6+ { [%eval 0.62] } 11... gxf6 { [%eval 0.6] } 12. Bd5 { [%eval -6.42] } 12... fxg5 { [%eval -6.6] } 13. Bxb7 { [%eval -6.53] } 13... Rb8 { [%eval -6.58] } 14. Bd5 { [%eval -6.82] } 14... Kh8 { [%eval -6.46] } 15. Kh1 { [%eval -7.05] } 15... Qf6 { [%eval -6.7] } 16. Rg1 { [%eval -11.05] } 16... Bxf3+ { [%eval -10.45] } 0-1
+
+
