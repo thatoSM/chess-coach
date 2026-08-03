@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/TmIGS62N"]
+[Date "2026.08.03"]
+[Round "-"]
+[White "SteinPaul"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "TmIGS62N"]
+[UTCDate "2026.08.03"]
+[UTCTime "16:57:06"]
+[WhiteElo "951"]
+[BlackElo "1019"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Wayward Queen Attack"]
+[Termination "Normal"]
+
+1. e4 e5 2. Qh5 Nc6 3. Bc4 Qe7 4. c3 Nf6 5. Qf3 Qc5 6. Na3 Na5 7. d4 exd4 8. cxd4 Qxd4 9. Ne2 Qe5 10. Bd3 Bc5 11. Bf4 Qxb2 12. Be5 Qxa1+ 13. Bxa1 O-O 14. O-O Bxa3 15. Bc3 Nc6 16. Bxf6 gxf6 17. Qxf6 Be7 18. Qf5 d6 19. e5 Bxf5 20. Bxf5 dxe5 21. g3 Nd4 22. Bg4 Nxe2+ 23. Bxe2 Rad8 24. Bc4 Rd4 25. Bb3 c5 26. Re1 Bf6 27. Rc1 b6 28. a4 Kh8 29. a5 bxa5 30. Rxc5 Rd3 31. Ba4 Bd8 32. Rxe5 f6 33. Rf5 Re8 34. Bxe8 Rd1+ 35. Kg2 Kg8 36. Bh5 a4 37. Bxd1 1-0
+
+

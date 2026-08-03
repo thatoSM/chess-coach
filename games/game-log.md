@@ -15,6 +15,12 @@ Detail file for games 41–80: [`logs/games-041-080.md`](logs/games-041-080.md)
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 64 | LOSS | Black | SteinPaul (951) | *pending* |
+| 63 | WIN | White | AnalogueX (938) | *pending* |
+| 62 | LOSS | Black | MRFJ (1004) | *pending* |
+| 61 | LOSS | White | Trungkien20 (1043) | *pending* |
+| 60 | WIN | Black | GAXILION2013 (913) | *pending* |
+| 59 | WIN | White | GAXILION2013 (920) | *pending* |
 | 58 | LOSS | White | NguyenAn0808_Xu (1000) | *pending* |
 | 57 | LOSS | Black | Eduardo-1977 (1033) | *pending* |
 | 56 | LOSS | Black | Muk_Singh (1062) | *pending* |

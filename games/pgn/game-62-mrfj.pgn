@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/Qzw5dn6q"]
+[Date "2026.08.03"]
+[Round "-"]
+[White "MRFJ"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "Qzw5dn6q"]
+[UTCDate "2026.08.03"]
+[UTCTime "15:13:48"]
+[WhiteElo "1004"]
+[BlackElo "1020"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C44"]
+[Opening "Scotch Game: Lolli Variation"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nxd4 5. Qxd4 Nf6 6. e5 Ng8 7. Bc4 c5 8. Qf4 Qe7 9. Nc3 g5 10. Qf5 Nh6 11. Qxg5 a6 12. Nd5 Qe6 13. Nc7# 1-0
+
+

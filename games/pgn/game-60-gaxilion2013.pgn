@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/TRmNgMnz"]
+[Date "2026.08.03"]
+[Round "-"]
+[White "GAXILION2013"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "TRmNgMnz"]
+[UTCDate "2026.08.03"]
+[UTCTime "13:37:52"]
+[WhiteElo "913"]
+[BlackElo "1022"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+4"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C45"]
+[Opening "Scotch Game: Schmidt Variation"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. d4 { [%eval 0.07] } 3... exd4 { [%eval 0.04] } 4. Nxd4 { [%eval 0.06] } 4... Nf6 { [%eval 0.1] } 5. Nxc6 { [%eval 0.05] } 5... dxc6 { [%eval 0.58] } 6. Nc3 { [%eval -0.3] } 6... Bc5 { [%eval 0.5] } 7. Qxd8+ { [%eval 0.43] } 7... Kxd8 { [%eval 0.63] } 8. Bg5 { [%eval 0.39] } 8... h6 { [%eval 0.4] } 9. O-O-O+ { [%eval 0.11] } 9... Bd7 { [%eval 0.56] } 10. Bxf6+ { [%eval 0.0] } 10... gxf6 { [%eval 0.04] } 11. Bc4 { [%eval -0.06] } 11... Rf8 { [%eval 0.15] } 12. Rhe1 { [%eval -0.02] } 12... Kc8 { [%eval 0.18] } 13. f4 { [%eval 0.2] } 13... b5 { [%eval 0.29] } 14. Bb3 { [%eval 0.28] } 14... Kb7 { [%eval 6.16] } 15. e5 { [%eval 0.96] } 15... fxe5 { [%eval 5.37] } 16. fxe5 { [%eval -0.11] } 16... Rae8 { [%eval 5.44] } 17. Rf1 { [%eval -0.23] } 17... Rxe5 { [%eval 4.51] } 18. Bxf7 { [%eval -4.12] } 18... Be6 { [%eval 0.0] } 19. Bxe6 { [%eval -0.02] } 19... Rxe6 { [%eval 0.0] } 20. Rxf8 { [%eval 0.0] } 20... Bxf8 { [%eval -0.08] } 21. b4 { [%eval -3.05] } 21... Re3 { [%eval -0.62] } 22. Nb1 { [%eval -3.17] } 22... c5 { [%eval -0.71] } 23. bxc5 { [%eval -0.43] } 23... Bxc5 { [%eval -0.42] } 24. Kd2 { [%eval -0.59] } 24... b4 { [%eval 0.0] } 25. c3 { [%eval 0.0] } 25... bxc3+ { [%eval 0.0] } 26. Nxc3 { [%eval -0.05] } 26... a5 { [%eval 0.09] } 27. Nd5 { [%eval -2.35] } 27... Re5 { [%eval 0.0] } 28. Nf6 { [%eval -0.45] } 28... Kb6 { [%eval 7.18] } 29. Ng4 { [%eval -2.88] } 29... Re6 { [%eval -0.25] } 30. Re1 { [%eval -6.91] } 30... Bb4+ { [%eval -6.9] } 31. Kd1 { [%eval -7.35] } 31... Bxe1 { [%eval -7.67] } 0-1
+
+
