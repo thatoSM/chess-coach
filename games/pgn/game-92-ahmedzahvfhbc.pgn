@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/XeoQdVp9"]
+[Date "2026.08.04"]
+[Round "-"]
+[White "ahmedzahvfhbc"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "XeoQdVp9"]
+[UTCDate "2026.08.04"]
+[UTCTime "18:59:24"]
+[WhiteElo "1083"]
+[BlackElo "1084"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C45"]
+[Opening "Scotch Game: Schmidt Variation"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. d4 { [%eval 0.07] } 3... exd4 { [%eval 0.04] } 4. Nxd4 { [%eval 0.06] } 4... Nf6 { [%eval 0.1] } 5. Nc3 { [%eval 0.06] } 5... Bc5 { [%eval 0.26] } 6. Be3 { [%eval 0.31] } 6... O-O { [%eval 4.21] } 7. Nxc6 { [%eval 4.23] } 7... dxc6 { [%eval 5.03] } 8. Bxc5 { [%eval 6.26] } 8... Nxe4 { [%eval 7.23] } 9. Bxf8 { [%eval 6.75] } 9... Nxc3 { [%eval 17.67] } 10. Qxd8 { [%eval 18.51] } 1-0
+
+
