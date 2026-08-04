@@ -12,9 +12,33 @@ colour and eval direction first.
 
 Detail file for games 1–40: [`logs/games-001-040.md`](logs/games-001-040.md)
 Detail file for games 41–80: [`logs/games-041-080.md`](logs/games-041-080.md)
+Detail file for games 81–120: [`logs/games-081-120.md`](logs/games-081-120.md)
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 87 | WIN | Black | esteesAmin (1066) | *pending* |
+| 86 | WIN | Black | Charlescorner (1031) | *pending* |
+| 85 | WIN | White | Ehsankh95 (892) | *pending* |
+| 84 | WIN | White | AlexFrick92 (1027) | *pending* |
+| 83 | LOSS | Black | PaDaioO (1049) | *pending* |
+| 82 | WIN | White | adityaa_2014 (947) | *pending* |
+| 81 | DRAW | White | Superzot (1036) | *pending* |
+| 80 | WIN | White | SaraSaraf (1081) | *pending* |
+| 79 | WIN | Black | PepinChele (1004) | *pending* |
+| 78 | WIN | White | cingren (1027) | *pending* |
+| 77 | WIN | Black | Naglestaad (1082) | *pending* |
+| 76 | WIN | Black | RageRecker (1049) | *pending* |
+| 75 | LOSS | Black | Maryam742017 (1025) | *pending* |
+| 74 | WIN | White | Ilya_belotcytcenko (909) | *pending* |
+| 73 | LOSS | Black | Nickzucchelli2011 (1023) | *pending* |
+| 72 | LOSS | Black | loveisall777 (996) | *pending* |
+| 71 | LOSS | White | Uprising7 (1070) | *pending* |
+| 70 | WIN | Black | iartaa (977) | *pending* |
+| 69 | WIN | White | scientist-man (1090) | *pending* |
+| 68 | WIN | Black | RookStorm1604 (1013) | *pending* |
+| 67 | WIN | Black | SofiaSkachkova (899) | *pending* |
+| 66 | LOSS | White | SofiaSkachkova (891) | *pending* |
+| 65 | WIN | White | iliaetehad (1011) | *pending* |
 | 64 | LOSS | Black | SteinPaul (951) | *pending* |
 | 63 | WIN | White | AnalogueX (938) | *pending* |
 | 62 | LOSS | Black | MRFJ (1004) | *pending* |

@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/jC1os8A5"]
+[Date "2026.08.04"]
+[Round "-"]
+[White "loveisall777"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "jC1os8A5"]
+[UTCDate "2026.08.04"]
+[UTCTime "09:52:03"]
+[WhiteElo "996"]
+[BlackElo "1027"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C57"]
+[Opening "Italian Game: Two Knights Defense, Knight Attack"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. Bc4 { [%eval 0.07] } 3... Nf6 { [%eval 0.22] } 4. Ng5 { [%eval 0.04] } 4... Qe7 { [%eval 2.24] } 5. Bxf7+ { [%eval 1.94] } 5... Kd8 { [%eval 1.99] } 6. Bc4 { [%eval 1.85] } 6... h6 { [%eval 4.86] } 7. Nf7+ { [%eval 4.75] } 7... Ke8 { [%eval 4.76] } 8. Nxh8 { [%eval 6.52] } 8... Nxe4 { [%eval 8.68] } 1-0
+
+

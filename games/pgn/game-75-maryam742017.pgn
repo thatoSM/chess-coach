@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/sH59Rf3c"]
+[Date "2026.08.04"]
+[Round "-"]
+[White "Maryam742017"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "sH59Rf3c"]
+[UTCDate "2026.08.04"]
+[UTCTime "10:40:02"]
+[WhiteElo "1025"]
+[BlackElo "1019"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C44"]
+[Opening "Scotch Game"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 Nf6 4. Nxe5 Nxe4 5. Qe2 Bd6 6. Qxe4 Nxe5 7. dxe5 O-O 8. exd6 1-0
+
+

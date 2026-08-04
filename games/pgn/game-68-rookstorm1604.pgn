@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/VInvekkA"]
+[Date "2026.08.04"]
+[Round "-"]
+[White "RookStorm1604"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "VInvekkA"]
+[UTCDate "2026.08.04"]
+[UTCTime "09:09:21"]
+[WhiteElo "1013"]
+[BlackElo "1014"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C23"]
+[Opening "Bishop's Opening: Boi Variation"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Bc4 { [%eval 0.0] } 2... Bc5 { [%eval 0.13] } 3. Qf3 { [%eval 0.0] } 3... Qe7 { [%eval 0.1] } 4. d3 { [%eval 0.0] } 4... Nf6 { [%eval 0.0] } 5. h4 { [%eval -0.29] } 5... O-O { [%eval 0.12] } 6. Bg5 { [%eval 0.18] } 6... h6 { [%eval 0.25] } 7. Bxf6 { [%eval 0.09] } 7... Qxf6 { [%eval 0.09] } 8. Qxf6 { [%eval 0.11] } 8... gxf6 { [%eval 0.01] } 9. Nd2 { [%eval -0.16] } 9... Nc6 { [%eval -0.14] } 10. c3 { [%eval -0.09] } 10... d6 { [%eval -0.09] } 11. Nb3 { [%eval -0.79] } 11... Bb6 { [%eval -0.71] } 12. Bd5 { [%eval -1.0] } 12... Kh8 { [%eval -0.61] } 0-1
+
+

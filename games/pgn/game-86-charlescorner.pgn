@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/dKVZBhvD"]
+[Date "2026.08.04"]
+[Round "-"]
+[White "Charlescorner"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "dKVZBhvD"]
+[UTCDate "2026.08.04"]
+[UTCTime "16:09:54"]
+[WhiteElo "1031"]
+[BlackElo "1050"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C50"]
+[Opening "Italian Game: Giuoco Piano"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. Bc4 { [%eval 0.07] } 3... Bc5 { [%eval 0.2] } 4. O-O { [%eval 0.13] } 4... Nf6 { [%eval 0.2] } 5. d3 { [%eval 0.13] } 5... d6 { [%eval 0.16] } 6. Bg5 { [%eval -0.09] } 6... Bg4 { [%eval 0.0] } 7. Nc3 { [%eval -0.86] } 7... Nd4 { [%eval -0.83] } 8. Qd2 { [%eval -4.56] } 8... h6 { [%eval 0.42] } 9. Bh4 { [%eval -4.8] } 9... g5 { [%eval -2.63] } 10. Bg3 { [%eval -4.67] } 10... Qe7 { [%eval 0.24] } 11. Nxd4 { [%eval 0.27] } 11... Bxd4 { [%eval 0.23] } 12. Nd5 { [%eval -0.38] } 12... Nxd5 { [%eval -0.39] } 13. Bxd5 { [%eval -0.36] } 13... O-O-O { [%eval 0.25] } 14. c3 { [%eval 0.23] } 14... Bb6 { [%eval 0.3] } 15. h3 { [%eval -0.66] } 15... Be6 { [%eval -0.21] } 16. Bxe6+ { [%eval -0.23] } 16... Qxe6 { [%eval -0.27] } 17. c4 { [%eval -1.29] } 17... f5 { [%eval -0.45] } 18. exf5 { [%eval -0.55] } 18... Qxf5 { [%eval -0.62] } 19. Rae1 { [%eval -0.58] } 19... Rhf8 { [%eval -0.36] } 20. b4 { [%eval -0.44] } 20... c5 { [%eval 0.46] } 21. bxc5 { [%eval -0.05] } 21... Bxc5 { [%eval -0.09] } 22. Qa5 { [%eval -2.14] } 22... Bb6 { [%eval -0.26] } 23. Qc3 { [%eval -0.44] } 23... Bd4 { [%eval -0.46] } 24. Rb1 { [%eval -9.09] } 24... Bxc3 { [%eval -9.07] } 0-1
+
+

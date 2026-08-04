@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/8Zh2ZHCd"]
+[Date "2026.08.04"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "Superzot"]
+[Result "1/2-1/2"]
+[GameId "8Zh2ZHCd"]
+[UTCDate "2026.08.04"]
+[UTCTime "13:13:35"]
+[WhiteElo "1043"]
+[BlackElo "1036"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+1"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Bowdler Attack"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... c5 { [%eval 0.32] } 2. Bc4 { [%eval 0.0] } 2... e6 { [%eval 0.0] } 3. Nf3 { [%eval 0.0] } 3... Nc6 { [%eval 0.0] } 4. O-O { [%eval 0.0] } 4... Nf6 { [%eval 0.14] } 5. Nc3 { [%eval -0.17] } 5... Be7 { [%eval 0.13] } 6. d3 { [%eval -0.21] } 6... O-O { [%eval -0.17] } 7. Be3 { [%eval -2.88] } 7... d5 { [%eval -2.92] } 8. exd5 { [%eval -4.81] } 8... exd5 { [%eval -4.92] } 9. Bb5 { [%eval -4.85] } 9... d4 { [%eval -4.84] } 10. Bf4 { [%eval -5.61] } 10... dxc3 { [%eval -5.35] } 11. bxc3 { [%eval -5.43] } 11... a6 { [%eval -4.32] } 12. Ba4 { [%eval -5.78] } 12... b5 { [%eval -5.64] } 13. Bb3 { [%eval -5.45] } 13... a5 { [%eval -5.48] } 14. a4 { [%eval -5.49] } 14... b4 { [%eval -5.55] } 15. cxb4 { [%eval -5.47] } 15... cxb4 { [%eval -5.41] } 16. Qd2 { [%eval -5.53] } 16... h6 { [%eval -4.75] } 17. Rfd1 { [%eval -5.13] } 17... Nd4 { [%eval -5.22] } 18. Nxd4 { [%eval -5.27] } 18... Qxd4 { [%eval -5.31] } 19. Be3 { [%eval -5.64] } 19... Qg4 { [%eval -5.6] } 20. c3 { [%eval -6.62] } 20... Bd6 { [%eval -5.96] } 21. h3 { [%eval -6.59] } 21... Qg6 { [%eval -6.56] } 22. Bf4 { [%eval -7.59] } 22... Bxh3 { [%eval -7.3] } 23. g3 { [%eval -7.61] } 23... Bxf4 { [%eval -6.6] } 24. Qxf4 { [%eval -6.57] } 24... Bg4 { [%eval -6.4] } 25. Re1 { [%eval -6.41] } 25... Rae8 { [%eval -5.84] } 26. Rxe8 { [%eval -6.1] } 26... Rxe8 { [%eval -6.22] } 27. d4 { [%eval -7.01] } 27... Re4 { [%eval -6.68] } 28. Qb8+ { [%eval -6.39] } 28... Kh7 { [%eval -6.15] } 29. Bc2 { [%eval -6.05] } 29... Re1+ { [%eval -5.51] } 30. Rxe1 { [%eval -4.26] } 30... Qxc2 { [%eval -4.07] } 31. Re7 { [%eval #-7] } 31... Qd1+ { [%eval #-6] } 32. Kg2 { [%eval #-2] } 32... Qf3+ { [%eval #-6] } 33. Kg1 { [%eval #-6] } 33... Qd1+ { [%eval #-6] } 34. Kg2 { [%eval #-2] } 34... Qf3+ { [%eval #-6] } 35. Kg1 { [%eval #-6] } 35... Qd1+ { [%eval 0.0] } 1/2-1/2
+
+
