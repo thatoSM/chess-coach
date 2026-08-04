@@ -16,6 +16,9 @@ Detail file for games 81–120: [`logs/games-081-120.md`](logs/games-081-120.md)
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 90 | WIN | White | Miscio (1036) | *pending* |
+| 89 | WIN | White | Mobin92Jafari (1081) | *pending* |
+| 88 | WIN | Black | Kotusyk (1061) | *pending* |
 | 87 | WIN | Black | esteesAmin (1066) | *pending* |
 | 86 | WIN | Black | Charlescorner (1031) | *pending* |
 | 85 | WIN | White | Ehsankh95 (892) | *pending* |

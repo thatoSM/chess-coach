@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/ruJsYVEu"]
+[Date "2026.08.04"]
+[Round "-"]
+[White "Kotusyk"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "ruJsYVEu"]
+[UTCDate "2026.08.04"]
+[UTCTime "17:56:12"]
+[WhiteElo "1061"]
+[BlackElo "1062"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C50"]
+[Opening "Four Knights Game: Italian Variation"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. Nc3 { [%eval 0.06] } 3... Bc5 { [%eval 0.46] } 4. Bc4 { [%eval 0.12] } 4... Nf6 { [%eval 0.09] } 5. O-O { [%eval 0.07] } 5... O-O { [%eval 0.14] } 6. d3 { [%eval 0.14] } 6... d6 { [%eval 0.1] } 7. Nd5 { [%eval 0.0] } 7... Bg4 { [%eval 0.96] } 8. Qe2 { [%eval -4.16] } 8... Nd4 { [%eval -3.96] } 9. Qe3 { [%eval -6.82] } 9... Nxf3+ { [%eval -6.79] } 10. gxf3 { [%eval -6.71] } 10... Bxe3 { [%eval -6.77] } 0-1
+
+
