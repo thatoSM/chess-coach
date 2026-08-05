@@ -16,6 +16,7 @@ Detail file for games 81–120: [`logs/games-081-120.md`](logs/games-081-120.md)
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 116 | WIN | White | Coc0-Mario (1097) | *pending* |
 | 115 | DRAW | Black | this-isnt-a-nickname (1138) | *pending* |
 | 114 | WIN | Black | m0s6afa (1141) | *pending* |
 | 113 | WIN | White | Artem108 (1100) | *pending* |
