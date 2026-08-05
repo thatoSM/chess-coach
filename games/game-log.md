@@ -16,6 +16,29 @@ Detail file for games 81–120: [`logs/games-081-120.md`](logs/games-081-120.md)
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 115 | DRAW | Black | this-isnt-a-nickname (1138) | *pending* |
+| 114 | WIN | Black | m0s6afa (1141) | *pending* |
+| 113 | WIN | White | Artem108 (1100) | *pending* |
+| 112 | WIN | White | Taurus-II (1077) | *pending* |
+| 111 | WIN | Black | mathiasvela2025 (1117) | *pending* |
+| 110 | LOSS | Black | Mr_Red_07 (1080) | *pending* |
+| 109 | WIN | Black | manniglich (970) | *pending* |
+| 108 | LOSS | White | Akopov21 (1136) | *pending* |
+| 107 | LOSS | White | matdet (1124) | *pending* |
+| 106 | WIN | White | jaymo99 (1067) | *pending* |
+| 105 | LOSS | Black | FrankT83 (1010) | *pending* |
+| 104 | LOSS | Black | TrTrung_Hau (1119) | *pending* |
+| 103 | WIN | Black | Arsyad100817 (1085) | *pending* |
+| 102 | WIN | White | AylinBarria (1150) | *pending* |
+| 101 | WIN | White | SofiiaMoro (1083) | *pending* |
+| 100 | LOSS | Black | nikki788 (1093) | *pending* |
+| 99 | WIN | White | DurituK (1080) | *pending* |
+| 98 | LOSS | Black | Sir-Nygel (1092) | *pending* |
+| 97 | WIN | White | kindness_7 (958) | *pending* |
+| 96 | LOSS | Black | Kameraman2017 (1079) | *pending* |
+| 95 | WIN | Black | Sedanova (1103) | *pending* |
+| 94 | DRAW | White | NikolaiSkakun (1115) | *pending* |
+| 93 | LOSS | Black | rafael8688 (1089) | *pending* |
 | 92 | LOSS | Black | ahmedzahvfhbc (1083) | *pending* |
 | 91 | WIN | White | Arnoud_Nijon (1075) | *pending* |
 | 90 | WIN | White | Miscio (1036) | *pending* |

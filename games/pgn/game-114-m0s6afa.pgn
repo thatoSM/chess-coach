@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/fHvMsfh6"]
+[Date "2026.08.05"]
+[Round "-"]
+[White "m0s6afa"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "fHvMsfh6"]
+[UTCDate "2026.08.05"]
+[UTCTime "18:40:03"]
+[WhiteElo "1141"]
+[BlackElo "1091"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C23"]
+[Opening "Bishop's Opening: Boi Variation"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Bc4 { [%eval 0.0] } 2... Bc5 { [%eval 0.13] } 3. a3 { [%eval 0.0] } 3... Nf6 { [%eval -0.08] } 4. h3 { [%eval -2.82] } 4... Nxe4 { [%eval -2.81] } 5. Nf3 { [%eval -4.88] } 0-1
+
+

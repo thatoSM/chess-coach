@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/OQiXo4Tj"]
+[Date "2026.08.05"]
+[Round "-"]
+[White "mathiasvela2025"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "OQiXo4Tj"]
+[UTCDate "2026.08.05"]
+[UTCTime "18:10:45"]
+[WhiteElo "1117"]
+[BlackElo "1073"]
+[WhiteRatingDiff "-16"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C51"]
+[Opening "Italian Game: Evans Gambit, McDonnell Defense"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. Bc4 { [%eval 0.07] } 3... Bc5 { [%eval 0.2] } 4. b4 { [%eval 0.0] } 4... Bxb4 { [%eval -0.05] } 5. c3 { [%eval -0.13] } 5... Bc5 { [%eval 0.19] } 6. d4 { [%eval 0.15] } 6... Nf6 { [%eval 2.95] } 7. dxc5 { [%eval 2.85] } 7... O-O { [%eval 3.44] } 8. Bg5 { [%eval 4.1] } 8... d6 { [%eval 4.55] } 9. cxd6 { [%eval 4.57] } 9... Qxd6 { [%eval 4.61] } 10. Bxf6 { [%eval 4.22] } 10... Qxf6 { [%eval 4.4] } 11. O-O { [%eval 4.34] } 11... Qf4 { [%eval 4.89] } 12. Qd2 { [%eval 4.28] } 12... Qxe4 { [%eval 4.23] } 13. Re1 { [%eval -2.53] } 13... Qxc4 { [%eval -2.62] } 14. Nxe5 { [%eval -2.5] } 14... Nxe5 { [%eval -2.52] } 15. Rxe5 { [%eval -2.51] } 15... Qa4 { [%eval -2.49] } 16. Qe2 { [%eval -2.95] } 16... Bg4 { [%eval -2.98] } 17. f3 { [%eval -3.08] } 17... Be6 { [%eval -2.92] } 18. Nd2 { [%eval -2.99] } 18... Qc2 { [%eval -3.05] } 19. Qe3 { [%eval -2.87] } 19... Rad8 { [%eval -2.91] } 20. Ne4 { [%eval -2.82] } 0-1
+
+
