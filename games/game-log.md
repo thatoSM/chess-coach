@@ -13,9 +13,27 @@ colour and eval direction first.
 Detail file for games 1–40: [`logs/games-001-040.md`](logs/games-001-040.md)
 Detail file for games 41–80: [`logs/games-041-080.md`](logs/games-041-080.md)
 Detail file for games 81–120: [`logs/games-081-120.md`](logs/games-081-120.md)
+Detail file for games 121–160: [`logs/games-121-160.md`](logs/games-121-160.md)
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 133 | LOSS | Black | Ramil0421 (969) | *pending* |
+| 132 | LOSS | Black | majid6464 (1084) | *pending* |
+| 131 | LOSS | Black | Magocego (1080) | *pending* |
+| 130 | LOSS | White | Oibich (1057) | *pending* |
+| 129 | LOSS | White | AbU-JOOD (1036) | *pending* |
+| 128 | DRAW | White | Kamik_azeX (1116) | *pending* |
+| 127 | WIN | Black | Azadvai (1147) | *pending* |
+| 126 | LOSS | White | James_Glare (1215) | *pending* |
+| 125 | LOSS | White | jonas1420 (1113) | *pending* |
+| 124 | LOSS | Black | Kgf08 (1217) | *pending* |
+| 123 | LOSS | Black | Sir_Mandali (1161) | *pending* |
+| 122 | WIN | White | Island64 (1115) | *pending* |
+| 121 | WIN | Black | BorislavEm (1184) | *pending* |
+| 120 | WIN | White | cmichess (1126) | *pending* |
+| 119 | LOSS | White | lisasui (1158) | *pending* |
+| 118 | LOSS | Black | sibaes (1069) | *pending* |
+| 117 | WIN | Black | LordHorst (1088) | *pending* |
 | 116 | WIN | White | Coc0-Mario (1097) | *pending* |
 | 115 | DRAW | Black | this-isnt-a-nickname (1138) | *pending* |
 | 114 | WIN | Black | m0s6afa (1141) | *pending* |

@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/ICv0bONk"]
+[Date "2026.08.06"]
+[Round "-"]
+[White "Magocego"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "ICv0bONk"]
+[UTCDate "2026.08.06"]
+[UTCTime "18:08:35"]
+[WhiteElo "1080"]
+[BlackElo "1092"]
+[WhiteRatingDiff "+15"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C65"]
+[Opening "Ruy Lopez: Classical Variation, Zukertort Gambit"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. Bb5 { [%eval 0.15] } 3... Bc5 { [%eval 0.32] } 4. O-O { [%eval 0.3] } 4... Nf6 { [%eval 0.36] } 5. c3 { [%eval 0.25] } 5... Nxe4 { [%eval 0.67] } 6. d4 { [%eval 0.3] } 6... exd4 { [%eval 1.07] } 7. cxd4 { [%eval 0.87] } 7... Bb6 { [%eval 0.94] } 8. Re1 { [%eval -0.23] } 8... d5 { [%eval -0.2] } 9. Ne5 { [%eval -0.58] } 9... Qd6 { [%eval -0.07] } 10. f3 { [%eval -1.91] } 10... a6 { [%eval 4.63] } 11. Bxc6+ { [%eval 4.65] } 11... bxc6 { [%eval 4.6] } 12. fxe4 { [%eval 4.6] } 12... Bxd4+ { [%eval 7.33] } 13. Qxd4 { [%eval 7.24] } 13... c5 { [%eval 8.2] } 14. Qxd5 { [%eval 8.15] } 14... Be6 { [%eval 12.02] } 15. Qxd6 { [%eval 7.59] } 15... cxd6 { [%eval 7.46] } 16. Nd3 { [%eval 7.53] } 16... Bc4 { [%eval 7.65] } 17. Nf4 { [%eval 7.7] } 17... O-O { [%eval 7.82] } 18. Be3 { [%eval 7.59] } 18... Rae8 { [%eval 7.68] } 19. Nc3 { [%eval 7.62] } 19... d5 { [%eval 8.91] } 20. b3 { [%eval 7.68] } 20... Bb5 { [%eval 8.87] } 21. Nxb5 { [%eval 8.35] } 21... axb5 { [%eval 8.25] } 22. Nxd5 { [%eval 8.15] } 22... Rxe4 { [%eval 8.33] } 23. Bxc5 { [%eval 8.28] } 23... Rxe1+ { [%eval 8.55] } 24. Rxe1 { [%eval 8.48] } 24... Rd8 { [%eval 8.47] } 25. Ne7+ { [%eval 8.24] } 25... Kh8 { [%eval 7.96] } 1-0
+
+

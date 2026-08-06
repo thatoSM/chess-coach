@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/3QcyIqP5"]
+[Date "2026.08.06"]
+[Round "-"]
+[White "Kgf08"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "3QcyIqP5"]
+[UTCDate "2026.08.06"]
+[UTCTime "09:16:13"]
+[WhiteElo "1217"]
+[BlackElo "1113"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Wayward Queen Attack"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Qh5 { [%eval -0.25] } 2... Nc6 { [%eval -0.42] } 3. Bc4 { [%eval -0.31] } 3... Qe7 { [%eval 0.0] } 4. Qf3 { [%eval -0.36] } 4... Nf6 { [%eval -0.15] } 5. d3 { [%eval -0.51] } 5... Qb4+ { [%eval 0.28] } 6. c3 { [%eval 0.28] } 6... Qc5 { [%eval 0.33] } 7. Be3 { [%eval 0.32] } 7... Qd6 { [%eval 0.44] } 8. g4 { [%eval -0.51] } 8... Na5 { [%eval -0.6] } 9. g5 { [%eval -0.54] } 9... Nxc4 { [%eval -0.62] } 10. dxc4 { [%eval -0.48] } 10... Be7 { [%eval 3.06] } 11. gxf6 { [%eval 2.99] } 11... Bxf6 { [%eval 3.07] } 12. Nd2 { [%eval 3.07] } 12... O-O { [%eval 3.54] } 13. Ne2 { [%eval 3.53] } 13... Qe6 { [%eval 3.66] } 14. Rg1 { [%eval 3.47] } 14... g6 { [%eval 3.36] } 15. Bg5 { [%eval 3.09] } 15... d6 { [%eval 6.23] } 16. Bxf6 { [%eval 5.68] } 16... Qxc4 { [%eval 9.35] } 1-0
+
+

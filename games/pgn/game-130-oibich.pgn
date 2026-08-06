@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/HC2BUcuq"]
+[Date "2026.08.06"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "Oibich"]
+[Result "0-1"]
+[GameId "HC2BUcuq"]
+[UTCDate "2026.08.06"]
+[UTCTime "14:25:00"]
+[WhiteElo "1098"]
+[BlackElo "1057"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+13"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C50"]
+[Opening "Italian Game: Giuoco Piano"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O d6 5. Nc3 Bb4 6. Qe2 Be6 7. Bxe6 fxe6 8. Qe3 Nf6 9. d4 Ng4 10. Qd3 exd4 11. Nxd4 d5 12. a3 Qd6 13. axb4 Qxh2# 0-1
+
+

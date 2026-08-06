@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/C1Ehjio1"]
+[Date "2026.08.06"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "AbU-JOOD"]
+[Result "0-1"]
+[GameId "C1Ehjio1"]
+[UTCDate "2026.08.06"]
+[UTCTime "14:22:48"]
+[WhiteElo "1105"]
+[BlackElo "1036"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+12"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense: Hillbilly Attack"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... c6 { [%eval 0.31] } 2. Bc4 { [%eval -0.28] } 2... d5 { [%eval -0.2] } 3. exd5 { [%eval -0.29] } 3... cxd5 { [%eval -0.27] } 4. Bb3 { [%eval -0.24] } 4... Nc6 { [%eval -0.28] } 5. Nc3 { [%eval -0.47] } 5... Nf6 { [%eval -0.26] } 6. Nf3 { [%eval -0.59] } 6... Bg4 { [%eval -0.5] } 7. O-O { [%eval -0.92] } 7... e6 { [%eval -0.9] } 8. d3 { [%eval -1.84] } 8... Nd4 { [%eval -1.71] } 9. Nxd4 { [%eval -3.41] } 9... Bxd1 { [%eval -3.39] } 0-1
+
+
