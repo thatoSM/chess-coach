@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/iTvrNAyq"]
+[Date "2026.08.07"]
+[Round "-"]
+[White "Adodi004"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "iTvrNAyq"]
+[UTCDate "2026.08.07"]
+[UTCTime "09:31:58"]
+[WhiteElo "1073"]
+[BlackElo "1079"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: Modern Variation"]
+[Termination "Normal"]
+
+1. b3 { [%eval 0.0] } 1... e5 { [%eval 0.0] } 2. Bb2 { [%eval 0.0] } 2... Nc6 { [%eval 0.0] } 3. Nf3 { [%eval -0.33] } 3... Bc5 { [%eval 0.56] } 4. Nxe5 { [%eval 0.45] } 4... Nf6 { [%eval 1.37] } 5. e3 { [%eval 1.01] } 5... O-O { [%eval 1.38] } 6. Nxc6 { [%eval 1.32] } 6... dxc6 { [%eval 1.42] } 7. d4 { [%eval 1.17] } 7... Bb6 { [%eval 1.88] } 1-0
+
+

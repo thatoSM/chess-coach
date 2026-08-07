@@ -17,6 +17,11 @@ Detail file for games 121–160: [`logs/games-121-160.md`](logs/games-121-160.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 147 | LOSS | Black | ROCHEGUY (1102) | *pending* |
+| 146 | LOSS | White | Aaronchess2801201667 (1127) | *pending* |
+| 145 | LOSS | Black | sonicea (1105) | *pending* |
+| 144 | LOSS | Black | Glacies57 (1063) | *pending* |
+| 143 | LOSS | Black | Adodi004 (1073) | *pending* |
 | 142 | LOSS | Black | Dem0nAlive (1048) | *pending* |
 | 141 | LOSS | White | MiloszW17 (1094) | *pending* |
 | 140 | WIN | White | Kop3th (1107) | *pending* |

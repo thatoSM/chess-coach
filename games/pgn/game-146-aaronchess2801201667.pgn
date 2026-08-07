@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/tKznOwMG"]
+[Date "2026.08.07"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "Aaronchess2801201667"]
+[Result "0-1"]
+[GameId "tKznOwMG"]
+[UTCDate "2026.08.07"]
+[UTCTime "10:29:27"]
+[WhiteElo "1063"]
+[BlackElo "1127"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... d5 { [%eval 0.54] } 2. exd5 { [%eval 0.51] } 2... Qxd5 { [%eval 0.52] } 3. Nc3 { [%eval 0.47] } 3... Qe5+ { [%eval 0.77] } 4. Be2 { [%eval 0.67] } 4... Qd6 { [%eval 0.95] } 5. Nf3 { [%eval 0.84] } 5... Qd8 { [%eval 0.94] } 6. d4 { [%eval 0.93] } 6... Nc6 { [%eval 2.11] } 7. O-O { [%eval 1.44] } 7... Nf6 { [%eval 2.15] } 8. Bc4 { [%eval 1.18] } 8... e6 { [%eval 1.26] } 9. b3 { [%eval 0.62] } 9... Bb4 { [%eval 0.73] } 10. Bd2 { [%eval -0.13] } 10... Nxd4 { [%eval -0.17] } 11. Nxd4 { [%eval -1.04] } 11... Qxd4 { [%eval -0.95] } 12. Ne2 { [%eval -6.47] } 12... Qxd2 { [%eval -6.47] } 13. Qxd2 { [%eval -6.58] } 13... Bxd2 { [%eval -6.54] } 0-1
+
+
