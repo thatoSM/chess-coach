@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/IWSoPxzI"]
+[Date "2026.08.07"]
+[Round "-"]
+[White "Dem0nAlive"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "IWSoPxzI"]
+[UTCDate "2026.08.07"]
+[UTCTime "07:38:29"]
+[WhiteElo "1048"]
+[BlackElo "1085"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Wayward Queen Attack"]
+[Termination "Normal"]
+
+1. e4 e5 2. Qh5 Nc6 3. Bc4 Qe7 4. Nc3 Nf6 5. Qf3 Qc5 6. d3 Nd4 7. Qd1 Qa5 8. Bd2 Bc5 9. Nd5 Qa4 10. Nxc7+ Kf8 11. Nxa8 Nxc2+ 12. Ke2 Bb4 13. Bxb4+ Qxb4 14. Qxc2 d5 15. exd5 Ng4 16. Nf3 Qc5 17. Raf1 Bf5 18. h3 Bxd3+ 19. Qxd3 Nxf2 20. Rxf2 e4 21. Qxe4 Qxf2+ 1-0
+
+

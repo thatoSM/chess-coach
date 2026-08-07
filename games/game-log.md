@@ -17,6 +17,15 @@ Detail file for games 121–160: [`logs/games-121-160.md`](logs/games-121-160.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 142 | LOSS | Black | Dem0nAlive (1048) | *pending* |
+| 141 | LOSS | White | MiloszW17 (1094) | *pending* |
+| 140 | WIN | White | Kop3th (1107) | *pending* |
+| 139 | WIN | Black | bacha22 (1073) | *pending* |
+| 138 | WIN | Black | parsa99mahini (1022) | *pending* |
+| 137 | LOSS | White | jangke (1083) | *pending* |
+| 136 | WIN | White | umi_hong (1055) | *pending* |
+| 135 | WIN | White | Imon29 (1123) | *pending* |
+| 134 | LOSS | White | koorush_ariana (1073) | *pending* |
 | 133 | LOSS | Black | Ramil0421 (969) | *pending* |
 | 132 | LOSS | Black | majid6464 (1084) | *pending* |
 | 131 | LOSS | Black | Magocego (1080) | *pending* |

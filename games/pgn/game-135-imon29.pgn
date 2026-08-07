@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/CBDUCQSO"]
+[Date "2026.08.06"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "Imon29"]
+[Result "1-0"]
+[GameId "CBDUCQSO"]
+[UTCDate "2026.08.06"]
+[UTCTime "20:18:19"]
+[WhiteElo "1068"]
+[BlackElo "1123"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Main Line"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... d5 { [%eval 0.54] } 2. exd5 { [%eval 0.51] } 2... Qxd5 { [%eval 0.52] } 3. Nc3 { [%eval 0.47] } 3... Qa5 { [%eval 0.57] } 4. Nf3 { [%eval 0.39] } 4... Nf6 { [%eval 0.52] } 5. d4 { [%eval 0.5] } 5... Ng4 { [%eval 1.66] } 6. Bd3 { [%eval 1.82] } 6... Qf5 { [%eval 6.05] } 7. Bxf5 { [%eval 6.06] } 7... Bxf5 { [%eval 5.98] } 8. Bf4 { [%eval 5.83] } 8... Nc6 { [%eval 5.89] } 9. Bxc7 { [%eval 5.92] } 9... Rc8 { [%eval 5.99] } 10. Bf4 { [%eval 5.66] } 10... Be4 { [%eval 7.74] } 11. O-O { [%eval 6.52] } 11... Bxf3 { [%eval 6.24] } 12. Qxf3 { [%eval 6.47] } 12... Nf6 { [%eval 7.45] } 13. d5 { [%eval 7.39] } 13... Nd4 { [%eval 7.57] } 14. Qd3 { [%eval 7.79] } 14... Nc6 { [%eval 9.83] } 15. dxc6 { [%eval 9.84] } 15... Rxc6 { [%eval 10.28] } 16. Nd5 { [%eval 8.51] } 16... Nxd5 { [%eval 8.45] } 17. Qxd5 { [%eval 8.59] } 17... Rg6 { [%eval 10.53] } 18. Qxb7 { [%eval 9.21] } 18... e6 { [%eval #5] } 19. Qb8+ { [%eval #11] } 19... Ke7 { [%eval #9] } 20. Qc7+ { [%eval #10] } 20... Kf6 { [%eval #10] } 21. Bd6 { [%eval 8.47] } 21... Bxd6 { [%eval 8.3] } 22. Qxd6 { [%eval 8.37] } 22... Re8 { [%eval 9.06] } 23. Qd7 { [%eval 9.02] } 23... Re7 { [%eval 9.91] } 24. Qd8 { [%eval 9.41] } 1-0
+
+
