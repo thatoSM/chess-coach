@@ -60,6 +60,8 @@ played.
 `[Termination "..."]`, `[WhiteElo "..."]`, `[BlackElo "..."]`. Determine my
 colour: if the White tag matches ThatoSM (case-insensitive), I played White,
 otherwise Black. The opponent is whichever username is NOT ThatoSM.
+Also read `[UTCDate "..."]` and `[UTCTime "..."]`. Convert to Africa/Johannesburg
+(UTC+2) — if adding 2 hours pushes past 23:59, roll the date forward one day.
 
 (c) Assign the next sequential number: (highest game number from Step 1) + 1,
 incrementing for each subsequent new game this run. Save the PGN to
@@ -91,6 +93,7 @@ eval-sign direction FIRST. Use this structure:
 
     - Colour: I played [White/Black]. Eval direction: [positive/NEGATIVE] evals are my advantage.
     - Link: https://lichess.org/GAMEID
+    - Played: YYYY-MM-DD HH:MM SAST
     - PGN: `games/pgn/game-NN-opponentname.pgn`
     - Moves:
       ```
