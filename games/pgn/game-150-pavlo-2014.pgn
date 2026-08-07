@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/CvarQfXV"]
+[Date "2026.08.07"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "pavlo_2014"]
+[Result "1-0"]
+[GameId "CvarQfXV"]
+[UTCDate "2026.08.07"]
+[UTCTime "14:43:15"]
+[WhiteElo "1054"]
+[BlackElo "1087"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C40"]
+[Opening "King's Pawn Game: McConnell Defense"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Qf6 { [%eval 1.06] } 3. Bc4 { [%eval 0.93] } 3... Bc5 { [%eval 0.95] } 4. Nc3 { [%eval 0.98] } 4... c6 { [%eval 1.65] } 5. d3 { [%eval 0.5] } 5... b5 { [%eval 1.17] } 6. Bb3 { [%eval 1.19] } 6... a5 { [%eval 1.52] } 7. a4 { [%eval 0.98] } 7... bxa4 { [%eval 2.36] } 8. Bxa4 { [%eval 1.43] } 8... Na6 { [%eval 1.76] } 9. O-O { [%eval 1.8] } 9... Qg6 { [%eval 4.48] } 10. Qe2 { [%eval 2.07] } 10... d6 { [%eval 5.36] } 11. Be3 { [%eval 1.94] } 11... Bxe3 { [%eval 4.32] } 12. Qxe3 { [%eval 2.78] } 12... Nb4 { [%eval 3.5] } 13. Qd2 { [%eval 0.93] } 13... Bh3 { [%eval 2.32] } 14. Qg5 { [%eval 0.99] } 14... Qxg5 { [%eval 0.98] } 15. Nxg5 { [%eval 1.06] } 15... Bg4 { [%eval 2.78] } 16. Bxc6+ { [%eval -2.89] } 16... Kd8 { [%eval 6.29] } 17. Bxa8 { [%eval 6.43] } 17... Nxc2 { [%eval 7.72] } 18. Rxa5 { [%eval 6.61] } 18... Ke7 { [%eval 8.36] } 19. Bd5 { [%eval 6.1] } 19... Nh6 { [%eval 6.53] } 20. h3 { [%eval 6.43] } 20... Bh5 { [%eval 6.36] } 21. Nb5 { [%eval 6.04] } 21... f6 { [%eval #4] } 22. Ne6 { [%eval 7.0] } 22... Be2 { [%eval #2] } 23. Ra7+ { [%eval #1] } 23... Ke8 { [%eval #1] } 24. Nxd6# 1-0
+
+

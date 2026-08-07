@@ -17,6 +17,15 @@ Detail file for games 121–160: [`logs/games-121-160.md`](logs/games-121-160.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 156 | LOSS | Black | TymoTheGreat (1105) | *pending* |
+| 155 | LOSS | White | mmc7mm (965) | *pending* |
+| 154 | WIN | Black | Omaresky (997) | *pending* |
+| 153 | LOSS | White | martinshindellok (1106) | *pending* |
+| 152 | LOSS | Black | Vladimir1510 (920) | *pending* |
+| 151 | LOSS | Black | yahto19 (1085) | *pending* |
+| 150 | WIN | White | pavlo_2014 (1087) | *pending* |
+| 149 | LOSS | White | Manuskumar123 (1107) | *pending* |
+| 148 | WIN | White | RianChawla (1091) | *pending* |
 | 147 | LOSS | Black | ROCHEGUY (1102) | *pending* |
 | 146 | LOSS | White | Aaronchess2801201667 (1127) | *pending* |
 | 145 | LOSS | Black | sonicea (1105) | *pending* |

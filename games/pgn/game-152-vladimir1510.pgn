@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/DcOdataf"]
+[Date "2026.08.07"]
+[Round "-"]
+[White "Vladimir1510"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "DcOdataf"]
+[UTCDate "2026.08.07"]
+[UTCTime "14:57:37"]
+[WhiteElo "920"]
+[BlackElo "1055"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C57"]
+[Opening "Italian Game: Two Knights Defense, Knight Attack"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Bc4 { [%eval 0.0] } 2... Nf6 { [%eval 0.11] } 3. Nf3 { [%eval -0.5] } 3... Nc6 { [%eval 0.22] } 4. Ng5 { [%eval 0.04] } 4... Rg8 { [%eval 4.76] } 5. Nxf7 { [%eval 1.77] } 5... Qe7 { [%eval 1.96] } 6. O-O { [%eval 0.95] } 6... Nxe4 { [%eval 2.92] } 7. d3 { [%eval 2.46] } 7... Nf6 { [%eval 2.57] } 8. Bg5 { [%eval 3.16] } 8... h6 { [%eval 4.39] } 9. Bxf6 { [%eval 4.38] } 9... Qxf6 { [%eval 3.93] } 10. Nd6+ { [%eval 2.19] } 10... Qxd6 { [%eval 3.38] } 11. Bxg8 { [%eval 3.3] } 11... Nd4 { [%eval 4.32] } 12. Nc3 { [%eval 3.62] } 12... Qc5 { [%eval 5.2] } 13. Kh1 { [%eval 4.87] } 13... d5 { [%eval 5.54] } 14. Nxd5 { [%eval 5.78] } 14... c6 { [%eval 7.4] } 15. Nc7+ { [%eval 7.3] } 15... Kd7 { [%eval 8.02] } 16. Nxa8 { [%eval 8.19] } 1-0
+
+
