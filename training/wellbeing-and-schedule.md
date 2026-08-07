@@ -76,14 +76,12 @@ When I sit down with time to spend, this is the order:
 Everything above the line I do while sharp. Gaming is below the line because
 it doesn't need me sharp, and it costs the thing chess needs.
 
-**Stop conditions for rated chess:**
-- Three games played → stop regardless of results.
-- Two losses in a row → stop. Tilt is real and my Game 5 (57%, six blunders)
-  was a fresh game — imagine it tilted.
-- I notice I've moved without scanning → stop. The routine has already broken;
-  more games just rehearse the broken version.
-
----
+## Volume
+   - No cap. Games 13+ of a session are my best games (63% score,
+     0.086 error rate across 41 games).
+   - Losses don't compound: error rate after 2 straight losses is
+     0.117 vs 0.113 otherwise. Tilt is not a measured problem for me.
+   - Rating is a measurement, not a possession. Judge over 20+ games.
 
 ## Sleep and time of day
 
