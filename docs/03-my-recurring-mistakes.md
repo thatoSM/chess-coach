@@ -179,18 +179,32 @@ verified against the correct colour.
 
 ---
 
-## Leak #5 — playing chess while tired / after gaming
+## Leak #5 — playing chess after gaming (UNVERIFIED — no evidence found)
 
-I've traced rating dips to playing late at night after long League/Fortnite
-sessions. League drains me most (locked-in matches, heavy working memory,
-emotional load). Tired chess = blunder-brawls = lost rating.
+**Written from assertion, not data. No game was ever attached.**
 
-**Fix:** chess goes FIRST in a session or not at all. No rated chess after a
-long gaming session. If I want chess when tired, do puzzles instead.
+Measured 7 Aug 2026 across 137 timestamped PGNs in `games/pgn/`:
 
-**NOTE:** not every bad game is a tired game. Game 5 (57%, 6 blunders) was
-fresh. Those are pure "didn't run the scan." Distinguish before blaming fatigue,
-or I'll fix the wrong thing.
+| Start time (SAST) | Games |
+|---|---|
+| Before 21:00 | 129 |
+| 21:00–22:59 | 8 |
+| 23:00–03:00 | **0** |
+
+The claim that late-night rapid is where the blunder-brawls live cannot be
+supported. I have never played a rated rapid game at midnight. The 21:00–22:00
+tail is 8 games — too few to compute a meaningful accuracy split, so no split
+was computed.
+
+**Unresolved:** I can't tell from this whether I never played late, or whether
+the "chess goes first" rule prevented it. Either way the diagnosis was never
+evidenced.
+
+**Still untested:** the gaming-before-chess half. That needs League timestamps
+joined to game timestamps. Not done yet — do not treat it as established.
+
+**Do not reach for this leak when analysing a game** until a game demonstrates
+it, the same standard applied to Leak #4.
 
 ---
 
@@ -243,7 +257,7 @@ also sits oddly against endgame being my strongest phase — which may mean it's
 - **Leaks 1, 2 and 3 are the same root:** I don't run the forcing search before
   quiet-looking moves — or I run it in the wrong order.
 - **Leak 4 is unproven.** Don't reach for it.
-- **Leak 5 is a state problem, not a skill problem.**
+- **Leak 5 is unverified.** Two of five numbered leaks now are.
 - **Two candidates are unnumbered on purpose.** Capturing-without-checking (4
   instances) and endgame conversion (2 instances). Evidence exists; human review
   doesn't. They stay unnumbered until I've looked at the positions myself.
