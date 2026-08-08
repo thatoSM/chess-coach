@@ -228,8 +228,8 @@ Run this every night. It is purely mechanical — never write interpretation,
 narrative, or analysis into this file.
 
 STEP 1 — Fetch both endpoints:
-  curl -s 'https://lichess.org/api/user/ThatoSM/perf/rapid'
-  curl -s 'https://lichess.org/api/user/ThatoSM'
+  curl -s -A "Mozilla/5.0" 'https://lichess.org/api/user/ThatoSM/perf/rapid'
+  curl -s -A "Mozilla/5.0" 'https://lichess.org/api/user/ThatoSM'
 
 If either errors or 404s, retry once after a short pause. If it still fails,
 LEAVE THE EXISTING STATS.md UNTOUCHED and carry on — never write partial or
