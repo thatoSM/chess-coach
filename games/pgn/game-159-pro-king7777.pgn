@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/npDJgRjM"]
+[Date "2026.08.08"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "Pro_King7777"]
+[Result "1-0"]
+[GameId "npDJgRjM"]
+[UTCDate "2026.08.08"]
+[UTCTime "09:58:02"]
+[WhiteElo "1049"]
+[BlackElo "1126"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-17"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C55"]
+[Opening "Italian Game: Two Knights Defense"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. Nc3 { [%eval 0.06] } 3... Nf6 { [%eval 0.07] } 4. Bc4 { [%eval 0.0] } 4... Nxe4 { [%eval 0.0] } 5. Nxe4 { [%eval 0.0] } 5... d5 { [%eval 0.0] } 6. Bd3 { [%eval 0.0] } 6... dxe4 { [%eval -0.18] } 7. Bxe4 { [%eval 0.0] } 7... Bg4 { [%eval 0.08] } 8. O-O { [%eval 0.0] } 8... Bc5 { [%eval 0.54] } 9. d3 { [%eval 0.34] } 9... O-O { [%eval 0.35] } 10. Bg5 { [%eval -5.0] } 10... Qxg5 { [%eval 0.37] } 11. Nxg5 { [%eval 0.55] } 11... Bxd1 { [%eval 0.56] } 12. Raxd1 { [%eval 0.54] } 12... f5 { [%eval 3.51] } 13. Bxc6 { [%eval 3.64] } 13... bxc6 { [%eval 3.53] } 14. Ne6 { [%eval 3.31] } 14... Rfe8 { [%eval 5.84] } 15. Nxc5 { [%eval 5.79] } 15... Rab8 { [%eval 5.8] } 16. Rfe1 { [%eval 5.14] } 16... Rxb2 { [%eval 4.79] } 17. c4 { [%eval 4.72] } 17... Rxa2 { [%eval 4.9] } 18. f3 { [%eval 4.49] } 18... Re6 { [%eval 8.2] } 19. Nxe6 { [%eval 8.08] } 19... Kf7 { [%eval 8.77] } 20. Nxc7 { [%eval 8.73] } 20... Ke7 { [%eval 9.44] } 1-0
+
+

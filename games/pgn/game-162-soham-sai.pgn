@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/uN1J5GYa"]
+[Date "2026.08.08"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "soham_sai"]
+[Result "0-1"]
+[GameId "uN1J5GYa"]
+[UTCDate "2026.08.08"]
+[UTCTime "10:28:20"]
+[WhiteElo "1046"]
+[BlackElo "1055"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C42"]
+[Opening "Petrov's Defense: Three Knights Game"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nf6 { [%eval 0.34] } 3. Nc3 { [%eval 0.08] } 3... Bb4 { [%eval 0.35] } 4. Bc4 { [%eval 0.11] } 4... Bxc3 { [%eval 0.15] } 5. dxc3 { [%eval 0.16] } 5... Nxe4 { [%eval 1.26] } 6. Nxe5 { [%eval 0.86] } 6... Qe7 { [%eval 0.85] } 7. Bf4 { [%eval -1.81] } 7... f6 { [%eval 3.86] } 8. Nf3 { [%eval -5.83] } 8... Nxc3+ { [%eval -5.81] } 9. Be3 { [%eval -6.27] } 9... Nxd1 { [%eval -6.2] } 0-1
+
+
