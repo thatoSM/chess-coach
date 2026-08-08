@@ -14,9 +14,23 @@ Detail file for games 1–40: [`logs/games-001-040.md`](logs/games-001-040.md)
 Detail file for games 41–80: [`logs/games-041-080.md`](logs/games-041-080.md)
 Detail file for games 81–120: [`logs/games-081-120.md`](logs/games-081-120.md)
 Detail file for games 121–160: [`logs/games-121-160.md`](logs/games-121-160.md)
+Detail file for games 161–200: [`logs/games-161-200.md`](logs/games-161-200.md)
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 169 | LOSS | Black | tmf_trx (1061) | *pending* |
+| 168 | LOSS | White | Dragonborne (1079) | *pending* |
+| 167 | WIN | Black | Chil-chess (1022) | *pending* |
+| 166 | LOSS | White | Soundar05091985 (972) | *pending* |
+| 165 | LOSS | White | Alisoa (972) | *pending* |
+| 164 | LOSS | Black | cetinali1 (978) | *pending* |
+| 163 | WIN | White | GSWarriorA (1065) | *pending* |
+| 162 | LOSS | White | soham_sai (1055) | *pending* |
+| 161 | LOSS | Black | Taha_Emir (1065) | *pending* |
+| 160 | LOSS | Black | louieismael (1101) | *pending* |
+| 159 | WIN | White | Pro_King7777 (1126) | *pending* |
+| 158 | WIN | Black | sriram2388 (1085) | *pending* |
+| 157 | WIN | White | AlexiaElisabeth (1052) | *pending* |
 | 156 | LOSS | Black | TymoTheGreat (1105) | *pending* |
 | 155 | LOSS | White | mmc7mm (965) | *pending* |
 | 154 | WIN | Black | Omaresky (997) | *pending* |

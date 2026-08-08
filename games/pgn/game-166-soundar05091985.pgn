@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/xcS40Nux"]
+[Date "2026.08.08"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "Soundar05091985"]
+[Result "0-1"]
+[GameId "xcS40Nux"]
+[UTCDate "2026.08.08"]
+[UTCTime "13:17:55"]
+[WhiteElo "1032"]
+[BlackElo "972"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C50"]
+[Opening "Four Knights Game: Italian Variation"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. Nc3 { [%eval 0.06] } 3... Nf6 { [%eval 0.07] } 4. Bc4 { [%eval 0.0] } 4... Bc5 { [%eval 0.09] } 5. O-O { [%eval 0.07] } 5... O-O { [%eval 0.14] } 6. d3 { [%eval 0.14] } 6... Re8 { [%eval 0.39] } 7. Qe2 { [%eval -0.17] } 7... d6 { [%eval 0.0] } 8. Be3 { [%eval -0.39] } 8... Bxe3 { [%eval -0.08] } 9. Qxe3 { [%eval -0.1] } 9... Nb4 { [%eval 0.04] } 10. Qd2 { [%eval -0.01] } 10... Bg4 { [%eval 0.09] } 11. Ng5 { [%eval 0.1] } 11... Be6 { [%eval 0.3] } 12. Bxe6 { [%eval 0.1] } 12... fxe6 { [%eval 0.16] } 13. Na4 { [%eval -0.29] } 13... a5 { [%eval -0.08] } 14. c3 { [%eval -0.39] } 14... Nc6 { [%eval -0.44] } 15. Nf3 { [%eval -4.74] } 15... d5 { [%eval -0.32] } 16. exd5 { [%eval -0.56] } 16... exd5 { [%eval -0.69] } 17. Rfe1 { [%eval -1.63] } 17... e4 { [%eval -1.47] } 18. dxe4 { [%eval -1.62] } 18... Nxe4 { [%eval -0.01] } 19. Qd3 { [%eval 0.04] } 19... Qd7 { [%eval 0.58] } 20. b3 { [%eval -0.08] } 20... Ne5 { [%eval 0.26] } 21. Qd1 { [%eval -1.36] } 21... b5 { [%eval 0.0] } 22. Nb2 { [%eval -3.7] } 22... Nxc3 { [%eval -3.58] } 23. Nxe5 { [%eval -6.2] } 23... Nxd1 { [%eval -5.79] } 24. Nxd7 { [%eval #-1] } 24... Rxe1# 0-1
+
+
