@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/rVQIMmHk"]
+[Date "2026.08.08"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "novoland"]
+[Result "1-0"]
+[GameId "rVQIMmHk"]
+[UTCDate "2026.08.08"]
+[UTCTime "16:02:13"]
+[WhiteElo "1021"]
+[BlackElo "955"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Main Line"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... d5 { [%eval 0.54] } 2. exd5 { [%eval 0.51] } 2... Qxd5 { [%eval 0.52] } 3. Nc3 { [%eval 0.47] } 3... Qa5 { [%eval 0.57] } 4. Nf3 { [%eval 0.39] } 4... Bf5 { [%eval 0.9] } 5. d3 { [%eval 0.4] } 5... e6 { [%eval 0.52] } 6. d4 { [%eval 0.07] } 6... Bb4 { [%eval 0.3] } 7. Bd2 { [%eval 0.12] } 7... Bxc3 { [%eval 0.51] } 8. Bxc3 { [%eval 0.55] } 8... Qb5 { [%eval 9.27] } 9. Bxb5+ { [%eval 8.98] } 1-0
+
+

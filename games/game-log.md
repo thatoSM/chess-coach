@@ -18,6 +18,12 @@ Detail file for games 161–200: [`logs/games-161-200.md`](logs/games-161-200.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 175 | WIN | Black | mh-moradi (1020) | *pending* |
+| 174 | WIN | White | jvngs303 (1023) | *pending* |
+| 173 | LOSS | Black | Ginger-Killer (1020) | *pending* |
+| 172 | WIN | Black | pasllop2001 (1045) | *pending* |
+| 171 | WIN | White | Ilia1820 (1051) | *pending* |
+| 170 | WIN | White | novoland (955) | *pending* |
 | 169 | LOSS | Black | tmf_trx (1061) | *pending* |
 | 168 | LOSS | White | Dragonborne (1079) | *pending* |
 | 167 | WIN | Black | Chil-chess (1022) | *pending* |
