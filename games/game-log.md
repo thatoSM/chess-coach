@@ -18,6 +18,15 @@ Detail file for games 161–200: [`logs/games-161-200.md`](logs/games-161-200.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 184 | LOSS | Black | asadi_m (1030) | *pending* |
+| 183 | DRAW | White | asadi_m (1028) | *pending* |
+| 182 | LOSS | White | GreuceanuBart (1058) | *pending* |
+| 181 | LOSS | Black | hunimal (1054) | *pending* |
+| 180 | WIN | Black | shubh2018 (1065) | *pending* |
+| 179 | LOSS | Black | w114 (932) | *pending* |
+| 178 | WIN | White | UnoChess4500 (1065) | *pending* |
+| 177 | WIN | White | Krishna_salampuria (1077) | *pending* |
+| 176 | LOSS | White | jayveeclarin (1130) | *pending* |
 | 175 | WIN | Black | mh-moradi (1020) | *pending* |
 | 174 | WIN | White | jvngs303 (1023) | *pending* |
 | 173 | LOSS | Black | Ginger-Killer (1020) | *pending* |

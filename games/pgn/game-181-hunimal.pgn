@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/Wz5mqybz"]
+[Date "2026.08.09"]
+[Round "-"]
+[White "hunimal"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "Wz5mqybz"]
+[UTCDate "2026.08.09"]
+[UTCTime "14:28:34"]
+[WhiteElo "1054"]
+[BlackElo "1049"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C54"]
+[Opening "Italian Game: Classical Variation, Giuoco Pianissimo"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. Bc4 { [%eval 0.07] } 3... Bc5 { [%eval 0.2] } 4. c3 { [%eval 0.09] } 4... Nf6 { [%eval 0.13] } 5. d3 { [%eval 0.15] } 5... O-O { [%eval 0.24] } 6. O-O { [%eval 0.15] } 6... d5 { [%eval 0.3] } 7. exd5 { [%eval 0.2] } 7... Nxd5 { [%eval 0.17] } 8. Re1 { [%eval 0.25] } 8... Re8 { [%eval 0.93] } 9. h3 { [%eval 0.08] } 9... Bf5 { [%eval 0.21] } 10. Nbd2 { [%eval -0.24] } 10... a6 { [%eval 1.08] } 11. a4 { [%eval -0.2] } 11... Nf4 { [%eval 1.22] } 12. Nb3 { [%eval 0.71] } 12... Nxd3 { [%eval 4.27] } 13. Bxd3 { [%eval 4.24] } 13... Bxd3 { [%eval 5.32] } 14. Nxc5 { [%eval 5.43] } 14... Qd5 { [%eval 5.24] } 15. Nxd3 { [%eval 5.27] } 15... e4 { [%eval 5.38] } 16. Nb4 { [%eval 5.34] } 16... Qxd1 { [%eval 5.32] } 17. Rxd1 { [%eval 5.43] } 17... exf3 { [%eval 5.58] } 18. Nxc6 { [%eval 5.58] } 18... fxg2 { [%eval 7.22] } 19. Nd4 { [%eval 7.06] } 19... Re4 { [%eval 7.07] } 1-0
+
+

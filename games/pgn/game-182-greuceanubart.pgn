@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/TntnzlkC"]
+[Date "2026.08.09"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "GreuceanuBart"]
+[Result "0-1"]
+[GameId "TntnzlkC"]
+[UTCDate "2026.08.09"]
+[UTCTime "16:48:30"]
+[WhiteElo "1044"]
+[BlackElo "1058"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+9"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C50"]
+[Opening "Italian Game"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 f6 4. O-O Bc5 5. Nc3 Nd4 6. d3 Nh6 7. Nxd4 Bxd4 8. Bd2 c6 9. Na4 b5 0-1
+
+
