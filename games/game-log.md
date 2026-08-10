@@ -19,6 +19,7 @@ Detail file for games 201–240: [`logs/games-201-240.md`](logs/games-201-240.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 202 | WIN | Black | JM_Chess2019 (992) | *pending* |
 | 201 | LOSS | White | gasanur (969) | *pending* |
 | 200 | LOSS | Black | Shortcake2323 (986) | *pending* |
 | 199 | WIN | Black | Juvanisaac (1088) | *pending* |
