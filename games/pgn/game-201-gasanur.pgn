@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/162AysP3"]
+[Date "2026.08.10"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "gasanur"]
+[Result "0-1"]
+[GameId "162AysP3"]
+[UTCDate "2026.08.10"]
+[UTCTime "16:45:56"]
+[WhiteElo "1014"]
+[BlackElo "969"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+44"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C50"]
+[Opening "Italian Game: Blackburne-Kostić Gambit"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nd4 4. Nxe5 b6 5. Nxf7 Qh4 6. Nxh8 Bc5 7. g3 Qxe4+ 8. Be2 Qxh1+ 9. Bf1 Nf6 10. c3 Ba6 11. d3 Nf3+ 12. Ke2 Ne4 13. Qb3 Bxd3+ 14. Kxd3 Qxf1+ 15. Kxe4 O-O-O 16. Nd2 Re8+ 17. Kxf3 Qxf2+ 18. Kg4 h5+ 19. Kxh5 Qxh2+ 20. Kg4 Qxh8 21. Qf7 g6 22. Ne4 Rxe4+ 23. Bf4 Qh5# 0-1
+
+

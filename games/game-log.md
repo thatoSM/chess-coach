@@ -15,9 +15,27 @@ Detail file for games 41–80: [`logs/games-041-080.md`](logs/games-041-080.md)
 Detail file for games 81–120: [`logs/games-081-120.md`](logs/games-081-120.md)
 Detail file for games 121–160: [`logs/games-121-160.md`](logs/games-121-160.md)
 Detail file for games 161–200: [`logs/games-161-200.md`](logs/games-161-200.md)
+Detail file for games 201–240: [`logs/games-201-240.md`](logs/games-201-240.md)
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 201 | LOSS | White | gasanur (969) | *pending* |
+| 200 | LOSS | Black | Shortcake2323 (986) | *pending* |
+| 199 | WIN | Black | Juvanisaac (1088) | *pending* |
+| 198 | WIN | Black | LuckyLuke2222 (1055) | *pending* |
+| 197 | WIN | White | s-arsentev (1015) | *pending* |
+| 196 | DRAW | White | Sebs09522 (946) | *pending* |
+| 195 | WIN | White | McKarpov (1033) | *pending* |
+| 194 | LOSS | Black | McKarpov (1027) | *pending* |
+| 193 | LOSS | Black | babapanda (1045) | *pending* |
+| 192 | LOSS | White | luffyvezoro (1061) | *pending* |
+| 191 | LOSS | Black | mameas (1030) | *pending* |
+| 190 | LOSS | White | hakansabri (1008) | *pending* |
+| 189 | LOSS | Black | ParandeyeRRR (1032) | *pending* |
+| 188 | LOSS | Black | Semenprohorov-122 (1063) | *pending* |
+| 187 | LOSS | White | Adwik2025 (975) | *pending* |
+| 186 | WIN | White | mohammadru (1063) | *pending* |
+| 185 | LOSS | White | Chris_1971 (1805) | *pending* |
 | 184 | LOSS | Black | asadi_m (1030) | *pending* |
 | 183 | DRAW | White | asadi_m (1028) | *pending* |
 | 182 | LOSS | White | GreuceanuBart (1058) | *pending* |

@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/U1HIGMXc"]
+[Date "2026.08.10"]
+[Round "-"]
+[White "Semenprohorov-122"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "U1HIGMXc"]
+[UTCDate "2026.08.10"]
+[UTCTime "07:41:07"]
+[WhiteElo "1063"]
+[BlackElo "1032"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C50"]
+[Opening "Italian Game: Giuoco Pianissimo, Canal Variation"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. Bc4 { [%eval 0.07] } 3... Bc5 { [%eval 0.2] } 4. Nc3 { [%eval 0.12] } 4... Nf6 { [%eval 0.09] } 5. d3 { [%eval 0.07] } 5... d6 { [%eval 0.09] } 6. Bg5 { [%eval 0.0] } 6... h6 { [%eval 0.09] } 7. Bh4 { [%eval -0.27] } 7... O-O { [%eval 0.15] } 8. Nd5 { [%eval -0.41] } 8... Nd4 { [%eval 3.27] } 9. Nxd4 { [%eval 0.81] } 9... Bxd4 { [%eval 3.28] } 10. Nxf6+ { [%eval 3.08] } 10... gxf6 { [%eval 3.25] } 11. Qd2 { [%eval 2.43] } 11... Bxb2 { [%eval 6.31] } 12. Qxh6 { [%eval 6.47] } 12... Bc3+ { [%eval 6.84] } 13. Ke2 { [%eval 7.02] } 13... Bg4+ { [%eval 6.71] } 14. f3 { [%eval 6.66] } 14... f5 { [%eval 10.71] } 15. Bxd8 { [%eval 10.56] } 1-0
+
+

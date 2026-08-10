@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/XZLMB9Yf"]
+[Date "2026.08.10"]
+[Round "-"]
+[White "Juvanisaac"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "XZLMB9Yf"]
+[UTCDate "2026.08.10"]
+[UTCTime "16:11:27"]
+[WhiteElo "1088"]
+[BlackElo "1013"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C50"]
+[Opening "Italian Game: Giuoco Piano"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. Bc4 { [%eval 0.07] } 3... Bc5 { [%eval 0.2] } 4. Ng5 { [%eval -4.59] } 4... Qxg5 { [%eval -4.15] } 5. Qf3 { [%eval -4.8] } 5... Qg6 { [%eval -4.59] } 6. Bxf7+ { [%eval -6.86] } 6... Qxf7 { [%eval -6.96] } 7. Qxf7+ { [%eval -6.89] } 7... Kxf7 { [%eval -6.76] } 8. O-O { [%eval -7.36] } 8... Nf6 { [%eval -6.87] } 9. Nc3 { [%eval -7.4] } 9... d6 { [%eval -7.44] } 10. d3 { [%eval -7.52] } 10... Re8 { [%eval -6.91] } 11. a3 { [%eval -7.26] } 11... Kg8 { [%eval -6.93] } 12. b4 { [%eval -7.16] } 12... Bd4 { [%eval -7.1] } 13. Bb2 { [%eval -7.05] } 13... b6 { [%eval -7.03] } 14. b5 { [%eval -7.3] } 14... Na5 { [%eval -7.29] } 15. Rae1 { [%eval -7.45] } 15... Bb7 { [%eval -7.43] } 16. h4 { [%eval -7.62] } 16... d5 { [%eval -7.32] } 17. exd5 { [%eval -7.43] } 17... Nxd5 { [%eval -7.13] } 18. Nxd5 { [%eval -7.15] } 18... Bxd5 { [%eval -7.2] } 19. Bxd4 { [%eval -7.12] } 19... exd4 { [%eval -7.31] } 20. c4 { [%eval -7.87] } 20... dxc3 { [%eval -7.93] } 21. Rc1 { [%eval -8.14] } 21... Nb3 { [%eval -7.82] } 22. Rxc3 { [%eval -8.0] } 22... Rac8 { [%eval -8.0] } 23. f4 { [%eval -8.18] } 23... c5 { [%eval -7.46] } 24. f5 { [%eval -8.32] } 24... Rf8 { [%eval -7.95] } 25. g4 { [%eval -8.85] } 25... Nd4 { [%eval -8.81] } 26. Kh2 { [%eval -10.18] } 26... Rce8 { [%eval -9.8] } 27. g5 { [%eval -16.89] } 27... Nxf5 { [%eval -9.1] } 28. Rf4 { [%eval -13.13] } 28... Nxh4 { [%eval -9.16] } 29. Rxh4 { [%eval #-5] } 29... Re2+ { [%eval #-4] } 30. Kh3 { [%eval #-4] } 30... Rf3+ { [%eval #-3] } 31. Kg4 { [%eval #-3] } 31... Rg2+ { [%eval #-2] } 32. Kh5 { [%eval #-2] } 32... g6+ { [%eval #-8] } 33. Kh6 { [%eval #-8] } 33... Rf5 { [%eval #-7] } 34. d4 { [%eval #-7] } 34... Rgxg5 { [%eval #-6] } 35. Re3 { [%eval #-2] } 35... Rh5+ { [%eval #-1] } 36. Rxh5 { [%eval #-1] } 36... Rxh5# 0-1
+
+

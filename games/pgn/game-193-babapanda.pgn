@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/uRBmSa2C"]
+[Date "2026.08.10"]
+[Round "-"]
+[White "babapanda"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "uRBmSa2C"]
+[UTCDate "2026.08.10"]
+[UTCTime "15:24:30"]
+[WhiteElo "1045"]
+[BlackElo "1005"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-4"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C50"]
+[Opening "Four Knights Game: Italian Variation"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 Nf6 4. Bc4 Bc5 5. O-O d6 6. Ng5 Nxe4 7. Ncxe4 1-0
+
+
