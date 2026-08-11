@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/HdWMAvOX"]
+[Date "2026.08.11"]
+[Round "-"]
+[White "kermanioum"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "HdWMAvOX"]
+[UTCDate "2026.08.11"]
+[UTCTime "09:56:58"]
+[WhiteElo "1098"]
+[BlackElo "998"]
+[WhiteRatingDiff "-49"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C44"]
+[Opening "Scotch Game: Scotch Gambit, Sarratt Variation"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. Bc4 { [%eval 0.07] } 3... Bc5 { [%eval 0.2] } 4. d4 { [%eval -0.11] } 4... exd4 { [%eval 0.2] } 5. Ng5 { [%eval 0.0] } 5... Qe7 { [%eval 0.98] } 6. Nxf7 { [%eval 0.93] } 6... Qxe4+ { [%eval 1.07] } 7. Kd2 { [%eval -2.68] } 7... Na5 { [%eval -1.78] } 8. Re1 { [%eval #-1] } 8... Nxc4# 0-1
+
+

@@ -19,6 +19,18 @@ Detail file for games 201–240: [`logs/games-201-240.md`](logs/games-201-240.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 214 | LOSS | White | ahmeddahan (913) | *pending* |
+| 213 | DRAW | White | tzimako (994) | *pending* |
+| 212 | WIN | Black | RicardoBarolo (1016) | *pending* |
+| 211 | LOSS | Black | ELACIT (1018) | *pending* |
+| 210 | WIN | Black | kermanioum (1098) | *pending* |
+| 209 | LOSS | White | Astridlily (989) | *pending* |
+| 208 | WIN | White | arunkhandelwal (1118) | *pending* |
+| 207 | LOSS | White | VikingChess10893 (989) | *pending* |
+| 206 | WIN | Black | Sanektennis (943) | *pending* |
+| 205 | LOSS | White | EdNackers (1028) | *pending* |
+| 204 | LOSS | Black | Aurelien-M1 (1043) | *pending* |
+| 203 | LOSS | White | Aurelien-M1 (1037) | *pending* |
 | 202 | WIN | Black | JM_Chess2019 (992) | *pending* |
 | 201 | LOSS | White | gasanur (969) | *pending* |
 | 200 | LOSS | Black | Shortcake2323 (986) | *pending* |
