@@ -19,6 +19,11 @@ Detail file for games 201–240: [`logs/games-201-240.md`](logs/games-201-240.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 219 | LOSS | Black | sijasri_suresh (1002) | *pending* |
+| 218 | LOSS | Black | Mujahadd (1082) | *pending* |
+| 217 | LOSS | Black | Krishna97890 (900) | *pending* |
+| 216 | WIN | White | tanishqa_b (1046) | *pending* |
+| 215 | DRAW | Black | kabayashidude (1015) | *pending* |
 | 214 | LOSS | White | ahmeddahan (913) | *pending* |
 | 213 | DRAW | White | tzimako (994) | *pending* |
 | 212 | WIN | Black | RicardoBarolo (1016) | *pending* |

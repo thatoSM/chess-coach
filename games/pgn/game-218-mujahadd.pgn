@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/0AtGuqOs"]
+[Date "2026.08.11"]
+[Round "-"]
+[White "Mujahadd"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "0AtGuqOs"]
+[UTCDate "2026.08.11"]
+[UTCTime "14:18:06"]
+[WhiteElo "1082"]
+[BlackElo "998"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C54"]
+[Opening "Italian Game: Classical Variation, Greco Gambit, Traditional Line"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. Bc4 { [%eval 0.07] } 3... Bc5 { [%eval 0.2] } 4. c3 { [%eval 0.09] } 4... Nf6 { [%eval 0.13] } 5. d4 { [%eval 0.0] } 5... exd4 { [%eval 0.18] } 6. cxd4 { [%eval -0.01] } 6... Bb6 { [%eval 2.46] } 7. e5 { [%eval 2.12] } 7... Ng8 { [%eval 3.32] } 8. Ng5 { [%eval 0.76] } 8... f6 { [%eval 5.48] } 9. Nf7 { [%eval 5.59] } 1-0
+
+
