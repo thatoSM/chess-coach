@@ -16,9 +16,14 @@ Detail file for games 81–120: [`logs/games-081-120.md`](logs/games-081-120.md)
 Detail file for games 121–160: [`logs/games-121-160.md`](logs/games-121-160.md)
 Detail file for games 161–200: [`logs/games-161-200.md`](logs/games-161-200.md)
 Detail file for games 201–240: [`logs/games-201-240.md`](logs/games-201-240.md)
+Detail file for games 241–280: [`logs/games-241-280.md`](logs/games-241-280.md)
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 241 | WIN | White | Vivaan05102017 (953) | *pending* |
+| 240 | WIN | Black | MEmeko (1068) | *pending* |
+| 239 | WIN | White | quanxcalamity (1039) | *pending* |
+| 238 | WIN | Black | Li161125 (1027) | *pending* |
 | 237 | WIN | White | yoyodive (978) | *pending* |
 | 236 | LOSS | Black | Bykov_vs (988) | *pending* |
 | 235 | WIN | Black | AngelDavidGarelli (1059) | *pending* |
