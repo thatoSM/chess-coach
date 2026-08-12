@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/fWkVwv54"]
+[Date "2026.08.12"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "MAIKLMIMI"]
+[Result "0-1"]
+[GameId "fWkVwv54"]
+[UTCDate "2026.08.12"]
+[UTCTime "03:47:31"]
+[WhiteElo "982"]
+[BlackElo "1042"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "B23"]
+[Opening "Sicilian Defense: Closed"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nc3 e6 3. Bc4 a6 4. f3 b5 5. Bb3 c4 0-1
+
+

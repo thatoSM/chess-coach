@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/SyGq2gzA"]
+[Date "2026.08.11"]
+[Round "-"]
+[White "HapKat5"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "SyGq2gzA"]
+[UTCDate "2026.08.11"]
+[UTCTime "20:51:12"]
+[WhiteElo "1018"]
+[BlackElo "987"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C25"]
+[Opening "Vienna Gambit, with Max Lange Defense"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nc3 { [%eval 0.08] } 2... Nc6 { [%eval 0.07] } 3. f4 { [%eval -0.53] } 3... Bc5 { [%eval 0.28] } 4. Nf3 { [%eval 0.22] } 4... Nf6 { [%eval 2.9] } 5. fxe5 { [%eval 2.97] } 5... Nh5 { [%eval 2.58] } 6. Bc4 { [%eval 1.64] } 6... O-O { [%eval 1.73] } 7. d3 { [%eval 1.33] } 7... Qe7 { [%eval 4.03] } 8. Bg5 { [%eval 3.01] } 8... Qe8 { [%eval 2.74] } 9. Qd2 { [%eval 1.69] } 9... Nxe5 { [%eval 1.36] } 10. Nd5 { [%eval 0.0] } 10... Nxf3+ { [%eval 1.41] } 11. gxf3 { [%eval 1.45] } 11... Qe5 { [%eval 3.17] } 12. O-O-O { [%eval 1.88] } 12... f6 { [%eval 4.81] } 13. Nxf6+ { [%eval 4.67] } 13... Kh8 { [%eval 4.78] } 14. Nxh5 { [%eval 4.35] } 14... Rxf3 { [%eval 5.04] } 15. Rhg1 { [%eval 4.25] } 15... Rh3 { [%eval 6.77] } 16. Ng3 { [%eval 4.5] } 16... Bxg1 { [%eval 4.84] } 17. Rxg1 { [%eval 4.54] } 17... d6 { [%eval 4.89] } 18. Qf2 { [%eval -2.08] } 18... Bd7 { [%eval 4.13] } 19. Be3 { [%eval 4.26] } 19... b5 { [%eval 4.85] } 20. Bb3 { [%eval 4.09] } 20... a5 { [%eval 5.16] } 21. Rf1 { [%eval 3.55] } 21... Qe7 { [%eval 4.52] } 22. Nf5 { [%eval 3.39] } 22... Bxf5 { [%eval 3.36] } 23. exf5 { [%eval -3.18] } 23... Rf8 { [%eval 4.01] } 24. Qg2 { [%eval -2.99] } 24... Qxe3+ { [%eval -2.94] } 25. Kd1 { [%eval -3.61] } 25... Rh6 { [%eval -3.6] } 26. Rf3 { [%eval -4.72] } 26... Qe5 { [%eval -4.06] } 27. c3 { [%eval -5.18] } 27... Rxf5 { [%eval #9] } 28. Rxf5 { [%eval #8] } 28... Qxf5 { [%eval #2] } 29. Qa8+ { [%eval #1] } 1-0
+
+

@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/fCpGMrDp"]
+[Date "2026.08.12"]
+[Round "-"]
+[White "Falegname66"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "fCpGMrDp"]
+[UTCDate "2026.08.12"]
+[UTCTime "09:58:51"]
+[WhiteElo "1034"]
+[BlackElo "1005"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C44"]
+[Opening "Scotch Game: Scotch Gambit, Sarratt Variation"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. Bc4 { [%eval 0.07] } 3... Bc5 { [%eval 0.2] } 4. d4 { [%eval -0.11] } 4... exd4 { [%eval 0.2] } 5. Ng5 { [%eval 0.0] } 5... Nh6 { [%eval 0.0] } 6. Nxf7 { [%eval 0.0] } 6... Nxf7 { [%eval 0.0] } 7. Bxf7+ { [%eval 0.0] } 7... Kxf7 { [%eval 0.0] } 8. Qh5+ { [%eval -0.05] } 8... g6 { [%eval -0.05] } 9. Qxc5 { [%eval 0.19] } 9... Qf6 { [%eval 0.63] } 10. Qd5+ { [%eval 0.34] } 10... Kg7 { [%eval 0.56] } 11. O-O { [%eval 0.55] } 11... d6 { [%eval 0.79] } 12. Bg5 { [%eval 0.16] } 12... Qf7 { [%eval 2.14] } 13. Qxf7+ { [%eval 0.48] } 13... Kxf7 { [%eval 0.5] } 14. f4 { [%eval -0.06] } 14... Nb4 { [%eval 0.28] } 15. Na3 { [%eval 0.19] } 15... Re8 { [%eval 1.15] } 16. f5 { [%eval -0.51] } 16... Rxe4 { [%eval -0.8] } 17. fxg6+ { [%eval -0.71] } 17... Kxg6 { [%eval -0.66] } 18. Bd2 { [%eval -1.13] } 18... Nc6 { [%eval 0.23] } 19. c3 { [%eval -1.44] } 19... dxc3 { [%eval -0.06] } 20. bxc3 { [%eval -1.76] } 20... Bf5 { [%eval -1.33] } 21. Nc4 { [%eval -4.59] } 0-1
+
+

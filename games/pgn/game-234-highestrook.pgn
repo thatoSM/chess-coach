@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/PbOSdad3"]
+[Date "2026.08.12"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "HighestRook"]
+[Result "0-1"]
+[GameId "PbOSdad3"]
+[UTCDate "2026.08.12"]
+[UTCTime "12:03:28"]
+[WhiteElo "1024"]
+[BlackElo "978"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+63"]
+[Variant "Standard"]
+[TimeControl "900+10"]
+[ECO "C50"]
+[Opening "Italian Game: Giuoco Pianissimo"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. Bc4 { [%eval 0.07] } 3... Bc5 { [%eval 0.2] } 4. Nc3 { [%eval 0.12] } 4... Nf6 { [%eval 0.09] } 5. d3 { [%eval 0.07] } 5... d6 { [%eval 0.09] } 6. O-O { [%eval 0.04] } 6... O-O { [%eval 0.1] } 7. Bg5 { [%eval 0.12] } 7... Bg4 { [%eval 0.84] } 8. h3 { [%eval 0.32] } 8... Bh5 { [%eval 1.94] } 9. Nd5 { [%eval 2.01] } 9... h6 { [%eval 2.12] } 10. Nxf6+ { [%eval 2.11] } 10... gxf6 { [%eval 2.11] } 11. Bxh6 { [%eval 2.27] } 11... f5 { [%eval 2.74] } 12. Bxf8 { [%eval 2.69] } 12... Qxf8 { [%eval 3.07] } 13. a4 { [%eval 1.82] } 13... Qg7 { [%eval 2.26] } 14. Re1 { [%eval -1.16] } 14... Nd4 { [%eval 1.61] } 15. Kf1 { [%eval -3.04] } 15... Bxf3 { [%eval -1.93] } 16. gxf3 { [%eval -1.87] } 16... Qh6 { [%eval -1.85] } 17. Re2 { [%eval #-2] } 17... Qxh3+ { [%eval #-1] } 18. Ke1 { [%eval #-1] } 18... Nxf3# 0-1
+
+

@@ -19,6 +19,24 @@ Detail file for games 201–240: [`logs/games-201-240.md`](logs/games-201-240.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 237 | WIN | White | yoyodive (978) | *pending* |
+| 236 | LOSS | Black | Bykov_vs (988) | *pending* |
+| 235 | WIN | Black | AngelDavidGarelli (1059) | *pending* |
+| 234 | LOSS | White | HighestRook (978) | *pending* |
+| 233 | WIN | White | Rajveer_Jadhav (1010) | *pending* |
+| 232 | WIN | Black | devil1965 (1099) | *pending* |
+| 231 | WIN | Black | Falegname66 (1034) | *pending* |
+| 230 | WIN | White | DebopriyaDas16 (1015) | *pending* |
+| 229 | WIN | Black | Luisen81 (1088) | *pending* |
+| 228 | WIN | White | VeraVol (830) | *pending* |
+| 227 | LOSS | Black | Nobsm (1042) | *pending* |
+| 226 | WIN | White | Shabaev_Kostya (902) | *pending* |
+| 225 | WIN | Black | Daph_NC (1015) | *pending* |
+| 224 | WIN | White | ATH_ThanhNam_2019 (990) | *pending* |
+| 223 | LOSS | White | MAIKLMIMI (1042) | *pending* |
+| 222 | LOSS | Black | HapKat5 (1018) | *pending* |
+| 221 | LOSS | White | buster7 (995) | *pending* |
+| 220 | WIN | Black | RubbiKotovski (900) | *pending* |
 | 219 | LOSS | Black | sijasri_suresh (1002) | *pending* |
 | 218 | LOSS | Black | Mujahadd (1082) | *pending* |
 | 217 | LOSS | Black | Krishna97890 (900) | *pending* |
