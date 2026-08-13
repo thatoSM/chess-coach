@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/Z2R0u8B6"]
+[Date "2026.08.13"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "happy_happy_happy_ha"]
+[Result "1-0"]
+[GameId "Z2R0u8B6"]
+[UTCDate "2026.08.13"]
+[UTCTime "11:17:12"]
+[WhiteElo "1061"]
+[BlackElo "990"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C00"]
+[Opening "French Defense: Queen's Knight"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e6 { [%eval 0.22] } 2. Nc3 { [%eval 0.29] } 2... Bb4 { [%eval 0.54] } 3. a3 { [%eval 0.4] } 3... Bxc3 { [%eval 0.53] } 4. dxc3 { [%eval 0.39] } 4... c6 { [%eval 1.27] } 5. b4 { [%eval 0.57] } 5... Qh4 { [%eval 1.51] } 6. Nf3 { [%eval 1.42] } 6... Qxe4+ { [%eval 1.44] } 7. Be3 { [%eval 1.29] } 7... d5 { [%eval 5.71] } 8. Bd3 { [%eval 5.8] } 8... Qg4 { [%eval 5.72] } 9. O-O { [%eval 0.56] } 9... Nf6 { [%eval 0.7] } 10. h3 { [%eval 0.58] } 10... Qh5 { [%eval 0.57] } 11. g4 { [%eval -2.35] } 11... Nxg4 { [%eval 2.36] } 12. hxg4 { [%eval 2.3] } 12... Qxg4+ { [%eval 2.31] } 13. Kh2 { [%eval 1.76] } 13... Qh5+ { [%eval 2.51] } 14. Kg1 { [%eval 1.43] } 14... e5 { [%eval 1.54] } 15. Nh2 { [%eval 1.47] } 15... e4 { [%eval 8.06] } 16. Qxh5 { [%eval 7.79] } 16... exd3 { [%eval 8.87] } 17. cxd3 { [%eval 7.84] } 17... O-O { [%eval 7.79] } 18. Bc5 { [%eval 7.77] } 18... Re8 { [%eval 7.68] } 19. Rfe1 { [%eval 7.58] } 19... Be6 { [%eval 7.74] } 20. Rxe6 { [%eval 7.04] } 20... Rxe6 { [%eval 6.74] } 21. Ng4 { [%eval 6.47] } 21... Nd7 { [%eval 6.53] } 22. Bd4 { [%eval 6.43] } 22... g6 { [%eval 7.52] } 23. Qh6 { [%eval 7.89] } 23... Ne5 { [%eval 12.98] } 24. Nxe5 { [%eval 12.68] } 24... Rae8 { [%eval 14.35] } 25. Re1 { [%eval 10.55] } 25... f6 { [%eval 9.57] } 26. Nf3 { [%eval 8.04] } 26... Rxe1+ { [%eval 8.02] } 27. Nxe1 { [%eval 7.87] } 27... Rxe1+ { [%eval 7.83] } 28. Kg2 { [%eval 7.69] } 28... Rd1 { [%eval #6] } 29. Bxf6 { [%eval 13.37] } 29... Kf7 { [%eval #4] } 30. Qg7+ { [%eval #3] } 30... Ke6 { [%eval #3] } 31. Qe7+ { [%eval #2] } 31... Kf5 { [%eval #2] } 32. Qe5+ { [%eval #1] } 32... Kg4 { [%eval #1] } 33. Qg5# 1-0
+
+

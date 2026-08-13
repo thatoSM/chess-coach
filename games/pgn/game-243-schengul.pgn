@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/CNHHBoW0"]
+[Date "2026.08.13"]
+[Round "-"]
+[White "Schengul"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "CNHHBoW0"]
+[UTCDate "2026.08.13"]
+[UTCTime "07:32:15"]
+[WhiteElo "1087"]
+[BlackElo "1041"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Wayward Queen Attack"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Qh5 { [%eval -0.25] } 2... Nc6 { [%eval -0.42] } 3. Bc4 { [%eval -0.31] } 3... Nh6 { [%eval 0.15] } 4. d3 { [%eval 0.07] } 4... g6 { [%eval 0.09] } 5. Qf3 { [%eval -0.13] } 5... Nd4 { [%eval -0.16] } 6. Qh3 { [%eval -4.48] } 6... d5 { [%eval -4.57] } 7. Bxd5 { [%eval -7.61] } 7... Bxh3 { [%eval -7.86] } 0-1
+
+

@@ -20,7 +20,24 @@ Detail file for games 241–280: [`logs/games-241-280.md`](logs/games-241-280.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 257 | WIN | Black | Sviatoslavv1 (1013) | *pending* |
+| 256 | WIN | Black | WiseRider (1059) | *pending* |
+| 255 | WIN | White | happy_happy_happy_ha (990) | *pending* |
+| 254 | WIN | Black | JonhnyMnemonic (957) | *pending* |
+| 253 | WIN | White | Max_Bur2016 (912) | *pending* |
+| 252 | WIN | White | Hgrdydjbs2 (1069) | *pending* |
+| 251 | WIN | Black | Nirmala_1970 (1039) | *pending* |
+| 250 | LOSS | Black | Srj_dana (1032) | *pending* |
+| 249 | LOSS | White | omergencer (1016) | *pending* |
+| 248 | WIN | White | Champion_Aahaan (1042) | *pending* |
+| 247 | WIN | Black | hamidreza_najibi (1002) | *pending* |
+| 246 | LOSS | Black | Manhamaryam (1150) | *pending* |
+| 245 | WIN | White | paizzrr (1123) | *pending* |
+| 244 | LOSS | White | Schlumpfpups (988) | *pending* |
+| 243 | WIN | Black | Schengul (1087) | *pending* |
+| 242 | LOSS | Black | sundar_74 (1083) | *pending* |
 | 241 | WIN | White | Vivaan05102017 (953) | *pending* |
+| 240 | WIN | Black | MEmeko (1068) | *pending* |
 | 240 | WIN | Black | MEmeko (1068) | *pending* |
 | 239 | WIN | White | quanxcalamity (1039) | *pending* |
 | 238 | WIN | Black | Li161125 (1027) | *pending* |

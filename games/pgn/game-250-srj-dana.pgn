@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/XOHJ3ojn"]
+[Date "2026.08.13"]
+[Round "-"]
+[White "Srj_dana"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "XOHJ3ojn"]
+[UTCDate "2026.08.13"]
+[UTCTime "09:18:45"]
+[WhiteElo "1032"]
+[BlackElo "1048"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "900+10"]
+[ECO "C52"]
+[Opening "Italian Game: Evans Gambit, Pierce Defense"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. Bc4 { [%eval 0.07] } 3... Bc5 { [%eval 0.2] } 4. b4 { [%eval 0.0] } 4... Bxb4 { [%eval -0.05] } 5. c3 { [%eval -0.13] } 5... Ba5 { [%eval -0.24] } 6. d4 { [%eval -0.13] } 6... exd4 { [%eval 0.0] } 7. O-O { [%eval -0.17] } 7... f5 { [%eval 5.41] } 8. exf5 { [%eval 1.87] } 8... Bxc3 { [%eval 7.37] } 9. Qe2+ { [%eval 3.46] } 9... Qe7 { [%eval 5.02] } 10. Nxc3 { [%eval 4.42] } 10... dxc3 { [%eval 4.64] } 11. Qd3 { [%eval 4.62] } 11... d6 { [%eval 6.48] } 12. Bg5 { [%eval 4.71] } 12... Nf6 { [%eval 7.24] } 13. Rfe1 { [%eval 7.1] } 13... Ne5 { [%eval 7.6] } 14. Nxe5 { [%eval 6.35] } 14... dxe5 { [%eval 5.75] } 15. Qxc3 { [%eval 5.68] } 15... Rb8 { [%eval 13.89] } 16. Rxe5 { [%eval 17.27] } 16... Be6 { [%eval 17.97] } 17. Rxe6 { [%eval 16.38] } 17... Ne4 { [%eval #4] } 18. Rxe7+ { [%eval #3] } 1-0
+
+
