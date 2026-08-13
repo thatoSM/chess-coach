@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/qCRttDng"]
+[Date "2026.08.13"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "hosuk97"]
+[Result "1-0"]
+[GameId "qCRttDng"]
+[UTCDate "2026.08.13"]
+[UTCTime "17:51:15"]
+[WhiteElo "1065"]
+[BlackElo "1066"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-8"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "C50"]
+[Opening "Italian Game"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Qf6 4. O-O d6 5. Nc3 Be6 6. Bxe6 fxe6 7. d3 Nge7 8. Bg5 Qg6 9. a4 O-O-O 10. Re1 d5 11. exd5 exd5 12. Qd2 d4 13. Ne4 Nd5 14. Nh4 Nf6 15. Nxg6 hxg6 16. Nxf6 Bb4 17. Qd1 Bxe1 18. Qxe1 Rdf8 19. Ng4 Nb4 20. Qxb4 Rf5 21. Be7 Rf4 22. Nxe5 Re8 23. Nxg6 Rg4 24. Ne5 Rf4 25. Qc5 b6 26. Bg5 bxc5 27. Bxf4 Rf8 28. Ng6 Rf6 29. Re1 Rxg6 30. Re7 Kb7 31. Rxc7+ Kb6 32. b3 a5 33. g3 Re6 34. Kg2 Re2 35. h4 Rxc2 36. g4 Rb2 37. g5 Rxb3 38. h5 Rxd3 39. h6 gxh6 40. gxh6 Ra3 41. h7 d3 42. h8=Q d2 43. Qb8+ Ka6 44. Qb7# 1-0
+
+

@@ -20,6 +20,11 @@ Detail file for games 241–280: [`logs/games-241-280.md`](logs/games-241-280.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 262 | LOSS | Black | langero (1022) | *pending* |
+| 261 | WIN | Black | matveypanino (1077) | *pending* |
+| 260 | WIN | White | hosuk97 (1066) | *pending* |
+| 259 | LOSS | Black | Dranetur (1071) | *pending* |
+| 258 | LOSS | White | Dranetur (1060) | *pending* |
 | 257 | WIN | Black | Sviatoslavv1 (1013) | *pending* |
 | 256 | WIN | Black | WiseRider (1059) | *pending* |
 | 255 | WIN | White | happy_happy_happy_ha (990) | *pending* |
@@ -37,7 +42,6 @@ Detail file for games 241–280: [`logs/games-241-280.md`](logs/games-241-280.md
 | 243 | WIN | Black | Schengul (1087) | *pending* |
 | 242 | LOSS | Black | sundar_74 (1083) | *pending* |
 | 241 | WIN | White | Vivaan05102017 (953) | *pending* |
-| 240 | WIN | Black | MEmeko (1068) | *pending* |
 | 240 | WIN | Black | MEmeko (1068) | *pending* |
 | 239 | WIN | White | quanxcalamity (1039) | *pending* |
 | 238 | WIN | Black | Li161125 (1027) | *pending* |
