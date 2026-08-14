@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/7IPRmznz"]
+[Date "2026.08.14"]
+[Round "-"]
+[White "arunkhandelwal"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "7IPRmznz"]
+[UTCDate "2026.08.14"]
+[UTCTime "07:32:42"]
+[WhiteElo "1119"]
+[BlackElo "1076"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C50"]
+[Opening "Italian Game: Giuoco Pianissimo, Normal"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. Bc4 { [%eval 0.07] } 3... Bc5 { [%eval 0.2] } 4. d3 { [%eval 0.22] } 4... Nf6 { [%eval 0.1] } 5. Ng5 { [%eval -0.35] } 5... O-O { [%eval -0.26] } 6. O-O { [%eval -0.46] } 6... h6 { [%eval -0.22] } 7. Nf3 { [%eval -0.28] } 7... d5 { [%eval -0.17] } 8. exd5 { [%eval -0.2] } 8... Nxd5 { [%eval -0.17] } 9. a3 { [%eval -0.62] } 9... Bg4 { [%eval -0.68] } 10. Qe1 { [%eval -3.23] } 10... Bxf3 { [%eval -3.34] } 11. gxf3 { [%eval -2.85] } 11... Qg5+ { [%eval 6.99] } 12. Kh1 { [%eval -1.31] } 12... Nf4 { [%eval -1.37] } 13. Rg1 { [%eval -1.49] } 13... Qh4 { [%eval -1.0] } 14. Nc3 { [%eval -4.84] } 14... Bxf2 { [%eval -4.96] } 15. Qf1 { [%eval -5.44] } 15... Nd4 { [%eval 4.89] } 16. Rg4 { [%eval 4.98] } 16... Qh3 { [%eval 5.0] } 17. Qxf2 { [%eval 5.16] } 17... Qxf3+ { [%eval 5.06] } 18. Qxf3 { [%eval 5.16] } 18... Nxf3 { [%eval 5.16] } 19. Bxf4 { [%eval 5.18] } 19... exf4 { [%eval 5.17] } 20. Rxf4 { [%eval 5.21] } 20... Nd2 { [%eval 7.15] } 21. Bd5 { [%eval 7.0] } 21... c6 { [%eval 7.15] } 22. Bg2 { [%eval 6.96] } 22... Rfe8 { [%eval 7.25] } 23. Rd1 { [%eval 7.14] } 23... g5 { [%eval 7.33] } 24. Rf2 { [%eval 7.27] } 1-0
+
+

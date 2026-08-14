@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/8WE50Jyk"]
+[Date "2026.08.14"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "calochess"]
+[Result "0-1"]
+[GameId "8WE50Jyk"]
+[UTCDate "2026.08.14"]
+[UTCTime "18:33:47"]
+[WhiteElo "1076"]
+[BlackElo "1057"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "C40"]
+[Opening "Elephant Gambit"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... d5 { [%eval 0.81] } 3. exd5 { [%eval 0.79] } 3... Qxd5 { [%eval 0.93] } 4. Nc3 { [%eval 0.97] } 4... Qe6 { [%eval 1.48] } 5. Qe2 { [%eval 0.36] } 5... Nf6 { [%eval 1.21] } 6. Nxe5 { [%eval 1.19] } 6... Bd6 { [%eval 1.23] } 7. Nf3 { [%eval 0.9] } 7... O-O { [%eval 0.96] } 8. d4 { [%eval 0.59] } 8... Re8 { [%eval 1.0] } 9. Be3 { [%eval 0.27] } 9... Qf5 { [%eval 1.13] } 10. h3 { [%eval 0.42] } 10... Bf4 { [%eval 1.77] } 11. Nd1 { [%eval 0.26] } 11... Nd5 { [%eval 0.27] } 12. Qd3 { [%eval -0.39] } 12... Qf6 { [%eval 0.3] } 13. Be2 { [%eval 0.0] } 13... Bf5 { [%eval 0.79] } 14. Qb3 { [%eval 0.72] } 14... c6 { [%eval 0.73] } 15. g4 { [%eval -1.82] } 15... Be4 { [%eval -1.93] } 16. c4 { [%eval -4.56] } 16... Nxe3 { [%eval -4.62] } 17. Nxe3 { [%eval -5.38] } 17... Bxe3 { [%eval -0.53] } 18. fxe3 { [%eval -0.72] } 18... Bxf3 { [%eval 0.76] } 19. Bxf3 { [%eval -7.15] } 19... Qxf3 { [%eval -7.26] } 20. Rf1 { [%eval #-15] } 20... Rxe3+ { [%eval #-14] } 21. Kd2 { [%eval #-14] } 21... Qe2+ { [%eval -10.66] } 22. Kc1 { [%eval #-14] } 22... Qxf1+ { [%eval -11.15] } 23. Kd2 { [%eval #-6] } 23... Qe2+ { [%eval #-8] } 24. Kc1 { [%eval #-8] } 0-1
+
+

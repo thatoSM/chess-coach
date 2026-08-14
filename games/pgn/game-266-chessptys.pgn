@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/IgzMnf0W"]
+[Date "2026.08.14"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "ChessPtys"]
+[Result "0-1"]
+[GameId "IgzMnf0W"]
+[UTCDate "2026.08.14"]
+[UTCTime "08:13:15"]
+[WhiteElo "1075"]
+[BlackElo "1068"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+15"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... c6 { [%eval 0.31] } 2. Nc3 { [%eval 0.21] } 2... d5 { [%eval 0.38] } 3. exd5 { [%eval -0.03] } 3... cxd5 { [%eval -0.02] } 4. Bb5+ { [%eval -0.11] } 4... Nc6 { [%eval -0.09] } 5. d4 { [%eval -0.06] } 5... Bf5 { [%eval 0.0] } 6. Qf3 { [%eval -1.01] } 6... e6 { [%eval -0.91] } 7. Bxc6+ { [%eval -0.9] } 7... bxc6 { [%eval -0.94] } 8. Qe2 { [%eval -1.1] } 8... Rb8 { [%eval -0.82] } 9. Nf3 { [%eval -0.85] } 9... c5 { [%eval 0.47] } 10. dxc5 { [%eval -0.82] } 10... Bxc5 { [%eval -0.84] } 11. O-O { [%eval -0.74] } 11... Nf6 { [%eval -0.58] } 12. Bg5 { [%eval -1.07] } 12... h6 { [%eval -0.18] } 13. Bxf6 { [%eval -0.2] } 13... Qxf6 { [%eval -0.1] } 14. Rab1 { [%eval -2.97] } 14... O-O { [%eval -2.98] } 15. Rfe1 { [%eval -3.39] } 15... Rb7 { [%eval -2.81] } 16. a3 { [%eval -3.89] } 16... a5 { [%eval -2.5] } 17. Ne5 { [%eval -3.66] } 17... Bd6 { [%eval -2.0] } 18. Nc6 { [%eval -2.85] } 18... Rc7 { [%eval -2.95] } 19. Nxa5 { [%eval -2.77] } 19... Ra7 { [%eval -0.55] } 20. Nb3 { [%eval -1.08] } 20... Qg6 { [%eval 0.53] } 21. Qf3 { [%eval -1.09] } 21... Bxc2 { [%eval -1.04] } 22. Qe3 { [%eval -4.95] } 22... Bxb1 { [%eval -2.77] } 23. Qxa7 { [%eval -2.72] } 23... Bf5 { [%eval -2.77] } 24. h3 { [%eval -8.1] } 24... Rb8 { [%eval -5.92] } 25. Nc5 { [%eval -14.41] } 25... Rxb2 { [%eval -6.1] } 26. Nd7 { [%eval -9.2] } 26... Bxh3 { [%eval -7.25] } 27. Qa8+ { [%eval #-9] } 27... Kh7 { [%eval #-10] } 28. g3 { [%eval -23.64] } 28... Qc2 { [%eval -6.28] } 29. Kh2 { [%eval #-2] } 29... Qxf2+ { [%eval #-1] } 30. Kxh3 { [%eval #-1] } 30... Qxg3# 0-1
+
+

@@ -20,6 +20,17 @@ Detail file for games 241–280: [`logs/games-241-280.md`](logs/games-241-280.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 273 | LOSS | White | calochess (1057) | *pending* |
+| 272 | WIN | Black | Quadrat-8 (1033) | *pending* |
+| 271 | WIN | White | alikerem1393 (1073) | *pending* |
+| 270 | LOSS | White | Alekxln (1086) | *pending* |
+| 269 | WIN | Black | Belig228 (951) | *pending* |
+| 268 | LOSS | Black | NIHALVEGAD (921) | *pending* |
+| 267 | WIN | White | Ethan9149 (1079) | *pending* |
+| 266 | LOSS | White | ChessPtys (1068) | *pending* |
+| 265 | WIN | White | forevertrip (923) | *pending* |
+| 264 | LOSS | Black | arunkhandelwal (1119) | *pending* |
+| 263 | WIN | White | NikitaMaksimovichF (1065) | *pending* |
 | 262 | LOSS | Black | langero (1022) | *pending* |
 | 261 | WIN | Black | matveypanino (1077) | *pending* |
 | 260 | WIN | White | hosuk97 (1066) | *pending* |
