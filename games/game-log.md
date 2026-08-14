@@ -20,6 +20,7 @@ Detail file for games 241–280: [`logs/games-241-280.md`](logs/games-241-280.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 274 | WIN | Black | pggv95 (1065) | *pending* |
 | 273 | LOSS | White | calochess (1057) | *pending* |
 | 272 | WIN | Black | Quadrat-8 (1033) | *pending* |
 | 271 | WIN | White | alikerem1393 (1073) | *pending* |
