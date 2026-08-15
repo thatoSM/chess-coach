@@ -94,6 +94,8 @@ eval-sign direction FIRST. Use this structure:
     - Colour: I played [White/Black]. Eval direction: [positive/NEGATIVE] evals are my advantage.
     - Link: https://lichess.org/GAMEID
     - Played: YYYY-MM-DD HH:MM SAST
+    - Mode: [Rated/Unrated] · [clock in minutes]+[increment in seconds]
+    - Date: YYYY/MM/DD
     - PGN: `games/pgn/game-NN-opponentname.pgn`
     - Moves:
       ```
@@ -121,6 +123,14 @@ Do NOT invent accuracy percentages, blunder counts, ACPL, or a leak number for a
 brand-new game — that gets filled in later via Part 2 and by me. Do NOT edit
 `docs/03-my-recurring-mistakes.md` or any "through-line" section — those require
 real human analysis.
+
+Mode and Date come straight from the PGN: read `[Event "..."]` (contains
+"rated" or "casual" — Unrated for "casual", Rated for "rated"; for team-battle
+or other events without that wording, fall back to whether `[WhiteRatingDiff
+"..."]` is present) and `[TimeControl "SEC+INC"]` (SEC/60 minutes if evenly
+divisible, else `SECs`, e.g. `600+5` → `10+5`). Date is the same
+Africa/Johannesburg-converted date already used for `Played`, reformatted with
+slashes (`YYYY/MM/DD`).
 
 === PART 2 — BACKFILL COMPUTER ANALYSIS ===
 
