@@ -17,9 +17,26 @@ Detail file for games 121–160: [`logs/games-121-160.md`](logs/games-121-160.md
 Detail file for games 161–200: [`logs/games-161-200.md`](logs/games-161-200.md)
 Detail file for games 201–240: [`logs/games-201-240.md`](logs/games-201-240.md)
 Detail file for games 241–280: [`logs/games-241-280.md`](logs/games-241-280.md)
+Detail file for games 281–320: [`logs/games-281-320.md`](logs/games-281-320.md)
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 290 | LOSS | White | RealNeustadt (1953) | *pending* |
+| 289 | LOSS | Black | HoppingTriceratops (1594) | *pending* |
+| 288 | WIN | White | AdamKabardov (656) | *pending* |
+| 287 | LOSS | White | dirass (787) | *pending* |
+| 286 | LOSS | Black | Nephentes10 (1149) | *pending* |
+| 285 | LOSS | Black | Promoth (1000) | *pending* |
+| 284 | LOSS | Black | kevino1969 (1101) | *pending* |
+| 283 | LOSS | White | saifblackhorse (1095) | *pending* |
+| 282 | LOSS | Black | Liyawei199 (1167) | *pending* |
+| 281 | WIN | White | nicoheredia1496 (1090) | *pending* |
+| 280 | WIN | Black | Jor9 (1142) | *pending* |
+| 279 | LOSS | White | lomalakamera (1122) | *pending* |
+| 278 | DRAW | Black | Rainauldo (1062) | *pending* |
+| 277 | LOSS | White | Andreas1301 (1003) | *pending* |
+| 276 | WIN | Black | ston1cleo (1036) | *pending* |
+| 275 | WIN | White | Drakkarovi4 (1160) | *pending* |
 | 274 | WIN | Black | pggv95 (1065) | *pending* |
 | 273 | LOSS | White | calochess (1057) | *pending* |
 | 272 | WIN | Black | Quadrat-8 (1033) | *pending* |

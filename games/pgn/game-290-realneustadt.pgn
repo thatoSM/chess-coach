@@ -1,0 +1,21 @@
+[Event "casual variant:chess960 game"]
+[Site "https://lichess.org/kKUFL5a0"]
+[Date "2026.08.15"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "RealNeustadt"]
+[Result "0-1"]
+[GameId "kKUFL5a0"]
+[UTCDate "2026.08.15"]
+[UTCTime "18:57:33"]
+[WhiteElo "1500"]
+[BlackElo "1953"]
+[Variant "Chess960"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+[FEN "bqnrnkrb/pppppppp/8/8/8/8/PPPPPPPP/BQNRNKRB w KQkq - 0 1"]
+[SetUp "1"]
+
+1. e4 c5 0-1
+
+

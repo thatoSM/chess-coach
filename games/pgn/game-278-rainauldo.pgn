@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/xFPDNgoG"]
+[Date "2026.08.15"]
+[Round "-"]
+[White "Rainauldo"]
+[Black "ThatoSM"]
+[Result "1/2-1/2"]
+[GameId "xFPDNgoG"]
+[UTCDate "2026.08.15"]
+[UTCTime "11:12:19"]
+[WhiteElo "1062"]
+[BlackElo "1074"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+0"]
+[Variant "Standard"]
+[TimeControl "900+10"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: London System"]
+[Termination "Insufficient material"]
+
+1. d4 { [%eval 0.15] } 1... d5 { [%eval 0.27] } 2. Nf3 { [%eval 0.08] } 2... Nf6 { [%eval 0.11] } 3. Bf4 { [%eval 0.04] } 3... Bf5 { [%eval 0.12] } 4. e3 { [%eval 0.16] } 4... e6 { [%eval 0.18] } 5. Bd3 { [%eval 0.13] } 5... Bxd3 { [%eval 0.09] } 6. Qxd3 { [%eval 0.0] } 6... Bd6 { [%eval 0.0] } 7. Bg5 { [%eval 0.0] } 7... h6 { [%eval 0.19] } 8. Bh4 { [%eval -0.02] } 8... Nc6 { [%eval 0.22] } 9. c3 { [%eval -0.09] } 9... Qe7 { [%eval 0.09] } 10. Nbd2 { [%eval 0.18] } 10... O-O-O { [%eval 0.15] } 11. Bg3 { [%eval 0.0] } 11... Bxg3 { [%eval 0.0] } 12. hxg3 { [%eval 0.0] } 12... a6 { [%eval -0.01] } 13. Ne5 { [%eval -1.21] } 13... Nxe5 { [%eval -1.09] } 14. dxe5 { [%eval -1.1] } 14... Ne8 { [%eval 0.13] } 15. f4 { [%eval -0.08] } 15... g5 { [%eval 0.0] } 16. O-O-O { [%eval 0.0] } 16... Kb8 { [%eval 0.38] } 17. Nf3 { [%eval -0.47] } 17... Ng7 { [%eval 0.52] } 18. b4 { [%eval -1.51] } 18... Nf5 { [%eval -1.58] } 19. g4 { [%eval -2.52] } 19... Ng7 { [%eval 0.86] } 20. Kb2 { [%eval 0.24] } 20... f6 { [%eval 1.0] } 21. Qd4 { [%eval -0.33] } 21... c6 { [%eval 5.11] } 22. Kb3 { [%eval 0.0] } 22... Kc7 { [%eval 5.39] } 23. a3 { [%eval 0.24] } 23... Ra8 { [%eval 5.23] } 24. e4 { [%eval 2.61] } 24... b5 { [%eval 5.77] } 25. exf6 { [%eval 5.63] } 25... Qd6 { [%eval 6.51] } 26. fxg7 { [%eval 6.3] } 26... Rhg8 { [%eval 6.29] } 27. Rxh6 { [%eval 6.03] } 27... Qxf4 { [%eval 8.18] } 28. Qe5+ { [%eval 5.23] } 28... Kd7 { [%eval #8] } 29. Qxf4 { [%eval 6.5] } 29... gxf4 { [%eval 6.23] } 30. Ne5+ { [%eval 6.27] } 30... Kd6 { [%eval 6.27] } 31. Nf7+ { [%eval 5.96] } 31... Ke7 { [%eval 6.0] } 32. Ne5 { [%eval 5.99] } 32... Kd6 { [%eval 5.9] } 33. Nd3 { [%eval 5.98] } 33... Rxg7 { [%eval 5.91] } 34. Nxf4 { [%eval 5.62] } 34... Rxg4 { [%eval 5.63] } 35. Rxe6+ { [%eval 5.07] } 35... Kd7 { [%eval 5.63] } 36. Rf6 { [%eval 5.49] } 36... Ke7 { [%eval 5.36] } 37. Nh5 { [%eval 4.82] } 37... Rxg2 { [%eval 6.01] } 38. exd5 { [%eval 5.83] } 38... cxd5 { [%eval #10] } 39. Re1+ { [%eval 7.89] } 39... Kd7 { [%eval 7.8] } 40. Nf4 { [%eval 5.94] } 40... Rd2 { [%eval #5] } 41. Nxd5 { [%eval 2.96] } 41... Rxd5 { [%eval 2.53] } 42. c4 { [%eval 0.0] } 42... bxc4+ { [%eval 0.13] } 43. Kxc4 { [%eval 0.06] } 43... Rd6 { [%eval 0.09] } 44. Rf7+ { [%eval 0.19] } 44... Kc6 { [%eval 0.16] } 45. Ref1 { [%eval 0.0] } 45... Rb8 { [%eval 0.0] } 46. R7f6 { [%eval 0.0] } 46... Rxf6 { [%eval 0.03] } 47. Rxf6+ { [%eval 0.0] } 47... Kb7 { [%eval 0.08] } 48. b5 { [%eval 0.0] } 48... axb5+ { [%eval 0.0] } 49. Kxb5 { [%eval 0.0] } 49... Ra8 { [%eval #19] } 50. a4 { [%eval 0.0] } 50... Ra7 { [%eval 4.19] } 51. Rf7+ { [%eval 0.0] } 51... Kb8 { [%eval 0.0] } 52. Rxa7 { [%eval 0.0] } 52... Kxa7 { [%eval 0.0] } 53. a5 { [%eval 0.0] } 53... Kb7 { [%eval 0.0] } 54. a6+ { [%eval 0.0] } 54... Ka7 { [%eval 0.0] } 55. Ka5 { [%eval 0.0] } 1/2-1/2
+
+
