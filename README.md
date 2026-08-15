@@ -70,6 +70,7 @@ Full detail on how I want to be coached: `docs/05-coaching-principles.md`.
 | `docs/04-openings.md` | My White and Black repertoire + how to meet gambits |
 | `docs/05-coaching-principles.md` | How I want to be coached |
 | `docs/06-reading-an-analysis.md` | How to read a Lichess analysis without misreading it |
+| `docs/07-principles-reference.md` | Reference list of general principles — NOT for mid-game |
 | `games/game-log.md` | Scannable index — one row per game, newest first |
 | `games/logs/` | Full entries, 40 games per file |
 | `games/_pgn-template.md` | How to export a PGN + a template to fill in |
@@ -119,3 +120,4 @@ mine** — the retracted Leak #4, and the unverified `Qe2`/`Rxf2` row. Before
 repeating any claim about a specific move, check it against the PGN in
 `games/pgn/`. Only cite rows from the VERIFIED table in
 `docs/03-my-recurring-mistakes.md`.
+
