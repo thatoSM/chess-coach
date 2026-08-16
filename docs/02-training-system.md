@@ -94,10 +94,15 @@ a rook coming to an open file is.
 
 | When | What | How long |
 |---|---|---|
-| Start of session | Puzzles — slow, Harder difficulty | 15–20 min |
+| Start of session | Puzzles — slow, **Normal** difficulty, 60s+ per puzzle | 15–20 min |
 | Then | Rated games, **while fresh** | 2–3 games max |
 | After a loss | Analyse it. Name the leak. Log it. | 10 min |
 | Never | Rated chess after a long gaming session | — |
+
+> **Why Normal, not Harder:** I tested Harder and solved 14%. On Normal it's
+> 74%. A 14% solve rate is not calculation training, it's guessing training —
+> which is the one thing puzzle practice must not become. Never click a move I
+> haven't calculated to the end.
 
 Detail: `training/puzzle-routine.md` and `training/wellbeing-and-schedule.md`.
 

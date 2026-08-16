@@ -98,6 +98,7 @@ none of it works if the piece I'm adding is itself hanging.
 | 3.13 | **Trapped piece.** A piece with no safe squares can be hunted with pawns even if it isn't currently attacked. | SOON | New |
 | 3.14 | **Back-rank mate.** A castled king with three unmoved pawns and no escape square is a permanent tactical target for both sides. | NOW | New |
 | 3.15 | **Every tactic needs a target:** a loose piece, an overloaded defender, an exposed king, or two pieces on a line. **If I can't name the target, the tactic isn't there.** | SOON | Related to LPDO |
+| 3.16 | **Name three candidate moves before calculating any of them.** Then calculate the most forcing one first. My default is to find one idea and calculate it deeply — which is why my errors take ~14s and my clean moves ~7s. The failure is not shallow thinking, it's a search that only ever returns one branch. | SOON | **New — next in queue** |
 
 **Puzzle themes to select on Lichess for this section:** Remove the Defender,
 Deflection, Overloading, Discovered Attack, Pin, Skewer, Back Rank.
@@ -186,6 +187,26 @@ Pawns are the only pieces that can't go backwards. Every pawn move is permanent.
 My strongest phase by score, but the phase breakdown says ~38% of my centipawn
 loss happens here. Both things are true.
 
+**Measured against my own 287 games (not general chess advice):**
+
+| Measure | Count |
+|---|---|
+| Reached a real endgame (queens off, ≤4 pieces) | 73 — 25% |
+| Pure rook + pawn ending | 10 — 3.5% |
+| Pure king + pawn ending | 1 — 0.3% |
+| My score in games that reached an endgame | 44W / 20L / 9D = 60% |
+| My overall score | 146W / 130L / 11D = 51% |
+
+So endgames are a genuine strength — **9 points above my own baseline** when I
+get there. But 75% of my games never reach one. They end in the middlegame,
+which is where 43% of my centipawn loss lives.
+
+**Consequence for study priority:** the common advice that "Lucena and Philidor
+are worth more than everything else combined" is true of chess in general and
+false of my games. Rook endings happened 10 times in 287 games and I already
+scored 5W/3L/2D in them. Endgame theory is Sunday reading, not the main lever.
+The main lever is not losing the game before the endgame starts.
+
 | # | Principle | When | In my repo? |
 |---|---|---|---|
 | 9.1 | **Activate the king.** In the endgame it's a fighting piece worth about four pawns. | NOW | New |
@@ -195,6 +216,16 @@ loss happens here. Both things are true.
 | 9.5 | **Rook endings: rook behind the passer, and the Lucena and Philidor positions.** These two positions decide a large share of rook endings. | SOON | New |
 | 9.6 | **Basic mates I must be able to do without thinking:** K+Q, K+R, K+two bishops. | NOW | Assumed |
 | 9.7 | **K+B+N mate and K+B vs K+N** — real but rare. Don't spend time here yet. | MUCH LATER | New |
+
+### How to drill these
+
+Lichess → **Learn** → **Practice**. Free, drillable, no account setup needed.
+One topic per session, repeat the topic until I can execute it without thinking,
+then move on. Do not move on because I got it once.
+
+Order: **Opposition → King and pawn vs king → Rook endgames.**
+
+Skip 9.7 entirely for now.
 
 ---
 
