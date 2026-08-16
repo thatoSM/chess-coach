@@ -21,6 +21,27 @@ Detail file for games 281–320: [`logs/games-281-320.md`](logs/games-281-320.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 311 | LOSS | White | mazouni4545 (1031) | *pending* |
+| 310 | DRAW | Black | Nahaldarabi3072 (1107) | *pending* |
+| 309 | LOSS | White | Devanandkr (1115) | *pending* |
+| 308 | LOSS | White | RN_Perelman (1102) | *pending* |
+| 307 | WIN | Black | monyve11 (1066) | *pending* |
+| 306 | WIN | Black | KhaertdinovRD (1117) | *pending* |
+| 305 | LOSS | Black | xCamoDragonx (990) | *pending* |
+| 304 | WIN | Black | LolaBen (991) | *pending* |
+| 303 | WIN | White | ASIRI_M (1074) | *pending* |
+| 302 | LOSS | Black | Alby_74 (1450) | *pending* |
+| 301 | WIN | White | Avithebaddie (1500) | *pending* |
+| 300 | LOSS | Black | Daredave08 (1500) | *pending* |
+| 299 | LOSS | Black | HolmovKostya (956) | *pending* |
+| 298 | LOSS | White | neon_zenith (1079) | *pending* |
+| 297 | WIN | Black | MrPanicreator (1048) | *pending* |
+| 296 | LOSS | White | DimaZay (1045) | *pending* |
+| 295 | LOSS | Black | shazza123 (979) | *pending* |
+| 294 | LOSS | Black | martiangambitlegacy (1182) | *pending* |
+| 293 | WIN | Black | GiftmischerPTA (962) | *pending* |
+| 292 | WIN | White | rizwansyah (1009) | *pending* |
+| 291 | LOSS | White | victor_wall (1509) | *pending* |
 | 290 | LOSS | White | RealNeustadt (1953) | *pending* |
 | 289 | LOSS | Black | HoppingTriceratops (1594) | *pending* |
 | 288 | WIN | White | AdamKabardov (656) | *pending* |

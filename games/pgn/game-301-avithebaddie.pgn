@@ -1,0 +1,21 @@
+[Event "casual variant:threeCheck game"]
+[Site "https://lichess.org/axYPvU3L"]
+[Date "2026.08.16"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "Avithebaddie"]
+[Result "1-0"]
+[GameId "axYPvU3L"]
+[UTCDate "2026.08.16"]
+[UTCTime "13:32:28"]
+[WhiteElo "1500"]
+[BlackElo "1500"]
+[Variant "Three-check"]
+[TimeControl "900+10"]
+[ECO "B06"]
+[Opening "Modern Defense"]
+[Termination "Normal"]
+
+1. e4 { [%eval 2.07] } 1... g6 { [%eval 4.26] } 2. Nc3 { [%eval 4.23] } 2... f5 { [%eval 6.85] } 3. exf5 { [%eval 8.34] } 3... e6 { [%eval 12.41] } 4. Be2 { [%eval 4.57] } 4... exf5 { [%eval 11.41] } 5. Nf3 { [%eval 8.38] } 5... g5 { [%eval 43.41] } 6. h3 { [%eval 10.9] } 6... h5 { [%eval 35.15] } 7. d4 { [%eval 8.87] } 7... d5 { [%eval #3] } 8. Bxg5 { [%eval 18.19] } 8... c5 { [%eval #3] } 9. Bxd8 { [%eval 35.69] } 9... b5 { [%eval #5] } 10. dxc5 { [%eval #5] } 10... Bxc5 { [%eval #5] } 11. Qd3 { [%eval #6] } 11... Nf6 { [%eval #5] } 12. Qxb5+ { [%eval #4] } 12... Kf8 { [%eval #2] } 13. Bxf6 { [%eval #3] } 13... a5 { [%eval #2] } 14. Qxc5+ { [%eval #1] } 14... Kg8 { [%eval #1] } 15. Qxd5# 1-0
+
+

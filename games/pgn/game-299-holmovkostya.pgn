@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/76Y60a0h"]
+[Date "2026.08.16"]
+[Round "-"]
+[White "HolmovKostya"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "76Y60a0h"]
+[UTCDate "2026.08.16"]
+[UTCTime "12:01:53"]
+[WhiteElo "956"]
+[BlackElo "1058"]
+[WhiteRatingDiff "+24"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "A00"]
+[Opening "Grob Opening"]
+[Termination "Normal"]
+
+1. g4 { [%eval -0.96] } 1... Nf6 { [%eval 0.22] } 2. h3 { [%eval -0.63] } 2... g5 { [%eval 0.31] } 3. Bg2 { [%eval 0.28] } 3... Nc6 { [%eval 0.64] } 4. c3 { [%eval -0.13] } 4... e5 { [%eval 0.2] } 5. Qb3 { [%eval -0.34] } 5... Bd6 { [%eval 0.67] } 6. e3 { [%eval -0.93] } 6... Na5 { [%eval 0.5] } 7. Qb5 { [%eval 0.24] } 7... b6 { [%eval 3.89] } 8. Bxa8 { [%eval 3.62] } 1-0
+
+

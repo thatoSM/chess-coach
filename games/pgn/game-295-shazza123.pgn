@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/812wuoEf"]
+[Date "2026.08.16"]
+[Round "-"]
+[White "shazza123"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "812wuoEf"]
+[UTCDate "2026.08.16"]
+[UTCTime "09:27:55"]
+[WhiteElo "979"]
+[BlackElo "1071"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "900+10"]
+[ECO "C50"]
+[Opening "Italian Game: Giuoco Pianissimo, Italian Four Knights Variation"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. Nc3 { [%eval 0.06] } 3... Bc5 { [%eval 0.46] } 4. Bc4 { [%eval 0.12] } 4... Nf6 { [%eval 0.09] } 5. d3 { [%eval 0.07] } 5... Na5 { [%eval 1.06] } 6. Bb5 { [%eval -0.21] } 6... c6 { [%eval -0.17] } 7. Ba4 { [%eval -0.27] } 7... b5 { [%eval -0.2] } 8. Bb3 { [%eval -0.22] } 8... Nxb3 { [%eval -0.08] } 9. axb3 { [%eval -0.18] } 9... d5 { [%eval 0.45] } 10. exd5 { [%eval 0.47] } 10... cxd5 { [%eval 0.45] } 11. Nxe5 { [%eval 0.15] } 11... Bg4 { [%eval 5.95] } 12. Nf3 { [%eval -0.02] } 12... Qe7+ { [%eval 1.62] } 13. Be3 { [%eval -4.48] } 13... Bxe3 { [%eval -0.5] } 14. fxe3 { [%eval -0.44] } 14... Qxe3+ { [%eval 1.35] } 15. Ne2 { [%eval -0.91] } 15... O-O { [%eval -0.73] } 16. Ra5 { [%eval -5.02] } 16... Rfe8 { [%eval -3.75] } 17. h3 { [%eval -7.25] } 17... Bxf3 { [%eval -7.25] } 18. gxf3 { [%eval -7.01] } 18... Qxf3 { [%eval -7.03] } 19. Rf1 { [%eval -7.1] } 19... Qxh3 { [%eval -7.11] } 20. Rxb5 { [%eval -6.71] } 20... Qh4+ { [%eval -5.69] } 21. Kd2 { [%eval -5.49] } 21... Qg5+ { [%eval -4.02] } 22. Ke1 { [%eval -6.93] } 22... Ng4 { [%eval -6.7] } 23. Rg1 { [%eval #-8] } 23... h5 { [%eval -7.65] } 24. c4 { [%eval #-6] } 24... Qe5 { [%eval -6.2] } 25. Kd2 { [%eval #-7] } 25... d4 { [%eval 5.85] } 26. Rxe5 { [%eval 5.74] } 1-0
+
+

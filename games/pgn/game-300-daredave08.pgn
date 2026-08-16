@@ -1,0 +1,19 @@
+[Event "casual variant:atomic game"]
+[Site "https://lichess.org/p4JMmYOj"]
+[Date "2026.08.16"]
+[Round "-"]
+[White "Daredave08"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "p4JMmYOj"]
+[UTCDate "2026.08.16"]
+[UTCTime "13:31:26"]
+[WhiteElo "1500"]
+[BlackElo "1500"]
+[Variant "Atomic"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. Nf3 Nc6 2. Ng5 Nh6 3. Nxf7# 1-0
+
+
