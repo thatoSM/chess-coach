@@ -18,9 +18,22 @@ Detail file for games 161–200: [`logs/games-161-200.md`](logs/games-161-200.md
 Detail file for games 201–240: [`logs/games-201-240.md`](logs/games-201-240.md)
 Detail file for games 241–280: [`logs/games-241-280.md`](logs/games-241-280.md)
 Detail file for games 281–320: [`logs/games-281-320.md`](logs/games-281-320.md)
+Detail file for games 321–360: [`logs/games-321-360.md`](logs/games-321-360.md)
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 323 | LOSS | White | aziz2027 (1070) | *pending* |
+| 322 | WIN | White | anna88piano (1077) | *pending* |
+| 321 | WIN | Black | George100314 (1055) | *pending* |
+| 320 | LOSS | White | fredo78420 (941) | *pending* |
+| 319 | DRAW | White | wurthprajzak (1091) | *pending* |
+| 318 | LOSS | Black | J0nascl (1035) | *pending* |
+| 317 | WIN | White | anonymoushuma1 (1154) | *pending* |
+| 316 | WIN | Black | yigitunver1903 (995) | *pending* |
+| 315 | LOSS | Black | ChesseMig (1051) | *pending* |
+| 314 | WIN | Black | CmdrHELL (1092) | *pending* |
+| 313 | LOSS | White | Leander1410 (1033) | *pending* |
+| 312 | WIN | White | injamaica (1031) | *pending* |
 | 311 | LOSS | White | mazouni4545 (1031) | *pending* |
 | 310 | DRAW | Black | Nahaldarabi3072 (1107) | *pending* |
 | 309 | LOSS | White | Devanandkr (1115) | *pending* |

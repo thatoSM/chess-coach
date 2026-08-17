@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/Yz6q2p0P"]
+[Date "2026.08.17"]
+[Round "-"]
+[White "ChesseMig"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "Yz6q2p0P"]
+[UTCDate "2026.08.17"]
+[UTCTime "10:27:54"]
+[WhiteElo "1051"]
+[BlackElo "1058"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.15] } 1... d5 { [%eval 0.27] } 2. e3 { [%eval 0.03] } 2... Nf6 { [%eval 0.1] } 3. c4 { [%eval 0.0] } 3... c6 { [%eval 0.29] } 4. c5 { [%eval -0.39] } 4... e5 { [%eval -0.48] } 5. Nf3 { [%eval -0.8] } 5... Qc7 { [%eval 0.15] } 6. Nxe5 { [%eval 0.07] } 6... Be7 { [%eval 0.85] } 7. Nc3 { [%eval 0.63] } 7... Nfd7 { [%eval 1.39] } 8. Nxd7 { [%eval 1.35] } 8... Bxd7 { [%eval 1.9] } 9. Bd3 { [%eval 1.96] } 9... Qa5 { [%eval 2.72] } 10. Bd2 { [%eval 2.63] } 10... Na6 { [%eval 4.83] } 11. b3 { [%eval 1.99] } 11... Qc7 { [%eval 2.22] } 12. Qe2 { [%eval 1.78] } 12... Nb4 { [%eval 1.79] } 13. Bb1 { [%eval 1.76] } 13... Bf5 { [%eval 6.81] } 14. a3 { [%eval 0.49] } 14... Bd3 { [%eval 6.04] } 15. Bxd3 { [%eval 5.99] } 15... Nxd3+ { [%eval 6.01] } 16. Qxd3 { [%eval 6.1] } 1-0
+
+

@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/Qm95PFz0"]
+[Date "2026.08.17"]
+[Round "-"]
+[White "George100314"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "Qm95PFz0"]
+[UTCDate "2026.08.17"]
+[UTCTime "14:48:10"]
+[WhiteElo "1055"]
+[BlackElo "1051"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C46"]
+[Opening "Three Knights Opening"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. Nc3 { [%eval 0.06] } 3... Bc5 { [%eval 0.46] } 4. Bb5 { [%eval 0.03] } 4... a6 { [%eval 0.12] } 5. Bxc6 { [%eval 0.16] } 5... dxc6 { [%eval 0.12] } 6. O-O { [%eval -0.2] } 6... Nf6 { [%eval 1.14] } 7. d3 { [%eval -0.14] } 7... O-O { [%eval 1.25] } 8. Bg5 { [%eval 0.24] } 8... h6 { [%eval 0.22] } 9. Bxf6 { [%eval -0.38] } 9... Qxf6 { [%eval -0.35] } 10. h3 { [%eval -0.37] } 10... Re8 { [%eval -0.31] } 11. Re1 { [%eval -0.39] } 11... Be6 { [%eval -0.34] } 12. Qd2 { [%eval -1.8] } 12... b5 { [%eval -0.16] } 13. Re2 { [%eval -2.06] } 13... Rad8 { [%eval -0.73] } 14. Rae1 { [%eval -3.03] } 14... Qg6 { [%eval 0.08] } 15. a3 { [%eval -4.35] } 15... Bxh3 { [%eval -4.18] } 16. Nh4 { [%eval -4.21] } 16... Qg4 { [%eval -4.1] } 17. g3 { [%eval -10.12] } 17... g5 { [%eval -5.01] } 0-1
+
+
