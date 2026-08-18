@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/QzBHRNz9"]
+[Date "2026.08.18"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "DanyloKing"]
+[Result "1-0"]
+[GameId "QzBHRNz9"]
+[UTCDate "2026.08.18"]
+[UTCTime "07:33:32"]
+[WhiteElo "1061"]
+[BlackElo "903"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-14"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Bowdler Attack"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... c5 { [%eval 0.32] } 2. Bc4 { [%eval 0.0] } 2... e6 { [%eval 0.0] } 3. Nc3 { [%eval -0.19] } 3... a6 { [%eval -0.2] } 4. Nf3 { [%eval -0.46] } 4... b5 { [%eval -0.33] } 5. Be2 { [%eval -0.36] } 5... d6 { [%eval -0.14] } 6. d4 { [%eval -0.21] } 6... cxd4 { [%eval -0.28] } 7. Nxd4 { [%eval -0.25] } 7... Nc6 { [%eval 5.23] } 8. Nxc6 { [%eval 5.24] } 8... Qc7 { [%eval 5.13] } 9. Nd4 { [%eval 5.18] } 9... Bb7 { [%eval 5.11] } 10. O-O { [%eval 5.14] } 10... Be7 { [%eval 5.3] } 11. Qd3 { [%eval 5.06] } 11... Nf6 { [%eval 4.99] } 12. Bg5 { [%eval 4.88] } 12... O-O { [%eval 4.9] } 13. Bxf6 { [%eval 4.7] } 13... Bxf6 { [%eval 4.67] } 14. Bf3 { [%eval 4.53] } 14... e5 { [%eval 5.75] } 15. Nf5 { [%eval 5.64] } 15... Qd7 { [%eval 5.74] } 16. Nxd6 { [%eval 5.8] } 16... b4 { [%eval 6.1] } 17. Nd1 { [%eval 5.93] } 17... Rac8 { [%eval 6.67] } 18. Nxc8 { [%eval 6.45] } 18... Rxc8 { [%eval 14.95] } 19. Qxd7 { [%eval 15.13] } 19... Kf8 { [%eval 22.5] } 20. Qxb7 { [%eval 21.17] } 20... Rxc2 { [%eval 35.31] } 21. Qxb4+ { [%eval 34.11] } 21... Ke8 { [%eval 34.96] } 22. Qa4+ { [%eval 33.49] } 22... Kd8 { [%eval 37.04] } 23. Qxc2 { [%eval 39.73] } 23... Kd7 { [%eval #6] } 24. Ne3 { [%eval #5] } 24... Be7 { [%eval #5] } 25. Rfd1+ { [%eval #4] } 25... Ke6 { [%eval #2] } 26. Bg4+ { [%eval #6] } 26... Kf6 { [%eval #5] } 27. Qc6+ { [%eval #4] } 27... Kg5 { [%eval #4] } 28. g3 { [%eval #4] } 28... Bb4 { [%eval #1] } 29. Qc4 { [%eval #4] } 29... Bd6 { [%eval #3] } 30. Qxf7 { [%eval #2] } 30... Bb4 { [%eval #1] } 31. Qxg7# 1-0
+
+

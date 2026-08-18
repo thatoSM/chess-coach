@@ -22,6 +22,18 @@ Detail file for games 321–360: [`logs/games-321-360.md`](logs/games-321-360.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 335 | LOSS | Black | mohammadru (1057) | *pending* |
+| 334 | WIN | White | esteesAmin (1104) | *pending* |
+| 333 | LOSS | White | RamonTorrebadella (980) | *pending* |
+| 332 | LOSS | Black | abeer_elewy (1059) | *pending* |
+| 331 | LOSS | Black | fc_arny (1074) | *pending* |
+| 330 | LOSS | White | Arik_Pirate (1142) | *pending* |
+| 329 | LOSS | Black | muni1337 (1153) | *pending* |
+| 328 | LOSS | Black | Sasha2806 (1037) | *pending* |
+| 327 | LOSS | White | Sidak-CT (970) | *pending* |
+| 326 | WIN | Black | Grassmaster7 (978) | *pending* |
+| 325 | WIN | White | DanyloKing (903) | *pending* |
+| 324 | WIN | Black | azim2017 (951) | *pending* |
 | 323 | LOSS | White | aziz2027 (1070) | *pending* |
 | 322 | WIN | White | anna88piano (1077) | *pending* |
 | 321 | WIN | Black | George100314 (1055) | *pending* |

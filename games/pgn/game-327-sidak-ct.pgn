@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/tfASsfFI"]
+[Date "2026.08.18"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "Sidak-CT"]
+[Result "0-1"]
+[GameId "tfASsfFI"]
+[UTCDate "2026.08.18"]
+[UTCTime "07:59:27"]
+[WhiteElo "1069"]
+[BlackElo "970"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+9"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C50"]
+[Opening "Italian Game: Giuoco Pianissimo"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. Bc4 { [%eval 0.07] } 3... Bc5 { [%eval 0.2] } 4. O-O { [%eval 0.13] } 4... Nf6 { [%eval 0.2] } 5. Nc3 { [%eval 0.07] } 5... d6 { [%eval 0.11] } 6. d3 { [%eval 0.04] } 6... h6 { [%eval 0.08] } 7. Qe2 { [%eval -0.16] } 7... Bg4 { [%eval -0.08] } 8. h3 { [%eval -3.73] } 8... Nd4 { [%eval -3.72] } 9. Qe1 { [%eval -5.62] } 9... Bxf3 { [%eval -5.62] } 10. gxf3 { [%eval -7.55] } 10... Nxf3+ { [%eval -7.63] } 0-1
+
+
