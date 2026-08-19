@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/i0a4rYXO"]
+[Date "2026.08.19"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "bhavik_gandhi01"]
+[Result "1-0"]
+[GameId "i0a4rYXO"]
+[UTCDate "2026.08.19"]
+[UTCTime "12:26:59"]
+[WhiteElo "1058"]
+[BlackElo "1069"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "C44"]
+[Opening "Scotch Game: Scotch Gambit, Dubois Réti Defense"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. Bc4 { [%eval 0.07] } 3... Nf6 { [%eval 0.22] } 4. d4 { [%eval 0.0] } 4... exd4 { [%eval 0.0] } 5. Nxd4 { [%eval -0.46] } 5... Bb4+ { [%eval 0.0] } 6. c3 { [%eval 0.0] } 6... Be7 { [%eval 0.28] } 7. Be3 { [%eval -0.41] } 7... Nxe4 { [%eval 0.1] } 8. Qg4 { [%eval -2.63] } 8... Nf6 { [%eval 0.25] } 9. Qxg7 { [%eval 0.28] } 9... Rf8 { [%eval 0.26] } 10. Nxc6 { [%eval 0.3] } 10... dxc6 { [%eval 0.35] } 11. O-O { [%eval 0.17] } 11... Ne4 { [%eval 3.27] } 12. Na3 { [%eval 1.85] } 12... Bxa3 { [%eval 3.66] } 13. bxa3 { [%eval 3.53] } 13... Nxc3 { [%eval 9.77] } 14. Qxh7 { [%eval 3.74] } 14... Nd5 { [%eval 3.73] } 15. Bc5 { [%eval 3.68] } 15... Ne7 { [%eval 9.42] } 16. Rfe1 { [%eval 11.81] } 16... Be6 { [%eval 14.38] } 17. Bxe6 { [%eval 13.19] } 17... fxe6 { [%eval 13.31] } 18. Rxe6 { [%eval 12.14] } 18... Rf7 { [%eval 11.4] } 19. Qg6 { [%eval 11.35] } 19... Qd7 { [%eval #11] } 20. Rae1 { [%eval 8.17] } 20... b6 { [%eval #4] } 21. Rxe7+ { [%eval #3] } 21... Kf8 { [%eval #1] } 22. Rxd7+ { [%eval #1] } 22... Re7 { [%eval #1] } 23. Bxe7# 1-0
+
+

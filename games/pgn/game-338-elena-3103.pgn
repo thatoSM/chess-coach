@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/FyxUVaAS"]
+[Date "2026.08.19"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "Elena-3103"]
+[Result "1-0"]
+[GameId "FyxUVaAS"]
+[UTCDate "2026.08.19"]
+[UTCTime "09:12:08"]
+[WhiteElo "1048"]
+[BlackElo "1053"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C41"]
+[Opening "Philidor Defense"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... d6 { [%eval 0.55] } 3. d4 { [%eval 0.58] } 3... Nc6 { [%eval 0.67] } 4. Nc3 { [%eval 0.58] } 4... exd4 { [%eval 0.6] } 5. Nxd4 { [%eval 0.49] } 5... Ne5 { [%eval 1.52] } 6. f4 { [%eval 1.6] } 6... Nd7 { [%eval 1.89] } 7. e5 { [%eval 0.54] } 7... dxe5 { [%eval 0.43] } 8. fxe5 { [%eval 0.19] } 8... Nxe5 { [%eval 0.24] } 9. Qe2 { [%eval -3.21] } 9... Bd6 { [%eval -0.04] } 10. Ndb5 { [%eval -0.83] } 10... a6 { [%eval 0.12] } 11. Nxd6+ { [%eval -0.08] } 11... Qxd6 { [%eval 0.75] } 12. Bf4 { [%eval 0.63] } 12... f6 { [%eval 0.8] } 13. Ne4 { [%eval -0.38] } 13... Bf5 { [%eval 5.61] } 14. Nxd6+ { [%eval 5.55] } 14... cxd6 { [%eval 5.53] } 15. Bxe5 { [%eval 5.42] } 15... dxe5 { [%eval 5.44] } 16. O-O-O { [%eval 5.31] } 1-0
+
+

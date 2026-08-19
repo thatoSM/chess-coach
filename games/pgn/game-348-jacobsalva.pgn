@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/GEcmelQD"]
+[Date "2026.08.19"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "Jacobsalva"]
+[Result "1-0"]
+[GameId "GEcmelQD"]
+[UTCDate "2026.08.19"]
+[UTCTime "18:30:32"]
+[WhiteElo "1053"]
+[BlackElo "1160"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "C50"]
+[Opening "Italian Game: Anti-Fried Liver Defense"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. Bc4 { [%eval 0.07] } 3... h6 { [%eval 0.56] } 4. d4 { [%eval 0.64] } 4... exd4 { [%eval 0.59] } 5. Nxd4 { [%eval 0.57] } 5... Nxd4 { [%eval 0.98] } 6. Qxd4 { [%eval 0.96] } 6... d6 { [%eval 0.99] } 7. O-O { [%eval 1.25] } 7... Be6 { [%eval 1.2] } 8. Bxe6 { [%eval 0.71] } 8... fxe6 { [%eval 0.72] } 9. Re1 { [%eval 0.4] } 9... Nf6 { [%eval 0.93] } 10. e5 { [%eval 0.96] } 10... Nd5 { [%eval 2.34] } 11. exd6 { [%eval 1.47] } 11... Qxd6 { [%eval 1.49] } 12. Nc3 { [%eval 0.41] } 12... Nxc3 { [%eval 0.42] } 13. Qxc3 { [%eval 0.34] } 13... O-O-O { [%eval 0.46] } 14. Qe3 { [%eval 0.21] } 14... Kb8 { [%eval 0.27] } 15. Qxe6 { [%eval -8.05] } 15... Qxe6 { [%eval -8.0] } 16. Rxe6 { [%eval #-2] } 16... Bc5 { [%eval 1.47] } 17. Be3 { [%eval 1.44] } 17... Bxe3 { [%eval 1.41] } 18. fxe3 { [%eval 0.0] } 18... Rhe8 { [%eval 1.85] } 19. Rxe8 { [%eval 1.87] } 19... Rxe8 { [%eval 1.83] } 20. Re1 { [%eval 1.2] } 20... Rd8 { [%eval 1.12] } 21. Re2 { [%eval 0.24] } 21... c5 { [%eval 0.64] } 22. c4 { [%eval 0.5] } 22... a6 { [%eval 1.09] } 23. a4 { [%eval 0.0] } 23... Kc7 { [%eval 0.34] } 24. e4 { [%eval 0.03] } 24... Kd6 { [%eval 4.45] } 25. e5+ { [%eval 0.0] } 25... Ke6 { [%eval 0.0] } 26. Kf2 { [%eval 0.0] } 26... Rf8+ { [%eval 0.0] } 27. Kg3 { [%eval 0.0] } 27... Rf5 { [%eval 0.0] } 28. Kg4 { [%eval -0.08] } 28... Rxe5 { [%eval -0.06] } 29. Rxe5+ { [%eval -5.0] } 29... Kxe5 { [%eval -5.15] } 30. Kh5 { [%eval -4.59] } 30... Kf5 { [%eval 5.8] } 31. g4+ { [%eval 5.08] } 31... Kf6 { [%eval 4.01] } 32. h4 { [%eval -5.55] } 32... b5 { [%eval 9.38] } 33. cxb5 { [%eval 9.48] } 33... axb5 { [%eval 10.06] } 34. axb5 { [%eval 9.43] } 34... g6+ { [%eval 12.16] } 35. Kxh6 { [%eval 11.28] } 1-0
+
+

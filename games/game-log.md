@@ -22,6 +22,19 @@ Detail file for games 321–360: [`logs/games-321-360.md`](logs/games-321-360.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 348 | WIN | White | Jacobsalva (1160) | *pending* |
+| 347 | LOSS | White | W_Masood (1095) | *pending* |
+| 346 | LOSS | White | FFJayalakshmi (1184) | *pending* |
+| 345 | LOSS | Black | Ray-za (1065) | *pending* |
+| 344 | WIN | Black | Sodre1856 (1123) | *pending* |
+| 343 | LOSS | Black | bdfiles33 (950) | *pending* |
+| 342 | WIN | Black | mikooz (1032) | *pending* |
+| 341 | WIN | White | bhavik_gandhi01 (1069) | *pending* |
+| 340 | WIN | White | Draewood (1020) | *pending* |
+| 339 | DRAW | Black | js3k (1036) | *pending* |
+| 338 | WIN | White | Elena-3103 (1053) | *pending* |
+| 337 | WIN | Black | Hudini1309 (1112) | *pending* |
+| 336 | WIN | White | marcello1951 (951) | *pending* |
 | 335 | LOSS | Black | mohammadru (1057) | *pending* |
 | 334 | WIN | White | esteesAmin (1104) | *pending* |
 | 333 | LOSS | White | RamonTorrebadella (980) | *pending* |
