@@ -22,6 +22,16 @@ Detail file for games 321–360: [`logs/games-321-360.md`](logs/games-321-360.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 358 | LOSS | Black | kacperfin (1134) | *pending* |
+| 357 | WIN | White | Seferren (1006) | *pending* |
+| 356 | DRAW | Black | s1ddd (956) | *pending* |
+| 355 | LOSS | Black | salimyasser (958) | *pending* |
+| 354 | LOSS | White | iCoove (1103) | *pending* |
+| 353 | WIN | Black | Nikiforov_A (1084) | *pending* |
+| 352 | WIN | White | TBeastmode (966) | *pending* |
+| 351 | LOSS | Black | TBeastmode (957) | *pending* |
+| 350 | WIN | White | Ian_Rastall (1013) | *pending* |
+| 349 | WIN | Black | exiziv (1090) | *pending* |
 | 348 | WIN | White | Jacobsalva (1160) | *pending* |
 | 347 | LOSS | White | W_Masood (1095) | *pending* |
 | 346 | LOSS | White | FFJayalakshmi (1184) | *pending* |
