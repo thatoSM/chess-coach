@@ -19,9 +19,21 @@ Detail file for games 201–240: [`logs/games-201-240.md`](logs/games-201-240.md
 Detail file for games 241–280: [`logs/games-241-280.md`](logs/games-241-280.md)
 Detail file for games 281–320: [`logs/games-281-320.md`](logs/games-281-320.md)
 Detail file for games 321–360: [`logs/games-321-360.md`](logs/games-321-360.md)
+Detail file for games 361–400: [`logs/games-361-400.md`](logs/games-361-400.md)
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 369 | LOSS | White | jenuandvish (1079) | *pending* |
+| 368 | LOSS | Black | SecondePatate (1139) | *pending* |
+| 367 | WIN | White | NazanYgt (989) | *pending* |
+| 366 | WIN | Black | libertat66 (1064) | *pending* |
+| 365 | WIN | White | fatem1130 (1186) | *pending* |
+| 364 | LOSS | Black | sxan1576 (1199) | *pending* |
+| 363 | WIN | Black | SlavaPlayChess (1188) | *pending* |
+| 362 | LOSS | White | Maxim_Ol (1109) | *pending* |
+| 361 | WIN | White | Orf3u5 (1064) | *pending* |
+| 360 | WIN | White | danikakaba (1129) | *pending* |
+| 359 | WIN | Black | Antikiller0981 (1005) | *pending* |
 | 358 | LOSS | Black | kacperfin (1134) | *pending* |
 | 357 | WIN | White | Seferren (1006) | *pending* |
 | 356 | DRAW | Black | s1ddd (956) | *pending* |

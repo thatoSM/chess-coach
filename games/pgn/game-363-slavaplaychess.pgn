@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/bpHn4ijw"]
+[Date "2026.08.21"]
+[Round "-"]
+[White "SlavaPlayChess"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "bpHn4ijw"]
+[UTCDate "2026.08.21"]
+[UTCTime "10:17:54"]
+[WhiteElo "1188"]
+[BlackElo "1072"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+8"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C29"]
+[Opening "Vienna Game: Vienna Gambit"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nc3 { [%eval 0.08] } 2... Nf6 { [%eval 0.03] } 3. f4 { [%eval -0.21] } 3... exf4 { [%eval 0.48] } 4. Nf3 { [%eval -0.33] } 4... Qe7 { [%eval 1.47] } 5. d3 { [%eval 0.26] } 5... d5 { [%eval 0.24] } 6. Qe2 { [%eval -0.21] } 6... dxe4 { [%eval 0.96] } 7. Nxe4 { [%eval -0.21] } 7... Nc6 { [%eval 0.25] } 8. Bxf4 { [%eval -0.16] } 8... Bg4 { [%eval 0.31] } 9. h3 { [%eval 0.0] } 9... Nd4 { [%eval 5.6] } 10. Qe3 { [%eval -8.14] } 10... Bxf3 { [%eval -1.05] } 11. gxf3 { [%eval -8.34] } 11... Nxc2+ { [%eval -8.34] } 0-1
+
+

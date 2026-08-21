@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/E2h5DOnP"]
+[Date "2026.08.21"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "Orf3u5"]
+[Result "1-0"]
+[GameId "E2h5DOnP"]
+[UTCDate "2026.08.21"]
+[UTCTime "08:13:40"]
+[WhiteElo "1072"]
+[BlackElo "1064"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "C50"]
+[Opening "Italian Game"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. Bc4 { [%eval 0.07] } 3... Qe7 { [%eval 0.79] } 4. d4 { [%eval 0.75] } 4... Qb4+ { [%eval 1.33] } 5. Nbd2 { [%eval 1.24] } 5... a6 { [%eval 2.44] } 6. a3 { [%eval 1.89] } 6... Qe7 { [%eval 1.83] } 7. dxe5 { [%eval 1.93] } 7... Nxe5 { [%eval 1.95] } 8. Nxe5 { [%eval 1.79] } 8... Qxe5 { [%eval 1.75] } 9. Qe2 { [%eval 1.55] } 9... b5 { [%eval 2.09] } 10. Nf3 { [%eval 2.05] } 10... Qc5 { [%eval 2.62] } 11. Be3 { [%eval -3.64] } 11... Qe5 { [%eval 8.68] } 12. Nxe5 { [%eval 8.55] } 1-0
+
+
