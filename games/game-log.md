@@ -23,6 +23,17 @@ Detail file for games 361–400: [`logs/games-361-400.md`](logs/games-361-400.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 380 | LOSS | Black | Draxton52 (1311) | *pending* |
+| 379 | LOSS | White | Leo30260 (1078) | *pending* |
+| 378 | LOSS | Black | Leo30260 (1060) | *pending* |
+| 377 | LOSS | White | Amir_sulthan (1053) | *pending* |
+| 376 | WIN | Black | Nassimmer19 (1066) | *pending* |
+| 375 | LOSS | White | NicklasH2 (1119) | *pending* |
+| 374 | WIN | White | Minicarkaru (958) | *pending* |
+| 373 | WIN | Black | TaoistShade (1106) | *pending* |
+| 372 | DRAW | Black | sonercanan2019 (1057) | *pending* |
+| 371 | WIN | Black | richkid23 (1104) | *pending* |
+| 370 | LOSS | Black | Mohammed_Raaz (1133) | *pending* |
 | 369 | LOSS | White | jenuandvish (1079) | *pending* |
 | 368 | LOSS | Black | SecondePatate (1139) | *pending* |
 | 367 | WIN | White | NazanYgt (989) | *pending* |

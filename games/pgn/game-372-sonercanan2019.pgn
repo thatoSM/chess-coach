@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/NLVrayop"]
+[Date "2026.08.22"]
+[Round "-"]
+[White "sonercanan2019"]
+[Black "ThatoSM"]
+[Result "1/2-1/2"]
+[GameId "NLVrayop"]
+[UTCDate "2026.08.22"]
+[UTCTime "06:48:30"]
+[WhiteElo "1057"]
+[BlackElo "1084"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+0"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C50"]
+[Opening "Four Knights Game: Italian Variation"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Bc5 4. Bc4 Nf6 5. O-O O-O 6. h3 d6 7. d3 h6 8. Be3 Bxe3 9. fxe3 Qe7 10. d4 exd4 11. exd4 Be6 12. d5 Na5 13. Bd3 Bd7 14. b4 Nc4 15. Bxc4 Nxe4 16. Nxe4 Qxe4 17. Bd3 Qxb4 18. Nd2 Rfe8 19. Rb1 Qd4+ 20. Kh1 Qxd5 21. Be4 Rxe4 22. Nxe4 Qxe4 23. Re1 Qc6 24. Qe2 Bxh3 25. Kh2 Bg4 26. Qxg4 Qxc2 27. Rxb7 a5 28. Rxc7 Qxc7 29. Qg3 a4 30. Qf3 Qa5 31. Rd1 a3 32. Rxd6 Ra6 33. Rd8+ Qxd8 34. Qg3 Qd5 35. Qf2 Rc6 36. Qe3 Qxa2 37. Qe8+ Kh7 38. Qxc6 Qb2 39. Qe4+ g6 40. Kh3 a2 41. g4 a1=Q 42. Qe8 Qh1+ 43. Kg3 Qbg2+ 44. Kf4 Qf3+ 45. Ke5 Qe1+ 46. Kd6 Qxe8 47. g5 hxg5 48. Kc5 g4 49. Kd4 g3 50. Kc5 g2 51. Kc4 g1=Q 52. Kb4 Qge1+ 53. Kc5 g5 54. Kd4 g4 55. Kc4 g3 56. Kd4 g2 57. Kc5 g1=Q+ 58. Kd6 Qf6+ 59. Kc7 Qfd8+ 60. Kb7 f5 61. Ka6 f4 62. Kb7 f3 63. Ka6 f2 64. Kb7 f1=Q 1/2-1/2
+
+

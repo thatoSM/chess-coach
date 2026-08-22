@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/ZcXMy85w"]
+[Date "2026.08.22"]
+[Round "-"]
+[White "Leo30260"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "ZcXMy85w"]
+[UTCDate "2026.08.22"]
+[UTCTime "15:28:50"]
+[WhiteElo "1060"]
+[BlackElo "1087"]
+[WhiteRatingDiff "+18"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Wayward Queen Attack"]
+[Termination "Normal"]
+
+1. e4 e5 2. Qh5 Nc6 3. Bc4 Nh6 4. d4 exd4 5. Bxh6 gxh6 6. Qxf7# 1-0
+
+
