@@ -23,6 +23,16 @@ Detail file for games 361–400: [`logs/games-361-400.md`](logs/games-361-400.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 390 | LOSS | Black | nookadri (1074) | *pending* |
+| 389 | LOSS | White | vianney69 (1146) | *pending* |
+| 388 | WIN | Black | Daniil_Krasniy (1107) | *pending* |
+| 387 | LOSS | White | PhamQuanBao2015 (1134) | *pending* |
+| 386 | WIN | White | h1md1n (1008) | *pending* |
+| 385 | WIN | Black | Mhisa (1148) | *pending* |
+| 384 | LOSS | White | Thabraz (1044) | *pending* |
+| 383 | DRAW | Black | gabbman (1069) | *pending* |
+| 382 | LOSS | Black | dks7777 (1038) | *pending* |
+| 381 | LOSS | White | L1vio (1070) | *pending* |
 | 380 | LOSS | Black | Draxton52 (1311) | *pending* |
 | 379 | LOSS | White | Leo30260 (1078) | *pending* |
 | 378 | LOSS | Black | Leo30260 (1060) | *pending* |

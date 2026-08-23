@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/frMYWoP8"]
+[Date "2026.08.23"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "L1vio"]
+[Result "0-1"]
+[GameId "frMYWoP8"]
+[UTCDate "2026.08.23"]
+[UTCTime "07:45:58"]
+[WhiteElo "1076"]
+[BlackElo "1070"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+9"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "C50"]
+[Opening "Italian Game: Anti-Fried Liver Defense"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. Bc4 { [%eval 0.07] } 3... h6 { [%eval 0.56] } 4. d4 { [%eval 0.64] } 4... exd4 { [%eval 0.59] } 5. Nxd4 { [%eval 0.57] } 5... Bc5 { [%eval 2.08] } 6. Nxc6 { [%eval 0.6] } 6... bxc6 { [%eval 1.98] } 7. O-O { [%eval 0.51] } 7... Nf6 { [%eval 0.79] } 8. e5 { [%eval 1.04] } 8... Ne4 { [%eval 1.6] } 9. Re1 { [%eval -2.54] } 9... Ng5 { [%eval 0.93] } 10. Be3 { [%eval 0.28] } 10... Bxe3 { [%eval 0.24] } 11. Rxe3 { [%eval 0.28] } 11... O-O { [%eval 0.25] } 12. Nc3 { [%eval 0.0] } 12... d5 { [%eval 0.03] } 13. Bb3 { [%eval -0.27] } 13... Ba6 { [%eval 0.75] } 14. h4 { [%eval -0.14] } 14... Ne6 { [%eval -0.13] } 15. a4 { [%eval -4.29] } 15... d4 { [%eval -4.28] } 16. Rd3 { [%eval -5.34] } 16... Nf4 { [%eval 4.64] } 17. Rxd4 { [%eval 4.98] } 17... Qxh4 { [%eval 4.74] } 18. f3 { [%eval -2.88] } 18... Qg3 { [%eval 0.0] } 19. Qd2 { [%eval 0.0] } 19... Rad8 { [%eval 5.77] } 20. Ne4 { [%eval -6.89] } 20... Rxd4 { [%eval -6.86] } 21. Qxd4 { [%eval #-1] } 21... Qxg2# 0-1
+
+

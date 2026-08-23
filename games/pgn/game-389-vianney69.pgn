@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/Mabs912p"]
+[Date "2026.08.23"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "vianney69"]
+[Result "0-1"]
+[GameId "Mabs912p"]
+[UTCDate "2026.08.23"]
+[UTCTime "15:46:00"]
+[WhiteElo "1071"]
+[BlackElo "1146"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "C56"]
+[Opening "Italian Game: Two Knights Defense, Open Variation"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 Nxe4 5. dxe5 Bc5 6. Qd5 Bxf2+ 7. Kf1 f5 8. Bd3 Nb4 9. Qc4 Qe7 10. Bxe4 fxe4 11. Qxe4 Bb6 12. Bd2 d6 13. Bxb4 Be6 14. exd6 cxd6 15. Ng5 Qxg5 16. Qxe6+ Qe7 17. Qxe7+ Kxe7 18. Nc3 Rhf8+ 19. Ke2 Rae8 20. Rae1 Bf2 21. Ref1 Kd7+ 22. Kd1 Rf4 23. a3 Rd4+ 24. Kc1 Be3+ 25. Kb1 Bh6 26. Nb5 Rd5 27. Nc3 Rg5 28. g3 a5 29. Bxd6 Kxd6 30. Rd1+ Kc7 31. Rd5 Rg4 32. Rxa5 Bd2 33. Ka2 g6 34. b4 Bxc3 35. Kb3 Bd2 36. Rd1 Bxb4 37. axb4 Re3+ 38. Ka4 Re2 39. Rc1 Rxh2 40. c4 Rxg3 41. b5 b6 42. Ra7+ Kb8 43. Ra6 Kb7 44. c5 bxc5 45. Rxc5 h5 46. b6 Kxa6 0-1
+
+
