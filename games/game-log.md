@@ -20,9 +20,21 @@ Detail file for games 241–280: [`logs/games-241-280.md`](logs/games-241-280.md
 Detail file for games 281–320: [`logs/games-281-320.md`](logs/games-281-320.md)
 Detail file for games 321–360: [`logs/games-321-360.md`](logs/games-321-360.md)
 Detail file for games 361–400: [`logs/games-361-400.md`](logs/games-361-400.md)
+Detail file for games 401–440: [`logs/games-401-440.md`](logs/games-401-440.md)
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 401 | WIN | Black | Jesus19601960 (1157) | *pending* |
+| 400 | WIN | Black | alapanghosh (1063) | *pending* |
+| 399 | LOSS | Black | MikelNeno (1080) | *pending* |
+| 398 | WIN | White | Tahaba258 (983) | *pending* |
+| 397 | WIN | White | grossgrass (1128) | *pending* |
+| 396 | WIN | Black | Shortcake2323 (1082) | *pending* |
+| 395 | WIN | White | mortal_3rd (1024) | *pending* |
+| 394 | LOSS | Black | MakronDymision (1027) | *pending* |
+| 393 | WIN | White | Avaneeshpoi (942) | *pending* |
+| 392 | LOSS | Black | Jules1947 (1111) | *pending* |
+| 391 | WIN | White | arcel1221 (1018) | *pending* |
 | 390 | LOSS | Black | nookadri (1074) | *pending* |
 | 389 | LOSS | White | vianney69 (1146) | *pending* |
 | 388 | WIN | Black | Daniil_Krasniy (1107) | *pending* |
