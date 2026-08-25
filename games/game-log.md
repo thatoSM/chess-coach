@@ -24,6 +24,11 @@ Detail file for games 401–440: [`logs/games-401-440.md`](logs/games-401-440.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 406 | LOSS | Black | Selol211 (1123) | *pending* |
+| 405 | WIN | Black | Qnka (1112) | *pending* |
+| 404 | WIN | White | TurboBaby (1031) | *pending* |
+| 403 | WIN | White | lichesisbaaaaaaaad (1204) | *pending* |
+| 402 | LOSS | Black | lichesisbaaaaaaaad (1200) | *pending* |
 | 401 | WIN | Black | Jesus19601960 (1157) | *pending* |
 | 400 | WIN | Black | alapanghosh (1063) | *pending* |
 | 399 | LOSS | Black | MikelNeno (1080) | *pending* |

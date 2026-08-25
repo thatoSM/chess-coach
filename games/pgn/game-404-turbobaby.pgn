@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/2J75IwST"]
+[Date "2026.08.25"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "TurboBaby"]
+[Result "1-0"]
+[GameId "2J75IwST"]
+[UTCDate "2026.08.25"]
+[UTCTime "08:46:20"]
+[WhiteElo "1092"]
+[BlackElo "1031"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C41"]
+[Opening "Philidor Defense"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... d6 { [%eval 0.55] } 3. Bc4 { [%eval 0.23] } 3... h6 { [%eval 0.53] } 4. d4 { [%eval 0.81] } 4... exd4 { [%eval 0.65] } 5. Nxd4 { [%eval 0.55] } 5... c5 { [%eval 0.89] } 6. Nf3 { [%eval 0.73] } 6... a6 { [%eval 2.0] } 7. O-O { [%eval 0.62] } 7... Be7 { [%eval 1.91] } 8. Re1 { [%eval 0.62] } 8... Nf6 { [%eval 1.92] } 9. Nc3 { [%eval 0.47] } 9... O-O { [%eval 0.59] } 10. Bf4 { [%eval 0.62] } 10... Bg4 { [%eval 1.08] } 11. h3 { [%eval 1.02] } 11... Bxf3 { [%eval 1.26] } 12. Qxf3 { [%eval 1.29] } 12... Nh7 { [%eval 4.09] } 13. Rad1 { [%eval 4.29] } 13... Nc6 { [%eval 3.89] } 14. e5 { [%eval 3.86] } 14... Nd4 { [%eval 3.99] } 15. Qxb7 { [%eval 4.11] } 15... Nxc2 { [%eval 5.05] } 16. Re2 { [%eval 2.51] } 16... Nd4 { [%eval 2.5] } 17. Red2 { [%eval 1.08] } 17... Bg5 { [%eval 1.02] } 18. Bxg5 { [%eval 1.12] } 18... Nxg5 { [%eval 1.23] } 19. h4 { [%eval 0.0] } 19... Nh7 { [%eval 2.51] } 20. Bd3 { [%eval 0.0] } 20... dxe5 { [%eval 0.0] } 21. Bxh7+ { [%eval 0.0] } 21... Kxh7 { [%eval 0.0] } 22. Qe4+ { [%eval 0.0] } 22... f5 { [%eval 0.0] } 23. Qxe5 { [%eval -0.08] } 23... Rc8 { [%eval 0.0] } 24. Na4 { [%eval -3.53] } 24... Qxh4 { [%eval 0.0] } 25. Nxc5 { [%eval 0.04] } 25... Nc6 { [%eval 0.2] } 26. Qd6 { [%eval -0.1] } 26... a5 { [%eval 0.11] } 27. Ne6 { [%eval 0.08] } 27... Rf6 { [%eval 5.63] } 28. Qd7 { [%eval 5.43] } 28... Rd8 { [%eval #1] } 29. Qxg7# 1-0
+
+
