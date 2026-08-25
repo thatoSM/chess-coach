@@ -24,6 +24,12 @@ Detail file for games 401–440: [`logs/games-401-440.md`](logs/games-401-440.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 412 | WIN | Black | Akopov21 (1167) | *pending* |
+| 411 | WIN | White | MikelNeno (1090) | *pending* |
+| 410 | WIN | Black | pouyavahedi123 (1159) | *pending* |
+| 409 | WIN | White | prashant_bhoyar (1080) | *pending* |
+| 408 | WIN | White | Kiaraladiva (1073) | *pending* |
+| 407 | LOSS | White | Niko_1993 (1108) | *pending* |
 | 406 | LOSS | Black | Selol211 (1123) | *pending* |
 | 405 | WIN | Black | Qnka (1112) | *pending* |
 | 404 | WIN | White | TurboBaby (1031) | *pending* |

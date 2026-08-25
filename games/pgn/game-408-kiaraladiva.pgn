@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/brlBXJdc"]
+[Date "2026.08.25"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "Kiaraladiva"]
+[Result "1-0"]
+[GameId "brlBXJdc"]
+[UTCDate "2026.08.25"]
+[UTCTime "12:54:37"]
+[WhiteElo "1092"]
+[BlackElo "1073"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "B21"]
+[Opening "Sicilian Defense: Morphy Gambit"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... c5 { [%eval 0.32] } 2. d4 { [%eval 0.05] } 2... cxd4 { [%eval 0.04] } 3. Nf3 { [%eval 0.06] } 3... e5 { [%eval 0.07] } 4. Nxe5 { [%eval -2.55] } 4... Qa5+ { [%eval -3.03] } 5. Qd2 { [%eval -3.0] } 5... Qxe5 { [%eval -3.34] } 6. f4 { [%eval -5.5] } 6... Qc5 { [%eval -4.24] } 7. Qe2 { [%eval -4.94] } 7... d5 { [%eval -4.95] } 8. exd5+ { [%eval -5.67] } 8... Be7 { [%eval -5.53] } 9. Qe5 { [%eval -5.95] } 9... f6 { [%eval -4.22] } 10. Qe4 { [%eval -5.31] } 10... g6 { [%eval -3.92] } 11. Be2 { [%eval -5.15] } 11... Bf5 { [%eval -4.54] } 12. Qf3 { [%eval -4.8] } 12... Qxc2 { [%eval -3.72] } 13. O-O { [%eval -4.98] } 13... d3 { [%eval -2.87] } 14. Bd1 { [%eval -3.14] } 14... Qxc1 { [%eval 5.1] } 15. Ba4+ { [%eval 4.96] } 15... Bd7 { [%eval 6.03] } 16. Rxc1 { [%eval 5.36] } 16... d2 { [%eval 7.8] } 17. Nxd2 { [%eval 7.9] } 17... Bxa4 { [%eval 7.2] } 18. d6 { [%eval 6.22] } 18... Bd8 { [%eval 9.82] } 19. Qxb7 { [%eval 9.18] } 19... Bc6 { [%eval 10.52] } 20. Rxc6 { [%eval 10.41] } 20... Bb6+ { [%eval 36.8] } 21. Rxb6 { [%eval 25.45] } 21... axb6 { [%eval 22.59] } 22. Qxa8 { [%eval 19.62] } 22... Kd7 { [%eval #7] } 23. Qxb8 { [%eval #6] } 23... Ke6 { [%eval #5] } 24. Re1+ { [%eval #5] } 24... Kd7 { [%eval #1] } 25. Qc7# 1-0
+
+

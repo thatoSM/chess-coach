@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/B5Ojtw6y"]
+[Date "2026.08.25"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "prashant_bhoyar"]
+[Result "1-0"]
+[GameId "B5Ojtw6y"]
+[UTCDate "2026.08.25"]
+[UTCTime "14:03:45"]
+[WhiteElo "1097"]
+[BlackElo "1080"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-9"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "B21"]
+[Opening "Sicilian Defense: Smith-Morra Gambit"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.18] } 1... c5 { [%eval 0.32] } 2. d4 { [%eval 0.05] } 2... Qa5+ { [%eval 1.05] } 3. Bd2 { [%eval 1.09] } 3... Qb6 { [%eval 1.28] } 4. Bc3 { [%eval 0.24] } 4... d6 { [%eval 0.85] } 5. dxc5 { [%eval 0.32] } 5... Qxc5 { [%eval 0.32] } 6. Nf3 { [%eval 0.31] } 6... Bg4 { [%eval 0.61] } 7. h3 { [%eval 0.83] } 7... Bh5 { [%eval 1.09] } 8. g4 { [%eval 1.13] } 8... Bg6 { [%eval 1.12] } 9. Bd3 { [%eval 0.98] } 9... d5 { [%eval 2.07] } 10. exd5 { [%eval 0.62] } 10... Qxd5 { [%eval 0.7] } 11. Qe2 { [%eval -0.16] } 11... Nf6 { [%eval 0.6] } 12. Nbd2 { [%eval 0.09] } 12... h5 { [%eval 4.71] } 13. O-O-O { [%eval -0.14] } 13... Qxa2 { [%eval 4.56] } 14. b3 { [%eval 0.98] } 14... e6 { [%eval 2.02] } 15. Ne4 { [%eval 0.39] } 15... Qa3+ { [%eval 4.68] } 16. Bb2 { [%eval 3.73] } 16... Qxb3 { [%eval 8.73] } 17. cxb3 { [%eval 8.47] } 17... Bb4 { [%eval 13.67] } 18. Nxf6+ { [%eval 12.81] } 18... Ke7 { [%eval 15.96] } 19. Bxg6 { [%eval 15.14] } 19... Rc8+ { [%eval 13.53] } 20. Bc2 { [%eval 12.72] } 20... Nc6 { [%eval #6] } 21. Nd5+ { [%eval 15.02] } 21... Kf8 { [%eval 14.31] } 22. Nxb4 { [%eval 14.0] } 22... Nxb4 { [%eval 13.79] } 23. Kb1 { [%eval 13.12] } 23... Nxc2 { [%eval 14.58] } 24. Qd2 { [%eval 14.17] } 24... hxg4 { [%eval 14.3] } 25. Nd4 { [%eval 13.6] } 25... Rd8 { [%eval 13.14] } 26. Qc3 { [%eval 13.03] } 26... Nxd4 { [%eval 16.28] } 27. Rxd4 { [%eval 14.48] } 27... e5 { [%eval #7] } 28. Rxd8+ { [%eval #6] } 28... Rxd8 { [%eval #6] } 29. Qxe5 { [%eval #5] } 29... f6 { [%eval #5] } 30. Qc7 { [%eval 18.17] } 30... Rd2 { [%eval #6] } 31. Re1 { [%eval #5] } 31... Rxf2 { [%eval #2] } 32. Qd8+ { [%eval #1] } 32... Kf7 { [%eval #1] } 33. hxg4 { [%eval #5] } 33... Rg2 { [%eval #1] } 34. Bxf6 { [%eval #6] } 34... Kg6 { [%eval #3] } 35. g5 { [%eval #6] } 35... gxf6 { [%eval #6] } 36. gxf6 { [%eval #6] } 36... Rf2 { [%eval #5] } 37. Re6 { [%eval #10] } 37... Rxf6 { [%eval #3] } 38. Rxf6+ { [%eval #3] } 38... Kg5 { [%eval #3] } 39. Qe7 { [%eval #2] } 1-0
+
+

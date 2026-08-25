@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/w1HKObEk"]
+[Date "2026.08.25"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "MikelNeno"]
+[Result "1-0"]
+[GameId "w1HKObEk"]
+[UTCDate "2026.08.25"]
+[UTCTime "17:47:47"]
+[WhiteElo "1109"]
+[BlackElo "1090"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "B06"]
+[Opening "Modern Defense: Two Knights Variation, Suttles Variation"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.18] } 1... d6 { [%eval 0.43] } 2. d4 { [%eval 0.51] } 2... g6 { [%eval 0.52] } 3. Nc3 { [%eval 0.46] } 3... c6 { [%eval 0.55] } 4. Nf3 { [%eval 0.5] } 4... Bg7 { [%eval 0.53] } 5. Be3 { [%eval 0.48] } 5... Nd7 { [%eval 0.7] } 6. Bd3 { [%eval 0.35] } 6... e5 { [%eval 0.57] } 7. O-O { [%eval 0.43] } 7... b6 { [%eval 1.03] } 8. Re1 { [%eval 0.59] } 8... c5 { [%eval 2.63] } 9. d5 { [%eval 1.28] } 9... a6 { [%eval 1.23] } 10. a4 { [%eval 1.02] } 10... Ngf6 { [%eval 1.1] } 11. b3 { [%eval 0.99] } 11... O-O { [%eval 0.99] } 12. h3 { [%eval 1.05] } 12... Nh5 { [%eval 1.05] } 13. Bg5 { [%eval 0.78] } 13... Ndf6 { [%eval 0.71] } 14. Qe2 { [%eval -0.24] } 14... Qd7 { [%eval 0.8] } 15. Qe3 { [%eval 0.2] } 15... Rb8 { [%eval 0.72] } 16. Kh1 { [%eval 0.16] } 16... b5 { [%eval 1.14] } 17. axb5 { [%eval 1.13] } 17... axb5 { [%eval 1.07] } 18. Red1 { [%eval 0.21] } 18... b4 { [%eval 0.96] } 19. Na4 { [%eval -0.13] } 19... Ng4 { [%eval 4.68] } 20. hxg4 { [%eval 4.89] } 20... Qxg4 { [%eval 5.17] } 21. Nh2 { [%eval 3.57] } 21... Ng3+ { [%eval 6.89] } 22. fxg3 { [%eval 6.92] } 22... Qh5 { [%eval 6.83] } 23. g4 { [%eval 5.44] } 23... Bxg4 { [%eval 5.65] } 24. Be2 { [%eval 3.22] } 24... Bxe2 { [%eval 3.06] } 25. Re1 { [%eval 3.09] } 25... Bg4 { [%eval 3.0] } 26. Kg1 { [%eval 2.17] } 26... f6 { [%eval 3.1] } 27. Qg3 { [%eval 1.9] } 27... Bd7 { [%eval 1.85] } 28. Bd2 { [%eval 1.73] } 28... f5 { [%eval 1.74] } 29. exf5 { [%eval -0.47] } 29... Bxf5 { [%eval 1.07] } 30. c3 { [%eval 0.01] } 30... e4 { [%eval 0.59] } 31. Qxd6 { [%eval 0.17] } 31... Rbe8 { [%eval 0.18] } 32. Qxc5 { [%eval -0.26] } 32... e3 { [%eval 3.84] } 33. Rxe3 { [%eval 3.9] } 1-0
+
+
