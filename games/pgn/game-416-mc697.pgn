@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/gD9MVBkz"]
+[Date "2026.08.26"]
+[Round "-"]
+[White "MC697"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "gD9MVBkz"]
+[UTCDate "2026.08.26"]
+[UTCTime "18:36:19"]
+[WhiteElo "1124"]
+[BlackElo "1138"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C46"]
+[Opening "Three Knights Opening: Winawer Defense"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. Nc3 { [%eval 0.06] } 3... f5 { [%eval 1.42] } 4. exf5 { [%eval 0.93] } 4... d5 { [%eval 1.77] } 5. Nxe5 { [%eval -0.2] } 5... Nxe5 { [%eval 0.0] } 6. Qe2 { [%eval -0.23] } 6... Bd6 { [%eval 2.28] } 7. f4 { [%eval 1.04] } 7... Bxf5 { [%eval 2.1] } 8. Nxd5 { [%eval 0.0] } 8... c6 { [%eval 1.96] } 9. fxe5 { [%eval 2.05] } 9... Be7 { [%eval 1.88] } 10. Nxe7 { [%eval 1.33] } 10... Nxe7 { [%eval 1.21] } 11. Qh5+ { [%eval 0.19] } 11... Bg6 { [%eval 0.13] } 12. Qg5 { [%eval -0.55] } 12... O-O { [%eval -0.57] } 13. Bc4+ { [%eval -0.55] } 13... Bf7 { [%eval 0.44] } 14. e6 { [%eval 0.27] } 14... Bg6 { [%eval 0.31] } 15. Rf1 { [%eval -1.98] } 15... Qd6 { [%eval -1.4] } 16. Rxf8+ { [%eval -2.07] } 16... Rxf8 { [%eval -2.55] } 17. d3 { [%eval -2.43] } 17... b5 { [%eval -2.41] } 18. Bf4 { [%eval -5.85] } 18... Qd4 { [%eval -4.11] } 19. Qxe7 { [%eval -5.57] } 19... Qxf4 { [%eval -5.65] } 20. Bb3 { [%eval #-2] } 20... Qxh2 { [%eval 3.26] } 21. Kd2 { [%eval -6.62] } 21... Qxg2+ { [%eval 0.0] } 22. Kc3 { [%eval 0.0] } 22... a5 { [%eval 0.0] } 23. Qa7 { [%eval #-10] } 23... a4 { [%eval 4.52] } 24. e7+ { [%eval 4.27] } 24... Bf7 { [%eval #2] } 25. exf8=Q+ { [%eval #1] } 25... Kxf8 { [%eval #1] } 26. Qxf7# 1-0
+
+

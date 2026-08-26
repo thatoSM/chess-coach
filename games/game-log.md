@@ -24,6 +24,10 @@ Detail file for games 401–440: [`logs/games-401-440.md`](logs/games-401-440.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 416 | LOSS | Black | MC697 (1124) | *pending* |
+| 415 | WIN | White | Wenedik (1026) | *pending* |
+| 414 | WIN | Black | Amr_Sayed78 (1158) | *pending* |
+| 413 | WIN | White | MaggieCarlsen0969 (1177) | *pending* |
 | 412 | WIN | Black | Akopov21 (1167) | *pending* |
 | 411 | WIN | White | MikelNeno (1090) | *pending* |
 | 410 | WIN | Black | pouyavahedi123 (1159) | *pending* |
