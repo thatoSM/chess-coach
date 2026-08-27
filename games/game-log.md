@@ -24,6 +24,11 @@ Detail file for games 401–440: [`logs/games-401-440.md`](logs/games-401-440.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 421 | LOSS | Black | Ximera_1353268 (1052) | *pending* |
+| 420 | LOSS | White | dcczzi (1147) | *pending* |
+| 419 | LOSS | Black | Kitaroquai (1104) | *pending* |
+| 418 | WIN | White | Rondarol (1019) | *pending* |
+| 417 | LOSS | Black | mambax26 (1127) | *pending* |
 | 416 | LOSS | Black | MC697 (1124) | *pending* |
 | 415 | WIN | White | Wenedik (1026) | *pending* |
 | 414 | WIN | Black | Amr_Sayed78 (1158) | *pending* |

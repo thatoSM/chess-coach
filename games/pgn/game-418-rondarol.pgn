@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/HfFh58RI"]
+[Date "2026.08.27"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "Rondarol"]
+[Result "1-0"]
+[GameId "HfFh58RI"]
+[UTCDate "2026.08.27"]
+[UTCTime "07:13:32"]
+[WhiteElo "1127"]
+[BlackElo "1019"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "B13"]
+[Opening "Caro-Kann Defense: Exchange Variation"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... c6 { [%eval 0.31] } 2. d4 { [%eval 0.24] } 2... d5 { [%eval 0.24] } 3. exd5 { [%eval 0.08] } 3... cxd5 { [%eval 0.18] } 4. Nc3 { [%eval -0.07] } 4... Nc6 { [%eval -0.03] } 5. Nf3 { [%eval -0.04] } 5... Bf5 { [%eval 0.0] } 6. Bd3 { [%eval -0.23] } 6... e6 { [%eval 0.76] } 7. Bxf5 { [%eval 0.59] } 7... exf5 { [%eval 0.61] } 8. Qe2+ { [%eval 0.8] } 8... Qe7 { [%eval 2.59] } 9. O-O { [%eval 0.38] } 9... Nf6 { [%eval 1.81] } 10. Re1 { [%eval 1.04] } 10... Qe6 { [%eval 4.07] } 11. Qd3 { [%eval 1.93] } 11... Ne4 { [%eval 2.05] } 12. Ng5 { [%eval 1.82] } 12... Qh6 { [%eval 7.1] } 13. Nxd5 { [%eval 4.52] } 13... Bd6 { [%eval 4.5] } 14. h3 { [%eval 4.52] } 14... O-O { [%eval 4.18] } 15. Nc3 { [%eval -1.88] } 15... Nxg5 { [%eval -1.97] } 16. Qxf5 { [%eval -4.04] } 16... Ne7 { [%eval 4.2] } 17. Qd7 { [%eval 0.82] } 17... Nf3+ { [%eval 1.43] } 18. gxf3 { [%eval 1.35] } 18... Qxh3 { [%eval 9.48] } 19. Qxh3 { [%eval 9.35] } 1-0
+
+

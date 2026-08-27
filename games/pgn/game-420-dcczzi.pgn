@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/g4odZUCj"]
+[Date "2026.08.27"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "dcczzi"]
+[Result "0-1"]
+[GameId "g4odZUCj"]
+[UTCDate "2026.08.27"]
+[UTCTime "07:53:58"]
+[WhiteElo "1125"]
+[BlackElo "1147"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C50"]
+[Opening "Italian Game: Blackburne-Kostić Gambit"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. Bc4 { [%eval 0.07] } 3... Nd4 { [%eval 1.07] } 4. Nxe5 { [%eval -0.5] } 4... Qg5 { [%eval -0.51] } 5. Nf3 { [%eval -3.5] } 5... Qxg2 { [%eval -3.61] } 6. Nxd4 { [%eval -3.56] } 6... Qxh1+ { [%eval -3.55] } 7. Bf1 { [%eval -3.44] } 7... Qxe4+ { [%eval -4.16] } 8. Qe2 { [%eval -5.08] } 8... Qxe2+ { [%eval -5.06] } 9. Bxe2 { [%eval -5.03] } 9... d5 { [%eval -5.08] } 10. Nc3 { [%eval -5.26] } 10... c6 { [%eval -5.31] } 11. d3 { [%eval -5.21] } 11... Nf6 { [%eval -5.09] } 12. Bf4 { [%eval -5.0] } 12... g6 { [%eval -4.38] } 13. O-O-O { [%eval -5.26] } 13... Bg7 { [%eval -5.22] } 14. Re1 { [%eval -5.34] } 14... O-O { [%eval -5.51] } 15. Bg5 { [%eval -5.86] } 15... Nd7 { [%eval -5.43] } 16. Bg4 { [%eval -7.29] } 16... Bxd4 { [%eval -7.19] } 17. Bxd7 { [%eval -7.41] } 17... Bxd7 { [%eval -7.46] } 18. Bh6 { [%eval -8.33] } 18... Rfe8 { [%eval -8.22] } 19. Rg1 { [%eval -9.25] } 19... Bxf2 { [%eval -9.18] } 20. Rf1 { [%eval -9.41] } 20... Re1+ { [%eval -8.58] } 21. Nd1 { [%eval -15.78] } 21... Rxf1 { [%eval -15.07] } 0-1
+
+
