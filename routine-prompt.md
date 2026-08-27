@@ -36,13 +36,16 @@ number in the table's `#` column. Do NOT look for game IDs in
 
 STEP 2 — Find new games.
 Query the Lichess API for my recent finished games, e.g.:
-`curl -s -A "Mozilla/5.0" 'https://lichess.org/api/games/user/ThatoSM?max=30&opening=true' -H 'Accept: application/x-ndjson'`
+`curl -s -A "Mozilla/5.0" 'https://lichess.org/api/games/user/ThatoSM?max=30&rated=true&opening=true' -H 'Accept: application/x-ndjson'`
 If more than 30 games might be missing (e.g. after a gap), increase `max` so
 nothing is missed. If this endpoint errors or 404s transiently, retry once after
 a short pause before giving up on this part — don't let it block Parts 2/3.
 This returns one JSON object per line with fields including `id`, `status`,
 `players.white`, `players.black`, `winner`, `createdAt`. Filter out anything not
-finished (skip `status` of `started`/`aborted`/`created`/`noStart`). Compare the
+finished (skip `status` of `started`/`aborted`/`created`/`noStart`).
+Also skip any game where the `rated` field is `false`. Casual games are
+practice games and must never enter the log, the PGN folder, or STATS.md.
+Compare the
 `id`s against the set from Step 1 — any ID not already present is new.
 
 STEP 3 — Process each new game, oldest to newest (so numbering stays sequential).
