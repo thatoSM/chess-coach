@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/c2pK8FUN"]
+[Date "2026.08.28"]
+[Round "-"]
+[White "GokhanGuney"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "c2pK8FUN"]
+[UTCDate "2026.08.28"]
+[UTCTime "11:18:00"]
+[WhiteElo "1070"]
+[BlackElo "1108"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Wayward Queen Attack"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Qh5 { [%eval -0.25] } 2... Nc6 { [%eval -0.42] } 3. Bc4 { [%eval -0.31] } 3... Nh6 { [%eval 0.15] } 4. d4 { [%eval -0.33] } 4... g6 { [%eval -0.25] } 5. Qf3 { [%eval -0.9] } 5... Nxd4 { [%eval -0.93] } 6. Qd1 { [%eval -1.13] } 6... b5 { [%eval -0.86] } 7. Bd5 { [%eval -2.44] } 7... c6 { [%eval -2.3] } 8. Bb3 { [%eval -2.49] } 8... Nxb3 { [%eval -2.11] } 9. axb3 { [%eval -2.09] } 9... d5 { [%eval -1.44] } 10. exd5 { [%eval -1.29] } 10... Qxd5 { [%eval -1.36] } 11. Qe2 { [%eval -4.66] } 11... Bf5 { [%eval -0.95] } 12. f3 { [%eval -1.53] } 12... O-O-O { [%eval 0.94] } 13. Nc3 { [%eval 0.8] } 13... Qd7 { [%eval 0.96] } 14. Qxe5 { [%eval -5.54] } 14... b4 { [%eval -2.13] } 15. Qxh8 { [%eval -2.77] } 15... bxc3 { [%eval 3.27] } 16. bxc3 { [%eval #-11] } 16... Qd1+ { [%eval #-11] } 17. Kf2 { [%eval #-11] } 17... Bc5+ { [%eval #-10] } 18. Be3 { [%eval #-5] } 18... Bxe3+ { [%eval #-4] } 19. Kxe3 { [%eval #-1] } 19... Qd2# 0-1
+
+

@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/0PXa61ol"]
+[Date "2026.08.28"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "Dream_Timi"]
+[Result "1-0"]
+[GameId "0PXa61ol"]
+[UTCDate "2026.08.28"]
+[UTCTime "11:30:02"]
+[WhiteElo "1113"]
+[BlackElo "1000"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-25"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C01"]
+[Opening "French Defense: Exchange Variation"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e6 { [%eval 0.22] } 2. d4 { [%eval 0.29] } 2... d5 { [%eval 0.38] } 3. exd5 { [%eval 0.13] } 3... Qxd5 { [%eval 0.54] } 4. Nc3 { [%eval 0.58] } 4... Qd8 { [%eval 0.58] } 5. d5 { [%eval -0.12] } 5... Nf6 { [%eval -0.21] } 6. dxe6 { [%eval -0.25] } 6... Qd2+ { [%eval 8.02] } 1-0
+
+

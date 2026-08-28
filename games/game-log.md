@@ -24,6 +24,14 @@ Detail file for games 401–440: [`logs/games-401-440.md`](logs/games-401-440.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 429 | LOSS | White | xiguashopping (1159) | *pending* |
+| 428 | WIN | White | Dream_Timi (1000) | *pending* |
+| 427 | WIN | Black | GokhanGuney (1070) | *pending* |
+| 426 | WIN | White | chessfiddle66 (1112) | *pending* |
+| 425 | LOSS | White | f_m-x (1097) | *pending* |
+| 424 | WIN | Black | gokturkali (1080) | *pending* |
+| 423 | LOSS | White | alikerem1393 (1134) | *pending* |
+| 422 | LOSS | Black | puiulica (1130) | *pending* |
 | 421 | LOSS | Black | Ximera_1353268 (1052) | *pending* |
 | 420 | LOSS | White | dcczzi (1147) | *pending* |
 | 419 | LOSS | Black | Kitaroquai (1104) | *pending* |
