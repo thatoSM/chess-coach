@@ -24,6 +24,16 @@ Detail file for games 401–440: [`logs/games-401-440.md`](logs/games-401-440.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 439 | WIN | Black | Osama8989 (1116) | *pending* |
+| 438 | WIN | White | chessdream80 (1148) | *pending* |
+| 437 | WIN | Black | chessdream80 (1154) | *pending* |
+| 436 | LOSS | Black | mahmood83 (1194) | *pending* |
+| 435 | WIN | White | Marusja585 (1157) | *pending* |
+| 434 | LOSS | Black | dcczzi (1178) | *pending* |
+| 433 | WIN | White | parallax019 (1053) | *pending* |
+| 432 | WIN | White | diamondgirl (1163) | *pending* |
+| 431 | WIN | Black | Yhctud (1159) | *pending* |
+| 430 | WIN | Black | Shnakar (1166) | *pending* |
 | 429 | LOSS | White | xiguashopping (1159) | *pending* |
 | 428 | WIN | White | Dream_Timi (1000) | *pending* |
 | 427 | WIN | Black | GokhanGuney (1070) | *pending* |

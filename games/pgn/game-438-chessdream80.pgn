@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/CfSCXrXJ"]
+[Date "2026.08.29"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "chessdream80"]
+[Result "1-0"]
+[GameId "CfSCXrXJ"]
+[UTCDate "2026.08.29"]
+[UTCTime "13:20:04"]
+[WhiteElo "1139"]
+[BlackElo "1148"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C50"]
+[Opening "Italian Game: Anti-Fried Liver Defense"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. Bc4 { [%eval 0.07] } 3... h6 { [%eval 0.56] } 4. d4 { [%eval 0.64] } 4... d6 { [%eval 0.64] } 5. dxe5 { [%eval 0.59] } 5... Nxe5 { [%eval 2.39] } 6. Nxe5 { [%eval 2.21] } 6... Qe7 { [%eval 4.99] } 7. Nf3 { [%eval 4.3] } 7... Qxe4+ { [%eval 4.39] } 8. Qe2 { [%eval 4.0] } 8... Bf5 { [%eval 4.02] } 9. Nc3 { [%eval 3.48] } 9... Qxe2+ { [%eval 3.47] } 10. Nxe2 { [%eval 3.47] } 10... Bxc2 { [%eval 3.49] } 11. b3 { [%eval 2.33] } 11... O-O-O { [%eval 3.87] } 12. Ng3 { [%eval 2.84] } 12... Re8+ { [%eval 3.42] } 13. Be3 { [%eval 3.49] } 13... Nf6 { [%eval 3.37] } 14. O-O { [%eval 2.93] } 14... g5 { [%eval 3.95] } 15. Rac1 { [%eval 3.71] } 15... Be4 { [%eval 4.64] } 16. Rfe1 { [%eval 3.56] } 16... d5 { [%eval 4.27] } 17. Nxe4 { [%eval 4.23] } 17... Bb4 { [%eval 6.64] } 18. Nxf6 { [%eval 6.57] } 18... Bxe1 { [%eval 6.79] } 19. Nxe8 { [%eval 6.71] } 19... Rxe8 { [%eval 7.18] } 20. Bxd5 { [%eval 7.3] } 20... f5 { [%eval 8.21] } 21. Bd2 { [%eval 6.03] } 21... Bxd2 { [%eval 6.11] } 22. Nxd2 { [%eval 6.08] } 22... Re2 { [%eval 6.23] } 23. Rd1 { [%eval 6.31] } 23... f4 { [%eval 7.38] } 24. g3 { [%eval 6.48] } 24... fxg3 { [%eval 6.43] } 25. hxg3 { [%eval 6.42] } 25... h5 { [%eval 6.94] } 26. Bc4 { [%eval 6.59] } 26... Re5 { [%eval 7.2] } 27. Nf3 { [%eval 7.18] } 27... Rf5 { [%eval #2] } 28. Nd4 { [%eval 7.1] } 28... Re5 { [%eval 7.93] } 29. Kf1 { [%eval 6.4] } 29... c5 { [%eval 7.38] } 30. Nb5 { [%eval 6.52] } 30... a6 { [%eval 6.56] } 31. Nc3 { [%eval 6.33] } 31... b5 { [%eval 6.32] } 32. Bd5 { [%eval 6.37] } 32... Kc7 { [%eval 6.49] } 33. Re1 { [%eval 6.12] } 33... Kd6 { [%eval 6.57] } 34. Rxe5 { [%eval 6.43] } 34... Kxe5 { [%eval 6.36] } 35. Bg2 { [%eval 6.05] } 35... Kd4 { [%eval 6.38] } 36. Nd1 { [%eval 5.46] } 36... Kd3 { [%eval 6.02] } 37. Ke1 { [%eval 5.8] } 37... Kc2 { [%eval #15] } 38. Be4+ { [%eval 10.13] } 38... Kc1 { [%eval 8.84] } 39. a4 { [%eval 4.55] } 39... b4 { [%eval 7.55] } 40. a5 { [%eval 6.82] } 40... c4 { [%eval #10] } 41. bxc4 { [%eval #9] } 41... b3 { [%eval #9] } 42. c5 { [%eval #8] } 42... b2 { [%eval #9] } 43. Nxb2 { [%eval #12] } 43... Kxb2 { [%eval #11] } 44. c6 { [%eval #10] } 44... h4 { [%eval #8] } 45. gxh4 { [%eval #8] } 45... gxh4 { [%eval #7] } 46. c7 { [%eval #6] } 46... h3 { [%eval #6] } 47. c8=Q { [%eval #5] } 47... h2 { [%eval #5] } 48. Qxa6 { [%eval #6] } 48... Kb3 { [%eval #5] } 49. Qd3+ { [%eval #5] } 49... Kb4 { [%eval #5] } 50. Qd2+ { [%eval #5] } 50... Kc4 { [%eval #5] } 51. f3 { [%eval 5.41] } 51... Kc5 { [%eval #6] } 52. f4 { [%eval #5] } 52... h1=Q+ { [%eval #5] } 53. Bxh1 { [%eval #4] } 1-0
+
+

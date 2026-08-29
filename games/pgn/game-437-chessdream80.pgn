@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/ClPpIl6J"]
+[Date "2026.08.29"]
+[Round "-"]
+[White "chessdream80"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "ClPpIl6J"]
+[UTCDate "2026.08.29"]
+[UTCTime "13:07:52"]
+[WhiteElo "1154"]
+[BlackElo "1132"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C33"]
+[Opening "King's Gambit Accepted: Bishop's Gambit, Cozio Defense"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Bc4 { [%eval 0.0] } 2... Nf6 { [%eval 0.11] } 3. f4 { [%eval -0.82] } 3... exf4 { [%eval -0.32] } 4. e5 { [%eval -0.85] } 4... d5 { [%eval -0.88] } 5. exd6 { [%eval -1.76] } 5... Qxd6 { [%eval -2.03] } 6. Qe2+ { [%eval -2.21] } 6... Be7 { [%eval -2.04] } 7. Bb5+ { [%eval -3.78] } 7... Nc6 { [%eval -3.89] } 8. Nf3 { [%eval -3.89] } 8... Bd7 { [%eval -2.84] } 9. Bc4 { [%eval -4.54] } 9... O-O { [%eval -4.6] } 10. d3 { [%eval -4.84] } 10... Qc5 { [%eval -4.64] } 11. Bxf4 { [%eval -5.29] } 11... Rfe8 { [%eval -3.35] } 12. Be3 { [%eval -5.47] } 12... Qb4+ { [%eval -2.01] } 13. Nc3 { [%eval -6.39] } 13... Qxb2 { [%eval -6.22] } 14. Rb1 { [%eval -6.68] } 14... Qxc3+ { [%eval -6.66] } 15. Bd2 { [%eval -7.6] } 15... Qxc2 { [%eval -7.51] } 16. Rxb7 { [%eval -12.98] } 16... Bb4 { [%eval -10.34] } 17. Ne5 { [%eval -27.43] } 17... Rxe5 { [%eval -22.89] } 18. Qxe5 { [%eval #-6] } 18... Nxe5 { [%eval -17.88] } 19. O-O { [%eval -18.73] } 19... Bc5+ { [%eval -17.92] } 20. Kh1 { [%eval -16.18] } 20... Qxd2 { [%eval -16.69] } 21. Rxc7 { [%eval -15.01] } 21... Nxd3 { [%eval -18.31] } 22. Rxf6 { [%eval #-2] } 22... Qd1+ { [%eval #-1] } 23. Rf1 { [%eval #-1] } 23... Qxf1# 0-1
+
+
