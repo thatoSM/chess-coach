@@ -21,9 +21,17 @@ Detail file for games 281–320: [`logs/games-281-320.md`](logs/games-281-320.md
 Detail file for games 321–360: [`logs/games-321-360.md`](logs/games-321-360.md)
 Detail file for games 361–400: [`logs/games-361-400.md`](logs/games-361-400.md)
 Detail file for games 401–440: [`logs/games-401-440.md`](logs/games-401-440.md)
+Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md)
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 446 | LOSS | Black | sanjeevanikankani (1165) | *pending* |
+| 445 | LOSS | White | ramcharan_16 (1190) | *pending* |
+| 444 | LOSS | Black | MaxleChat13 (1144) | *pending* |
+| 443 | LOSS | Black | Ahmad-osman11 (1124) | *pending* |
+| 442 | WIN | Black | Amirhosein_noghrei (1073) | *pending* |
+| 441 | LOSS | White | mevd (1146) | *pending* |
+| 440 | WIN | White | HyperOgga (1116) | *pending* |
 | 439 | WIN | Black | Osama8989 (1116) | *pending* |
 | 438 | WIN | White | chessdream80 (1148) | *pending* |
 | 437 | WIN | Black | chessdream80 (1154) | *pending* |

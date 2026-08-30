@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/li3hPCxe"]
+[Date "2026.08.30"]
+[Round "-"]
+[White "MaxleChat13"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "li3hPCxe"]
+[UTCDate "2026.08.30"]
+[UTCTime "11:35:11"]
+[WhiteElo "1144"]
+[BlackElo "1147"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C45"]
+[Opening "Scotch Game"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. d4 { [%eval 0.07] } 3... exd4 { [%eval 0.04] } 4. Nxd4 { [%eval 0.06] } 4... Bd6 { [%eval 0.71] } 5. Bd3 { [%eval -4.0] } 5... Nxd4 { [%eval -3.82] } 6. O-O { [%eval -4.03] } 6... Nf6 { [%eval -2.67] } 7. Re1 { [%eval -2.8] } 7... Be7 { [%eval -2.7] } 8. e5 { [%eval -2.74] } 8... Nd5 { [%eval 0.27] } 9. Be4 { [%eval 0.29] } 9... Bc5 { [%eval 1.98] } 10. Bxd5 { [%eval 1.87] } 10... d6 { [%eval 4.33] } 11. c3 { [%eval 0.76] } 11... Nf5 { [%eval 4.1] } 12. exd6+ { [%eval 4.05] } 12... Kf8 { [%eval 4.29] } 13. dxc7 { [%eval 4.29] } 13... Qxc7 { [%eval 4.31] } 14. b4 { [%eval 3.52] } 14... Bd6 { [%eval 3.58] } 15. g3 { [%eval 3.46] } 15... Ne7 { [%eval 3.84] } 16. Bg2 { [%eval 2.92] } 16... Be5 { [%eval 6.8] } 17. Bb2 { [%eval 3.06] } 17... h5 { [%eval 6.15] } 18. Qe2 { [%eval 2.56] } 18... Ng6 { [%eval 4.22] } 19. Be4 { [%eval 0.51] } 19... Bg4 { [%eval 0.54] } 20. Qe3 { [%eval 0.67] } 20... Ne7 { [%eval 1.81] } 21. a3 { [%eval 0.83] } 21... Qd7 { [%eval 1.89] } 22. Bg2 { [%eval 1.34] } 22... Ng6 { [%eval 2.11] } 23. Nd2 { [%eval 2.16] } 23... Qa4 { [%eval 5.15] } 24. Nc4 { [%eval 3.91] } 24... Qb3 { [%eval 6.93] } 25. Qc5+ { [%eval 4.63] } 25... Bd6 { [%eval 8.61] } 26. Nxd6 { [%eval 8.38] } 26... Qxb2 { [%eval 11.02] } 27. Nc4+ { [%eval 10.45] } 1-0
+
+
