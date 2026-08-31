@@ -25,6 +25,10 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 450 | LOSS | Black | DurituK (1184) | *pending* |
+| 449 | LOSS | White | DurituK (1179) | *pending* |
+| 448 | LOSS | White | vaquinha57 (1227) | *pending* |
+| 447 | LOSS | Black | jaydenle (1158) | *pending* |
 | 446 | LOSS | Black | sanjeevanikankani (1165) | *pending* |
 | 445 | LOSS | White | ramcharan_16 (1190) | *pending* |
 | 444 | LOSS | Black | MaxleChat13 (1144) | *pending* |
