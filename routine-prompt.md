@@ -10,8 +10,8 @@ includes it; keep it on any curl command you add.
 REPO STRUCTURE — read this first, it governs every part below:
 
 - `games/game-log.md` is an INDEX ONLY. It is a markdown table, newest game at
-  the top, with columns: `| # | Result | Colour | Opponent | Leak |`. It contains
-  NO game IDs, NO links, NO analysis. Never write full entries here.
+  the top, with columns: `| # | Date | Result | Colour | Opponent | Leak |`. It
+  contains NO game IDs, NO links, NO analysis. Never write full entries here.
 - `games/logs/games-001-040.md`, `games-041-080.md`, etc. hold the FULL entries,
   40 games per file, newest-first within each file. All links, moves, and
   analysis live here.
@@ -117,9 +117,12 @@ eval-sign direction FIRST. Use this structure:
     ---
 
 (f) Add ONE row to the top of the table in `games/game-log.md`, immediately
-below the `|---|---|---|---|---|` separator row:
+below the `|---|---|---|---|---|---|` separator row:
 
-    | NN | RESULT | COLOUR | Opponent (Elo) | *pending* |
+    | NN | YYYY-MM-DD | RESULT | COLOUR | Opponent (Elo) | *pending* |
+
+The Date column is the SAST date only (no time) — the same date computed in
+step (b).
 
 RESULT is WIN/LOSS/DRAW from MY perspective — derive correctly, don't guess.
 Do NOT invent accuracy percentages, blunder counts, ACPL, or a leak number for a
@@ -238,8 +241,8 @@ Run this every night. It is purely mechanical — never write interpretation,
 narrative, or analysis into this file.
 
 STEP 1 — Fetch both endpoints:
-  curl -s 'https://lichess.org/api/user/ThatoSM/perf/rapid'
-  curl -s 'https://lichess.org/api/user/ThatoSM'
+  curl -s -A "Mozilla/5.0" 'https://lichess.org/api/user/ThatoSM/perf/rapid'
+  curl -s -A "Mozilla/5.0" 'https://lichess.org/api/user/ThatoSM'
 
 If either errors or 404s, retry once after a short pause. If it still fails,
 LEAVE THE EXISTING STATS.md UNTOUCHED and carry on — never write partial or

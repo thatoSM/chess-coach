@@ -53,6 +53,7 @@ Copy this into the TOP of `games/game-log.md` and fill it in.
 - **Opponent: X% · N blunders · N mistakes · N ACPL.**
   Phases: Opening XX / Middlegame XX / Endgame XX.
 - Link: https://lichess.org/XXXXXXXX
+- Played: YYYY-MM-DD HH:MM SAST
 - PGN: `games/pgn/game-NN-opponent.pgn`
 - Eval direction: I was [White/Black], so [positive/NEGATIVE] evals are my
   advantage.
