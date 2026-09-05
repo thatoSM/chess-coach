@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/qE4NBC3T"]
+[Date "2026.09.05"]
+[Round "-"]
+[White "FurkanChess0"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "qE4NBC3T"]
+[UTCDate "2026.09.05"]
+[UTCTime "14:20:49"]
+[WhiteElo "1097"]
+[BlackElo "1042"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-4"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "B07"]
+[Opening "King's Pawn Game: Maróczy Defense"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... d6 { [%eval 0.43] } 2. d4 { [%eval 0.51] } 2... e5 { [%eval 0.72] } 3. d5 { [%eval 0.27] } 3... Nf6 { [%eval 0.39] } 4. Nc3 { [%eval 0.19] } 4... c6 { [%eval 0.19] } 5. Nf3 { [%eval 0.07] } 5... cxd5 { [%eval 0.17] } 6. exd5 { [%eval 0.1] } 6... Qa5 { [%eval 0.23] } 7. Bd2 { [%eval 0.0] } 7... Nxd5 { [%eval 2.84] } 8. Nxd5 { [%eval -0.77] } 8... Qxd5 { [%eval -0.66] } 9. c4 { [%eval -0.85] } 9... Qe6 { [%eval -0.53] } 10. Bd3 { [%eval -0.59] } 10... Be7 { [%eval -0.59] } 11. Ng5 { [%eval -0.87] } 11... Bxg5 { [%eval -0.51] } 12. Bxg5 { [%eval -0.47] } 12... Nc6 { [%eval -0.48] } 13. O-O { [%eval -0.46] } 13... O-O { [%eval -0.45] } 14. Qf3 { [%eval -1.02] } 14... Nd4 { [%eval -0.52] } 15. Qe4 { [%eval -0.72] } 15... g6 { [%eval -0.28] } 16. Bh6 { [%eval -0.36] } 16... Re8 { [%eval -0.34] } 17. Rac1 { [%eval -0.87] } 17... Qf5 { [%eval -0.02] } 18. Qe3 { [%eval -0.99] } 18... Qf4 { [%eval 7.82] } 19. Bxf4 { [%eval 7.82] } 1-0
+
+

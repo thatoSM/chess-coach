@@ -25,6 +25,16 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 520 | LOSS | Black | Sorci1 (982) | *pending* |
+| 519 | LOSS | White | eterlous (1015) | *pending* |
+| 518 | WIN | Black | Kastaneda2517 (1093) | *pending* |
+| 517 | WIN | White | Kobia08 (985) | *pending* |
+| 516 | LOSS | Black | FurkanChess0 (1097) | *pending* |
+| 515 | LOSS | Black | aadityavsingh999 (1006) | *pending* |
+| 514 | LOSS | Black | NBHONDA (1063) | *pending* |
+| 513 | WIN | White | Amadeus_Gab (1142) | *pending* |
+| 512 | LOSS | Black | HeinzBean (1014) | *pending* |
+| 511 | WIN | White | dmtg2 (1010) | *pending* |
 | 510 | LOSS | Black | SENZSHOW (910) | *pending* |
 | 509 | LOSS | Black | cattail9506 (983) | *pending* |
 | 508 | LOSS | Black | madmandjib (1021) | *pending* |
