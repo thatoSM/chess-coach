@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/bUbPwqXg"]
+[Date "2026.09.01"]
+[Round "-"]
+[White "Mat_hew"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "bUbPwqXg"]
+[UTCDate "2026.09.01"]
+[UTCTime "05:36:32"]
+[WhiteElo "1033"]
+[BlackElo "1108"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C44"]
+[Opening "Ponziani Opening: Jaenisch Counterattack"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. c3 { [%eval -0.13] } 3... Nf6 { [%eval 0.0] } 4. d4 { [%eval -0.03] } 4... exd4 { [%eval 0.0] } 5. cxd4 { [%eval -0.65] } 5... d5 { [%eval 0.22] } 6. e5 { [%eval 0.21] } 6... Bb4+ { [%eval 0.51] } 7. Nc3 { [%eval 0.23] } 7... Ne4 { [%eval 0.18] } 8. Bb5 { [%eval -1.72] } 8... Bd7 { [%eval 0.54] } 9. O-O { [%eval 0.25] } 9... O-O { [%eval 3.32] } 10. Nxd5 { [%eval 3.2] } 10... Bg4 { [%eval 6.25] } 11. Bg5 { [%eval -4.97] } 11... Nxg5 { [%eval -2.21] } 12. Nxg5 { [%eval -6.43] } 12... Bxd1 { [%eval -6.4] } 13. Bxc6 { [%eval -6.37] } 13... Be2 { [%eval -6.45] } 14. Rfc1 { [%eval -7.17] } 14... Qxg5 { [%eval -7.26] } 15. Bxb7 { [%eval -7.32] } 15... Bf3 { [%eval -6.94] } 16. Rxc7 { [%eval #-1] } 16... Qxg2# 0-1
+
+

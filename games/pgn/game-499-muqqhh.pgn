@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/TEnuluj3"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "Muqqhh"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "TEnuluj3"]
+[UTCDate "2026.09.04"]
+[UTCTime "18:36:35"]
+[WhiteElo "1072"]
+[BlackElo "1080"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C46"]
+[Opening "Three Knights Opening"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. Nc3 { [%eval 0.06] } 3... Bc5 { [%eval 0.46] } 4. a3 { [%eval 0.14] } 4... Nf6 { [%eval 0.42] } 5. b4 { [%eval -0.18] } 5... Bd6 { [%eval 0.44] } 6. Nd5 { [%eval -0.14] } 6... Nxd5 { [%eval 0.09] } 7. exd5 { [%eval 0.05] } 7... Nd4 { [%eval 0.64] } 8. Nxd4 { [%eval 0.76] } 8... exd4 { [%eval 0.65] } 9. Qg4 { [%eval -0.39] } 9... Be5 { [%eval 0.27] } 10. Bc4 { [%eval -0.87] } 10... d6 { [%eval -0.81] } 11. O-O { [%eval -6.28] } 11... Bxg4 { [%eval -5.94] } 0-1
+
+

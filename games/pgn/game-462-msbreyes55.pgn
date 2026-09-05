@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/n8AyEs6U"]
+[Date "2026.09.01"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "msbreyes55"]
+[Result "0-1"]
+[GameId "n8AyEs6U"]
+[UTCDate "2026.09.01"]
+[UTCTime "16:12:46"]
+[WhiteElo "1137"]
+[BlackElo "1140"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "B01"]
+[Opening "Scandinavian Defense"]
+[Termination "Normal"]
+
+1. e4 d5 2. d3 d4 3. Nf3 e5 4. Nxe5 Bd6 5. Nf3 Bc5 6. c3 Bg4 7. h3 Bh5 8. g4 Bg6 9. Nh4 Nf6 10. Nxg6 hxg6 11. Bg2 c6 12. Bg5 Be7 13. Nd2 c5 14. Nf3 Nc6 15. cxd4 cxd4 16. Qa4 Bb4+ 17. Ke2 Qb6 18. e5 Nd5 19. Rhc1 a6 20. Nxd4 Qxd4 21. Be3 Qxb2+ 22. Kf3 Nxe3 23. Kxe3 Bd2+ 24. Ke2 Bxc1+ 25. Kf1 Qxa1 26. Bxc6+ bxc6 27. Qxc6+ Ke7 28. Qb7+ Ke6 29. Qd5+ Kxd5 0-1
+
+

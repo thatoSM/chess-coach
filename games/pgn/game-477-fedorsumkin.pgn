@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/0hzeihnw"]
+[Date "2026.09.03"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "fedorsumkin"]
+[Result "1-0"]
+[GameId "0hzeihnw"]
+[UTCDate "2026.09.03"]
+[UTCTime "09:33:15"]
+[WhiteElo "1098"]
+[BlackElo "1164"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C50"]
+[Opening "Italian Game: Paris Defense"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. Bc4 { [%eval 0.07] } 3... d6 { [%eval 0.36] } 4. d4 { [%eval 0.35] } 4... exd4 { [%eval 0.41] } 5. Nxd4 { [%eval 0.3] } 5... Nf6 { [%eval 0.29] } 6. Nxc6 { [%eval 0.37] } 6... bxc6 { [%eval 0.38] } 7. O-O { [%eval 0.25] } 7... Bg4 { [%eval 0.62] } 8. f3 { [%eval 0.65] } 8... Bh5 { [%eval 1.43] } 9. Re1 { [%eval 0.96] } 9... d5 { [%eval 3.75] } 10. exd5+ { [%eval 3.98] } 10... Be7 { [%eval 4.02] } 11. dxc6 { [%eval 3.94] } 11... O-O { [%eval 3.75] } 12. Nc3 { [%eval 3.61] } 12... Bc5+ { [%eval 3.69] } 13. Be3 { [%eval 3.11] } 13... Bb6 { [%eval 5.05] } 14. Bxb6 { [%eval 4.96] } 14... axb6 { [%eval 4.95] } 15. Qxd8 { [%eval 4.72] } 15... Rfxd8 { [%eval 4.77] } 16. Rad1 { [%eval 4.82] } 16... h6 { [%eval 5.63] } 17. Rxd8+ { [%eval 5.9] } 17... Rxd8 { [%eval 5.65] } 18. Nb5 { [%eval 4.82] } 18... Ra8 { [%eval 5.9] } 19. Nxc7 { [%eval 6.03] } 19... Rxa2 { [%eval 9.61] } 20. Bxa2 { [%eval 9.77] } 20... Bg6 { [%eval 12.87] } 21. Ne8 { [%eval 12.42] } 21... Nd5 { [%eval #14] } 22. Bxd5 { [%eval 29.51] } 1-0
+
+

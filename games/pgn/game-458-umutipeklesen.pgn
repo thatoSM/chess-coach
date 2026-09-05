@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/epmU4Axq"]
+[Date "2026.09.01"]
+[Round "-"]
+[White "UmutIpeklesen"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "epmU4Axq"]
+[UTCDate "2026.09.01"]
+[UTCTime "13:00:33"]
+[WhiteElo "1091"]
+[BlackElo "1116"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C65"]
+[Opening "Ruy Lopez: Berlin Defense"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. Bb5 { [%eval 0.15] } 3... Nf6 { [%eval 0.17] } 4. Bxc6 { [%eval -0.13] } 4... dxc6 { [%eval -0.05] } 5. d4 { [%eval -0.87] } 5... exd4 { [%eval -0.74] } 6. Nxd4 { [%eval -1.47] } 6... Nxe4 { [%eval -0.9] } 7. Qd3 { [%eval -1.64] } 7... Qd5 { [%eval -1.34] } 8. f3 { [%eval -2.14] } 8... Nf6 { [%eval -1.08] } 9. Qe3+ { [%eval -1.55] } 9... Be7 { [%eval -1.71] } 10. O-O { [%eval -1.6] } 10... O-O { [%eval -0.95] } 11. Nc3 { [%eval -1.68] } 11... Qd8 { [%eval -1.53] } 12. Rd1 { [%eval -2.14] } 12... Re8 { [%eval 1.28] } 13. Qf4 { [%eval -2.97] } 13... Nd5 { [%eval -3.1] } 14. Nxd5 { [%eval -2.97] } 14... Qxd5 { [%eval -2.18] } 15. Qg3 { [%eval -2.95] } 15... Bc5 { [%eval -1.03] } 16. Bh6 { [%eval -6.06] } 16... Bxd4+ { [%eval -6.22] } 17. Rxd4 { [%eval -8.0] } 17... Qxd4+ { [%eval -7.86] } 18. Kh1 { [%eval -7.73] } 18... Qxb2 { [%eval -7.73] } 19. Re1 { [%eval -7.78] } 19... Rxe1+ { [%eval -7.68] } 20. Qxe1 { [%eval -7.57] } 20... Be6 { [%eval -7.53] } 21. Bc1 { [%eval -8.23] } 21... Qxc2 { [%eval -8.6] } 22. h3 { [%eval -9.76] } 22... h6 { [%eval -7.97] } 23. Bf4 { [%eval -7.96] } 23... Re8 { [%eval -7.67] } 24. Qg3 { [%eval -8.89] } 24... Qxa2 { [%eval -8.22] } 25. Be5 { [%eval -7.85] } 25... f6 { [%eval -7.36] } 26. Bxf6 { [%eval -7.17] } 26... g5 { [%eval -6.86] } 27. Qxc7 { [%eval -7.38] } 27... Bf7 { [%eval -7.33] } 28. Kh2 { [%eval -8.0] } 28... Qe6 { [%eval -7.38] } 29. Ba1 { [%eval -8.17] } 29... Qc4 { [%eval -8.23] } 30. Qg3 { [%eval -8.72] } 30... Qf4 { [%eval -8.78] } 31. Qxf4 { [%eval -8.68] } 31... gxf4 { [%eval -8.59] } 32. Bf6 { [%eval -8.55] } 32... Rc8 { [%eval -7.9] } 33. h4 { [%eval -8.51] } 33... c5 { [%eval -8.19] } 34. Kh3 { [%eval -8.86] } 34... c4 { [%eval -8.88] } 35. Bc3 { [%eval -8.94] } 35... Be6+ { [%eval -8.69] } 36. Kh2 { [%eval -8.29] } 36... b5 { [%eval -8.92] } 37. g3 { [%eval -9.2] } 37... fxg3+ { [%eval -8.71] } 38. Kxg3 { [%eval -8.63] } 38... a5 { [%eval -7.62] } 0-1
+
+

@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/ER5uOvbF"]
+[Date "2026.09.05"]
+[Round "-"]
+[White "SENZSHOW"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "ER5uOvbF"]
+[UTCDate "2026.09.05"]
+[UTCTime "09:46:58"]
+[WhiteElo "910"]
+[BlackElo "1055"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Wayward Queen Attack"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Qh5 { [%eval -0.25] } 2... Nc6 { [%eval -0.42] } 3. Bc4 { [%eval -0.31] } 3... Nh6 { [%eval 0.15] } 4. Nf3 { [%eval -0.42] } 4... g6 { [%eval -0.31] } 5. Qg5 { [%eval -0.38] } 5... f6 { [%eval 0.23] } 6. Qh4 { [%eval 0.22] } 6... g5 { [%eval 1.54] } 7. Qh5+ { [%eval 1.63] } 7... Nf7 { [%eval #1] } 1-0
+
+

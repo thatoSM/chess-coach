@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/tdQcWsaz"]
+[Date "2026.09.02"]
+[Round "-"]
+[White "kolyanova"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "tdQcWsaz"]
+[UTCDate "2026.09.02"]
+[UTCTime "10:18:29"]
+[WhiteElo "1144"]
+[BlackElo "1131"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C45"]
+[Opening "Scotch Game: Schmidt Variation"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. d4 { [%eval 0.07] } 3... exd4 { [%eval 0.04] } 4. Nxd4 { [%eval 0.06] } 4... Nf6 { [%eval 0.1] } 5. Nxc6 { [%eval 0.05] } 5... bxc6 { [%eval 0.15] } 6. Nc3 { [%eval 0.13] } 6... d5 { [%eval 0.0] } 7. exd5 { [%eval 0.0] } 7... cxd5 { [%eval 0.0] } 8. g3 { [%eval -0.29] } 8... Bg4 { [%eval 0.1] } 9. Be2 { [%eval 0.03] } 9... Bxe2 { [%eval 0.02] } 10. Qxe2+ { [%eval -0.04] } 10... Be7 { [%eval 0.0] } 11. Bf4 { [%eval -0.18] } 11... O-O { [%eval -0.11] } 12. O-O-O { [%eval -0.3] } 12... c6 { [%eval -0.28] } 13. g4 { [%eval -0.71] } 13... Bd6 { [%eval -0.19] } 14. Bg3 { [%eval -0.68] } 14... Bxg3 { [%eval -0.23] } 15. hxg3 { [%eval -0.25] } 15... Re8 { [%eval -0.22] } 16. Qf3 { [%eval -0.31] } 16... h6 { [%eval 0.23] } 17. g5 { [%eval 0.28] } 17... hxg5 { [%eval 0.34] } 18. Qg2 { [%eval -0.89] } 18... g4 { [%eval 0.0] } 19. Qh2 { [%eval -0.02] } 19... Kf8 { [%eval 0.0] } 20. Qh8+ { [%eval -0.81] } 20... Ke7 { [%eval 3.81] } 21. Qxg7 { [%eval 4.05] } 21... Rg8 { [%eval 6.79] } 22. Rde1+ { [%eval 5.21] } 22... Kd7 { [%eval 7.5] } 23. Qxf7+ { [%eval 7.39] } 23... Kc8 { [%eval 7.5] } 24. Qe6+ { [%eval 6.53] } 24... Kc7 { [%eval 6.28] } 25. Qe5+ { [%eval 4.31] } 25... Kb6 { [%eval 7.79] } 26. Na4+ { [%eval 7.01] } 26... Kb5 { [%eval 6.69] } 27. Nc3+ { [%eval 5.69] } 27... Ka6 { [%eval 5.86] } 28. Qe2+ { [%eval 4.99] } 28... Kb7 { [%eval 4.82] } 29. Qe7+ { [%eval 4.74] } 29... Ka6 { [%eval 6.74] } 30. Qa3+ { [%eval 6.69] } 30... Kb7 { [%eval 8.42] } 31. Re7+ { [%eval 8.29] } 31... Kb8 { [%eval #7] } 32. Qb4+ { [%eval #8] } 32... Kc8 { [%eval #1] } 33. Qb7# 1-0
+
+

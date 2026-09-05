@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/STorgwwa"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "juanito63300"]
+[Result "1-0"]
+[GameId "STorgwwa"]
+[UTCDate "2026.09.04"]
+[UTCTime "18:19:42"]
+[WhiteElo "1074"]
+[BlackElo "1057"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C56"]
+[Opening "Italian Game: Two Knights Defense, Open Variation"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. Bc4 { [%eval 0.07] } 3... Nf6 { [%eval 0.22] } 4. d4 { [%eval 0.0] } 4... Nxe4 { [%eval 0.65] } 5. Nxe5 { [%eval 0.27] } 5... d5 { [%eval 0.3] } 6. Nxc6 { [%eval -0.26] } 6... bxc6 { [%eval -0.26] } 7. Bd3 { [%eval -0.4] } 7... Qf6 { [%eval 0.09] } 8. O-O { [%eval -0.07] } 8... Bd6 { [%eval 0.48] } 9. Be3 { [%eval -0.33] } 9... O-O { [%eval -0.3] } 10. Nd2 { [%eval -0.34] } 10... Nxd2 { [%eval 0.16] } 11. Qxd2 { [%eval 0.06] } 11... Re8 { [%eval 3.27] } 12. Rfe1 { [%eval 0.06] } 12... Bf5 { [%eval 0.17] } 13. Bxf5 { [%eval -0.05] } 13... Qxf5 { [%eval -0.02] } 14. b4 { [%eval -0.15] } 14... Rab8 { [%eval 0.04] } 15. a3 { [%eval 0.0] } 15... Re6 { [%eval -0.01] } 16. Rac1 { [%eval -0.39] } 16... Rbe8 { [%eval -0.03] } 17. c4 { [%eval -0.52] } 17... Rh6 { [%eval 4.91] } 18. Bxh6 { [%eval 5.19] } 18... Re6 { [%eval 6.0] } 19. Rxe6 { [%eval 5.98] } 19... Qxe6 { [%eval 5.92] } 20. Be3 { [%eval 5.37] } 20... Qf5 { [%eval 6.33] } 21. c5 { [%eval 5.9] } 21... Be7 { [%eval 6.07] } 22. h3 { [%eval 5.95] } 22... Bh4 { [%eval 5.86] } 1-0
+
+

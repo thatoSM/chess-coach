@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/cygYvT8g"]
+[Date "2026.09.03"]
+[Round "-"]
+[White "Schl0g"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "cygYvT8g"]
+[UTCDate "2026.09.03"]
+[UTCTime "09:56:19"]
+[WhiteElo "1087"]
+[BlackElo "1111"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C45"]
+[Opening "Scotch Game: Schmidt Variation"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. d4 { [%eval 0.07] } 3... exd4 { [%eval 0.04] } 4. Nxd4 { [%eval 0.06] } 4... Nf6 { [%eval 0.1] } 5. Nxc6 { [%eval 0.05] } 5... bxc6 { [%eval 0.15] } 6. Nc3 { [%eval 0.13] } 6... d5 { [%eval 0.0] } 7. e5 { [%eval 0.0] } 7... Ne4 { [%eval 1.82] } 8. Nxe4 { [%eval 1.77] } 8... dxe4 { [%eval 1.8] } 9. Qxd8+ { [%eval 1.86] } 9... Kxd8 { [%eval 1.91] } 10. Bg5+ { [%eval 1.58] } 10... Be7 { [%eval 2.03] } 11. Bxe7+ { [%eval 0.36] } 11... Kxe7 { [%eval 0.33] } 12. O-O-O { [%eval 0.41] } 12... Be6 { [%eval 1.36] } 13. f4 { [%eval 0.0] } 13... exf3 { [%eval 0.0] } 14. gxf3 { [%eval -0.03] } 14... Bxa2 { [%eval 3.46] } 15. b3 { [%eval 3.43] } 15... Rab8 { [%eval 4.95] } 16. Rd3 { [%eval 3.34] } 16... Ke6 { [%eval 4.69] } 17. f4 { [%eval 4.31] } 17... f6 { [%eval 5.06] } 18. Bh3+ { [%eval 4.92] } 18... f5 { [%eval 4.82] } 19. Kb2 { [%eval 4.74] } 19... Bxb3 { [%eval 4.81] } 20. cxb3 { [%eval 4.44] } 20... h5 { [%eval 5.96] } 21. Rc1 { [%eval 6.0] } 21... Rb6 { [%eval 5.9] } 22. Bg2 { [%eval 5.94] } 22... h4 { [%eval 6.96] } 23. Bxc6 { [%eval 6.6] } 23... h3 { [%eval 7.75] } 24. Rd7 { [%eval 0.0] } 24... Rb4 { [%eval 5.39] } 25. Rc4 { [%eval 5.5] } 25... Rxc4 { [%eval 5.32] } 26. bxc4 { [%eval 4.68] } 26... g5 { [%eval 5.57] } 27. fxg5 { [%eval 5.39] } 27... Rg8 { [%eval 7.92] } 28. Rxc7 { [%eval 5.55] } 28... Rxg5 { [%eval 5.59] } 29. Rxa7 { [%eval 5.6] } 29... Kxe5 { [%eval 5.52] } 30. Ra3 { [%eval 5.4] } 30... Rh5 { [%eval 5.48] } 31. Rf3 { [%eval 5.5] } 31... f4 { [%eval 5.97] } 32. Kc3 { [%eval 5.53] } 32... Rh4 { [%eval 5.82] } 33. c5 { [%eval 5.53] } 33... Ke6 { [%eval 6.47] } 34. Kd4 { [%eval 6.29] } 34... Kf5 { [%eval 6.72] } 35. Be4+ { [%eval 6.24] } 35... Kg4 { [%eval 13.24] } 36. c6 { [%eval #16] } 36... Rh6 { [%eval #16] } 37. c7 { [%eval #15] } 37... Rh7 { [%eval #4] } 38. c8=Q+ { [%eval #3] } 1-0
+
+

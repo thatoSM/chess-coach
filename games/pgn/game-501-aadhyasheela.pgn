@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/tF9HSnGP"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "AadhyaSheela"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "tF9HSnGP"]
+[UTCDate "2026.09.04"]
+[UTCTime "19:34:25"]
+[WhiteElo "1086"]
+[BlackElo "1086"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C50"]
+[Opening "Four Knights Game: Italian Variation"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. Nc3 { [%eval 0.06] } 3... Bc5 { [%eval 0.46] } 4. Bc4 { [%eval 0.12] } 4... Nf6 { [%eval 0.09] } 5. O-O { [%eval 0.07] } 5... O-O { [%eval 0.14] } 6. d3 { [%eval 0.14] } 6... d6 { [%eval 0.1] } 7. Bg5 { [%eval 0.12] } 7... h6 { [%eval 0.13] } 8. Bxf6 { [%eval 0.08] } 8... Qxf6 { [%eval 0.11] } 9. Nd5 { [%eval 0.0] } 9... Qd8 { [%eval 0.05] } 10. Re1 { [%eval -0.15] } 10... Be6 { [%eval 0.01] } 11. h3 { [%eval -0.39] } 11... Nd4 { [%eval 0.11] } 12. Nxd4 { [%eval 0.03] } 12... Bxd4 { [%eval 0.4] } 13. c3 { [%eval 0.1] } 13... Bb6 { [%eval 0.12] } 14. Nxb6 { [%eval 0.13] } 14... axb6 { [%eval 0.29] } 15. Bxe6 { [%eval 0.17] } 15... fxe6 { [%eval 0.12] } 16. d4 { [%eval 0.06] } 16... Qg5 { [%eval 0.09] } 17. Qg4 { [%eval -0.14] } 17... Qd2 { [%eval 1.15] } 18. Re2 { [%eval 0.77] } 18... Qd3 { [%eval 0.9] } 19. Qxe6+ { [%eval 0.56] } 19... Rf7 { [%eval 0.86] } 20. Re3 { [%eval 1.01] } 20... Qd2 { [%eval 2.26] } 21. Rf1 { [%eval 0.5] } 21... Rf8 { [%eval 1.04] } 22. Rf3 { [%eval 0.55] } 22... Qxb2 { [%eval 3.83] } 23. Rxf7 { [%eval 1.33] } 23... Rxf7 { [%eval 1.26] } 24. Qe8+ { [%eval 0.36] } 24... Rf8 { [%eval 0.6] } 25. Qe6+ { [%eval 0.53] } 25... Rf7 { [%eval 1.45] } 26. dxe5 { [%eval 1.43] } 26... Qxc3 { [%eval 2.68] } 27. exd6 { [%eval 2.63] } 27... cxd6 { [%eval 2.47] } 28. Qxd6 { [%eval 2.57] } 28... Qc4 { [%eval 2.44] } 29. e5 { [%eval 1.97] } 29... Qxa2 { [%eval 5.3] } 30. e6 { [%eval 4.82] } 30... Rf6 { [%eval 7.04] } 31. Qd8+ { [%eval 6.9] } 31... Rf8 { [%eval 7.11] } 32. e7 { [%eval 7.11] } 32... Qf7 { [%eval 6.88] } 33. Re1 { [%eval 2.87] } 33... Re8 { [%eval 2.8] } 34. Qd7 { [%eval 2.7] } 34... b5 { [%eval 2.56] } 35. Qxb7 { [%eval 2.47] } 35... b4 { [%eval 5.5] } 36. Qxb4 { [%eval 5.18] } 36... Rxe7 { [%eval 9.13] } 37. Rxe7 { [%eval 8.8] } 37... Qxe7 { [%eval #10] } 1-0
+
+

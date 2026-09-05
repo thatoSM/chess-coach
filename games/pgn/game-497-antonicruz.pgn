@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/7FFoRZsw"]
+[Date "2026.09.04"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "antonicruz"]
+[Result "0-1"]
+[GameId "7FFoRZsw"]
+[UTCDate "2026.09.04"]
+[UTCTime "18:04:09"]
+[WhiteElo "1080"]
+[BlackElo "1117"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C50"]
+[Opening "Italian Game"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 f6 4. d4 exd4 5. Nxd4 Bc5 6. Be3 Bxd4 7. Bxd4 d6 8. O-O Qe7 9. Re1 Be6 10. Bxe6 Qxe6 11. Nc3 Nge7 12. a4 O-O 13. Nb5 Qc8 14. b3 Ng6 15. g3 f5 16. exf5 Qxf5 17. Nxc7 Rac8 18. Nb5 Nxd4 19. Nxd4 Qxf2+ 20. Kh1 Qf6 21. Nb5 a6 22. Na3 Qf7 23. Nc4 Qf5 24. Rf1 Qe4+ 25. Kg1 Rxf1+ 26. Qxf1 Rf8 27. Qe1 Qd4+ 28. Qe3 Qxa1+ 29. Kg2 Qf6 0-1
+
+

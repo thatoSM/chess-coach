@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/0xzKT7yl"]
+[Date "2026.09.05"]
+[Round "-"]
+[White "madmandjib"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "0xzKT7yl"]
+[UTCDate "2026.09.05"]
+[UTCTime "08:07:25"]
+[WhiteElo "1021"]
+[BlackElo "1069"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Chigorin Variation"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.15] } 1... d5 { [%eval 0.27] } 2. Nf3 { [%eval 0.08] } 2... Nc6 { [%eval 0.5] } 3. h3 { [%eval 0.26] } 3... Bf5 { [%eval 0.27] } 4. a3 { [%eval 0.3] } 4... Nf6 { [%eval 0.26] } 5. e3 { [%eval 0.29] } 5... e6 { [%eval 0.24] } 6. Nc3 { [%eval 0.0] } 6... Bd6 { [%eval -0.02] } 7. Bb5 { [%eval -0.27] } 7... Qd7 { [%eval 0.0] } 8. Ne5 { [%eval 0.0] } 8... Nxe5 { [%eval 3.87] } 9. dxe5 { [%eval 0.27] } 9... Bxe5 { [%eval 5.46] } 10. Bxd7+ { [%eval 5.54] } 10... Kxd7 { [%eval 5.76] } 1-0
+
+
