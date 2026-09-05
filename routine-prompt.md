@@ -148,7 +148,7 @@ literal text `[NOT YET ANALYSED]`. For each, extract its Lichess game ID from it
 the right one.
 
 STEP 2 — For each such game ID, query:
-`curl -s -A "Mozilla/5.0" 'https://lichess.org/game/export/GAMEID?evals=true' -H 'Accept: application/json'`
+`curl -s -A "Mozilla/5.0" 'https://lichess.org/game/export/GAMEID?evals=true&accuracy=true' -H 'Accept: application/json'`
 and check whether the response's top-level `analysis` array is present AND
 `players.white.analysis` / `players.black.analysis` objects are present (both
 must exist — that means Lichess has finished analysing it). If not present yet,
@@ -160,8 +160,10 @@ estimate anything):
 
 - Determine my colour from `players.white.user.id`/`players.black.user.id`
   matching `thatosm` (case-insensitive).
-- Read `players.<mycolor>.analysis` → `{inaccuracy, mistake, blunder, acpl}` and
-  the same for the opponent's colour.
+- Read `players.<mycolor>.analysis` → `{inaccuracy, mistake, blunder, acpl,
+  accuracy, phases}` and the same for the opponent's colour. `accuracy` is a
+  whole-number percentage; `phases` is `{opening, middlegame, endgame}`, also
+  percentages. Both only appear if `accuracy=true` was in the query string.
 - Read `division.middle` and `division.end` (ply numbers) if present — convert
   ply to an approximate move number via `(ply+1)//2`.
 - Walk the `analysis` array (index i = ply i, 0-indexed; i even = White's move,
@@ -178,8 +180,10 @@ estimate anything):
 Replace the placeholder lines (`- **Me: [NOT YET ANALYSED]...**` and
 `- **Opponent: [NOT YET ANALYSED]**`) with:
 
-    - **Me: N blunders · N mistakes · N inaccuracies · N ACPL.** (accuracy % isn't exposed by Lichess's API — read it off the Link above)
-    - **Opponent: N blunders · N mistakes · N inaccuracies · N ACPL.**
+    - **Me: N% accuracy · N blunders · N mistakes · N inaccuracies · N ACPL.**
+      Phases: Opening NN / Middlegame NN / Endgame NN.
+    - **Opponent: N% accuracy · N blunders · N mistakes · N inaccuracies · N ACPL.**
+      Phases: Opening NN / Middlegame NN / Endgame NN.
     - Phases (Lichess division): opening ends ~move X, endgame starts ~move Y.
 
     **Computer analysis — flagged moves (from Lichess):**
