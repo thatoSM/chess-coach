@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/C9SUPfwd"]
+[Date "2026.09.06"]
+[Round "-"]
+[White "ramu767"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "C9SUPfwd"]
+[UTCDate "2026.09.06"]
+[UTCTime "06:40:26"]
+[WhiteElo "1081"]
+[BlackElo "1019"]
+[WhiteRatingDiff "-128"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "900+10"]
+[ECO "C50"]
+[Opening "Four Knights Game: Italian Variation"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Bc5 4. Bc4 Nf6 5. Ng5 O-O 6. d3 d6 7. O-O h6 8. Nf3 Bg4 9. h3 Bh5 10. a3 Nd4 11. b4 Nxf3+ 12. gxf3 Bd4 13. Bd2 Re8 14. Kg2 Qd7 15. Qc1 a6 16. Kh2 b5 17. Bxh6 Qe7 18. Bxg7 Kxg7 19. Qg5+ Kh7 20. Bd5 Bxc3 21. Rab1 Rg8 22. Qh4 Rg7 23. Bxa8 Ng4+ 24. Kh1 Qxh4 0-1
+
+

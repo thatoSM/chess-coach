@@ -25,6 +25,22 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 536 | LOSS | White | oguzemir2026 (1050) | *pending* |
+| 535 | WIN | White | MannmitSchein (989) | *pending* |
+| 534 | LOSS | Black | feihuax (1038) | *pending* |
+| 533 | WIN | White | najdorfplayer48 (996) | *pending* |
+| 532 | WIN | Black | XIQUILINDONGUI (1063) | *pending* |
+| 531 | LOSS | White | starcruzer (926) | *pending* |
+| 530 | WIN | Black | ramu767 (1081) | *pending* |
+| 529 | LOSS | Black | Rahultushar (1002) | *pending* |
+| 528 | LOSS | Black | kmrmskprithvi (1002) | *pending* |
+| 527 | WIN | White | romigamboa13 (1024) | *pending* |
+| 526 | LOSS | Black | Knightly0 (1036) | *pending* |
+| 525 | LOSS | White | sankalp211 (982) | *pending* |
+| 524 | LOSS | White | mimrolls (990) | *pending* |
+| 523 | LOSS | Black | mayan2233 (1075) | *pending* |
+| 522 | WIN | White | frag82 (1057) | *pending* |
+| 521 | WIN | White | ahmetenes201621 (1055) | *pending* |
 | 520 | LOSS | Black | Sorci1 (982) | *pending* |
 | 519 | LOSS | White | eterlous (1015) | *pending* |
 | 518 | WIN | Black | Kastaneda2517 (1093) | *pending* |

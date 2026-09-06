@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/BQyhsvJw"]
+[Date "2026.09.06"]
+[Round "-"]
+[White "kmrmskprithvi"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "BQyhsvJw"]
+[UTCDate "2026.09.06"]
+[UTCTime "05:49:45"]
+[WhiteElo "1002"]
+[BlackElo "1031"]
+[WhiteRatingDiff "+23"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "D01"]
+[Opening "Richter-Veresov Attack"]
+[Termination "Normal"]
+
+1. d4 d5 2. Nc3 Nf6 3. Bg5 Nc6 4. Bxf6 exf6 5. Nf3 Bb4 6. Qd2 O-O 7. a3 Ba5 8. b4 Bb6 9. Na2 Re8 10. a4 a5 11. b5 Ne7 12. Nc3 Ng6 13. e3 Bg4 14. Be2 c6 15. h3 Bc8 16. Bd3 f5 17. O-O Nh4 18. Be2 h6 19. Nxh4 Qxh4 20. Bf3 Be6 21. Ne2 Bc7 22. c4 Rab8 23. Rac1 g5 24. cxd5 g4 25. g3 Qd8 26. hxg4 Bxd5 27. Bxd5 Qxd5 28. gxf5 Qxf5 29. Nc3 Rbc8 30. Qe2 cxb5 31. axb5 b6 32. e4 Qg5 33. Nd5 Qg6 34. e5 Red8 35. Ne7+ 1-0
+
+

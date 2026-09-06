@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/dns8l48Q"]
+[Date "2026.09.06"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "najdorfplayer48"]
+[Result "1-0"]
+[GameId "dns8l48Q"]
+[UTCDate "2026.09.06"]
+[UTCTime "10:41:26"]
+[WhiteElo "1024"]
+[BlackElo "996"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "900+10"]
+[ECO "B33"]
+[Opening "Sicilian Defense: Lasker-Pelikan Variation, Retreat Variation"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... c5 { [%eval 0.32] } 2. d4 { [%eval 0.05] } 2... cxd4 { [%eval 0.04] } 3. Qxd4 { [%eval 0.0] } 3... Nc6 { [%eval 0.0] } 4. Qd1 { [%eval -0.08] } 4... e5 { [%eval 0.2] } 5. Nf3 { [%eval 0.0] } 5... Nf6 { [%eval 0.11] } 6. Nc3 { [%eval -0.14] } 6... d5 { [%eval 2.04] } 7. exd5 { [%eval 2.07] } 7... e4 { [%eval 2.11] } 8. Ng1 { [%eval 1.76] } 1-0
+
+
