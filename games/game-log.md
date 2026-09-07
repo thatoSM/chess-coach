@@ -25,6 +25,33 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 563 | WIN | White | heljarskinn458 (1100) | *pending* |
+| 562 | LOSS | White | Medicfromtf2 (1056) | *pending* |
+| 561 | LOSS | Black | MohamEd_108 (1096) | *pending* |
+| 560 | LOSS | White | Ocherednaya_A-2015 (1117) | *pending* |
+| 559 | LOSS | White | Buddhananas (1049) | *pending* |
+| 558 | WIN | Black | Lowenzahn71 (1136) | *pending* |
+| 557 | DRAW | Black | He_To4ka (1056) | *pending* |
+| 556 | WIN | White | vasilijevirijevic (951) | *pending* |
+| 555 | WIN | White | extraPicante (1049) | *pending* |
+| 554 | DRAW | Black | RosaLiechtenstein (1042) | *pending* |
+| 553 | WIN | Black | yodhini (1025) | *pending* |
+| 552 | WIN | White | Alanokr92 (971) | *pending* |
+| 551 | LOSS | Black | zekekronos (1098) | *pending* |
+| 550 | WIN | Black | st_1362 (1154) | *pending* |
+| 549 | WIN | White | nagibat0r3000 (1062) | *pending* |
+| 548 | LOSS | White | Kristi-licious (1013) | *pending* |
+| 547 | WIN | White | nj_f (885) | *pending* |
+| 546 | LOSS | White | Valdeman (1039) | *pending* |
+| 545 | WIN | Black | Uxusuzzeg (1032) | *pending* |
+| 544 | LOSS | Black | ChrisArmenian (1079) | *pending* |
+| 543 | LOSS | White | ChrisArmenian (1070) | *pending* |
+| 542 | WIN | White | camba2111 (922) | *pending* |
+| 541 | WIN | White | logadress (1028) | *pending* |
+| 540 | WIN | Black | seventeenth717 (1009) | *pending* |
+| 539 | WIN | White | clark530 (1100) | *pending* |
+| 538 | LOSS | Black | nirmalnehra (1006) | *pending* |
+| 537 | WIN | White | AnriHakobyan (1141) | *pending* |
 | 536 | LOSS | White | oguzemir2026 (1050) | *pending* |
 | 535 | WIN | White | MannmitSchein (989) | *pending* |
 | 534 | LOSS | Black | feihuax (1038) | *pending* |

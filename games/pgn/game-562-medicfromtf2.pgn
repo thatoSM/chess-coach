@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/6HO6xySS"]
+[Date "2026.09.07"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "Medicfromtf2"]
+[Result "0-1"]
+[GameId "6HO6xySS"]
+[UTCDate "2026.09.07"]
+[UTCTime "17:31:26"]
+[WhiteElo "1053"]
+[BlackElo "1056"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "C47"]
+[Opening "Four Knights Game: Italian Variation"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. Bc4 { [%eval 0.07] } 3... Nf6 { [%eval 0.22] } 4. Nc3 { [%eval 0.0] } 4... Bb4 { [%eval 0.22] } 5. O-O { [%eval 0.09] } 5... Bxc3 { [%eval 0.15] } 6. dxc3 { [%eval 0.0] } 6... Nxe4 { [%eval 0.85] } 7. Qd5 { [%eval 0.73] } 7... Nd6 { [%eval 0.76] } 8. Nxe5 { [%eval 0.85] } 8... Nxe5 { [%eval 4.48] } 9. Qxe5+ { [%eval 4.06] } 9... Qe7 { [%eval 9.09] } 10. Qxe7+ { [%eval 1.58] } 10... Kxe7 { [%eval 1.5] } 11. Re1+ { [%eval 1.43] } 11... Kf8 { [%eval 1.46] } 12. Bf4 { [%eval -3.27] } 12... Nxc4 { [%eval -3.08] } 13. Bxc7 { [%eval -2.69] } 13... Nxb2 { [%eval #2] } 14. Re4 { [%eval -0.16] } 14... b6 { [%eval #2] } 15. Rb1 { [%eval -0.11] } 15... Bb7 { [%eval -0.07] } 16. Rb4 { [%eval -0.25] } 16... Rc8 { [%eval -0.15] } 17. Bd6+ { [%eval -0.17] } 17... Ke8 { [%eval -0.2] } 18. R4xb2 { [%eval -0.21] } 18... Rxc3 { [%eval -0.06] } 19. Be5 { [%eval -0.71] } 19... Rc6 { [%eval 0.07] } 20. Bxg7 { [%eval -0.27] } 20... Rg8 { [%eval -0.27] } 21. Bd4 { [%eval -2.84] } 21... Rd6 { [%eval -0.17] } 22. Rb4 { [%eval -3.94] } 22... Rxg2+ { [%eval -4.1] } 23. Kh1 { [%eval #-2] } 23... Rg4+ { [%eval #-1] } 24. f3 { [%eval #-1] } 24... Bxf3# 0-1
+
+

@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/wINrwHNr"]
+[Date "2026.09.07"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "heljarskinn458"]
+[Result "1-0"]
+[GameId "wINrwHNr"]
+[UTCDate "2026.09.07"]
+[UTCTime "18:25:09"]
+[WhiteElo "1047"]
+[BlackElo "1100"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-20"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C56"]
+[Opening "Italian Game: Scotch Invitation Declined"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. Bc4 { [%eval 0.07] } 3... d6 { [%eval 0.36] } 4. d4 { [%eval 0.35] } 4... Nf6 { [%eval 0.47] } 5. d5 { [%eval 0.37] } 5... Nb4 { [%eval 0.54] } 6. a3 { [%eval 0.53] } 6... Na6 { [%eval 0.55] } 7. O-O { [%eval -0.49] } 7... g6 { [%eval 0.76] } 8. Nc3 { [%eval 0.54] } 8... Bg7 { [%eval 0.67] } 9. Bg5 { [%eval 0.44] } 9... Nc5 { [%eval 0.7] } 10. Qd2 { [%eval -2.54] } 10... O-O { [%eval 0.62] } 11. Rfe1 { [%eval 0.52] } 11... Bg4 { [%eval 0.6] } 12. Qe3 { [%eval 0.28] } 12... b6 { [%eval 1.82] } 13. h3 { [%eval 0.72] } 13... Bxf3 { [%eval 0.92] } 14. Qxf3 { [%eval 1.11] } 14... Qe7 { [%eval 2.29] } 15. h4 { [%eval 1.01] } 15... h6 { [%eval 0.93] } 16. Be3 { [%eval 0.93] } 16... Rfe8 { [%eval 1.75] } 17. Bb5 { [%eval 1.8] } 17... Red8 { [%eval 3.05] } 18. Bc6 { [%eval 2.12] } 18... Rab8 { [%eval 2.14] } 19. Nb5 { [%eval 0.97] } 19... a5 { [%eval 2.42] } 20. b4 { [%eval 2.47] } 20... Ncxe4 { [%eval 2.49] } 21. Bc1 { [%eval 2.04] } 21... h5 { [%eval 3.2] } 22. Rxe4 { [%eval 3.39] } 22... Nxe4 { [%eval 3.44] } 23. Qxe4 { [%eval 3.02] } 23... Bf6 { [%eval 4.46] } 24. g3 { [%eval 4.31] } 24... axb4 { [%eval 5.57] } 25. axb4 { [%eval 5.65] } 25... Kg7 { [%eval 6.01] } 26. Kg2 { [%eval 5.83] } 26... g5 { [%eval 7.1] } 27. hxg5 { [%eval 5.04] } 27... Bxg5 { [%eval 5.53] } 28. Bxg5 { [%eval 5.54] } 28... Qxg5 { [%eval 5.35] } 29. Ra7 { [%eval 4.99] } 29... Rg8 { [%eval 6.09] } 30. Rxc7 { [%eval 6.36] } 30... Kh6 { [%eval 14.45] } 31. Qf3 { [%eval 7.23] } 31... Rg7 { [%eval 9.6] } 32. Nxd6 { [%eval 9.15] } 32... Rbg8 { [%eval 10.57] } 33. Ne4 { [%eval 8.06] } 33... Qh4 { [%eval 8.81] } 34. Rxf7 { [%eval 0.44] } 34... Qxe4 { [%eval 11.12] } 35. Qxe4 { [%eval 9.8] } 35... h4 { [%eval #2] } 36. Qxh4+ { [%eval #1] } 36... Kg6 { [%eval #1] } 37. Rf6# 1-0
+
+

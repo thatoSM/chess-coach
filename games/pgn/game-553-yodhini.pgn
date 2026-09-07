@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/Xq8HYyLa"]
+[Date "2026.09.07"]
+[Round "-"]
+[White "yodhini"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "Xq8HYyLa"]
+[UTCDate "2026.09.07"]
+[UTCTime "12:35:05"]
+[WhiteElo "1025"]
+[BlackElo "1047"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "C50"]
+[Opening "Italian Game: Giuoco Pianissimo, Italian Four Knights Variation"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. Nc3 { [%eval 0.06] } 3... Bc5 { [%eval 0.46] } 4. Bc4 { [%eval 0.12] } 4... Nf6 { [%eval 0.09] } 5. d3 { [%eval 0.07] } 5... O-O { [%eval 0.13] } 6. Be3 { [%eval 0.0] } 6... Bxe3 { [%eval 0.0] } 7. fxe3 { [%eval 0.0] } 7... d6 { [%eval 0.0] } 8. O-O { [%eval -0.22] } 8... Bg4 { [%eval 0.11] } 9. Qd2 { [%eval -0.15] } 9... a6 { [%eval 0.21] } 10. d4 { [%eval -0.11] } 10... exd4 { [%eval 0.0] } 11. exd4 { [%eval 0.07] } 11... b5 { [%eval 0.04] } 12. Bd5 { [%eval 0.09] } 12... Nxd5 { [%eval 0.09] } 13. exd5 { [%eval -0.9] } 13... Ne7 { [%eval -0.89] } 14. Nh4 { [%eval -1.07] } 14... c6 { [%eval 0.02] } 15. dxc6 { [%eval 0.03] } 15... Nxc6 { [%eval 0.06] } 16. d5 { [%eval -0.91] } 16... Ne5 { [%eval -0.83] } 17. Kh1 { [%eval -5.65] } 17... Qxh4 { [%eval -5.63] } 18. g3 { [%eval -7.36] } 18... Qh5 { [%eval -7.45] } 19. Ne2 { [%eval -9.02] } 19... Bf3+ { [%eval -7.76] } 20. Kg1 { [%eval -9.29] } 20... Qh3 { [%eval -6.21] } 21. Nf4 { [%eval -6.3] } 21... Qg4 { [%eval -6.02] } 22. Qc3 { [%eval -6.84] } 22... Rfc8 { [%eval -6.66] } 23. Qxf3 { [%eval -11.63] } 23... Nxf3+ { [%eval -12.58] } 24. Kg2 { [%eval -13.08] } 24... Ne5 { [%eval -9.82] } 25. h3 { [%eval #-5] } 25... Qf5 { [%eval -11.72] } 26. g4 { [%eval -13.64] } 26... Qxc2+ { [%eval -12.78] } 27. Ne2 { [%eval -19.89] } 27... Qxe2+ { [%eval -18.65] } 28. Rf2 { [%eval -19.07] } 28... Qc4 { [%eval -17.68] } 29. b3 { [%eval -22.43] } 29... Qe4+ { [%eval -19.02] } 30. Rf3 { [%eval #-3] } 30... Qxf3+ { [%eval #-2] } 31. Kg1 { [%eval #-2] } 31... Qxd5 { [%eval #-4] } 32. Kf1 { [%eval #-2] } 32... Nd3 { [%eval #-3] } 33. Ke2 { [%eval #-3] } 33... Nb4 { [%eval #-4] } 34. Rd1 { [%eval #-4] } 34... Rc2+ { [%eval #-3] } 35. Ke1 { [%eval #-1] } 35... Qh1# 0-1
+
+

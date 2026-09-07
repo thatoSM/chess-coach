@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/j7rQqklP"]
+[Date "2026.09.07"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "vasilijevirijevic"]
+[Result "1-0"]
+[GameId "j7rQqklP"]
+[UTCDate "2026.09.07"]
+[UTCTime "13:50:36"]
+[WhiteElo "1058"]
+[BlackElo "951"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-34"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "B01"]
+[Opening "Scandinavian Defense"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... d5 { [%eval 0.54] } 2. exd5 { [%eval 0.51] } 2... Nc6 { [%eval 4.68] } 3. dxc6 { [%eval 4.57] } 3... bxc6 { [%eval 4.81] } 4. Nc3 { [%eval 4.5] } 4... Nf6 { [%eval 5.78] } 5. d4 { [%eval 4.51] } 5... c5 { [%eval 6.1] } 6. dxc5 { [%eval 5.74] } 6... Qxd1+ { [%eval 5.77] } 7. Nxd1 { [%eval 5.83] } 7... Bg4 { [%eval 6.25] } 1-0
+
+

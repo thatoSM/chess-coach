@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/5t8vQueg"]
+[Date "2026.09.07"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "Alanokr92"]
+[Result "1-0"]
+[GameId "5t8vQueg"]
+[UTCDate "2026.09.07"]
+[UTCTime "12:15:32"]
+[WhiteElo "1042"]
+[BlackElo "971"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-4"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e6 { [%eval 0.22] } 2. d4 { [%eval 0.29] } 2... d5 { [%eval 0.38] } 3. e5 { [%eval 0.25] } 3... Ne7 { [%eval 0.33] } 4. Nf3 { [%eval 0.24] } 4... g6 { [%eval 0.82] } 5. Nc3 { [%eval 0.5] } 5... Bg7 { [%eval 0.56] } 6. Bb5+ { [%eval 0.31] } 6... c6 { [%eval 0.35] } 7. Ba4 { [%eval 0.17] } 7... O-O { [%eval 0.63] } 8. O-O { [%eval 0.33] } 8... b5 { [%eval 0.42] } 9. Bb3 { [%eval 0.2] } 9... a6 { [%eval 1.47] } 10. Bg5 { [%eval 0.08] } 10... Nd7 { [%eval 1.17] } 11. Re1 { [%eval -0.01] } 11... a5 { [%eval 0.24] } 12. a4 { [%eval 0.29] } 12... b4 { [%eval 0.17] } 13. Ne2 { [%eval 0.31] } 13... f6 { [%eval 1.43] } 14. exf6 { [%eval 1.53] } 14... Bxf6 { [%eval 2.81] } 15. Bh6 { [%eval 1.69] } 15... Bg7 { [%eval 1.75] } 16. Bxg7 { [%eval 1.7] } 16... Kxg7 { [%eval 1.56] } 17. Qd2 { [%eval 2.06] } 17... Ba6 { [%eval 7.19] } 18. Nf4 { [%eval 6.87] } 18... Rxf4 { [%eval 6.78] } 19. Qxf4 { [%eval 6.75] } 19... c5 { [%eval 9.57] } 20. dxc5 { [%eval 8.24] } 20... Nxc5 { [%eval 8.8] } 21. Ne5 { [%eval 2.51] } 21... Nd3 { [%eval 11.29] } 22. Nxd3 { [%eval 9.04] } 1-0
+
+

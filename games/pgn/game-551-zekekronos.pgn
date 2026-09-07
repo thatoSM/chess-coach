@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/yA3Vg3dy"]
+[Date "2026.09.07"]
+[Round "-"]
+[White "zekekronos"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "yA3Vg3dy"]
+[UTCDate "2026.09.07"]
+[UTCTime "12:09:16"]
+[WhiteElo "1098"]
+[BlackElo "1047"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "C44"]
+[Opening "Ponziani Opening: Jaenisch Counterattack"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. c3 { [%eval -0.13] } 3... Nf6 { [%eval 0.0] } 4. d4 { [%eval -0.03] } 4... exd4 { [%eval 0.0] } 5. e5 { [%eval -0.08] } 5... Nxe5 { [%eval 2.13] } 6. Nxd4 { [%eval -2.15] } 6... Bc5 { [%eval -1.65] } 7. Nd2 { [%eval -2.65] } 7... O-O { [%eval -1.9] } 8. Bc4 { [%eval -3.02] } 8... Nxc4 { [%eval -3.07] } 9. Nxc4 { [%eval -2.98] } 9... Qe7+ { [%eval -1.81] } 10. Ne3 { [%eval -1.8] } 10... Ng4 { [%eval 4.17] } 11. Qxg4 { [%eval 4.28] } 11... d6 { [%eval 4.34] } 12. Qe2 { [%eval 4.12] } 12... Re8 { [%eval 4.6] } 13. O-O { [%eval 4.59] } 13... Qe5 { [%eval 4.77] } 14. Qd3 { [%eval 4.72] } 14... Qg5 { [%eval 5.05] } 15. Nd5 { [%eval -1.98] } 15... Qg4 { [%eval 6.18] } 16. Nxc7 { [%eval 5.99] } 1-0
+
+
