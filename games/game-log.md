@@ -25,6 +25,33 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 590 | LOSS | Black | h1221b (1213) | *pending* |
+| 589 | WIN | Black | Maria3310 (991) | *pending* |
+| 588 | WIN | White | alexandrejr48 (1019) | *pending* |
+| 587 | WIN | White | OSoleildesLunes1 (875) | *pending* |
+| 586 | WIN | Black | OSoleildesLunes1 (878) | *pending* |
+| 585 | LOSS | White | vitalityko (1033) | *pending* |
+| 584 | LOSS | Black | ArturK23 (1042) | *pending* |
+| 583 | WIN | White | theDJX59 (1219) | *pending* |
+| 582 | DRAW | Black | Ivanyk-k (1051) | *pending* |
+| 581 | LOSS | White | maluherz (1140) | *pending* |
+| 580 | DRAW | Black | subash41 (1136) | *pending* |
+| 579 | WIN | White | FiorelaCabanillasUTP (1072) | *pending* |
+| 578 | LOSS | Black | Tagananent (1142) | *pending* |
+| 577 | WIN | White | Savior5027 (1178) | *pending* |
+| 576 | LOSS | Black | AXE722 (1151) | *pending* |
+| 575 | WIN | Black | delniya_nasiri_2017 (1118) | *pending* |
+| 574 | LOSS | White | Erotides1313 (1064) | *pending* |
+| 573 | WIN | White | catanddogtrainer (1123) | *pending* |
+| 572 | DRAW | Black | Hefnawy99 (1040) | *pending* |
+| 571 | WIN | Black | lam050708 (1098) | *pending* |
+| 570 | WIN | White | Ratnesh1996 (1116) | *pending* |
+| 569 | WIN | Black | Antananarivochess (1110) | *pending* |
+| 568 | WIN | White | drakeahmad (1023) | *pending* |
+| 567 | WIN | White | eliastohidimoghdam (1041) | *pending* |
+| 566 | LOSS | Black | Lujimotive (1031) | *pending* |
+| 565 | WIN | White | mhs83 (1094) | *pending* |
+| 564 | WIN | Black | Nuutan (1097) | *pending* |
 | 563 | WIN | White | heljarskinn458 (1100) | *pending* |
 | 562 | LOSS | White | Medicfromtf2 (1056) | *pending* |
 | 561 | LOSS | Black | MohamEd_108 (1096) | *pending* |

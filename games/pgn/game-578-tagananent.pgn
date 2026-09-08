@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/fc7saaqz"]
+[Date "2026.09.08"]
+[Round "-"]
+[White "Tagananent"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "fc7saaqz"]
+[UTCDate "2026.09.08"]
+[UTCTime "14:05:22"]
+[WhiteElo "1142"]
+[BlackElo "1101"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Leonardis Variation"]
+[Termination "Normal"]
+
+1. e4 e5 2. d3 Nc6 3. c3 Nf6 4. f3 Bc5 5. Ne2 d5 6. exd5 Nxd5 7. b4 Bb6 8. a4 a5 9. b5 Nce7 10. c4 Nf4 11. Nxf4 exf4 12. Qe2 g5 13. g4 O-O 14. h4 gxh4 15. Rxh4 Re8 16. Qh2 Kg7 17. Rxh7+ Kf6 18. Qh6+ Ng6+ 19. Be2 Be3 20. Qg7+ Ke7 21. Qxf7+ Kd6 22. Ba3+ Bc5 23. Qxg6+ Re6 24. Bxc5+ Kxc5 25. Rh5+ Kd6 26. Rd5+ Ke7 27. Qg7+ Ke8 28. Rxd8+ Kxd8 1-0
+
+

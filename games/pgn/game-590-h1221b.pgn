@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/MV1CZekn"]
+[Date "2026.09.08"]
+[Round "-"]
+[White "h1221b"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "MV1CZekn"]
+[UTCDate "2026.09.08"]
+[UTCTime "18:47:58"]
+[WhiteElo "1213"]
+[BlackElo "1095"]
+[WhiteRatingDiff "+59"]
+[BlackRatingDiff "-4"]
+[Variant "Standard"]
+[TimeControl "900+3"]
+[ECO "C55"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Nd4 5. Nxe5 d5 6. exd5 Nxd5 7. O-O Qe7 8. Re1 f6 9. Nc6 1-0
+
+

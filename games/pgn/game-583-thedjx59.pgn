@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/gJvAiQek"]
+[Date "2026.09.08"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "theDJX59"]
+[Result "1-0"]
+[GameId "gJvAiQek"]
+[UTCDate "2026.09.08"]
+[UTCTime "16:58:18"]
+[WhiteElo "1096"]
+[BlackElo "1219"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Main Line"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... d5 { [%eval 0.54] } 2. exd5 { [%eval 0.51] } 2... Qxd5 { [%eval 0.52] } 3. Nc3 { [%eval 0.47] } 3... Qa5 { [%eval 0.57] } 4. Nf3 { [%eval 0.39] } 4... Nf6 { [%eval 0.52] } 5. Be2 { [%eval 0.3] } 5... Bf5 { [%eval 0.45] } 6. d4 { [%eval 0.41] } 6... c6 { [%eval 0.22] } 7. O-O { [%eval 0.34] } 7... e6 { [%eval 0.32] } 8. Bd2 { [%eval 0.23] } 8... Qc7 { [%eval 0.3] } 9. Re1 { [%eval 0.03] } 9... Bd6 { [%eval 0.05] } 10. Bf1 { [%eval -0.05] } 10... O-O { [%eval 0.03] } 11. a4 { [%eval -0.29] } 11... Nbd7 { [%eval -0.22] } 12. b3 { [%eval -0.69] } 12... Nd5 { [%eval 0.13] } 13. Nxd5 { [%eval 0.19] } 13... cxd5 { [%eval 0.25] } 14. Rc1 { [%eval 0.15] } 14... Rac8 { [%eval 0.14] } 15. Bb5 { [%eval -0.81] } 15... Nf6 { [%eval -0.77] } 16. h3 { [%eval -3.13] } 16... Qxc2 { [%eval 5.84] } 17. Rxc2 { [%eval 5.53] } 17... Rxc2 { [%eval 6.32] } 1-0
+
+
