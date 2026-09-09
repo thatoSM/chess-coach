@@ -25,6 +25,21 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 605 | WIN | Black | target1200 (1128) | *pending* |
+| 604 | LOSS | Black | raahityaghosh17 (1113) | *pending* |
+| 603 | LOSS | White | matitoe (1077) | *pending* |
+| 602 | WIN | White | Pelmesek18 (1012) | *pending* |
+| 601 | LOSS | White | Kleomenas (1058) | *pending* |
+| 600 | WIN | White | N0tQuiteMyTemp0 (1065) | *pending* |
+| 599 | WIN | Black | Hen-N (1085) | *pending* |
+| 598 | LOSS | Black | Ruka4975 (1202) | *pending* |
+| 597 | LOSS | Black | JovanBgd995 (1199) | *pending* |
+| 596 | WIN | White | sedzen (1117) | *pending* |
+| 595 | WIN | Black | KarimJoseph (1059) | *pending* |
+| 594 | WIN | White | wayoutwestspb (1104) | *pending* |
+| 593 | WIN | Black | lpkramit (1043) | *pending* |
+| 592 | LOSS | White | JonatamGood (1018) | *pending* |
+| 591 | DRAW | White | breedknight (1124) | *pending* |
 | 590 | LOSS | Black | h1221b (1213) | *pending* |
 | 589 | WIN | Black | Maria3310 (991) | *pending* |
 | 588 | WIN | White | alexandrejr48 (1019) | *pending* |

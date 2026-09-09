@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/o6qCuygA"]
+[Date "2026.09.08"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "JonatamGood"]
+[Result "0-1"]
+[GameId "o6qCuygA"]
+[UTCDate "2026.09.08"]
+[UTCTime "19:18:35"]
+[WhiteElo "1092"]
+[BlackElo "1018"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+28"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "B00"]
+[Opening "Pirc Defense"]
+[Termination "Normal"]
+
+1. e4 d6 2. d4 Nf6 3. e5 dxe5 4. dxe5 Qxd1+ 5. Kxd1 Nd5 6. Nf3 Bg4 7. Bc4 e6 8. h3 Bxf3+ 9. gxf3 Nc6 10. Bb5 Bc5 11. Ke1 O-O 12. Bxc6 bxc6 13. Ke2 Bd4 14. c3 Bxe5 15. Nd2 Nf4+ 16. Ke3 Rab8 17. Ne4 Nd5+ 18. Ke2 Bf4 19. Bxf4 Nxf4+ 20. Ke3 Ng2+ 21. Ke2 Rxb2+ 22. Kd1 Nh4 23. a4 Nxf3 24. a5 Rd8+ 25. Kc1 Re2 26. Ng3 Rxf2 27. Ne4 Re2 28. Nc5 Rdd2 29. Rd1 Rc2+ 30. Kb1 Nd2+ 31. Rxd2 Rexd2 32. Nb3 Rb2+ 33. Kc1 Re2 34. Nd4 Red2 35. Nb3 Rdc2+ 36. Kd1 Ra2 37. Nc1 Rxa1 38. Kxc2 Rxa5 39. Nb3 Ra2+ 40. Kb1 Rh2 41. Nd4 Rxh3 42. Nxc6 Rd3 43. Kc2 Rf3 44. Nxa7 h5 45. Nc6 h4 46. Ne5 Rf4 47. Kd3 h3 48. Ke3 h2 49. Kxf4 h1=Q 50. c4 Qh4+ 51. Ke3 g5 52. c5 g4 53. c6 g3 54. Kf3 Qh5+ 55. Ke4 Qxe5+ 56. Kxe5 g2 57. Kd4 g1=Q+ 58. Kc4 Qc1+ 59. Kb5 f5 60. Ka6 Qxc6+ 61. Ka7 Qb5 62. Ka8 c5 63. Ka7 c4 64. Ka8 c3 65. Ka7 c2 66. Ka8 c1=Q 67. Ka7 Qa1# 0-1
+
+

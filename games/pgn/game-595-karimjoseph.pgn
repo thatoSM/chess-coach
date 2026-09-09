@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/bMYXD6kS"]
+[Date "2026.09.09"]
+[Round "-"]
+[White "KarimJoseph"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "bMYXD6kS"]
+[UTCDate "2026.09.09"]
+[UTCTime "05:30:36"]
+[WhiteElo "1059"]
+[BlackElo "1096"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "C45"]
+[Opening "Scotch Game: Schmidt Variation"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. d4 { [%eval 0.07] } 3... exd4 { [%eval 0.04] } 4. Nxd4 { [%eval 0.06] } 4... Nf6 { [%eval 0.1] } 5. Nc3 { [%eval 0.06] } 5... Nxd4 { [%eval 0.85] } 6. Qxd4 { [%eval 0.94] } 6... d6 { [%eval 0.88] } 7. Be2 { [%eval 0.78] } 7... Be7 { [%eval 0.78] } 8. O-O { [%eval 0.58] } 8... O-O { [%eval 0.55] } 9. b3 { [%eval 0.28] } 9... a6 { [%eval 0.71] } 10. Bb2 { [%eval 0.74] } 10... c6 { [%eval 0.8] } 11. Rad1 { [%eval 0.78] } 11... Re8 { [%eval 0.95] } 12. e5 { [%eval 0.9] } 12... c5 { [%eval 2.05] } 13. Qd3 { [%eval 0.4] } 13... dxe5 { [%eval 0.47] } 14. Ba3 { [%eval -1.14] } 14... Qc7 { [%eval -0.66] } 15. Nd5 { [%eval -1.13] } 15... Nxd5 { [%eval -1.07] } 16. Qxd5 { [%eval -1.08] } 16... Be6 { [%eval -1.08] } 17. Qd3 { [%eval -1.08] } 17... Red8 { [%eval -0.71] } 18. Qg3 { [%eval -1.21] } 18... b6 { [%eval -0.39] } 19. Bb2 { [%eval -0.34] } 19... Bf6 { [%eval -0.35] } 20. Rd3 { [%eval -0.9] } 20... Rxd3 { [%eval -0.96] } 21. Qxd3 { [%eval -1.21] } 21... Rd8 { [%eval -0.39] } 22. Qf3 { [%eval -6.12] } 22... a5 { [%eval -1.06] } 23. Rd1 { [%eval -6.14] } 23... Rxd1+ { [%eval -5.76] } 24. Bxd1 { [%eval -6.03] } 24... h6 { [%eval -1.17] } 25. c4 { [%eval -2.98] } 25... Qd7 { [%eval -1.29] } 0-1
+
+

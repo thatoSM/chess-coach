@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/KGY31QbC"]
+[Date "2026.09.09"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "Kleomenas"]
+[Result "0-1"]
+[GameId "KGY31QbC"]
+[UTCDate "2026.09.09"]
+[UTCTime "09:07:47"]
+[WhiteElo "1110"]
+[BlackElo "1058"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+12"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "C56"]
+[Opening "Italian Game: Two Knights Defense, Open Variation"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. Bc4 { [%eval 0.07] } 3... Nf6 { [%eval 0.22] } 4. d4 { [%eval 0.0] } 4... Nxd4 { [%eval 0.88] } 5. Nxd4 { [%eval 0.53] } 5... Nxe4 { [%eval 2.43] } 0-1
+
+
