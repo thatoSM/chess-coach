@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/4HHptHL2"]
+[Date "2026.09.10"]
+[Round "-"]
+[White "anniehalll"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "4HHptHL2"]
+[UTCDate "2026.09.10"]
+[UTCTime "14:11:32"]
+[WhiteElo "1127"]
+[BlackElo "1109"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "C50"]
+[Opening "Italian Game: Giuoco Piano"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. Bc4 { [%eval 0.07] } 3... Bc5 { [%eval 0.2] } 4. O-O { [%eval 0.13] } 4... Nf6 { [%eval 0.2] } 5. Nc3 { [%eval 0.07] } 5... O-O { [%eval 0.14] } 6. d3 { [%eval 0.14] } 6... Re8 { [%eval 0.39] } 7. a3 { [%eval -0.13] } 7... h6 { [%eval 0.18] } 8. b4 { [%eval 0.12] } 8... Bb6 { [%eval 0.14] } 9. b5 { [%eval -0.48] } 9... Na5 { [%eval -0.27] } 10. Nxe5 { [%eval -2.64] } 10... Rxe5 { [%eval -2.77] } 11. d4 { [%eval -3.08] } 11... Re8 { [%eval -3.31] } 12. Bd2 { [%eval -6.01] } 12... Nxc4 { [%eval -6.32] } 13. e5 { [%eval -5.79] } 13... Nxd2 { [%eval -5.85] } 14. Qxd2 { [%eval -5.97] } 14... Nd5 { [%eval -4.57] } 15. Nxd5 { [%eval -4.5] } 15... c6 { [%eval -3.64] } 16. Nb4 { [%eval -5.01] } 16... cxb5 { [%eval -4.2] } 17. Qd3 { [%eval -5.19] } 17... a6 { [%eval -4.51] } 18. h3 { [%eval -4.89] } 18... Ba5 { [%eval -3.68] } 19. Nd5 { [%eval -4.82] } 19... d6 { [%eval -4.85] } 20. exd6 { [%eval -5.14] } 20... Qxd6 { [%eval -5.24] } 21. Ne3 { [%eval -5.14] } 21... Bd7 { [%eval -5.14] } 22. Rfd1 { [%eval -5.39] } 22... Bc7 { [%eval -5.33] } 23. g3 { [%eval -5.36] } 23... Rac8 { [%eval -5.33] } 24. c4 { [%eval -5.9] } 24... b6 { [%eval -5.0] } 25. cxb5 { [%eval -5.07] } 25... Bxb5 { [%eval -5.13] } 26. Qc3 { [%eval -5.28] } 26... Qf6 { [%eval -5.36] } 27. Nd5 { [%eval -5.34] } 27... Qg5 { [%eval -3.87] } 28. Nxc7 { [%eval -4.16] } 28... Re7 { [%eval -3.73] } 29. h4 { [%eval -4.34] } 29... Qg4 { [%eval -3.92] } 30. Qb2 { [%eval -5.13] } 30... Rexc7 { [%eval -5.27] } 31. d5 { [%eval -5.24] } 31... Rd7 { [%eval -4.67] } 32. a4 { [%eval -4.53] } 32... Bc4 { [%eval -4.47] } 33. Qxb6 { [%eval -5.9] } 33... Bxd5 { [%eval -5.93] } 34. Qxa6 { [%eval -6.6] } 34... Bb7 { [%eval -6.08] } 35. Qb6 { [%eval #-8] } 35... Rxd1+ { [%eval #-19] } 36. Rxd1 { [%eval #-2] } 36... Qxd1+ { [%eval #-1] } 37. Kh2 { [%eval #-1] } 37... Qh1# 0-1
+
+

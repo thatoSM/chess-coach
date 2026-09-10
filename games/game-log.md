@@ -25,6 +25,11 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 610 | WIN | White | Aaronvir (1206) | *pending* |
+| 609 | LOSS | Black | kathisonnenschein (1139) | *pending* |
+| 608 | WIN | Black | anniehalll (1127) | *pending* |
+| 607 | WIN | Black | chotzh (1207) | *pending* |
+| 606 | DRAW | White | Nilaybharagava29 (1072) | *pending* |
 | 605 | WIN | Black | target1200 (1128) | *pending* |
 | 604 | LOSS | Black | raahityaghosh17 (1113) | *pending* |
 | 603 | LOSS | White | matitoe (1077) | *pending* |
