@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/29GbzTiJ"]
+[Date "2026.09.11"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "VillegePumpkin"]
+[Result "0-1"]
+[GameId "29GbzTiJ"]
+[UTCDate "2026.09.11"]
+[UTCTime "14:06:28"]
+[WhiteElo "1132"]
+[BlackElo "1062"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "C40"]
+[Opening "King's Pawn Game: Busch-Gass Gambit"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Bc5 3. Nxe5 Qh4 4. g3 Qxe4+ 5. Qe2 Qxh1 6. Ng6+ Ne7 7. Nxh8 d6 8. Qh5 Qe4+ 9. Be2 Be6 10. Nc3 Qxc2 11. Bg4 Bxg4 12. Qxg4 Nbc6 13. Qxg7 O-O-O 14. Nxf7 Rg8 15. Qf6 Rg6 16. Qh4 Re6+ 17. Kf1 Qd3+ 18. Kg2 Nf5 19. Qg4 b5 20. Ng5 Rg6 21. h4 Ne5 22. Qe2 Qxe2 23. Nxe2 h6 24. Nf3 Nxf3 25. Kxf3 Nd4+ 26. Nxd4 Bxd4 27. d3 c5 28. Be3 Bxb2 29. Rb1 Ba3 30. Rxb5 Kd7 31. Rb3 Bb4 32. d4 Rf6+ 33. Ke2 Re6 34. Kd3 Rf6 35. dxc5 dxc5 36. Bxc5 Bxc5 37. Rb5 Bxf2 38. Kc4 Bxg3 39. a4 Bxh4 40. a5 Bf2 41. a6 Rxa6 42. Rb7+ Kd6 43. Kb5 Ra1 44. Rh7 Rh1 45. Rxa7 Bxa7 46. Kc4 h5 47. Kd3 h4 48. Ke2 h3 49. Kf3 h2 50. Kg2 Rg1+ 51. Kxh2 Ke5 52. Kh3 Kf4 53. Kh4 Bf2+ 54. Kh5 Kf5 55. Kh6 Be3+ 56. Kh5 Rg5+ 57. Kh4 Kf4 58. Kh3 Bf2 59. Kh2 Kf3 60. Kh3 Rh5# 0-1
+
+

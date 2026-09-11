@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/oj6bAx5M"]
+[Date "2026.09.11"]
+[Round "-"]
+[White "NikolaStojak"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "oj6bAx5M"]
+[UTCDate "2026.09.11"]
+[UTCTime "12:43:05"]
+[WhiteElo "1144"]
+[BlackElo "1137"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "D04"]
+[Opening "Queen's Pawn Game: Colle System"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.15] } 1... d5 { [%eval 0.27] } 2. Nf3 { [%eval 0.08] } 2... Nf6 { [%eval 0.11] } 3. e3 { [%eval 0.0] } 3... Nc6 { [%eval 0.41] } 4. Bb5 { [%eval 0.3] } 4... a6 { [%eval 0.41] } 5. Bxc6+ { [%eval 0.39] } 5... bxc6 { [%eval 0.39] } 6. O-O { [%eval 0.37] } 6... Bg4 { [%eval 0.61] } 7. Nbd2 { [%eval 0.58] } 7... e6 { [%eval 0.7] } 8. Qe1 { [%eval -0.19] } 8... Bb4 { [%eval 1.11] } 9. Ne5 { [%eval 0.95] } 9... O-O { [%eval 1.65] } 10. c3 { [%eval 0.31] } 10... Bd6 { [%eval 0.33] } 11. f3 { [%eval 0.16] } 11... Bh5 { [%eval 0.18] } 12. Qh4 { [%eval 0.15] } 12... Bxe5 { [%eval 6.26] } 13. dxe5 { [%eval 6.23] } 13... g5 { [%eval 7.61] } 14. Qh3 { [%eval 6.12] } 14... g4 { [%eval 6.86] } 15. Qh4 { [%eval 6.96] } 15... gxf3 { [%eval 7.89] } 16. Nxf3 { [%eval 6.04] } 16... Bxf3 { [%eval 9.74] } 17. Rxf3 { [%eval -0.24] } 17... Ne4 { [%eval -0.23] } 18. Qg4+ { [%eval -0.52] } 18... Qg5 { [%eval 6.56] } 19. Qxg5+ { [%eval 6.84] } 19... Nxg5 { [%eval 6.74] } 20. Rg3 { [%eval 6.69] } 20... h6 { [%eval 6.55] } 21. h4 { [%eval 6.68] } 21... Kg7 { [%eval 7.0] } 22. hxg5 { [%eval 6.93] } 22... hxg5 { [%eval 6.94] } 23. Rxg5+ { [%eval 6.89] } 23... Kh6 { [%eval 7.49] } 24. Rg3 { [%eval 7.47] } 24... f6 { [%eval 7.76] } 25. e4+ { [%eval 7.66] } 25... Kh7 { [%eval 7.6] } 26. Bf4 { [%eval 7.57] } 26... dxe4 { [%eval #3] } 27. Kf2 { [%eval #2] } 27... f5 { [%eval #1] } 28. Rh1# 1-0
+
+

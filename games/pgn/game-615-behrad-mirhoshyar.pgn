@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/QbC1FffD"]
+[Date "2026.09.11"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "behrad_mirhoshyar"]
+[Result "0-1"]
+[GameId "QbC1FffD"]
+[UTCDate "2026.09.11"]
+[UTCTime "07:25:30"]
+[WhiteElo "1120"]
+[BlackElo "1151"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C54"]
+[Opening "Italian Game: Classical Variation, Greco Gambit, Traditional Line"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. Bc4 { [%eval 0.07] } 3... Bc5 { [%eval 0.2] } 4. c3 { [%eval 0.09] } 4... Nf6 { [%eval 0.13] } 5. d4 { [%eval 0.0] } 5... exd4 { [%eval 0.18] } 6. cxd4 { [%eval -0.01] } 6... Bb4+ { [%eval 0.0] } 7. Bd2 { [%eval -0.05] } 7... Bxd2+ { [%eval 0.07] } 8. Qxd2 { [%eval -0.3] } 8... Nxe4 { [%eval -0.34] } 9. Qe3 { [%eval -0.71] } 9... O-O { [%eval 2.42] } 10. Qxe4 { [%eval 2.41] } 10... Re8 { [%eval 2.2] } 11. Ne5 { [%eval 1.99] } 11... d6 { [%eval 6.82] } 12. Nxc6 { [%eval -8.51] } 12... Rxe4+ { [%eval -8.38] } 13. Be2 { [%eval -8.47] } 13... bxc6 { [%eval -8.4] } 0-1
+
+

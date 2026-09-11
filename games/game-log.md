@@ -25,6 +25,29 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 633 | WIN | White | hiatogomes (1196) | *pending* |
+| 632 | WIN | White | fu2012 (1090) | *pending* |
+| 631 | LOSS | Black | HAIJACK122R (1092) | *pending* |
+| 630 | WIN | White | HAIJACK122R (1097) | *pending* |
+| 629 | LOSS | Black | HAIJACK122R (1091) | *pending* |
+| 628 | WIN | White | Matesat (1071) | *pending* |
+| 627 | LOSS | Black | VillegePumpkin (1069) | *pending* |
+| 626 | LOSS | White | VillegePumpkin (1062) | *pending* |
+| 625 | LOSS | Black | NikolaStojak (1144) | *pending* |
+| 624 | WIN | Black | Rodribainotto (1022) | *pending* |
+| 623 | LOSS | Black | materzi53 (1243) | *pending* |
+| 622 | DRAW | White | Saint_Just1 (1232) | *pending* |
+| 621 | WIN | White | NyutaM (984) | *pending* |
+| 620 | WIN | White | E44_22DD51K (1193) | *pending* |
+| 619 | LOSS | Black | Samyuktha2020 (1121) | *pending* |
+| 618 | WIN | Black | LilyBee83 (1133) | *pending* |
+| 617 | WIN | White | Zlata_Tarasova (1107) | *pending* |
+| 616 | WIN | Black | fefe15 (1075) | *pending* |
+| 615 | LOSS | White | behrad_mirhoshyar (1151) | *pending* |
+| 614 | LOSS | White | hope_38 (1216) | *pending* |
+| 613 | WIN | Black | veritygavelle (1141) | *pending* |
+| 612 | LOSS | White | Serwind (1193) | *pending* |
+| 611 | WIN | Black | igorokok83 (1081) | *pending* |
 | 610 | WIN | White | Aaronvir (1206) | *pending* |
 | 609 | LOSS | Black | kathisonnenschein (1139) | *pending* |
 | 608 | WIN | Black | anniehalll (1127) | *pending* |

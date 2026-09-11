@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/QKU8FqkO"]
+[Date "2026.09.11"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "Matesat"]
+[Result "1-0"]
+[GameId "QKU8FqkO"]
+[UTCDate "2026.09.11"]
+[UTCTime "15:13:58"]
+[WhiteElo "1118"]
+[BlackElo "1071"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "C50"]
+[Opening "Italian Game: Paris Defense"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. Bc4 { [%eval 0.07] } 3... d6 { [%eval 0.36] } 4. d4 { [%eval 0.35] } 4... exd4 { [%eval 0.41] } 5. Nxd4 { [%eval 0.3] } 5... Nxd4 { [%eval 0.59] } 6. Qxd4 { [%eval 0.71] } 6... c5 { [%eval 1.6] } 7. Qd2 { [%eval 0.82] } 7... Nf6 { [%eval 0.98] } 8. Nc3 { [%eval 1.05] } 8... Be7 { [%eval 1.24] } 9. O-O { [%eval 1.11] } 9... O-O { [%eval 1.07] } 10. Qe2 { [%eval 1.07] } 10... Be6 { [%eval 1.08] } 11. Bxe6 { [%eval 0.48] } 11... fxe6 { [%eval 0.55] } 12. Re1 { [%eval 0.43] } 12... e5 { [%eval 0.96] } 13. Qb5 { [%eval 0.95] } 13... b6 { [%eval 1.06] } 14. Bg5 { [%eval 0.78] } 14... h6 { [%eval 1.56] } 15. Bh4 { [%eval 0.65] } 15... Qd7 { [%eval 5.18] } 16. Qxd7 { [%eval 5.16] } 16... Nxd7 { [%eval 5.2] } 17. Bxe7 { [%eval 5.3] } 17... Rf7 { [%eval 5.35] } 18. Bxd6 { [%eval 5.24] } 18... Nf6 { [%eval 6.14] } 19. Bxe5 { [%eval 6.05] } 19... Ng4 { [%eval 6.41] } 20. Bg3 { [%eval 6.48] } 20... Nf6 { [%eval 7.0] } 21. e5 { [%eval 6.98] } 21... Nh5 { [%eval 6.97] } 22. Rad1 { [%eval 6.83] } 22... Nxg3 { [%eval 6.99] } 23. hxg3 { [%eval 7.01] } 23... Re7 { [%eval 7.07] } 24. f4 { [%eval 6.75] } 24... a6 { [%eval 7.25] } 25. Nd5 { [%eval 7.21] } 25... Rb7 { [%eval 7.13] } 26. g4 { [%eval 6.94] } 26... Rd7 { [%eval 8.3] } 27. Nf6+ { [%eval 8.88] } 27... gxf6 { [%eval 8.75] } 28. Rxd7 { [%eval 8.43] } 28... a5 { [%eval 9.52] } 29. exf6 { [%eval 9.46] } 29... Rf8 { [%eval 9.49] } 30. f7+ { [%eval 8.53] } 30... Rxf7 { [%eval 9.67] } 31. Rxf7 { [%eval 9.51] } 31... Kxf7 { [%eval 9.01] } 32. g5 { [%eval 8.56] } 32... Kg6 { [%eval 9.15] } 33. Re6+ { [%eval 8.68] } 33... Kh5 { [%eval #5] } 34. Rxh6+ { [%eval #6] } 34... Kg4 { [%eval #6] } 35. Rf6 { [%eval #5] } 35... b5 { [%eval #4] } 36. Rf8 { [%eval #6] } 36... c4 { [%eval #5] } 37. g3 { [%eval #11] } 37... b4 { [%eval #6] } 38. g6 { [%eval #8] } 38... Kh5 { [%eval #5] } 39. g7 { [%eval #4] } 1-0
+
+
