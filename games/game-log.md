@@ -25,6 +25,18 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 645 | LOSS | Black | gwatblat (1108) | *pending* |
+| 644 | LOSS | White | radmehr46 (1120) | *pending* |
+| 643 | WIN | Black | anteman (1112) | *pending* |
+| 642 | WIN | Black | Panarin-Artem2015 (1206) | *pending* |
+| 641 | LOSS | White | Check_Matey77 (1088) | *pending* |
+| 640 | WIN | Black | aydinusta (1137) | *pending* |
+| 639 | LOSS | Black | Ngan_Arrchie1802 (1171) | *pending* |
+| 638 | LOSS | Black | Hannaankhan (1147) | *pending* |
+| 637 | LOSS | Black | Kalter312 (1061) | *pending* |
+| 636 | DRAW | Black | Chemfan (1011) | *pending* |
+| 635 | LOSS | Black | LesibaR (1156) | *pending* |
+| 634 | LOSS | White | LesibaR (1150) | *pending* |
 | 633 | WIN | White | hiatogomes (1196) | *pending* |
 | 632 | WIN | White | fu2012 (1090) | *pending* |
 | 631 | LOSS | Black | HAIJACK122R (1092) | *pending* |

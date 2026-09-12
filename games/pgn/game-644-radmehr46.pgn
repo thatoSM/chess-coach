@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/tJpTSJgR"]
+[Date "2026.09.12"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "radmehr46"]
+[Result "0-1"]
+[GameId "tJpTSJgR"]
+[UTCDate "2026.09.12"]
+[UTCTime "18:01:27"]
+[WhiteElo "1112"]
+[BlackElo "1120"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C50"]
+[Opening "Italian Game: Anti-Fried Liver Defense"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. Bc4 { [%eval 0.07] } 3... h6 { [%eval 0.56] } 4. d4 { [%eval 0.64] } 4... exd4 { [%eval 0.59] } 5. Nxd4 { [%eval 0.57] } 5... Nxd4 { [%eval 0.98] } 6. Qxd4 { [%eval 0.96] } 6... c5 { [%eval 2.2] } 7. Qd3 { [%eval 2.06] } 7... Bd6 { [%eval 6.37] } 8. O-O { [%eval 2.52] } 8... Be7 { [%eval 6.58] } 9. Be3 { [%eval 3.08] } 9... Qc7 { [%eval 5.95] } 10. Nd2 { [%eval 1.65] } 10... Nf6 { [%eval 1.68] } 11. Nb3 { [%eval 0.2] } 11... Ng4 { [%eval 0.23] } 12. Rad1 { [%eval #-1] } 12... Qxh2# 0-1
+
+

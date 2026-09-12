@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/ntNzglQ0"]
+[Date "2026.09.11"]
+[Round "-"]
+[White "LesibaR"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "ntNzglQ0"]
+[UTCDate "2026.09.11"]
+[UTCTime "19:06:45"]
+[WhiteElo "1156"]
+[BlackElo "1123"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "C44"]
+[Opening "Scotch Game: Scotch Gambit, Sarratt Variation"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d4 exd4 5. Ng5 Nh6 6. Qf3 O-O 7. c3 d5 8. exd5 Bg4 9. Qf4 Na5 10. O-O Nxc4 11. Nxh7 Kxh7 12. Qe4+ Bf5 13. Qe2 Re8 14. Qxc4 Bd6 15. Bxh6 Kxh6 16. Qxd4 Be5 17. Qe3+ Kh7 18. Na3 Qxd5 19. c4 Qd7 20. Rad1 Qa4 21. Nb5 c6 22. Nd4 Bxd4 23. Qxd4 Qxa2 24. Qh4+ Kg8 25. Ra1 Qxb2 26. Ra5 Bh7 27. Rh5 Qc2 28. g3 Re4 29. Qg5 Qxc4 30. Rc1 Qd3 31. Rh4 Rxh4 32. Qxh4 Qa3 33. Rd1 Qb3 34. Rd8+ Rxd8 35. Qxd8# 1-0
+
+

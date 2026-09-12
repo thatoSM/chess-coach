@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/L9w5aCjg"]
+[Date "2026.09.12"]
+[Round "-"]
+[White "Kalter312"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "L9w5aCjg"]
+[UTCDate "2026.09.12"]
+[UTCTime "09:48:37"]
+[WhiteElo "1061"]
+[BlackElo "1116"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "A22"]
+[Opening "English Opening: Carls-Bremen System"]
+[Termination "Normal"]
+
+1. c4 e5 2. Nc3 Nf6 3. g3 Bc5 4. Bg2 O-O 5. Nf3 d5 6. cxd5 Nxd5 7. Nxe5 Bxf2+ 8. Kxf2 Nxc3 9. bxc3 Qe7 10. d4 Bg4 1-0
+
+
