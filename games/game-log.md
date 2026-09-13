@@ -25,6 +25,7 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 646 | LOSS | Black | dice2 (1153) | *pending* |
 | 645 | LOSS | Black | gwatblat (1108) | *pending* |
 | 644 | LOSS | White | radmehr46 (1120) | *pending* |
 | 643 | WIN | Black | anteman (1112) | *pending* |
