@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/kMUl2J8N"]
+[Date "2026.09.14"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "Od1no4ka011"]
+[Result "0-1"]
+[GameId "kMUl2J8N"]
+[UTCDate "2026.09.14"]
+[UTCTime "12:40:08"]
+[WhiteElo "1096"]
+[BlackElo "1135"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c4 cxd4 5. Qxd4 Nc6 6. Qg4 Nxe5 7. Qf4 Bd6 8. Qe3 Nxc4 9. Bxc4 dxc4 10. Qe4 Nf6 11. Qxc4 O-O 12. Nf3 h6 13. O-O a6 14. h3 b5 15. Qc6 Bb7 16. Qxb7 e5 17. Nc3 e4 18. Nxe4 Nxe4 19. Qxe4 Re8 20. Qc2 Rc8 21. Qb3 Re6 22. Be3 Bc5 23. Bxc5 Rxc5 24. Rad1 Rd6 25. Rxd6 Qxd6 26. Rd1 Qc7 27. Rc1 Rxc1+ 0-1
+
+

@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/W3u2pYbr"]
+[Date "2026.09.14"]
+[Round "-"]
+[White "lovrocroatia"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "W3u2pYbr"]
+[UTCDate "2026.09.14"]
+[UTCTime "15:10:36"]
+[WhiteElo "1162"]
+[BlackElo "1091"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "C68"]
+[Opening "Ruy Lopez: Exchange Variation, Keres Variation"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. Nc3 Nf6 6. d3 Bg4 7. h3 Bh5 8. g4 Bg6 9. Nxe5 Bb4 10. Nxg6 hxg6 11. Bd2 Qd6 12. Ne2 O-O-O 13. Bxb4 Qxb4+ 14. Qd2 Qxb2 15. O-O Qe5 16. f4 Qe6 17. f5 gxf5 18. gxf5 Qe5 19. Qe3 Nd7 20. Rab1 Nb6 21. Rb3 f6 22. Rfb1 Qa5 23. a3 c5 24. Nf4 Rh4 25. c4 Qa4 26. Qxc5 Rxf4 27. Rxb6 Qc2 28. Rxb7 Rxd3 29. Qf8+ Kd7 30. Qxg7+ Kd6 31. Qxf6+ Kc5 32. Qe5+ Kc6 33. Qxc7# 1-0
+
+

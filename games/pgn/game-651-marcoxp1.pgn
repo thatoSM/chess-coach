@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/tt2u45T3"]
+[Date "2026.09.14"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "MarcoxP1"]
+[Result "1-0"]
+[GameId "tt2u45T3"]
+[UTCDate "2026.09.14"]
+[UTCTime "18:25:59"]
+[WhiteElo "1087"]
+[BlackElo "1122"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "B07"]
+[Opening "Pirc Defense"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... d6 { [%eval 0.43] } 2. d4 { [%eval 0.51] } 2... Nf6 { [%eval 0.43] } 3. Nc3 { [%eval 0.38] } 3... g6 { [%eval 0.51] } 4. Bb5+ { [%eval 0.24] } 4... c6 { [%eval 0.31] } 5. Ba4 { [%eval -0.5] } 5... Bg7 { [%eval 0.1] } 6. d5 { [%eval -1.57] } 6... O-O { [%eval -2.01] } 7. dxc6 { [%eval -2.24] } 7... bxc6 { [%eval -1.36] } 8. Nf3 { [%eval -2.37] } 8... e5 { [%eval -0.44] } 9. O-O { [%eval -0.52] } 9... Ba6 { [%eval -0.08] } 10. Re1 { [%eval 0.0] } 10... Nbd7 { [%eval 3.01] } 11. Bxc6 { [%eval 2.81] } 11... Rc8 { [%eval 2.92] } 12. Qxd6 { [%eval 3.01] } 12... Ne8 { [%eval 8.07] } 13. Qxd7 { [%eval 8.01] } 13... Qxd7 { [%eval 7.77] } 14. Bxd7 { [%eval 7.96] } 14... Rc7 { [%eval 8.08] } 15. Bxe8 { [%eval 7.93] } 15... Rxe8 { [%eval 7.98] } 16. Bg5 { [%eval 7.11] } 16... h6 { [%eval 7.16] } 17. Bh4 { [%eval 7.08] } 17... g5 { [%eval 7.3] } 18. Bg3 { [%eval 7.2] } 18... f6 { [%eval 7.21] } 1-0
+
+

@@ -25,6 +25,12 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 652 | WIN | White | yahto19 (1101) | *pending* |
+| 651 | WIN | White | MarcoxP1 (1122) | *pending* |
+| 650 | LOSS | Black | lovrocroatia (1162) | *pending* |
+| 649 | LOSS | Black | panjiturama (1098) | *pending* |
+| 648 | WIN | White | Tamara-13 (1107) | *pending* |
+| 647 | LOSS | White | Od1no4ka011 (1135) | *pending* |
 | 646 | LOSS | Black | dice2 (1153) | *pending* |
 | 645 | LOSS | Black | gwatblat (1108) | *pending* |
 | 644 | LOSS | White | radmehr46 (1120) | *pending* |
