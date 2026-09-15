@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/QIu8yXgX"]
+[Date "2026.09.15"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "hany20250"]
+[Result "0-1"]
+[GameId "QIu8yXgX"]
+[UTCDate "2026.09.15"]
+[UTCTime "18:50:53"]
+[WhiteElo "1066"]
+[BlackElo "951"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+8"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "C50"]
+[Opening "Italian Game"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 f6 4. d4 d6 5. dxe5 dxe5 6. Qxd8+ Nxd8 7. Nc3 c6 8. O-O b5 9. Bb3 b4 10. Ne2 Bc5 11. c3 Ne7 12. cxb4 Bxb4 13. Be3 Be6 14. Bxe6 Nxe6 15. Rfc1 O-O 16. a3 Ba5 17. b4 Bb6 18. Bxb6 axb6 19. h3 b5 20. Rd1 Rad8 21. Rxd8 Rxd8 22. Kh2 g5 23. Kg3 h5 24. h4 g4 25. Nh2 Nd4 26. f3 Nxe2+ 27. Kf2 Nc3 0-1
+
+

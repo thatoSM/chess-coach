@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/vzhgsbMb"]
+[Date "2026.09.15"]
+[Round "-"]
+[White "RrrrrrrTtttttttt"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "vzhgsbMb"]
+[UTCDate "2026.09.15"]
+[UTCTime "11:20:09"]
+[WhiteElo "967"]
+[BlackElo "1088"]
+[WhiteRatingDiff "+23"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "900+10"]
+[ECO "C57"]
+[Opening "Italian Game: Two Knights Defense, Fried Liver Attack"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. Bc4 { [%eval 0.07] } 3... Nf6 { [%eval 0.22] } 4. Ng5 { [%eval 0.19] } 4... d5 { [%eval 0.0] } 5. exd5 { [%eval 0.0] } 5... Nxd5 { [%eval 0.67] } 6. Nxf7 { [%eval 0.88] } 6... Kxf7 { [%eval 0.87] } 7. Qf3+ { [%eval 0.86] } 7... Ke7 { [%eval 1.98] } 8. Bxd5 { [%eval 2.36] } 8... Be6 { [%eval 3.12] } 9. Bxe6 { [%eval 2.35] } 9... Kxe6 { [%eval 2.24] } 10. c3 { [%eval 1.82] } 10... Qg5 { [%eval 2.17] } 11. O-O { [%eval 1.95] } 11... g6 { [%eval 5.59] } 12. d4 { [%eval 5.38] } 12... Qh5 { [%eval 6.49] } 13. d5+ { [%eval 6.29] } 13... Kd6 { [%eval 6.28] } 14. dxc6 { [%eval 5.61] } 14... Qxf3 { [%eval 5.58] } 15. gxf3 { [%eval 5.74] } 15... Kxc6 { [%eval 5.72] } 16. Nd2 { [%eval 5.54] } 16... Rd8 { [%eval 5.64] } 17. Nc4 { [%eval 5.78] } 17... Kd5 { [%eval 7.21] } 18. b3 { [%eval 5.83] } 18... b5 { [%eval 7.0] } 19. Ne3+ { [%eval 5.4] } 19... Kc5 { [%eval 6.09] } 20. Ba3+ { [%eval 5.56] } 20... Kb6 { [%eval 5.59] } 21. Bxf8 { [%eval 5.57] } 21... Rhxf8 { [%eval 5.45] } 22. Rad1 { [%eval 5.29] } 22... Rxd1 { [%eval 5.57] } 23. Rxd1 { [%eval 5.46] } 23... Rxf3 { [%eval 5.42] } 24. Nd5+ { [%eval 4.95] } 24... Kc6 { [%eval 4.93] } 25. Ne7+ { [%eval 4.8] } 25... Kc5 { [%eval 5.4] } 26. Rd5+ { [%eval 5.38] } 26... Kb6 { [%eval 5.39] } 27. b4 { [%eval 3.23] } 27... Rxc3 { [%eval 3.1] } 28. Rd8 { [%eval 2.28] } 28... Kb7 { [%eval 2.69] } 29. Nd5 { [%eval 0.0] } 29... Rd3 { [%eval 0.0] } 30. Kf1 { [%eval 0.0] } 30... c6 { [%eval 4.19] } 31. Rd7+ { [%eval 4.08] } 31... Ka6 { [%eval 6.56] } 32. Nc7+ { [%eval 6.56] } 1-0
+
+

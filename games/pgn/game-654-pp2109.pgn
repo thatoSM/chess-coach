@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/tl0EPTFX"]
+[Date "2026.09.15"]
+[Round "-"]
+[White "pp2109"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "tl0EPTFX"]
+[UTCDate "2026.09.15"]
+[UTCTime "10:00:06"]
+[WhiteElo "1065"]
+[BlackElo "1093"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "C50"]
+[Opening "Italian Game: Giuoco Piano"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 d5 6. exd5 Nxd5 7. Bxd5 Qxd5 8. c4 Qd6 9. Nc3 O-O 10. Nb5 Qd7 11. Re1 Re8 12. d4 exd4 13. Rxe8+ Qxe8 14. Nfxd4 Qd7 15. Be3 Nxd4 16. Bxd4 Bxd4 17. Nxd4 Qg4 18. Qxg4 1-0
+
+

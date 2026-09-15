@@ -25,6 +25,31 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 677 | LOSS | White | hany20250 (951) | *pending* |
+| 676 | LOSS | Black | hany20250 (943) | *pending* |
+| 675 | WIN | White | hany20250 (947) | *pending* |
+| 674 | WIN | Black | hany20250 (951) | *pending* |
+| 673 | WIN | White | hany20250 (955) | *pending* |
+| 672 | LOSS | Black | shazushads (1018) | *pending* |
+| 671 | LOSS | White | Karacabey28 (1157) | *pending* |
+| 670 | WIN | White | Echecs2020 (1108) | *pending* |
+| 669 | WIN | Black | cleobule (1077) | *pending* |
+| 668 | LOSS | Black | LakhdarDenni (1112) | *pending* |
+| 667 | LOSS | Black | kaktyznds (1140) | *pending* |
+| 666 | LOSS | Black | Neomate067 (1101) | *pending* |
+| 665 | LOSS | White | de_profundiis (1155) | *pending* |
+| 664 | WIN | White | pelm (1057) | *pending* |
+| 663 | LOSS | Black | Kolupanko_Jar17 (1063) | *pending* |
+| 662 | LOSS | White | BATES_COUGH (1146) | *pending* |
+| 661 | WIN | Black | bettelley (908) | *pending* |
+| 660 | LOSS | White | Maxonka68 (1153) | *pending* |
+| 659 | WIN | Black | EOQT (987) | *pending* |
+| 658 | LOSS | White | alijudoka (1041) | *pending* |
+| 657 | LOSS | Black | RrrrrrrTtttttttt (967) | *pending* |
+| 656 | LOSS | Black | Ben207E (1190) | *pending* |
+| 655 | WIN | White | Mohamedgad2023 (1035) | *pending* |
+| 654 | LOSS | Black | pp2109 (1065) | *pending* |
+| 653 | LOSS | White | muhammetbasarann (1093) | *pending* |
 | 652 | WIN | White | yahto19 (1101) | *pending* |
 | 651 | WIN | White | MarcoxP1 (1122) | *pending* |
 | 650 | LOSS | Black | lovrocroatia (1162) | *pending* |
