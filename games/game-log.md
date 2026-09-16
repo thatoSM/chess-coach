@@ -25,6 +25,16 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 687 | LOSS | White | SVV0000 (1160) | *pending* |
+| 686 | WIN | Black | N3R6K9 (1111) | *pending* |
+| 685 | WIN | White | BobinBelgium (1144) | *pending* |
+| 684 | WIN | Black | nikpowell (1047) | *pending* |
+| 683 | WIN | Black | S1World (1090) | *pending* |
+| 682 | WIN | Black | Yass63 (1045) | *pending* |
+| 681 | DRAW | White | Iceberg84 (1074) | *pending* |
+| 680 | WIN | White | Haj_i (1121) | *pending* |
+| 679 | LOSS | Black | Evigila (938) | *pending* |
+| 678 | WIN | Black | Vamsi_molaka (1171) | *pending* |
 | 677 | LOSS | White | hany20250 (951) | *pending* |
 | 676 | LOSS | Black | hany20250 (943) | *pending* |
 | 675 | WIN | White | hany20250 (947) | *pending* |

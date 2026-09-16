@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/C3E39Pcx"]
+[Date "2026.09.16"]
+[Round "-"]
+[White "S1World"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "C3E39Pcx"]
+[UTCDate "2026.09.16"]
+[UTCTime "17:15:54"]
+[WhiteElo "1090"]
+[BlackElo "1071"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "D01"]
+[Opening "Richter-Veresov Attack"]
+[Termination "Normal"]
+
+1. d4 d5 2. Nc3 Nf6 3. Bg5 h6 4. Bxf6 exf6 5. e4 Bb4 6. exd5 Qxd5 7. Qe2+ Qe6 8. Qxe6+ fxe6 9. O-O-O Bxc3 10. bxc3 O-O 11. Bc4 Kh8 12. Re1 Re8 13. Nf3 Nc6 14. d5 Na5 15. Bb5 c6 16. dxe6 cxb5 17. e7 Nc6 18. Nd4 Rxe7 19. Nxc6 Rxe1+ 20. Rxe1 bxc6 21. Re8+ Kh7 22. g4 Bb7 23. Rxa8 Bxa8 24. f4 c5 25. h4 Bf3 26. g5 fxg5 27. hxg5 hxg5 28. fxg5 Kg6 29. Kd2 Kxg5 30. Ke3 Bg4 31. Ke4 Bf5+ 32. Kd5 c4 33. Kc5 a6 34. Kb6 Kf4 35. Kxa6 g5 36. Kxb5 g4 37. a4 g3 38. Kxc4 Bxc2 39. a5 Be4 40. Kb5 g2 41. Kb6 g1=Q+ 42. Kb5 Qg5+ 43. Ka4 Bc6+ 44. Kb4 Qb5+ 45. Ka3 Qxa5+ 46. Kb3 Bd5+ 47. Kc2 Ke3 48. Kb2 Kd3 49. c4 Qb4+ 50. Kc1 Qxc4+ 51. Kd1 Qc2+ 52. Ke1 Qe2# 0-1
+
+

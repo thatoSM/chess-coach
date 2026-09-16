@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/UHFib6jc"]
+[Date "2026.09.16"]
+[Round "-"]
+[White "nikpowell"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "UHFib6jc"]
+[UTCDate "2026.09.16"]
+[UTCTime "17:28:57"]
+[WhiteElo "1047"]
+[BlackElo "1077"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "C44"]
+[Opening "Scotch Game"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. d4 { [%eval 0.07] } 3... exd4 { [%eval 0.04] } 4. Bd3 { [%eval -0.54] } 4... d5 { [%eval -0.11] } 5. O-O { [%eval 0.0] } 5... dxe4 { [%eval 0.34] } 6. Re1 { [%eval -2.04] } 6... Nf6 { [%eval -0.85] } 7. Bxe4 { [%eval -1.6] } 7... Nxe4 { [%eval -1.38] } 8. Rxe4+ { [%eval -1.65] } 8... Be7 { [%eval -1.71] } 9. Bg5 { [%eval -3.06] } 9... O-O { [%eval -0.05] } 10. Bxe7 { [%eval 0.02] } 10... Nxe7 { [%eval 0.02] } 11. Rh4 { [%eval -3.21] } 11... Ng6 { [%eval -0.06] } 12. Rh3 { [%eval -8.22] } 12... Re8 { [%eval -6.18] } 13. Ng5 { [%eval -8.77] } 13... Bxh3 { [%eval -7.25] } 14. Qh5 { [%eval #-1] } 14... Re1# 0-1
+
+

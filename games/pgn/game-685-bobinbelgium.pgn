@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/6hHNyXui"]
+[Date "2026.09.16"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "BobinBelgium"]
+[Result "1-0"]
+[GameId "6hHNyXui"]
+[UTCDate "2026.09.16"]
+[UTCTime "17:33:20"]
+[WhiteElo "1083"]
+[BlackElo "1144"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "C56"]
+[Opening "Italian Game: Two Knights Defense, Open Variation"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. Bc4 { [%eval 0.07] } 3... Nf6 { [%eval 0.22] } 4. d4 { [%eval 0.0] } 4... d5 { [%eval 1.37] } 5. exd5 { [%eval 0.88] } 5... Nxd4 { [%eval 1.56] } 6. Nxe5 { [%eval 1.42] } 6... Bd6 { [%eval 2.84] } 7. Qxd4 { [%eval 2.75] } 7... O-O { [%eval 6.39] } 8. Nf3 { [%eval 6.38] } 8... Re8+ { [%eval 6.41] } 9. Be3 { [%eval 6.61] } 9... Bg4 { [%eval 7.02] } 10. Be2 { [%eval 5.25] } 10... Ne4 { [%eval 6.38] } 11. h3 { [%eval 2.43] } 11... Bxf3 { [%eval 5.2] } 12. gxf3 { [%eval 5.17] } 12... Nf6 { [%eval 6.19] } 13. Rg1 { [%eval 3.63] } 13... Be5 { [%eval 3.43] } 14. Qb4 { [%eval -1.88] } 14... Qxd5 { [%eval 6.34] } 15. Nc3 { [%eval 5.99] } 15... Bxc3+ { [%eval 6.54] } 16. bxc3 { [%eval 5.65] } 16... c5 { [%eval 6.79] } 17. Qxc5 { [%eval 6.8] } 17... Qxc5 { [%eval 6.85] } 18. Bxc5 { [%eval 6.8] } 18... Nd5 { [%eval 6.7] } 19. Bd4 { [%eval 6.64] } 19... Rac8 { [%eval 8.09] } 20. Rxg7+ { [%eval 7.97] } 20... Kh8 { [%eval 8.35] } 1-0
+
+

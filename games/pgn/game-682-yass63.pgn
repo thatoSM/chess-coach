@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/q1ubImUn"]
+[Date "2026.09.16"]
+[Round "-"]
+[White "Yass63"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "q1ubImUn"]
+[UTCDate "2026.09.16"]
+[UTCTime "16:59:53"]
+[WhiteElo "1045"]
+[BlackElo "1065"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "C46"]
+[Opening "Three Knights Opening"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nc3 { [%eval 0.08] } 2... Nc6 { [%eval 0.07] } 3. Nf3 { [%eval 0.06] } 3... Bb4 { [%eval 0.54] } 4. Bc4 { [%eval 0.13] } 4... Nf6 { [%eval 0.22] } 5. d4 { [%eval -0.37] } 5... exd4 { [%eval -0.36] } 6. Nxd4 { [%eval -0.28] } 6... Nxd4 { [%eval 0.51] } 7. Qxd4 { [%eval 0.48] } 7... O-O { [%eval 0.75] } 8. e5 { [%eval 0.16] } 8... Bxc3+ { [%eval 0.81] } 9. Qxc3 { [%eval 0.9] } 9... Ne4 { [%eval 1.25] } 0-1
+
+

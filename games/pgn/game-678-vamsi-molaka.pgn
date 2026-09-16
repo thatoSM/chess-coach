@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/SifSkivN"]
+[Date "2026.09.15"]
+[Round "-"]
+[White "Vamsi_molaka"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "SifSkivN"]
+[UTCDate "2026.09.15"]
+[UTCTime "19:52:37"]
+[WhiteElo "1171"]
+[BlackElo "1059"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "C57"]
+[Opening "Italian Game: Two Knights Defense, Knight Attack, Normal Variation"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. Bc4 { [%eval 0.07] } 3... Nf6 { [%eval 0.22] } 4. Ng5 { [%eval 0.19] } 4... d5 { [%eval 0.0] } 5. exd5 { [%eval 0.0] } 5... Nxd5 { [%eval 0.67] } 6. Qf3 { [%eval -1.64] } 6... f6 { [%eval 0.65] } 7. Ne4 { [%eval -1.66] } 7... Nd4 { [%eval -1.46] } 8. Qd3 { [%eval -9.08] } 8... Nb4 { [%eval -8.86] } 9. Qc3 { [%eval -9.09] } 9... Nbxc2+ { [%eval -9.08] } 10. Kf1 { [%eval -9.09] } 10... Nxa1 { [%eval -9.03] } 11. b3 { [%eval -9.57] } 11... Naxb3 { [%eval -8.24] } 12. Qxb3 { [%eval -10.57] } 12... Nxb3 { [%eval -10.65] } 13. axb3 { [%eval -10.66] } 13... Qd4 { [%eval -9.99] } 14. Nbc3 { [%eval -9.92] } 14... Bc5 { [%eval -9.21] } 0-1
+
+

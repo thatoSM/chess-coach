@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/5g8ukwz8"]
+[Date "2026.09.16"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "SVV0000"]
+[Result "0-1"]
+[GameId "5g8ukwz8"]
+[UTCDate "2026.09.16"]
+[UTCTime "17:50:19"]
+[WhiteElo "1096"]
+[BlackElo "1160"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Blackburne Gambit"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 c6 3. dxc6 Nxc6 4. Nc3 e6 5. Nf3 Bc5 6. Bb5 Qb6 7. O-O Ne7 8. Re1 a6 9. Bxc6+ Nxc6 10. d3 Bxf2+ 11. Kf1 Bxe1 12. Qxe1 Nb4 13. Be3 Qa5 14. Qd2 b5 15. a3 Nc6 16. b4 Qc7 17. Bf4 Qb6 18. Qe2 Bb7 19. Qe5 Nxe5 20. Nxe5 O-O 21. Nd7 Qc6 22. Nxf8 Qxc3 23. Re1 Rxf8 0-1
+
+
