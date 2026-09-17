@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/7xhP3RuM"]
+[Date "2026.09.17"]
+[Round "-"]
+[White "hop-hey-lala-ley"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "7xhP3RuM"]
+[UTCDate "2026.09.17"]
+[UTCTime "14:01:26"]
+[WhiteElo "969"]
+[BlackElo "1100"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Leonardis Variation"]
+[Termination "Normal"]
+
+1. d3 { [%eval -0.15] } 1... e5 { [%eval 0.06] } 2. e4 { [%eval 0.0] } 2... Nc6 { [%eval 0.0] } 3. f4 { [%eval -0.3] } 3... Bb4+ { [%eval 0.36] } 4. Bd2 { [%eval -0.47] } 4... Bxd2+ { [%eval -0.11] } 5. Qxd2 { [%eval -0.13] } 5... d6 { [%eval 0.11] } 6. f5 { [%eval -0.51] } 6... Nge7 { [%eval 0.06] } 7. Nc3 { [%eval -0.46] } 7... O-O { [%eval 0.69] } 8. O-O-O { [%eval 0.53] } 8... a6 { [%eval 1.17] } 9. Nf3 { [%eval 1.17] } 9... h6 { [%eval 2.46] } 10. h4 { [%eval 2.6] } 10... Bd7 { [%eval 3.32] } 11. g4 { [%eval 3.23] } 11... Nd4 { [%eval 4.07] } 12. Nxd4 { [%eval 3.93] } 12... exd4 { [%eval 4.02] } 13. Nd5 { [%eval 0.78] } 13... Nxd5 { [%eval 0.82] } 14. exd5 { [%eval 0.96] } 14... Re8 { [%eval 0.78] } 15. g5 { [%eval -0.21] } 15... h5 { [%eval 0.77] } 16. g6 { [%eval -0.63] } 16... f6 { [%eval 0.6] } 17. Bh3 { [%eval 0.37] } 17... c6 { [%eval 2.32] } 18. dxc6 { [%eval 0.83] } 18... Bxc6 { [%eval 0.8] } 19. Rhe1 { [%eval 0.8] } 19... Rxe1 { [%eval 3.85] } 20. Rxe1 { [%eval 4.03] } 20... Bd7 { [%eval 3.93] } 21. Qb4 { [%eval 3.76] } 21... Qb6 { [%eval #9] } 22. Qxb6 { [%eval #8] } 1-0
+
+

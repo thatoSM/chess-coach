@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/quUUM4O8"]
+[Date "2026.09.17"]
+[Round "-"]
+[White "Mdq8"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "quUUM4O8"]
+[UTCDate "2026.09.17"]
+[UTCTime "09:42:32"]
+[WhiteElo "1151"]
+[BlackElo "1101"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-4"]
+[Variant "Standard"]
+[TimeControl "900+10"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Accelerated London System"]
+[Termination "Time forfeit"]
+
+1. d4 { [%eval 0.15] } 1... d5 { [%eval 0.27] } 2. Bf4 { [%eval 0.0] } 2... Nc6 { [%eval 0.3] } 3. e3 { [%eval 0.32] } 3... Bf5 { [%eval 0.4] } 4. a3 { [%eval 0.4] } 4... e6 { [%eval 0.42] } 5. Bb5 { [%eval 0.01] } 5... Qd7 { [%eval 0.42] } 6. Nf3 { [%eval 0.36] } 6... Bd6 { [%eval 0.34] } 7. Bxd6 { [%eval 0.0] } 7... Qxd6 { [%eval 0.36] } 8. O-O { [%eval 0.15] } 8... a6 { [%eval 0.08] } 9. Bd3 { [%eval 0.08] } 9... Bxd3 { [%eval 0.08] } 10. Qxd3 { [%eval 0.1] } 10... Nf6 { [%eval 0.04] } 11. h3 { [%eval -0.23] } 11... h6 { [%eval 0.16] } 12. Nbd2 { [%eval 0.12] } 12... O-O { [%eval 0.24] } 13. c4 { [%eval 0.18] } 13... dxc4 { [%eval 0.6] } 14. Nxc4 { [%eval 0.55] } 14... Qd5 { [%eval 0.58] } 15. b4 { [%eval 0.11] } 1-0
+
+

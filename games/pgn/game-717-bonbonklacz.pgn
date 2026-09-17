@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/N4PH9QiZ"]
+[Date "2026.09.17"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "Bonbonklacz"]
+[Result "1-0"]
+[GameId "N4PH9QiZ"]
+[UTCDate "2026.09.17"]
+[UTCTime "15:52:47"]
+[WhiteElo "1083"]
+[BlackElo "1076"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qe5+ 4. Be2 Nc6 5. Nf3 Qf5 6. O-O Ne5 7. Nxe5 Qxe5 8. d4 Qe6 9. Re1 Qg6 10. Bh5 Qc6 11. Bf3 Qg6 12. Be4 f5 13. Bd5 Nf6 14. Be3 c6 15. Bf3 h5 16. d5 cxd5 17. Nxd5 Nxd5 18. Bxd5 e6 19. Bf3 Be7 20. Bd4 O-O 21. c3 a5 22. a3 Ra6 23. Qd3 Rd6 24. Qb5 Rd5 25. Bxd5 exd5 26. Qxd5+ Be6 27. Rxe6 h4 28. Rxg6+ 1-0
+
+

@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/gqMqIV4A"]
+[Date "2026.09.17"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "Gamps888"]
+[Result "1-0"]
+[GameId "gqMqIV4A"]
+[UTCDate "2026.09.17"]
+[UTCTime "11:56:54"]
+[WhiteElo "1093"]
+[BlackElo "1093"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-15"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "C44"]
+[Opening "Scotch Game: Scotch Gambit, Dubois Réti Defense"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. Bc4 { [%eval 0.07] } 3... Nf6 { [%eval 0.22] } 4. d4 { [%eval 0.0] } 4... exd4 { [%eval 0.0] } 5. Nxd4 { [%eval -0.46] } 5... d5 { [%eval 0.67] } 6. Nxc6 { [%eval -0.1] } 6... bxc6 { [%eval -0.13] } 7. exd5 { [%eval -0.1] } 7... cxd5 { [%eval -0.02] } 8. Bb5+ { [%eval -0.01] } 8... Nd7 { [%eval 3.44] } 9. Qxd5 { [%eval 3.02] } 9... c6 { [%eval 6.2] } 10. Bxc6 { [%eval 6.12] } 10... Bb7 { [%eval 9.07] } 11. Bxb7 { [%eval 8.79] } 11... Rb8 { [%eval 8.78] } 12. Bc6 { [%eval 8.7] } 12... Qe7+ { [%eval 9.45] } 13. Be3 { [%eval 9.47] } 13... Rxb2 { [%eval 9.62] } 14. Bxd7+ { [%eval 9.36] } 14... Qxd7 { [%eval 9.3] } 15. Qe5+ { [%eval 9.4] } 15... Be7 { [%eval 9.23] } 16. Qxb2 { [%eval 9.15] } 16... O-O { [%eval 9.07] } 17. O-O { [%eval 9.14] } 1-0
+
+

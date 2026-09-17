@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/uukwSQja"]
+[Date "2026.09.16"]
+[Round "-"]
+[White "Edulom"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "uukwSQja"]
+[UTCDate "2026.09.16"]
+[UTCTime "22:35:35"]
+[WhiteElo "1101"]
+[BlackElo "1089"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "C45"]
+[Opening "Scotch Game: Schmidt Variation"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. Nxc6 bxc6 7. a3 Bxc3+ 8. bxc3 O-O 9. Bd3 Re8 10. f3 d5 11. Bg5 dxe4 12. Bxf6 Qxf6 13. Bxe4 Qxc3+ 14. Kf2 Be6 15. Qd3 Qc5+ 16. Qe3 Qxc2+ 17. Bxc2 1-0
+
+

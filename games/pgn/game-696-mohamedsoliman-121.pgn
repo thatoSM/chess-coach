@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/dyTIyykK"]
+[Date "2026.09.17"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "MohamedSoliman-121"]
+[Result "0-1"]
+[GameId "dyTIyykK"]
+[UTCDate "2026.09.17"]
+[UTCTime "07:07:32"]
+[WhiteElo "1090"]
+[BlackElo "975"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "C50"]
+[Opening "Italian Game"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nb4 4. O-O d5 5. exd5 Bf5 6. d3 e4 7. Re1 Be7 8. dxe4 Bg6 9. a3 Na6 10. Nc3 Nc5 11. Ng5 f5 12. exf5 Bxf5 13. Bd3 Bxd3 14. cxd3 Kf8 15. d6 Bxg5 16. Bxg5 Qxg5 17. dxc7 Rc8 18. Qe2 Nf6 19. Qe7+ Kg8 20. Ne4 Qg6 21. Qxc5 Qf7 22. Nxf6+ gxf6 23. Qxa7 Rxc7 24. Qb8+ Kg7 25. Qa7 Kg8 26. Qb6 Kf8 27. Qb4+ Kg7 28. Qg4+ Kf8 29. Rad1 Rg8 30. Qf4 Qg7 31. g3 h5 32. Qf5 h4 33. Qf4 hxg3 34. fxg3 Rc2 35. Rd2 Rxd2 36. Qxd2 f5 37. Qf4 Qg5 38. Re5 Qxf4 0-1
+
+

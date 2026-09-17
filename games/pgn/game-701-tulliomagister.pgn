@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/aYjYGa5C"]
+[Date "2026.09.17"]
+[Round "-"]
+[White "TullioMagister"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "aYjYGa5C"]
+[UTCDate "2026.09.17"]
+[UTCTime "08:05:08"]
+[WhiteElo "1209"]
+[BlackElo "1098"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Wayward Queen Attack"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Qh5 { [%eval -0.25] } 2... Nc6 { [%eval -0.42] } 3. Bc4 { [%eval -0.31] } 3... Nh6 { [%eval 0.15] } 4. d3 { [%eval 0.07] } 4... g6 { [%eval 0.09] } 5. Qf3 { [%eval -0.13] } 5... Nd4 { [%eval -0.16] } 6. Qd1 { [%eval -0.34] } 6... Bg7 { [%eval 0.27] } 7. c3 { [%eval 0.19] } 7... Nc6 { [%eval 0.46] } 8. Qf3 { [%eval -0.35] } 8... d6 { [%eval 4.25] } 9. Bxh6 { [%eval 4.14] } 9... Be6 { [%eval 6.6] } 10. Bxe6 { [%eval 6.22] } 10... fxe6 { [%eval 6.31] } 11. Bxg7 { [%eval 6.02] } 1-0
+
+

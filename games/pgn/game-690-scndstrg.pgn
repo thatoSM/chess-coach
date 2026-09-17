@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/kzjtgLTe"]
+[Date "2026.09.16"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "Scndstrg"]
+[Result "1-0"]
+[GameId "kzjtgLTe"]
+[UTCDate "2026.09.16"]
+[UTCTime "21:20:12"]
+[WhiteElo "1079"]
+[BlackElo "1081"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-27"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "C50"]
+[Opening "Italian Game"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 d5 4. Bxd5 Bg4 5. Bxc6+ bxc6 6. h3 Bxf3 7. Qxf3 Qf6 8. Qc3 c5 9. O-O Be7 10. d3 Bd6 11. Nd2 Ne7 12. Nc4 O-O 13. Nxd6 Qxd6 14. Be3 Nc6 15. Bxc5 Qf6 16. Bxf8 Rxf8 17. Qc5 a5 18. a3 a4 19. b3 axb3 20. cxb3 Rd8 21. Rfd1 Nd4 22. Qxc7 Nxb3 23. Rab1 Nd4 24. Qb6 h6 25. Qxf6 gxf6 26. Ra1 Nc2 27. Ra2 Nd4 28. a4 f5 29. exf5 Nxf5 30. g4 Nd4 31. Kg2 Kg7 32. Kg3 f6 33. f4 exf4+ 34. Kxf4 Ne6+ 35. Kf5 Nd4+ 36. Ke4 Kg6 37. Rf1 Ne2 38. Re1 Nc3+ 39. Kf4 Nxa2 40. Ra1 Nc3 41. Ra3 Nd5+ 42. Ke4 h5 43. a5 Nb4 44. gxh5+ 1-0
+
+

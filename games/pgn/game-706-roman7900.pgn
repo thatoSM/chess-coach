@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/kbpUFpxs"]
+[Date "2026.09.17"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "roman7900"]
+[Result "0-1"]
+[GameId "kbpUFpxs"]
+[UTCDate "2026.09.17"]
+[UTCTime "10:28:47"]
+[WhiteElo "1097"]
+[BlackElo "1184"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+52"]
+[Variant "Standard"]
+[TimeControl "900+10"]
+[ECO "B00"]
+[Opening "Pirc Defense"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... d6 { [%eval 0.43] } 2. d4 { [%eval 0.51] } 2... g6 { [%eval 0.52] } 3. Nc3 { [%eval 0.46] } 3... Nc6 { [%eval 0.69] } 4. Nf3 { [%eval 0.63] } 4... Bg7 { [%eval 0.67] } 5. Bb5 { [%eval 0.43] } 5... Bd7 { [%eval 0.62] } 6. O-O { [%eval 0.63] } 6... a6 { [%eval 0.61] } 7. Ba4 { [%eval 0.4] } 7... Nf6 { [%eval 0.71] } 8. Be3 { [%eval 0.1] } 8... O-O { [%eval 0.36] } 9. Re1 { [%eval -0.22] } 9... e6 { [%eval 0.79] } 10. h3 { [%eval -0.02] } 10... d5 { [%eval 1.17] } 11. exd5 { [%eval 0.47] } 11... exd5 { [%eval 0.5] } 12. a3 { [%eval 0.2] } 12... b5 { [%eval 0.51] } 13. Bb3 { [%eval 0.47] } 13... Ne7 { [%eval 0.52] } 14. Bg5 { [%eval 0.42] } 14... c6 { [%eval 0.47] } 15. Ba2 { [%eval -0.12] } 15... Qc7 { [%eval 6.85] } 16. Qd2 { [%eval 0.2] } 16... Nf5 { [%eval 1.95] } 17. Bf4 { [%eval 0.12] } 17... Qa7 { [%eval 1.98] } 18. Be5 { [%eval 0.0] } 18... Rae8 { [%eval 1.13] } 19. Ne2 { [%eval -1.39] } 19... Ne4 { [%eval -1.28] } 20. Qc1 { [%eval -6.39] } 20... Nxd4 { [%eval 5.84] } 21. Bxg7 { [%eval -18.76] } 21... Nxe2+ { [%eval -2.04] } 22. Rxe2 { [%eval -2.03] } 22... Kxg7 { [%eval -1.74] } 23. c3 { [%eval -2.4] } 23... Nf6 { [%eval -1.96] } 24. Rxe8 { [%eval -1.74] } 24... Rxe8 { [%eval -1.74] } 25. Nd4 { [%eval -2.46] } 25... c5 { [%eval -2.4] } 26. Nc2 { [%eval -2.41] } 26... c4 { [%eval -1.8] } 27. Qg5 { [%eval -4.46] } 27... Re2 { [%eval -1.61] } 28. Nb4 { [%eval #-7] } 28... Qxf2+ { [%eval #-6] } 29. Kh2 { [%eval #-6] } 29... Ne4 { [%eval -19.8] } 30. Qe5+ { [%eval #-7] } 30... Nf6 { [%eval -7.83] } 31. Qg5 { [%eval #-6] } 31... Ne4 { [%eval -20.73] } 32. Qe5+ { [%eval #-6] } 32... Kh6 { [%eval #-5] } 33. Nxd5 { [%eval #-1] } 33... Qxg2# 0-1
+
+

@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/PzXpS6jT"]
+[Date "2026.09.17"]
+[Round "-"]
+[White "Brunogva1"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "PzXpS6jT"]
+[UTCDate "2026.09.17"]
+[UTCTime "07:59:19"]
+[WhiteElo "1091"]
+[BlackElo "1092"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "D01"]
+[Opening "Rapport-Jobava System"]
+[Termination "Normal"]
+
+1. d4 d5 2. Nc3 Nf6 3. Bf4 Bf5 4. Nb5 Na6 5. e3 c6 6. Nc3 e6 7. Bd3 Bxd3 8. Qxd3 Bd6 9. Bg5 h6 10. Bxf6 Qxf6 11. f3 Qg5 12. g4 Nb4 13. Qd2 Qg6 14. a3 Nxc2+ 15. Ke2 Nxa1 16. Qd3 Nb3 17. Qxg6 fxg6 18. Ke1 O-O-O 19. e4 dxe4 20. Nxe4 Nxd4 21. Kd2 0-1
+
+

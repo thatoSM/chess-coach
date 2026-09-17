@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/exNZYVMT"]
+[Date "2026.09.17"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "D_C_89"]
+[Result "0-1"]
+[GameId "exNZYVMT"]
+[UTCDate "2026.09.17"]
+[UTCTime "12:55:55"]
+[WhiteElo "1105"]
+[BlackElo "1141"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "C41"]
+[Opening "Philidor Defense"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 c6 4. d4 b5 5. Bd3 d5 6. exd5 exd4 7. dxc6 Qe7+ 8. Qe2 Nxc6 9. Bg5 Qxe2+ 10. Bxe2 f6 11. Bh4 a6 12. Nbd2 Bb4 13. O-O Nge7 14. Rfd1 O-O 15. Nb3 Be6 16. Nfxd4 Nxd4 17. Nxd4 Bc4 18. Bxc4+ bxc4 19. c3 Bd6 20. Re1 Ng6 21. Bg3 Bxg3 22. fxg3 Ne5 23. a3 Nd3 24. Re2 Rae8 25. Rxe8 Rxe8 26. Rb1 Re5 27. b3 cxb3 28. Rxb3 Re1# 0-1
+
+

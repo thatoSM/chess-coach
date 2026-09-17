@@ -25,6 +25,42 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 723 | WIN | White | alois111 (1116) | *pending* |
+| 722 | WIN | Black | mynameiskareem442 (1082) | *pending* |
+| 721 | WIN | Black | Hoseinbuffon72 (1105) | *pending* |
+| 720 | WIN | White | AutumnSoldier (1080) | *pending* |
+| 719 | WIN | Black | genitaliusznik (1175) | *pending* |
+| 718 | LOSS | Black | Aramis76 (1206) | *pending* |
+| 717 | WIN | White | Bonbonklacz (1076) | *pending* |
+| 716 | LOSS | White | Pantosss_16 (1146) | *pending* |
+| 715 | LOSS | White | vj0702 (1031) | *pending* |
+| 714 | LOSS | Black | Sergei_1974 (1105) | *pending* |
+| 713 | WIN | Black | eric26dg (1110) | *pending* |
+| 712 | WIN | White | eric26dg (1120) | *pending* |
+| 711 | LOSS | Black | FaUSSt_F (1120) | *pending* |
+| 710 | LOSS | Black | hop-hey-lala-ley (969) | *pending* |
+| 709 | LOSS | White | D_C_89 (1141) | *pending* |
+| 708 | WIN | Black | ell-sih-mirmo (1185) | *pending* |
+| 707 | WIN | White | Gamps888 (1093) | *pending* |
+| 706 | LOSS | White | roman7900 (1184) | *pending* |
+| 705 | LOSS | Black | Mdq8 (1151) | *pending* |
+| 704 | LOSS | White | PopeHilarius (1228) | *pending* |
+| 703 | WIN | Black | buddy975 (1093) | *pending* |
+| 702 | WIN | White | cdd0207 (1105) | *pending* |
+| 701 | LOSS | Black | TullioMagister (1209) | *pending* |
+| 700 | WIN | Black | Brunogva1 (1091) | *pending* |
+| 699 | WIN | White | kedoos7 (1235) | *pending* |
+| 698 | LOSS | Black | kedoos7 (1197) | *pending* |
+| 697 | WIN | Black | Bogo1939 (1057) | *pending* |
+| 696 | LOSS | White | MohamedSoliman-121 (975) | *pending* |
+| 695 | WIN | White | Bekkiboy (1113) | *pending* |
+| 694 | LOSS | Black | Edulom (1101) | *pending* |
+| 693 | WIN | White | tonybaby77 (1133) | *pending* |
+| 692 | WIN | White | CB1218 (1032) | *pending* |
+| 691 | LOSS | Black | CB1218 (1025) | *pending* |
+| 690 | WIN | White | Scndstrg (1081) | *pending* |
+| 689 | LOSS | Black | stargirl1982 (1040) | *pending* |
+| 688 | LOSS | Black | kareemadel1 (1105) | *pending* |
 | 687 | LOSS | White | SVV0000 (1160) | *pending* |
 | 686 | WIN | Black | N3R6K9 (1111) | *pending* |
 | 685 | WIN | White | BobinBelgium (1144) | *pending* |

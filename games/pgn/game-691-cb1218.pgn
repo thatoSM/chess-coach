@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/rzipHn9z"]
+[Date "2026.09.16"]
+[Round "-"]
+[White "CB1218"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "rzipHn9z"]
+[UTCDate "2026.09.16"]
+[UTCTime "21:37:23"]
+[WhiteElo "1025"]
+[BlackElo "1085"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "C46"]
+[Opening "Three Knights Opening"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 Bb4 4. Bc4 Nf6 5. O-O O-O 6. a3 Bxc3 7. bxc3 d5 8. exd5 Nxd5 9. Re1 Re8 10. d4 e4 11. Ne5 Nxe5 12. dxe5 Rxe5 13. Qd4 Qd6 14. Rxe4 Rxe4 15. Qxe4 Nxc3 16. Qe8+ Qf8 17. Bxf7+ 1-0
+
+

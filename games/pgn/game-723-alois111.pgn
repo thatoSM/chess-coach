@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/JRiWkDg2"]
+[Date "2026.09.17"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "alois111"]
+[Result "1-0"]
+[GameId "JRiWkDg2"]
+[UTCDate "2026.09.17"]
+[UTCTime "18:54:41"]
+[WhiteElo "1109"]
+[BlackElo "1116"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... d5 { [%eval 0.54] } 2. exd5 { [%eval 0.51] } 2... Qxd5 { [%eval 0.52] } 3. Nc3 { [%eval 0.47] } 3... Qe6+ { [%eval 0.87] } 4. Be2 { [%eval 0.85] } 4... Nc6 { [%eval 1.62] } 5. d4 { [%eval 1.78] } 5... Qg6 { [%eval 3.26] } 6. Bb5 { [%eval -0.71] } 6... Qxg2 { [%eval -0.8] } 7. Qf3 { [%eval -0.79] } 7... Qxf3 { [%eval -0.98] } 8. Nxf3 { [%eval -0.96] } 8... a6 { [%eval -0.81] } 9. Bxc6+ { [%eval -0.94] } 9... bxc6 { [%eval -0.85] } 10. Bf4 { [%eval -0.82] } 10... Kd8 { [%eval 0.4] } 11. O-O-O { [%eval -0.32] } 11... Bg4 { [%eval -0.19] } 12. Rd3 { [%eval -0.25] } 12... Nf6 { [%eval 0.91] } 13. h3 { [%eval -0.55] } 13... Bxf3 { [%eval 0.25] } 14. Rxf3 { [%eval 0.4] } 14... h6 { [%eval 0.46] } 15. a3 { [%eval 0.0] } 15... g5 { [%eval 0.87] } 16. Be5 { [%eval 0.83] } 16... h5 { [%eval 5.92] } 17. Bxf6 { [%eval 1.83] } 17... exf6 { [%eval 1.84] } 18. Rxf6 { [%eval 1.92] } 18... Ke7 { [%eval 3.53] } 19. Rxc6 { [%eval 3.27] } 19... Rb8 { [%eval 4.92] } 20. Rxa6 { [%eval 4.48] } 20... Bg7 { [%eval 4.65] } 21. Ra5 { [%eval 2.83] } 21... Bxd4 { [%eval 2.81] } 22. Rxg5 { [%eval 2.51] } 22... Bxf2 { [%eval 3.76] } 23. Rf1 { [%eval -6.6] } 23... Bd4 { [%eval 3.21] } 24. Rgf5 { [%eval 2.03] } 24... Rhf8 { [%eval 7.92] } 25. h4 { [%eval 0.22] } 25... Be3+ { [%eval 5.28] } 26. Kd1 { [%eval 2.73] } 26... Rbd8+ { [%eval 4.24] } 27. Ke2 { [%eval 3.53] } 27... Bc5 { [%eval 7.61] } 28. Rxc5 { [%eval 7.39] } 28... f5 { [%eval 7.83] } 29. Rcxf5 { [%eval 7.76] } 1-0
+
+

@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/57ImkcRZ"]
+[Date "2026.09.17"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "cdd0207"]
+[Result "1-0"]
+[GameId "57ImkcRZ"]
+[UTCDate "2026.09.17"]
+[UTCTime "08:08:08"]
+[WhiteElo "1094"]
+[BlackElo "1105"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "B13"]
+[Opening "Caro-Kann Defense: Exchange Variation"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... c6 { [%eval 0.31] } 2. d4 { [%eval 0.24] } 2... d5 { [%eval 0.24] } 3. exd5 { [%eval 0.08] } 3... cxd5 { [%eval 0.18] } 4. Nc3 { [%eval -0.07] } 4... Nf6 { [%eval 0.06] } 5. Nf3 { [%eval -0.04] } 5... Bg4 { [%eval -0.03] } 6. h3 { [%eval 0.0] } 6... Bxf3 { [%eval 0.0] } 7. Qxf3 { [%eval 0.0] } 7... Nc6 { [%eval 0.0] } 8. Be3 { [%eval 0.03] } 8... e6 { [%eval -0.05] } 9. Bb5 { [%eval -0.15] } 9... Bd6 { [%eval -0.17] } 10. O-O-O { [%eval -0.67] } 10... O-O { [%eval -0.61] } 11. h4 { [%eval -0.59] } 11... a6 { [%eval -0.24] } 12. Bd3 { [%eval -0.29] } 12... b5 { [%eval -0.01] } 13. Bf4 { [%eval -1.07] } 13... Nxd4 { [%eval -1.05] } 14. Qe3 { [%eval -2.87] } 14... Nc6 { [%eval -2.67] } 15. Bxd6 { [%eval -2.85] } 15... Qxd6 { [%eval -2.83] } 16. h5 { [%eval -3.01] } 16... b4 { [%eval -1.92] } 17. Ne2 { [%eval -2.67] } 17... b3 { [%eval -0.48] } 18. axb3 { [%eval -0.55] } 18... Qb4 { [%eval 0.27] } 19. h6 { [%eval 0.31] } 19... Rfc8 { [%eval 6.31] } 20. hxg7 { [%eval 6.02] } 20... Na5 { [%eval #12] } 21. Kb1 { [%eval 8.03] } 21... Nxb3 { [%eval #10] } 22. cxb3 { [%eval 8.82] } 22... Qxb3 { [%eval 15.63] } 23. Rc1 { [%eval 6.32] } 23... Rcb8 { [%eval 10.13] } 24. Rc2 { [%eval 10.53] } 24... a5 { [%eval 12.11] } 25. Qf3 { [%eval 9.48] } 25... a4 { [%eval 9.81] } 26. Kc1 { [%eval 0.39] } 26... Qa2 { [%eval 8.22] } 27. Kd2 { [%eval 7.64] } 27... Kxg7 { [%eval 9.7] } 28. Qg3+ { [%eval 6.52] } 28... Kf8 { [%eval 10.84] } 29. Bxh7 { [%eval 7.94] } 29... Ne4+ { [%eval 16.06] } 30. Bxe4 { [%eval 14.07] } 30... dxe4 { [%eval #4] } 31. Rh8+ { [%eval #3] } 31... Ke7 { [%eval #3] } 32. Rxb8 { [%eval 11.68] } 32... Qd5+ { [%eval 12.64] } 33. Kc1 { [%eval 12.4] } 1-0
+
+

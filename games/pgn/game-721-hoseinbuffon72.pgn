@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/EAg53Vwt"]
+[Date "2026.09.17"]
+[Round "-"]
+[White "Hoseinbuffon72"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "EAg53Vwt"]
+[UTCDate "2026.09.17"]
+[UTCTime "17:56:53"]
+[WhiteElo "1105"]
+[BlackElo "1097"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "C22"]
+[Opening "Center Game: Normal Variation"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. d4 { [%eval -0.11] } 2... exd4 { [%eval 0.0] } 3. Qxd4 { [%eval -0.08] } 3... Nc6 { [%eval -0.01] } 4. Qd1 { [%eval -0.64] } 4... Nf6 { [%eval -0.57] } 5. Bd3 { [%eval -0.63] } 5... Bc5 { [%eval -0.15] } 0-1
+
+

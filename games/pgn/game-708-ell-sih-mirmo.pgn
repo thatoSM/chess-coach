@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/QJHE9r3I"]
+[Date "2026.09.17"]
+[Round "-"]
+[White "ell-sih-mirmo"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "QJHE9r3I"]
+[UTCDate "2026.09.17"]
+[UTCTime "12:28:09"]
+[WhiteElo "1185"]
+[BlackElo "1098"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Wayward Queen Attack"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Qh5 { [%eval -0.25] } 2... Nc6 { [%eval -0.42] } 3. Bc4 { [%eval -0.31] } 3... Nh6 { [%eval 0.15] } 4. d3 { [%eval 0.07] } 4... g6 { [%eval 0.09] } 5. Qd1 { [%eval 0.0] } 5... d6 { [%eval 0.36] } 6. h3 { [%eval -0.14] } 6... Qd7 { [%eval 0.82] } 7. c3 { [%eval -0.24] } 7... Bg7 { [%eval 0.29] } 8. Bxh6 { [%eval -0.59] } 8... Bxh6 { [%eval -0.66] } 9. Qf3 { [%eval -0.95] } 9... Bg7 { [%eval -0.55] } 10. h4 { [%eval -0.82] } 10... O-O { [%eval -0.42] } 11. Nh3 { [%eval -1.47] } 11... h6 { [%eval -0.78] } 12. Bd5 { [%eval -1.39] } 12... Kh7 { [%eval -0.84] } 13. g4 { [%eval -3.13] } 13... Rb8 { [%eval -1.2] } 14. g5 { [%eval -2.48] } 14... h5 { [%eval -2.56] } 15. Na3 { [%eval -3.95] } 15... a6 { [%eval -2.46] } 16. O-O-O { [%eval -4.06] } 16... Qg4 { [%eval -1.54] } 17. Qe3 { [%eval -1.51] } 17... Qxh4 { [%eval -1.48] } 18. f4 { [%eval -4.51] } 18... Qg4 { [%eval 2.91] } 19. f5 { [%eval 2.42] } 19... gxf5 { [%eval 3.74] } 20. Rhg1 { [%eval -4.47] } 20... f4 { [%eval -4.52] } 21. Qd2 { [%eval -6.35] } 21... Qxh3 { [%eval -6.25] } 22. Qg2 { [%eval -8.18] } 22... Qxg2 { [%eval -8.14] } 23. Rxg2 { [%eval -8.03] } 23... Be6 { [%eval -7.18] } 24. Rh2 { [%eval -7.99] } 24... Kg6 { [%eval -7.37] } 25. Rdh1 { [%eval -8.5] } 25... Bg4 { [%eval -8.57] } 26. Nc4 { [%eval -8.84] } 26... f6 { [%eval -8.22] } 27. Rg2 { [%eval -8.89] } 27... f5 { [%eval -7.96] } 28. exf5+ { [%eval -7.77] } 28... Kxf5 { [%eval -7.74] } 29. Be4+ { [%eval -7.85] } 29... Kxg5 { [%eval -7.81] } 0-1
+
+

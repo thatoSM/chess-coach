@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/rOlpKWeo"]
+[Date "2026.09.17"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "vj0702"]
+[Result "0-1"]
+[GameId "rOlpKWeo"]
+[UTCDate "2026.09.17"]
+[UTCTime "15:03:56"]
+[WhiteElo "1094"]
+[BlackElo "1031"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+8"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "C41"]
+[Opening "Philidor Defense"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Be7 4. d4 Nc6 5. d5 Nd4 6. Nxd4 exd4 7. Qxd4 Bf6 8. Qd3 Ne7 9. O-O O-O 10. Re1 c6 11. dxc6 bxc6 12. Bf4 Bxb2 13. Bxd6 Bxa1 14. Bxe7 Qxe7 15. c3 Bb2 16. Qc2 Ba3 17. Nxa3 Qxa3 18. Qd2 Qc5 19. e5 Qxc4 0-1
+
+

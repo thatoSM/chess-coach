@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/5KF1bL7f"]
+[Date "2026.09.17"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "Bekkiboy"]
+[Result "1-0"]
+[GameId "5KF1bL7f"]
+[UTCDate "2026.09.17"]
+[UTCTime "07:03:35"]
+[WhiteElo "1084"]
+[BlackElo "1113"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "C50"]
+[Opening "Italian Game: Anti-Fried Liver Defense"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. Bc4 { [%eval 0.07] } 3... h6 { [%eval 0.56] } 4. d4 { [%eval 0.64] } 4... exd4 { [%eval 0.59] } 5. Nxd4 { [%eval 0.57] } 5... Nf6 { [%eval 0.58] } 6. Nxc6 { [%eval 0.32] } 6... bxc6 { [%eval 0.35] } 7. O-O { [%eval 0.12] } 7... Nxe4 { [%eval 0.14] } 8. Re1 { [%eval 0.17] } 8... f5 { [%eval #6] } 9. f3 { [%eval 2.22] } 9... Bb4 { [%eval 4.09] } 10. c3 { [%eval 2.11] } 10... d5 { [%eval 4.25] } 11. Bb3 { [%eval 2.36] } 11... O-O { [%eval 4.4] } 12. fxe4 { [%eval 3.09] } 12... fxe4 { [%eval 4.65] } 13. cxb4 { [%eval 4.44] } 13... Qf6 { [%eval 4.7] } 14. Rf1 { [%eval 4.62] } 14... Qe5 { [%eval 5.83] } 15. Rxf8+ { [%eval 5.8] } 15... Kxf8 { [%eval 5.69] } 16. Qf1+ { [%eval 5.4] } 16... Kg8 { [%eval 5.37] } 17. Nc3 { [%eval 5.19] } 17... Qg5 { [%eval 9.04] } 18. Bxg5 { [%eval 8.99] } 1-0
+
+
