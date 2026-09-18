@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/ReDx0rIQ"]
+[Date "2026.09.18"]
+[Round "-"]
+[White "PhishyStude"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "ReDx0rIQ"]
+[UTCDate "2026.09.18"]
+[UTCTime "12:07:16"]
+[WhiteElo "1220"]
+[BlackElo "1123"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-4"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: Modern Variation"]
+[Termination "Normal"]
+
+1. b3 e5 2. Bb2 Nc6 3. Nf3 d5 4. d4 Bb4+ 5. c3 Ba5 6. Nxe5 Nxe5 7. dxe5 Qg5 8. e3 Qxe5 9. Nd2 Nf6 10. b4 Bb6 11. c4 dxc4 12. Nxc4 Qb5 13. Nd6+ cxd6 14. Bxb5+ 1-0
+
+

@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/KjevW7nr"]
+[Date "2026.09.17"]
+[Round "-"]
+[White "Mohab_mohamed_mourad"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "KjevW7nr"]
+[UTCDate "2026.09.17"]
+[UTCTime "19:42:59"]
+[WhiteElo "1070"]
+[BlackElo "1114"]
+[WhiteRatingDiff "-40"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "C50"]
+[Opening "Italian Game: Giuoco Pianissimo, Italian Four Knights Variation"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bc4 Bc5 5. d3 h6 6. Be3 Bxe3 7. fxe3 O-O 8. O-O a6 9. d4 exd4 10. exd4 Re8 11. Re1 d6 12. d5 Na5 13. e5 Nxc4 14. exf6 Qxf6 15. Qd4 Qxd4+ 16. Nxd4 Rxe1+ 17. Rxe1 Bd7 18. b3 Na3 19. Re7 Rd8 20. b4 Bf5 21. b5 Bxc2 22. bxa6 bxa6 23. Rxc7 Bd3 24. Nc6 Re8 25. Re7 Rxe7 26. Nxe7+ Kf8 27. Nc6 Nb5 28. Nxb5 axb5 29. a3 Bc4 30. Nd4 Ke7 31. g3 Kf6 32. Kf2 Ke5 33. Ke3 Kxd5 34. h4 Kc5 35. g4 d5 36. g5 hxg5 37. hxg5 f6 38. gxf6 gxf6 39. Ne6+ Kd6 40. Nf4 Kc6 41. Kd4 f5 42. Ke5 Kc5 43. Kxf5 b4 44. a4 b3 45. Ne6+ Kb4 46. a5 Kxa5 47. Nd4 Kb4 48. Nc6+ Kc3 49. Na5 b2 50. Ke5 b1=Q 51. Nxc4 Kxc4 52. Kd6 Qb6+ 53. Ke5 d4 54. Ke4 d3 55. Kf3 d2 56. Ke2 Kc3 57. Kd1 Qb1+ 58. Ke2 Qe1+ 59. Kf3 d1=Q+ 60. Kg2 Qe4+ 61. Kf2 Qdd3 62. Kg1 Qg3+ 63. Kf1 Qef3# 0-1
+
+

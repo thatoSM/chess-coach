@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/HHhsHdli"]
+[Date "2026.09.18"]
+[Round "-"]
+[White "piskor_k"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "HHhsHdli"]
+[UTCDate "2026.09.18"]
+[UTCTime "12:11:11"]
+[WhiteElo "1040"]
+[BlackElo "1119"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Wayward Queen Attack"]
+[Termination "Normal"]
+
+1. e4 e5 2. Qh5 Nc6 3. Bc4 Nh6 4. Qf3 Nd4 5. Qh5 Nxc2+ 6. Kf1 Nxa1 7. d3 Nc2 8. Bxh6 g6 9. Qxe5+ Qe7 10. Qxh8 Nd4 11. Qxd4 Bxh6 12. Qh8+ Qf8 13. Qe5+ Qe7 14. Qxc7 Qb4 15. Qe5+ Kd8 16. Qh8+ Qf8 17. Qf6+ Qe7 18. Qh8+ Qf8 19. Qxh7 Bf4 20. Qxf7 1-0
+
+

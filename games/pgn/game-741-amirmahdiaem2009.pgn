@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/cF3MkhNV"]
+[Date "2026.09.18"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "AmirMahdiAEM2009"]
+[Result "1-0"]
+[GameId "cF3MkhNV"]
+[UTCDate "2026.09.18"]
+[UTCTime "13:24:16"]
+[WhiteElo "1124"]
+[BlackElo "1051"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C54"]
+[Opening "Italian Game: Classical Variation, Greco Gambit, Traditional Line"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. Bc4 { [%eval 0.07] } 3... Bc5 { [%eval 0.2] } 4. c3 { [%eval 0.09] } 4... Nf6 { [%eval 0.13] } 5. d4 { [%eval 0.0] } 5... exd4 { [%eval 0.18] } 6. cxd4 { [%eval -0.01] } 6... Na5 { [%eval 3.68] } 7. dxc5 { [%eval 3.65] } 7... Nxc4 { [%eval 3.71] } 8. b4 { [%eval -0.08] } 8... Nxe4 { [%eval 3.47] } 9. Qd4 { [%eval 0.57] } 9... d5 { [%eval 0.53] } 10. cxd6 { [%eval -0.05] } 10... Ncxd6 { [%eval 0.11] } 11. Bf4 { [%eval -0.81] } 11... Qe7 { [%eval 0.71] } 12. Qxg7 { [%eval 0.66] } 12... Ng5+ { [%eval 5.78] } 13. Be3 { [%eval -0.72] } 13... Nxf3+ { [%eval -0.75] } 14. gxf3 { [%eval -0.58] } 14... Qf8 { [%eval -0.21] } 15. Qe5+ { [%eval -0.23] } 15... Be6 { [%eval -0.19] } 16. Bd4 { [%eval -2.54] } 16... Rg8 { [%eval -2.43] } 17. Qh5 { [%eval -7.22] } 17... Bf5 { [%eval -3.65] } 18. Nd2 { [%eval -5.62] } 18... O-O-O { [%eval -4.71] } 19. O-O-O { [%eval -4.32] } 19... Rg2 { [%eval -0.42] } 20. Bxa7 { [%eval -8.45] } 20... Nb5 { [%eval 8.62] } 21. Bc5 { [%eval 4.74] } 21... Nc3 { [%eval 9.78] } 22. Qxf5+ { [%eval 9.5] } 22... Rd7 { [%eval 12.03] } 23. Bxf8 { [%eval 11.98] } 1-0
+
+

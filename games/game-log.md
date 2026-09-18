@@ -25,6 +25,28 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 745 | WIN | Black | sudeesh_3 (1211) | *pending* |
+| 744 | WIN | White | Diaa_Ezz (1071) | *pending* |
+| 743 | WIN | White | denis-sepetov (1245) | *pending* |
+| 742 | WIN | Black | akyctik (1037) | *pending* |
+| 741 | WIN | White | AmirMahdiAEM2009 (1051) | *pending* |
+| 740 | WIN | Black | Raultriatlon (1101) | *pending* |
+| 739 | WIN | White | ABANOUB1CHESS (1016) | *pending* |
+| 738 | WIN | Black | dwtsn343 (1073) | *pending* |
+| 737 | LOSS | White | Shaga347 (1164) | *pending* |
+| 736 | WIN | White | krisabel (1180) | *pending* |
+| 735 | LOSS | Black | piskor_k (1040) | *pending* |
+| 734 | LOSS | Black | PhishyStude (1220) | *pending* |
+| 733 | LOSS | Black | brikkeherre (1102) | *pending* |
+| 732 | WIN | Black | aristeuneves (1074) | *pending* |
+| 731 | LOSS | White | kgashaneMan (1081) | *pending* |
+| 730 | WIN | White | Hoseinbuffon72 (1098) | *pending* |
+| 729 | LOSS | White | oesejonathan (1171) | *pending* |
+| 728 | WIN | Black | skjr254 (1071) | *pending* |
+| 727 | WIN | White | Marrrra (1155) | *pending* |
+| 726 | WIN | Black | Mohab_mohamed_mourad (1070) | *pending* |
+| 725 | WIN | White | Kamyar101 (1121) | *pending* |
+| 724 | LOSS | Black | night2000bd (1104) | *pending* |
 | 723 | WIN | White | alois111 (1116) | *pending* |
 | 722 | WIN | Black | mynameiskareem442 (1082) | *pending* |
 | 721 | WIN | Black | Hoseinbuffon72 (1105) | *pending* |

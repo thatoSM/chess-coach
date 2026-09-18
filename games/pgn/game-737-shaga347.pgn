@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/XTyMB7bK"]
+[Date "2026.09.18"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "Shaga347"]
+[Result "0-1"]
+[GameId "XTyMB7bK"]
+[UTCDate "2026.09.18"]
+[UTCTime "12:33:00"]
+[WhiteElo "1119"]
+[BlackElo "1164"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+22"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "C54"]
+[Opening "Italian Game: Giuoco Piano, Greco's Attack"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb4+ 7. Nc3 a6 8. e5 Ne4 9. Bd2 d6 10. Nxe4 Bxd2+ 11. Qxd2 dxe5 12. Nxe5 Nxd4 13. Nxf7 Qe7 14. Nxh8 Qxe4+ 15. Kf1 Bh3 16. f3 Bxg2+ 17. Qxg2 Nxf3 18. Bd3 Qxd3+ 19. Kf2 O-O-O 20. Qxg7 Nh4 21. Rad1 Qf3+ 22. Kg1 Rxd1# 0-1
+
+

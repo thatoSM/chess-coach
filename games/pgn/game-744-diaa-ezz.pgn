@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/ShPTqHoM"]
+[Date "2026.09.18"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "Diaa_Ezz"]
+[Result "1-0"]
+[GameId "ShPTqHoM"]
+[UTCDate "2026.09.18"]
+[UTCTime "14:27:10"]
+[WhiteElo "1140"]
+[BlackElo "1071"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-75"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.18] } 1... d5 { [%eval 0.54] } 2. exd5 { [%eval 0.51] } 2... Qxd5 { [%eval 0.52] } 3. Nc3 { [%eval 0.47] } 3... Qe5+ { [%eval 0.77] } 4. Be2 { [%eval 0.67] } 4... e6 { [%eval 0.98] } 5. Nf3 { [%eval 0.81] } 1-0
+
+

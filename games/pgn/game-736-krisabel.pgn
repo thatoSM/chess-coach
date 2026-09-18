@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/kGHti8t2"]
+[Date "2026.09.18"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "krisabel"]
+[Result "1-0"]
+[GameId "kGHti8t2"]
+[UTCDate "2026.09.18"]
+[UTCTime "12:16:34"]
+[WhiteElo "1112"]
+[BlackElo "1180"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "C54"]
+[Opening "Italian Game: Classical Variation, Greco Gambit, Traditional Line"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. Bc4 { [%eval 0.07] } 3... Bc5 { [%eval 0.2] } 4. c3 { [%eval 0.09] } 4... Nf6 { [%eval 0.13] } 5. d4 { [%eval 0.0] } 5... exd4 { [%eval 0.18] } 6. cxd4 { [%eval -0.01] } 6... Bb6 { [%eval 2.46] } 7. e5 { [%eval 2.12] } 7... Ne4 { [%eval 1.85] } 8. Bd5 { [%eval 1.9] } 8... Ba5+ { [%eval 1.57] } 9. Bd2 { [%eval 0.07] } 9... Bxd2+ { [%eval 0.67] } 10. Nbxd2 { [%eval 0.66] } 10... Nxd4 { [%eval 5.1] } 11. Nxe4 { [%eval 5.13] } 11... Nf5 { [%eval 6.05] } 12. Nfg5 { [%eval 5.95] } 12... O-O { [%eval 5.9] } 13. O-O { [%eval 5.65] } 13... d6 { [%eval 6.15] } 14. exd6 { [%eval 5.29] } 14... cxd6 { [%eval 5.38] } 15. Qh5 { [%eval 5.57] } 15... g6 { [%eval #1] } 16. Bxf7+ { [%eval 5.13] } 16... Rxf7 { [%eval 5.16] } 17. Nxf7 { [%eval 5.16] } 17... Kxf7 { [%eval 6.48] } 18. Qxh7+ { [%eval 6.35] } 18... Ng7 { [%eval 6.22] } 19. Rfe1 { [%eval 5.48] } 19... Be6 { [%eval 5.87] } 20. Rad1 { [%eval 5.58] } 20... d5 { [%eval 5.71] } 21. Nc5 { [%eval 5.57] } 21... Qf6 { [%eval 9.38] } 22. Nxe6 { [%eval 8.58] } 22... Re8 { [%eval 9.31] } 23. Nxg7 { [%eval 9.12] } 23... Rxe1+ { [%eval 9.29] } 24. Rxe1 { [%eval 8.94] } 24... Qxb2 { [%eval #4] } 25. Ne6+ { [%eval #5] } 25... Kf6 { [%eval #5] } 26. Qg7+ { [%eval #4] } 1-0
+
+

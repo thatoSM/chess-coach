@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/YjB4NVxn"]
+[Date "2026.09.18"]
+[Round "-"]
+[White "brikkeherre"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "YjB4NVxn"]
+[UTCDate "2026.09.18"]
+[UTCTime "06:38:21"]
+[WhiteElo "1102"]
+[BlackElo "1129"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "C44"]
+[Opening "Scotch Game: Scotch Gambit"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. d4 { [%eval 0.07] } 3... exd4 { [%eval 0.04] } 4. Bc4 { [%eval 0.0] } 4... f6 { [%eval 2.06] } 5. Nxd4 { [%eval 1.34] } 5... Bc5 { [%eval 5.3] } 6. Nxc6 { [%eval 4.39] } 6... bxc6 { [%eval 5.08] } 7. Qh5+ { [%eval 6.66] } 7... Ke7 { [%eval #2] } 8. Qxc5+ { [%eval 6.03] } 1-0
+
+
