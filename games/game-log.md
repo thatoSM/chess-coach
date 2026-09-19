@@ -25,6 +25,18 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 757 | LOSS | White | selcukkudu (1145) | *pending* |
+| 756 | LOSS | Black | teufion (1188) | *pending* |
+| 755 | DRAW | Black | parminsharifniya (1050) | *pending* |
+| 754 | WIN | White | DoktorZapdos (1136) | *pending* |
+| 753 | WIN | Black | Delsa94 (1092) | *pending* |
+| 752 | LOSS | White | viktorsergeevich82 (1240) | *pending* |
+| 751 | LOSS | White | gdn28 (1164) | *pending* |
+| 750 | WIN | Black | KGupta-644 (1197) | *pending* |
+| 749 | LOSS | White | ArtemLix (1219) | *pending* |
+| 748 | LOSS | Black | Kirithik24 (1153) | *pending* |
+| 747 | WIN | White | AEMILIUS1908 (1248) | *pending* |
+| 746 | WIN | Black | JLuis65 (1193) | *pending* |
 | 745 | WIN | Black | sudeesh_3 (1211) | *pending* |
 | 744 | WIN | White | Diaa_Ezz (1071) | *pending* |
 | 743 | WIN | White | denis-sepetov (1245) | *pending* |

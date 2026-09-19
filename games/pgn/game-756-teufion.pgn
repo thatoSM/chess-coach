@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/wXouEHB8"]
+[Date "2026.09.19"]
+[Round "-"]
+[White "teufion"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "wXouEHB8"]
+[UTCDate "2026.09.19"]
+[UTCTime "17:27:50"]
+[WhiteElo "1188"]
+[BlackElo "1159"]
+[WhiteRatingDiff "+24"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... c6 { [%eval 0.31] } 2. Nc3 { [%eval 0.21] } 2... d5 { [%eval 0.38] } 3. exd5 { [%eval -0.03] } 3... cxd5 { [%eval -0.02] } 4. d4 { [%eval -0.07] } 4... Nf6 { [%eval 0.06] } 5. Bg5 { [%eval -0.29] } 5... Nc6 { [%eval -0.12] } 6. Nf3 { [%eval -0.29] } 6... h6 { [%eval -0.31] } 7. Bxf6 { [%eval -0.23] } 7... exf6 { [%eval -0.29] } 8. Be2 { [%eval -0.42] } 8... Bg4 { [%eval -0.19] } 9. O-O { [%eval -0.24] } 9... Bb4 { [%eval -0.12] } 10. h3 { [%eval -0.09] } 10... Bh5 { [%eval 0.11] } 11. g4 { [%eval -0.21] } 11... Bg6 { [%eval -0.17] } 12. Bd3 { [%eval -0.92] } 12... Bxd3 { [%eval -0.89] } 13. Qxd3 { [%eval -0.84] } 13... Qe7 { [%eval 7.2] } 14. Rae1 { [%eval 7.25] } 14... Ne5 { [%eval 7.84] } 15. Nxe5 { [%eval 7.52] } 15... fxe5 { [%eval 8.09] } 16. Rxe5 { [%eval 8.09] } 16... Bxc3 { [%eval 9.67] } 17. bxc3 { [%eval 9.13] } 17... Qxe5 { [%eval 8.89] } 18. dxe5 { [%eval 8.21] } 1-0
+
+

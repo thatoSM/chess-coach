@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/zTOcVlDf"]
+[Date "2026.09.19"]
+[Round "-"]
+[White "Kirithik24"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "zTOcVlDf"]
+[UTCDate "2026.09.19"]
+[UTCTime "14:32:01"]
+[WhiteElo "1153"]
+[BlackElo "1164"]
+[WhiteRatingDiff "+22"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C50"]
+[Opening "Italian Game: Giuoco Pianissimo, Italian Four Knights Variation"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. Bc4 { [%eval 0.07] } 3... Bc5 { [%eval 0.2] } 4. Nc3 { [%eval 0.12] } 4... Nf6 { [%eval 0.09] } 5. d3 { [%eval 0.07] } 5... h6 { [%eval 0.1] } 6. Nd5 { [%eval 0.0] } 6... Nxd5 { [%eval 0.21] } 7. exd5 { [%eval 0.12] } 7... Nd4 { [%eval 0.22] } 8. Nxd4 { [%eval 0.3] } 8... Bxd4 { [%eval 0.22] } 9. Qg4 { [%eval -0.08] } 9... O-O { [%eval 0.09] } 10. Bxh6 { [%eval -0.21] } 10... e4 { [%eval 1.18] } 11. Qxg7+ { [%eval -7.91] } 11... Bxg7 { [%eval -7.92] } 12. Bxg7 { [%eval -7.97] } 12... Kxg7 { [%eval -7.81] } 13. dxe4 { [%eval -8.05] } 13... Qe8 { [%eval -7.59] } 14. O-O { [%eval -7.61] } 14... Qxe4 { [%eval -7.6] } 15. Rae1 { [%eval -8.13] } 15... Qxc2 { [%eval -7.17] } 16. Bb3 { [%eval -7.26] } 16... Qxb2 { [%eval -7.37] } 17. Re4 { [%eval -8.05] } 17... d6 { [%eval -7.67] } 18. Rfe1 { [%eval -8.92] } 18... Bf5 { [%eval -8.55] } 19. Rf4 { [%eval -9.97] } 19... Kg6 { [%eval -8.0] } 20. g4 { [%eval -8.23] } 20... Bxg4 { [%eval -7.64] } 21. Rxg4+ { [%eval -7.57] } 21... Kf5 { [%eval -8.16] } 22. h3 { [%eval -8.86] } 22... Rfe8 { [%eval -8.84] } 23. Rd1 { [%eval -8.72] } 23... Qc3 { [%eval -8.68] } 24. Rg3 { [%eval -8.76] } 24... Qa5 { [%eval -5.71] } 25. Bc2+ { [%eval -6.28] } 25... Ke5 { [%eval -4.38] } 26. h4 { [%eval -8.52] } 26... Rh8 { [%eval -6.64] } 27. Re3+ { [%eval -6.37] } 27... Kf4 { [%eval #1] } 28. Rd4# 1-0
+
+

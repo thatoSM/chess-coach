@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/Fb58mPBQ"]
+[Date "2026.09.19"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "selcukkudu"]
+[Result "0-1"]
+[GameId "Fb58mPBQ"]
+[UTCDate "2026.09.19"]
+[UTCTime "17:59:47"]
+[WhiteElo "1154"]
+[BlackElo "1145"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C50"]
+[Opening "Italian Game: Rousseau Gambit"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. Bc4 { [%eval 0.07] } 3... f5 { [%eval 1.04] } 4. exf5 { [%eval 0.0] } 4... e4 { [%eval 0.0] } 5. Ng1 { [%eval -0.47] } 5... Nf6 { [%eval -0.31] } 6. Nc3 { [%eval -0.32] } 6... d5 { [%eval -0.34] } 7. Bb5 { [%eval -1.56] } 7... Bxf5 { [%eval -1.11] } 8. Nge2 { [%eval -1.61] } 8... Bg4 { [%eval -0.08] } 9. h3 { [%eval -0.32] } 9... Bh5 { [%eval -0.25] } 10. g4 { [%eval -0.98] } 10... Bg6 { [%eval -0.96] } 11. Nd4 { [%eval -1.16] } 11... Qd6 { [%eval -1.01] } 12. Nxc6 { [%eval -2.6] } 12... bxc6 { [%eval -2.64] } 13. Ba4 { [%eval -2.5] } 13... Be7 { [%eval -1.58] } 14. f3 { [%eval -8.06] } 14... exf3 { [%eval -5.41] } 15. Qxf3 { [%eval -5.81] } 15... O-O { [%eval -5.6] } 16. d3 { [%eval -6.4] } 16... Ne4 { [%eval -6.24] } 17. Nxe4 { [%eval -6.84] } 17... Qb4+ { [%eval -5.88] } 18. Nc3 { [%eval -6.45] } 18... Rxf3 { [%eval -6.34] } 19. Bd2 { [%eval -6.56] } 19... Qxb2 { [%eval -5.13] } 20. Rb1 { [%eval -5.5] } 20... Qa3 { [%eval -5.1] } 21. Rb3 { [%eval -5.98] } 21... Bh4+ { [%eval -6.01] } 22. Ke2 { [%eval #-11] } 22... Rf2+ { [%eval #-10] } 23. Ke3 { [%eval #-3] } 23... Qe7+ { [%eval #-5] } 24. Kd4 { [%eval #-1] } 24... Bf6# 0-1
+
+

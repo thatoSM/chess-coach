@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/IIoWUv8V"]
+[Date "2026.09.19"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "gdn28"]
+[Result "0-1"]
+[GameId "IIoWUv8V"]
+[UTCDate "2026.09.19"]
+[UTCTime "15:23:07"]
+[WhiteElo "1160"]
+[BlackElo "1164"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+105"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defense: Breyer Variation"]
+[Termination "Normal"]
+
+1. e4 Nc6 2. d4 Nf6 3. Nc3 e5 4. d5 Nb4 5. a3 Na6 6. b4 d6 7. Nf3 Be7 8. h3 O-O 9. Bb5 c6 10. dxc6 bxc6 11. Bxa6 Bxa6 12. Ne2 Nxe4 13. O-O d5 14. Re1 Nf6 15. Nxe5 Qb6 16. Be3 Qb5 17. Nc3 Qb8 18. Nxc6 Qd6 19. Nxe7+ Qxe7 20. Bc5 Qd8 21. Bxf8 Kxf8 22. Re5 d4 23. Nd5 g6 24. Nxf6 Qd6 25. Qe1 Qxf6 26. Rd5 Bb7 27. Qe5 Qc6 28. Qd6+ Kg8 29. Qxc6 Bxc6 30. Rxd4 Kg7 31. c4 Ba4 32. c5 Rc8 33. Rd7 Bxd7 34. Rd1 Ba4 35. g4 Bxd1 36. Kg2 Bc2 37. f4 Be4+ 38. Kf2 Rd8 39. Ke3 f5 40. g5 Rd3+ 41. Ke2 Rxa3 42. b5 Rb3 43. c6 Rc3 44. Kd2 Rc5 45. Ke3 Bxc6 46. bxc6 Rxc6 47. Kd4 a5 48. Kd5 Rc1 49. Ke6 a4 50. Ke5 a3 51. Ke6 a2 52. Ke5 a1=Q+ 53. Ke6 Re1+ 54. Kd5 Qd1+ 55. Kc4 Qd2 56. Kb3 Rb1+ 57. Kc4 Rc1+ 58. Kb3 Qc2+ 59. Ka3 Rb1 60. h4 Qb2+ 61. Ka4 Qa2# 0-1
+
+

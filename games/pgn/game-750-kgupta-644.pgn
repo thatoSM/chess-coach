@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/vTylLWzB"]
+[Date "2026.09.19"]
+[Round "-"]
+[White "KGupta-644"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "vTylLWzB"]
+[UTCDate "2026.09.19"]
+[UTCTime "15:10:30"]
+[WhiteElo "1197"]
+[BlackElo "1154"]
+[WhiteRatingDiff "-18"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[Termination "Normal"]
+
+1. e3 c6 2. Qf3 d5 3. e4 Nf6 4. exd5 cxd5 5. c4 Bg4 6. Qe3 e6 7. b3 Nc6 8. cxd5 Nxd5 9. Qg3 Bf5 10. Bb5 a6 11. Bxc6+ bxc6 12. Nc3 Bd6 13. Qh4 Qxh4 14. Nxd5 cxd5 15. Nf3 Qg4 16. O-O Be4 17. d3 Bxf3 18. g3 Qh3 0-1
+
+

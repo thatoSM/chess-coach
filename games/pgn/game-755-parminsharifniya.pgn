@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/wF1XYG3w"]
+[Date "2026.09.19"]
+[Round "-"]
+[White "parminsharifniya"]
+[Black "ThatoSM"]
+[Result "1/2-1/2"]
+[GameId "wF1XYG3w"]
+[UTCDate "2026.09.19"]
+[UTCTime "17:08:34"]
+[WhiteElo "1050"]
+[BlackElo "1161"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-2"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Van der Wiel Attack"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... c6 { [%eval 0.31] } 2. d4 { [%eval 0.24] } 2... d5 { [%eval 0.24] } 3. e5 { [%eval 0.33] } 3... Bf5 { [%eval 0.22] } 4. Nc3 { [%eval 0.0] } 4... e6 { [%eval 0.0] } 5. Bf4 { [%eval -0.43] } 5... Bb4 { [%eval 0.1] } 6. Nf3 { [%eval -0.09] } 6... Ne7 { [%eval -0.03] } 7. Bd3 { [%eval -0.14] } 7... Bxd3 { [%eval -0.06] } 8. Qxd3 { [%eval -0.16] } 8... Nd7 { [%eval -0.11] } 9. O-O { [%eval -0.07] } 9... Nf5 { [%eval 0.67] } 10. h3 { [%eval 0.12] } 10... h6 { [%eval 0.47] } 11. Bd2 { [%eval -0.24] } 11... Nb6 { [%eval 0.35] } 12. Be3 { [%eval -0.03] } 12... Nc4 { [%eval 0.52] } 13. Rae1 { [%eval -4.23] } 13... Ncxe3 { [%eval -0.59] } 14. fxe3 { [%eval -0.57] } 14... O-O { [%eval -0.25] } 15. Nd2 { [%eval -0.84] } 15... Qa5 { [%eval -0.43] } 16. a3 { [%eval -0.45] } 16... Bxc3 { [%eval -0.46] } 17. Qxc3 { [%eval -0.52] } 17... Qxc3 { [%eval -0.5] } 18. bxc3 { [%eval -0.61] } 18... a5 { [%eval 0.06] } 19. e4 { [%eval 0.05] } 19... Ng3 { [%eval -0.01] } 20. Rf3 { [%eval -0.3] } 20... Nxe4 { [%eval -0.17] } 21. Nxe4 { [%eval -0.22] } 21... dxe4 { [%eval -0.13] } 22. Rxe4 { [%eval -0.24] } 22... Rad8 { [%eval 0.0] } 23. Kh2 { [%eval -0.67] } 23... Kh7 { [%eval 0.19] } 24. Ref4 { [%eval -0.04] } 24... c5 { [%eval 0.0] } 25. dxc5 { [%eval -0.3] } 25... Rd2 { [%eval 0.03] } 26. Rxf7 { [%eval 0.0] } 1/2-1/2
+
+
