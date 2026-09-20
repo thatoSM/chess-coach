@@ -17,7 +17,7 @@ browser, per device. The trainer is the source of truth for my opening lines;
    - A "Why" note appears after each of my moves.
 2. **Squares.** Tap the named square. 30 seconds. "As White" and "As Black"
    board views.
-3. **Key squares.** 32 positions: plans, targets, traps, and moments from my
+3. **Key squares.** 36 positions: plans, targets, traps, and moments from my
    own games (RtsF7naM, 8QSDOF75). Tap the answer square, then read the
    explanation.
 4. **Lessons.** Spaced-repetition flashcards (35 built in) from game reviews.
@@ -28,9 +28,12 @@ browser, per device. The trainer is the source of truth for my opening lines;
 - 13 line groups, 52 sequences: Classical, Advance, Exchange, Panov, Two
   Knights, Fantasy, other 2nd moves, early queen (vs 1.e4); Slav, London,
   Colle, Blackmar-Diemer (vs 1.d4); other first moves.
-- 148 move notes, one per first-seen Black position.
-- 5 Leak #1 positions: real missed mates from EtmNt2qs, bvyvUq6w,
-  LXHTis8n, dyTIyykK and d2x1rwd1, each tagged with the failure mode.
+- 148 move notes, one per first-seen Black position. All 148 audited
+  against their actual positions; notes 30, 32 and 137 were factually
+  wrong and were rewritten.
+- 5 Leak #1 positions (EtmNt2qs, bvyvUq6w, LXHTis8n, dyTIyykK and
+  d2x1rwd1) and 4 no-calculation positions: rule of the square, king to
+  the sixth, rook behind the passer, Blackburne Shilling.
 
 ## Rules for editing it (for Claude)
 
@@ -44,6 +47,9 @@ browser, per device. The trainer is the source of truth for my opening lines;
    positions; then a headless test of the page.
 5. Moments from my games go into Key squares with the game ID in the
    question text.
+6. A note is not validated by chess.js. Check what it CLAIMS against the
+   position: is that square occupied, is that piece actually blocked,
+   can that knight actually go there?
 
 ## Fixed
 
