@@ -20,12 +20,16 @@ REPO STRUCTURE — read this first, it governs every part below:
   hand on my PC; never edit or regenerate those files.
 - `README.md`, `training/`, and every `**Lesson —` and `**The ONE thing to
   fix:**` block are HUMAN-WRITTEN. Never edit them. Numbers that change go in
-  STATS.md (Part 5), which is regenerated wholesale every night.
+  STATS.md (Part 6), which is regenerated wholesale every night.
+- The repo only ever holds my 200 most recently numbered games. Every night,
+  after syncing, anything older gets trimmed (Part 5) — see that part for the
+  exact rule, including the one exception (Game 1).
 
-Your job tonight has FOUR parts: (1) sync any new finished games as DRAFT
+Your job tonight has FIVE parts: (1) sync any new finished games as DRAFT
 entries, (2) backfill real computer-analysis data into existing draft entries
 that are now analysed on Lichess, (3) backfill my Elo into old entry headings
-that don't have it yet, and (4) remove any zero-move games that slipped in.
+that don't have it yet, (4) remove any zero-move games that slipped in, and
+(5) trim the repo back down to the 200 most recent games.
 
 === PART 1 — SYNC NEW GAMES ===
 
@@ -249,7 +253,43 @@ Do NOT renumber the remaining games — just remove the bad entry and leave a ga
 in the numbering. This should be rare; most nights there will be nothing to
 remove here.
 
-=== PART 5 — REGENERATE STATS.md ===
+=== PART 5 — TRIM TO THE LAST 200 GAMES ===
+
+The repo holds a rolling window, not the full history: only the 200 most
+recently numbered games stay. Run this every night, after Parts 1–4, so it
+sees tonight's final highest game number.
+
+STEP 1 — Find the cutoff. Read the highest game number from `games/game-log.md`
+(same method as Part 1 Step 1). The cutoff is (highest − 200): every game
+numbered at or below the cutoff is removed tonight; every game numbered above
+it stays. If the cutoff is 0 or negative (fewer than 200 games logged total),
+there is nothing to trim — skip the rest of this part.
+
+STEP 2 — For every game at or below the cutoff, remove all three traces of it,
+exactly like Part 4:
+
+1. Delete the entire `## Game N — ...` entry block from its detail file (from
+   its heading down to and including the following `---` divider).
+2. Delete its corresponding PGN file from `games/pgn/`.
+3. Delete its row from the table in `games/game-log.md`.
+
+THE ONE EXCEPTION — Game 1 ("profile snapshot") is not a played game and has
+no PGN or Lichess link. Never remove it, no matter what the cutoff is, and
+never remove `## The through-line` at the bottom of whichever file holds it
+(same rule as `docs/03-my-recurring-mistakes.md` — that section requires real
+human analysis).
+
+STEP 3 — If a detail file (`games/logs/games-NNN-NNN.md`) ends up with zero
+`## Game` entries after trimming, delete the file itself and drop its line
+from `.repomixignore` if it has one. If it still holds anything (Game 1's
+entry and/or `## The through-line`), keep the file even if every other game in
+it was trimmed.
+
+Do NOT renumber the games that remain — a game's number never changes across
+its lifetime in the repo. Numbering will have gaps below the cutoff forever;
+that's expected.
+
+=== PART 6 — REGENERATE STATS.md ===
 
 Run this every night. It is purely mechanical — never write interpretation,
 narrative, or analysis into this file.
@@ -314,7 +354,7 @@ Do NOT compute this from the Lichess API — the API doesn't expose my colour
 cheaply, and game-log.md is the authoritative record here.
 
 HARD LIMITS ON THIS PART:
-- STATS.md is the ONLY file you may write in Part 5.
+- STATS.md is the ONLY file you may write in Part 6.
 - Never edit README.md, docs/, training/, or any file in games/.
 - Never write a sentence of analysis, a leak number, or a "what this means"
   line into STATS.md. Numbers and tables only.
@@ -323,9 +363,10 @@ HARD LIMITS ON THIS PART:
 === COMMIT AND PUSH ===
 
 If you made ANY changes (new games, backfilled analysis, backfilled old
-headings with my Elo, and/or removed zero-move games): stage everything
-changed, commit with a clear message describing what happened, and push
-straight to `origin main`. Never open a pull request, never push to a side
-branch. If nothing changed at all, skip committing entirely.
+headings with my Elo, removed zero-move games, and/or trimmed old games):
+stage everything changed, commit with a clear message describing what
+happened, and push straight to `origin main`. Never open a pull request,
+never push to a side branch. If nothing changed at all, skip committing
+entirely.
 
 After committing and pushing, run `npx repomix` in the repo root.
