@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/mM0IUiLm"]
+[Date "2026.09.19"]
+[Round "-"]
+[White "bariqdharmawan"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "mM0IUiLm"]
+[UTCDate "2026.09.19"]
+[UTCTime "19:19:50"]
+[WhiteElo "1134"]
+[BlackElo "1160"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "A00"]
+[Opening "Ware Opening: Symmetric Variation"]
+[Termination "Normal"]
+
+1. a4 { [%eval -0.21] } 1... a5 { [%eval 0.34] } 2. Nc3 { [%eval 0.2] } 2... e5 { [%eval 0.16] } 3. Nd5 { [%eval -1.0] } 3... c6 4. Ne3 0-1
+
+

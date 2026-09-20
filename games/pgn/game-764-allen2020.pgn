@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/BDOIwbFz"]
+[Date "2026.09.20"]
+[Round "-"]
+[White "Allen2020"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "BDOIwbFz"]
+[UTCDate "2026.09.20"]
+[UTCTime "06:56:05"]
+[WhiteElo "1226"]
+[BlackElo "1159"]
+[WhiteRatingDiff "-178"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.18] } 1... c6 { [%eval 0.31] } 2. Nc3 { [%eval 0.21] } 2... d5 { [%eval 0.38] } 3. Nxd5 { [%eval -3.07] } 3... cxd5 { [%eval -3.09] } 4. exd5 { [%eval -3.14] } 4... Qxd5 { [%eval -3.08] } 5. Rb1 { [%eval -5.44] } 5... Qxa2 { [%eval -4.63] } 6. Ra1 { [%eval -5.73] } 6... Qxa1 { [%eval -5.75] } 7. Ba6 { [%eval -8.06] } 7... Qxa6 { [%eval -8.13] } 8. Ne2 { [%eval -8.19] } 8... Qg6 { [%eval -7.44] } 9. Rf1 { [%eval -8.5] } 9... Qxg2 { [%eval -8.33] } 10. Rg1 { [%eval -8.24] } 10... Qxh2 { [%eval -7.75] } 11. Rg2 { [%eval -10.22] } 11... Qxg2 { [%eval -10.19] } 12. Ng3 { [%eval -10.52] } 12... Qh2 { [%eval -10.1] } 13. Nh1 { [%eval #-4] } 13... Qxh1+ { [%eval #-3] } 14. Ke2 { [%eval #-3] } 14... Qxd1+ { [%eval -12.31] } 15. Kxd1 { [%eval -12.35] } 15... e5 { [%eval -11.79] } 16. Ke1 { [%eval -12.03] } 16... Bf5 { [%eval -11.96] } 17. f4 { [%eval -11.73] } 17... exf4 { [%eval -11.75] } 18. d3 { [%eval -11.93] } 18... Nc6 { [%eval -11.86] } 19. Bxf4 { [%eval -11.69] } 19... Bb4+ { [%eval -11.33] } 20. Kd1 { [%eval -11.82] } 20... Nge7 { [%eval -11.62] } 21. Be5 { [%eval -12.61] } 21... O-O { [%eval -11.89] } 0-1
+
+

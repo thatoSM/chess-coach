@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/8QSDOF75"]
+[Date "2026.09.20"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "TikhiniaLev91"]
+[Result "1-0"]
+[GameId "8QSDOF75"]
+[UTCDate "2026.09.20"]
+[UTCTime "09:36:23"]
+[WhiteElo "1168"]
+[BlackElo "1202"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C54"]
+[Opening "Italian Game: Classical Variation, Greco Gambit, Traditional Line"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. Bc4 { [%eval 0.07] } 3... Bc5 { [%eval 0.2] } 4. c3 { [%eval 0.09] } 4... Nf6 { [%eval 0.13] } 5. d4 { [%eval 0.0] } 5... exd4 { [%eval 0.18] } 6. cxd4 { [%eval -0.01] } 6... Bb4+ { [%eval 0.0] } 7. Bd2 { [%eval -0.05] } 7... Bxd2+ { [%eval 0.07] } 8. Qxd2 { [%eval -0.42] } 8... O-O { [%eval 0.23] } 9. e5 { [%eval 0.24] } 9... Ne4 { [%eval 0.31] } 10. Qf4 { [%eval 0.21] } 10... b5 { [%eval 3.11] } 11. Bxb5 { [%eval 2.07] } 11... Nb4 { [%eval 3.96] } 12. Qxe4 { [%eval 3.96] } 12... Ba6 { [%eval 5.29] } 13. Bxa6 { [%eval 5.24] } 13... Nxa6 { [%eval 5.32] } 14. O-O { [%eval 5.08] } 14... Qb8 { [%eval 5.71] } 15. b3 { [%eval 5.62] } 15... Re8 { [%eval 6.37] } 16. Nbd2 { [%eval 5.41] } 16... d5 { [%eval 5.65] } 17. Qxd5 { [%eval 5.66] } 17... Nb4 { [%eval 5.61] } 18. Qe4 { [%eval 5.62] } 18... Qb5 { [%eval 5.88] } 19. Nc4 { [%eval 5.6] } 19... c6 { [%eval 6.77] } 20. Rfd1 { [%eval 5.7] } 20... Nd5 { [%eval 6.77] } 21. Qh4 { [%eval 5.29] } 21... Nc3 { [%eval 6.18] } 22. Rd2 { [%eval 5.12] } 22... Qb6 { [%eval 7.5] } 23. Ng5 { [%eval 7.2] } 23... h6 { [%eval 7.18] } 24. Ne4 { [%eval 5.86] } 24... Qb4 { [%eval 5.89] } 25. Nxc3 { [%eval 5.8] } 25... Qxc3 { [%eval 5.72] } 26. Rdd1 { [%eval 5.7] } 26... g5 { [%eval 7.35] } 27. Qe4 { [%eval 6.73] } 27... Rac8 { [%eval 7.41] } 28. Nd6 { [%eval 7.54] } 28... Rf8 { [%eval 8.28] } 29. Nxc8 { [%eval 8.17] } 29... Rxc8 { [%eval 7.88] } 30. Rdc1 { [%eval 7.49] } 30... Qd2 { [%eval 7.74] } 31. Rc2 { [%eval 7.45] } 31... Qa5 { [%eval 8.74] } 32. Rxc6 { [%eval 8.46] } 32... Rxc6 { [%eval 8.22] } 33. Qxc6 { [%eval 8.16] } 33... Qa3 { [%eval 8.41] } 34. d5 { [%eval 8.32] } 34... Qb2 { [%eval 8.22] } 35. Rf1 { [%eval 8.6] } 35... Qxe5 { [%eval 9.1] } 36. Rd1 { [%eval 8.21] } 36... Qe2 { [%eval 8.19] } 37. Rf1 { [%eval 8.06] } 37... Qxa2 { [%eval 10.89] } 38. d6 { [%eval 10.0] } 38... Qxb3 { [%eval #11] } 39. Qc8+ { [%eval #10] } 39... Kg7 { [%eval #10] } 40. d7 { [%eval #9] } 40... Qe6 { [%eval #10] } 41. d8=Q { [%eval 10.24] } 41... Qa2 { [%eval #4] } 42. Qc3+ { [%eval #3] } 42... Kg6 { [%eval #2] } 43. Qcf6+ { [%eval #2] } 43... Kh5 { [%eval #2] } 44. Qd1+ { [%eval #2] } 44... Kh4 { [%eval #1] } 45. Qff3 { [%eval #1] } 45... Qxf2+ { [%eval #1] } 46. Rxf2 { [%eval #1] } 46... h5 { [%eval #1] } 47. Qg3# 1-0
+
+

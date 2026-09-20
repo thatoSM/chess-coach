@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/AzJDh4nw"]
+[Date "2026.09.20"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "DimaZverev0602"]
+[Result "1-0"]
+[GameId "AzJDh4nw"]
+[UTCDate "2026.09.20"]
+[UTCTime "07:12:14"]
+[WhiteElo "1158"]
+[BlackElo "1122"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-46"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C44"]
+[Opening "Scotch Game: Scotch Gambit, Dubois Réti Defense"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. Nxd4 Nxe4 6. Nxc6 bxc6 7. Qe2 d5 8. Bd3 f5 9. f3 f4 10. fxe4 d4 11. Bxf4 Qe7 12. Bg3 c5 13. c3 dxc3 14. Nxc3 Qd7 15. O-O-O Qe6 16. Bb5+ c6 17. Ba4 Bd6 18. Bxd6 Qd7 19. Bg3 Qe7 20. Qf3 Ba6 21. Bxc6+ Qd7 22. Bxd7+ Ke7 23. Qf5 Bc4 24. Bd6+ Kd8 25. Bb5 Bxb5 26. Nxb5 Ke8 27. Qe5+ Kd7 28. Qe7+ Kc6 29. a4 Rac8 30. Nxa7+ Kb6 31. Nxc8+ Rxc8 32. Rd5 Ka5 33. Rxc5+ Rxc5+ 34. Bxc5 Kxa4 35. Qb7 Ka5 36. Kc2 Ka4 37. Ra1# 1-0
+
+

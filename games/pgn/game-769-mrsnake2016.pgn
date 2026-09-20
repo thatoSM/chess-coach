@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/kbZOpMWi"]
+[Date "2026.09.20"]
+[Round "-"]
+[White "mrsnake2016"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "kbZOpMWi"]
+[UTCDate "2026.09.20"]
+[UTCTime "10:34:47"]
+[WhiteElo "1210"]
+[BlackElo "1174"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense: Two Knights Attack"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... c6 { [%eval 0.31] } 2. Nf3 { [%eval 0.17] } 2... d5 { [%eval 0.21] } 3. Nc3 { [%eval 0.2] } 3... dxe4 { [%eval 0.16] } 4. Nxe4 { [%eval 0.12] } 4... Bf5 { [%eval 0.37] } 5. Nc3 { [%eval 0.0] } 5... e6 { [%eval -0.05] } 6. Nh4 { [%eval -5.3] } 6... Qxh4 { [%eval -5.31] } 0-1
+
+

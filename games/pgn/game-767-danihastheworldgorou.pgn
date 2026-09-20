@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/mpyQK4PA"]
+[Date "2026.09.20"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "DaniHasTheWorldGoRou"]
+[Result "1-0"]
+[GameId "mpyQK4PA"]
+[UTCDate "2026.09.20"]
+[UTCTime "07:29:40"]
+[WhiteElo "1163"]
+[BlackElo "1132"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C50"]
+[Opening "Italian Game"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. Bc4 { [%eval 0.07] } 3... a6 { [%eval 0.74] } 4. O-O { [%eval 0.54] } 4... b5 { [%eval 1.14] } 5. Bd5 { [%eval 1.0] } 5... Bb7 { [%eval 2.02] } 6. Nxe5 { [%eval 2.03] } 6... Nxe5 { [%eval 2.03] } 7. Bxb7 { [%eval 2.07] } 7... Ra7 { [%eval 4.12] } 8. Bd5 { [%eval 4.18] } 8... c6 { [%eval 4.83] } 9. Bb3 { [%eval 4.87] } 9... Nf6 { [%eval 5.41] } 10. Re1 { [%eval 3.73] } 10... Neg4 { [%eval 6.96] } 11. h3 { [%eval 5.81] } 11... Ne5 { [%eval 5.68] } 12. d4 { [%eval 5.77] } 12... Ng6 { [%eval 5.73] } 13. e5 { [%eval 5.73] } 13... Nd5 { [%eval 5.7] } 14. Bxd5 { [%eval 5.05] } 14... cxd5 { [%eval 4.84] } 15. Qf3 { [%eval 4.61] } 15... Qa8 { [%eval 5.36] } 16. Bg5 { [%eval 3.43] } 16... h6 { [%eval 4.33] } 17. Bd2 { [%eval 4.41] } 17... Nh4 { [%eval 4.18] } 18. Qg4 { [%eval 4.94] } 18... Ng6 { [%eval 4.96] } 19. g3 { [%eval 3.9] } 19... h5 { [%eval 3.73] } 20. Qf3 { [%eval 4.15] } 20... Be7 { [%eval 5.54] } 21. h4 { [%eval 4.5] } 21... Rc7 { [%eval 5.14] } 22. c3 { [%eval 3.15] } 22... Kf8 { [%eval 5.38] } 23. Bf4 { [%eval 2.87] } 23... Nxf4 { [%eval 3.13] } 24. Qxf4 { [%eval 3.1] } 24... Rc6 { [%eval 3.75] } 25. Nd2 { [%eval 3.64] } 25... Rhh6 { [%eval 4.27] } 26. Qf3 { [%eval 3.63] } 26... Rcg6 { [%eval 3.69] } 27. Qe3 { [%eval 0.48] } 27... Re6 { [%eval 4.12] } 28. Nf3 { [%eval 4.0] } 28... f6 { [%eval 5.72] } 29. Qf4 { [%eval 5.14] } 29... Kg8 { [%eval 4.44] } 30. Qd2 { [%eval 4.19] } 30... f5 { [%eval 3.92] } 31. Ng5 { [%eval 3.88] } 31... Reg6 { [%eval 4.3] } 32. Qf4 { [%eval 4.02] } 32... Qf8 { [%eval 4.49] } 33. Re2 { [%eval 4.05] } 33... Bxg5 { [%eval 3.94] } 34. hxg5 { [%eval 3.76] } 34... Rh7 { [%eval 5.65] } 35. Rae1 { [%eval 4.2] } 35... a5 { [%eval 9.2] } 36. e6 { [%eval 9.72] } 36... dxe6 { [%eval 9.67] } 37. Rxe6 { [%eval 9.63] } 37... Rxe6 { [%eval 9.37] } 38. Rxe6 { [%eval 9.03] } 1-0
+
+

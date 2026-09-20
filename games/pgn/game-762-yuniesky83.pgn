@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/p2a1ceJP"]
+[Date "2026.09.19"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "Yuniesky83"]
+[Result "0-1"]
+[GameId "p2a1ceJP"]
+[UTCDate "2026.09.19"]
+[UTCTime "19:47:25"]
+[WhiteElo "1169"]
+[BlackElo "1259"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "C40"]
+[Opening "King's Pawn Game: Busch-Gass Gambit"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Bc5 { [%eval 1.81] } 3. c3 { [%eval 0.46] } 3... Nc6 { [%eval 0.88] } 4. d4 { [%eval 0.88] } 4... Bb6 { [%eval 1.26] } 5. d5 { [%eval 1.15] } 5... Nce7 { [%eval 1.54] } 6. Nxe5 { [%eval 1.6] } 6... d6 { [%eval 1.51] } 7. Nf3 { [%eval 0.66] } 7... Nf6 { [%eval 0.96] } 8. Bd3 { [%eval 1.28] } 8... Ng4 { [%eval 1.99] } 9. O-O { [%eval 1.88] } 9... O-O { [%eval 2.19] } 10. h3 { [%eval 1.94] } 10... Nf6 { [%eval 2.51] } 11. Re1 { [%eval 2.45] } 11... h6 { [%eval 2.59] } 12. Be3 { [%eval 2.54] } 12... c6 { [%eval 2.94] } 13. Nbd2 { [%eval 0.77] } 13... cxd5 { [%eval 0.82] } 14. exd5 { [%eval 0.36] } 14... Nexd5 { [%eval 0.51] } 15. Bxb6 { [%eval 0.57] } 15... Qxb6 { [%eval 0.57] } 16. b4 { [%eval -0.45] } 16... Bd7 { [%eval 0.19] } 17. Qc2 { [%eval -0.08] } 17... Rae8 { [%eval 0.32] } 18. Rxe8 { [%eval 0.0] } 18... Rxe8 { [%eval 0.0] } 19. Ne4 { [%eval -0.62] } 19... Nxe4 { [%eval -0.61] } 20. Bxe4 { [%eval -0.72] } 20... Qc6 { [%eval 3.55] } 21. Qb3 { [%eval -7.15] } 21... Rxe4 { [%eval -7.05] } 22. Nd4 { [%eval -7.71] } 22... Qxc3 { [%eval -7.62] } 23. Qxc3 { [%eval -7.43] } 23... Nxc3 { [%eval -7.16] } 24. Rc1 { [%eval -7.53] } 24... Rxd4 { [%eval -7.44] } 25. Rxc3 { [%eval -7.29] } 25... Rxb4 { [%eval -7.2] } 26. Rc7 { [%eval -7.47] } 26... Be6 { [%eval -7.41] } 27. a3 { [%eval -7.93] } 27... Ra4 { [%eval -7.71] } 28. Rxb7 { [%eval -7.84] } 28... Rxa3 { [%eval -7.62] } 29. Rb8+ { [%eval -7.82] } 29... Kh7 { [%eval -7.88] } 30. g4 { [%eval -7.98] } 30... d5 { [%eval -7.53] } 31. f4 { [%eval -7.45] } 31... a5 { [%eval -6.87] } 32. f5 { [%eval -7.27] } 32... Bd7 { [%eval -7.31] } 33. Rb7 { [%eval -7.44] } 33... Ba4 { [%eval -7.43] } 34. Rxf7 { [%eval -6.97] } 34... d4 { [%eval -7.14] } 35. f6 { [%eval -8.92] } 35... d3 { [%eval -8.56] } 36. fxg7 { [%eval -11.37] } 36... Kg8 { [%eval -7.0] } 37. Kf1 { [%eval #-8] } 37... d2 { [%eval #-12] } 38. Ke2 { [%eval #-4] } 38... d1=Q+ { [%eval #-3] } 39. Kf2 { [%eval #-3] } 0-1
+
+

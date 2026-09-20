@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/5E5CuBiR"]
+[Date "2026.09.19"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "valerioneto"]
+[Result "0-1"]
+[GameId "5E5CuBiR"]
+[UTCDate "2026.09.19"]
+[UTCTime "20:06:53"]
+[WhiteElo "1165"]
+[BlackElo "1168"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "C41"]
+[Opening "Philidor Defense"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... d6 { [%eval 0.55] } 3. Bc4 { [%eval 0.23] } 3... Bg4 { [%eval 0.63] } 4. h3 { [%eval 0.66] } 4... Bxf3 { [%eval 0.78] } 5. Qxf3 { [%eval 0.72] } 5... Nf6 { [%eval 1.39] } 6. Nc3 { [%eval 0.37] } 6... Nc6 { [%eval 0.53] } 7. Bd5 { [%eval -0.36] } 7... Nd4 { [%eval -0.32] } 8. Qd1 { [%eval -0.26] } 8... c6 { [%eval -0.16] } 9. Bb3 { [%eval -0.24] } 9... Nxb3 { [%eval 0.24] } 10. axb3 { [%eval 0.14] } 10... Be7 { [%eval 0.18] } 11. d4 { [%eval 0.18] } 11... exd4 { [%eval 0.18] } 12. Qxd4 { [%eval 0.2] } 12... O-O { [%eval 0.8] } 13. g4 { [%eval -0.25] } 13... h6 { [%eval 0.25] } 14. Rg1 { [%eval -0.31] } 14... g5 { [%eval 1.04] } 15. h4 { [%eval 1.21] } 15... gxh4 { [%eval 3.65] } 16. Bxh6 { [%eval 3.67] } 16... Re8 { [%eval 3.29] } 17. f3 { [%eval 1.71] } 17... c5 { [%eval 4.02] } 18. Qf2 { [%eval 4.29] } 18... Nd7 { [%eval 4.82] } 19. g5 { [%eval 4.76] } 19... f6 { [%eval #8] } 20. gxf6+ { [%eval #7] } 20... Kh7 { [%eval #6] } 21. Qxh4 { [%eval #5] } 21... Nxf6 { [%eval #2] } 22. Qg5 { [%eval #4] } 22... Rg8 { [%eval #3] } 23. Qf5+ { [%eval 5.85] } 23... Kxh6 { [%eval #3] } 24. Rh1+ { [%eval 4.0] } 24... Kg7 { [%eval 3.56] } 25. Qh7+ { [%eval -5.66] } 25... Nxh7 { [%eval -5.46] } 0-1
+
+

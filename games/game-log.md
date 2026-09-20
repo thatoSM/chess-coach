@@ -25,6 +25,19 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 770 | WIN | Black | mrsnake2016 (1189) | *pending* |
+| 769 | WIN | Black | mrsnake2016 (1210) | *pending* |
+| 768 | WIN | White | TikhiniaLev91 (1202) | *pending* |
+| 767 | WIN | White | DaniHasTheWorldGoRou (1132) | *pending* |
+| 766 | WIN | White | DimaZverev0602 (1122) | *pending* |
+| 765 | LOSS | Black | beyazatlar (1128) | *pending* |
+| 764 | WIN | Black | Allen2020 (1226) | *pending* |
+| 763 | LOSS | White | valerioneto (1168) | *pending* |
+| 762 | LOSS | White | Yuniesky83 (1259) | *pending* |
+| 761 | WIN | Black | RedMasterrr (1060) | *pending* |
+| 760 | WIN | Black | bariqdharmawan (1134) | *pending* |
+| 759 | WIN | White | Batyoushaiy (1195) | *pending* |
+| 758 | WIN | Black | esmaeilnazarpour (1081) | *pending* |
 | 757 | LOSS | White | selcukkudu (1145) | no win (auto) |
 | 756 | LOSS | Black | teufion (1188) | no win (auto) |
 | 755 | DRAW | Black | parminsharifniya (1050) | #1 x1 (auto) |
@@ -212,19 +225,6 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 | 573 | WIN | White | catanddogtrainer (1123) | #1 x1 (auto) |
 | 572 | DRAW | Black | Hefnawy99 (1040) | #1 x1 (auto) |
 | 571 | WIN | Black | lam050708 (1098) | #1 x1 (auto) |
-| 570 | WIN | White | Ratnesh1996 (1116) | #1 x2 (auto) |
-| 569 | WIN | Black | Antananarivochess (1110) | #1 x3 (auto) |
-| 568 | WIN | White | drakeahmad (1023) | clean (auto) |
-| 567 | WIN | White | eliastohidimoghdam (1041) | #1 x2 (auto) |
-| 566 | LOSS | Black | Lujimotive (1031) | #1 x1 (auto) |
-| 565 | WIN | White | mhs83 (1094) | clean (auto) |
-| 564 | WIN | Black | Nuutan (1097) | #1 x3 (auto) |
-| 563 | WIN | White | heljarskinn458 (1100) | #1 x1 (auto) |
-| 562 | LOSS | White | Medicfromtf2 (1056) | #1 x3 (auto) |
-| 561 | LOSS | Black | MohamEd_108 (1096) | no win (auto) |
-| 560 | LOSS | White | Ocherednaya_A-2015 (1117) | clean (auto) |
-| 559 | LOSS | White | Buddhananas (1049) | #1 x1 (auto) |
-| 558 | WIN | Black | Lowenzahn71 (1136) | no win (auto) |
 | 1 | — | — | *profile snapshot* | — |
 
 ---

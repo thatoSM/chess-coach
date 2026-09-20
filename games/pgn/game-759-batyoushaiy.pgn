@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/Q0mClcSM"]
+[Date "2026.09.19"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "Batyoushaiy"]
+[Result "1-0"]
+[GameId "Q0mClcSM"]
+[UTCDate "2026.09.19"]
+[UTCTime "19:15:09"]
+[WhiteElo "1153"]
+[BlackElo "1195"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Classical Variation"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... d5 { [%eval 0.54] } 2. exd5 { [%eval 0.51] } 2... Qxd5 { [%eval 0.52] } 3. Nc3 { [%eval 0.47] } 3... Qa5 { [%eval 0.57] } 4. d4 { [%eval 0.5] } 4... Nf6 { [%eval 0.56] } 5. Nf3 { [%eval 0.5] } 5... Bf5 { [%eval 0.72] } 6. Bd3 { [%eval 0.12] } 6... Bxd3 { [%eval 0.27] } 7. Qxd3 { [%eval 0.15] } 7... e6 { [%eval 0.23] } 8. Qb5+ { [%eval 0.08] } 8... Nc6 { [%eval 5.09] } 9. Qxb7 { [%eval 5.07] } 1-0
+
+
