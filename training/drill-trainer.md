@@ -29,8 +29,8 @@ browser, per device. The trainer is the source of truth for my opening lines;
   Knights, Fantasy, other 2nd moves, early queen (vs 1.e4); Slav, London,
   Colle, Blackmar-Diemer (vs 1.d4); other first moves.
 - 148 move notes, one per first-seen Black position.
-- 5 Leak #1 positions: real missed mates from Y3Kv4gW3, NrqqHy6s,
-  jXbD9Hx4, Ioxb2Pab and CvarQfXV, each tagged with the failure mode.
+- 5 Leak #1 positions: real missed mates from EtmNt2qs, bvyvUq6w,
+  LXHTis8n, dyTIyykK and d2x1rwd1, each tagged with the failure mode.
 
 ## Rules for editing it (for Claude)
 
