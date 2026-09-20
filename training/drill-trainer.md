@@ -17,11 +17,11 @@ browser, per device. The trainer is the source of truth for my opening lines;
    - A "Why" note appears after each of my moves.
 2. **Squares.** Tap the named square. 30 seconds. "As White" and "As Black"
    board views.
-3. **Key squares.** 27 positions: plans, targets, traps, and moments from my
+3. **Key squares.** 32 positions: plans, targets, traps, and moments from my
    own games (RtsF7naM, 8QSDOF75). Tap the answer square, then read the
    explanation.
-4. **Lessons.** Spaced-repetition flashcards (28 built in) plus my own cards
-   from game reviews. Intervals: 1, 3, 7, 14, 30 days.
+4. **Lessons.** Spaced-repetition flashcards (35 built in) from game reviews.
+   Intervals: 1, 3, 7, 14, 30 days.
 
 ## What's in it
 
@@ -29,6 +29,8 @@ browser, per device. The trainer is the source of truth for my opening lines;
   Knights, Fantasy, other 2nd moves, early queen (vs 1.e4); Slav, London,
   Colle, Blackmar-Diemer (vs 1.d4); other first moves.
 - 148 move notes, one per first-seen Black position.
+- 5 Leak #1 positions: real missed mates from Y3Kv4gW3, NrqqHy6s,
+  jXbD9Hx4, Ioxb2Pab and CvarQfXV, each tagged with the failure mode.
 
 ## Rules for editing it (for Claude)
 
@@ -43,8 +45,9 @@ browser, per device. The trainer is the source of truth for my opening lines;
 5. Moments from my games go into Key squares with the game ID in the
    question text.
 
-## Known issue to fix (my call)
+## Fixed
 
-The Lessons card "What do you check before EVERY move?" answers "checks,
-captures and threats." My documented fix is **mate → checks → captures**,
-as a trigger when winning, not on every move (`training/board-card.md`).
+The Lessons card "What do you check before EVERY move?" and the on-screen
+tip in Openings mode both still taught the retired every-move scan. Both
+now teach the triggers: the card is Trigger 1 (mate -> checks -> captures,
+when winning), the tip is Trigger 3 (what does their move attack?).
