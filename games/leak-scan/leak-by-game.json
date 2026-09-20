@@ -1,0 +1,7862 @@
+[
+ {
+  "id": "1ySpurxD",
+  "date": "2026-07-20",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Scotch Game",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "jKYDsnv8",
+  "date": "2026-07-20",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "TNgTjjMs",
+  "date": "2026-07-20",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "King's Pawn Game: Wayward Queen Attack",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "tddMnvoH",
+  "date": "2026-07-20",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Scandinavian Defense: Mieses-Kotroc Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "IuQsTkx9",
+  "date": "2026-07-20",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "bmRySdNn",
+  "date": "2026-07-21",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Mieses Opening: Reversed Rat",
+  "reached_win": true,
+  "label": "#1 x3",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "4HXb4RPb",
+  "date": "2026-07-21",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Italian Game: Two Knights Defense, Knight Attack",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "BrW0wpIC",
+  "date": "2026-07-21",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "99m4U9Rv",
+  "date": "2026-07-21",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Three Knights Opening",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "YUdbsaKK",
+  "date": "2026-07-21",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game",
+  "reached_win": true,
+  "label": "#1 x6",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "EL99vlEU",
+  "date": "2026-07-22",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Italian Game: Giuoco Pianissimo",
+  "reached_win": true,
+  "label": "#1 x3",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "wiUv3aZ4",
+  "date": "2026-07-22",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "King's Pawn Game: Busch-Gass Gambit",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "K5Cnc4Vq",
+  "date": "2026-07-22",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Four Knights Game",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "n8ZrcCwz",
+  "date": "2026-07-22",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Three Knights Opening",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "cuE9izjv",
+  "date": "2026-07-22",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Queen's Pawn Game: Accelerated London System",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "LdtrBHwL",
+  "date": "2026-07-22",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Queen's Gambit Declined: Chigorin Defense",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "RzfdFn5d",
+  "date": "2026-07-22",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Italian Game: Paris Defense",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "Y5LS37y4",
+  "date": "2026-07-23",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Italian Game: Evans Gambit Accepted",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "yWgkYlTY",
+  "date": "2026-07-23",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Italian Game: Giuoco Pianissimo",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "WKwN6Osk",
+  "date": "2026-07-23",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "BL2iiQ42",
+  "date": "2026-07-23",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Scandinavian Defense: Mieses-Kotroc Variation",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "Gd3gp7qb",
+  "date": "2026-07-23",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Bishop's Opening: Berlin Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "ww3FzuD8",
+  "date": "2026-07-23",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Irish Gambit",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "6Vqia8ic",
+  "date": "2026-07-24",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Mikenas Defense",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "1vuo9s0B",
+  "date": "2026-07-24",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Queen's Gambit Accepted: Central Variation, Alekhine System",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "DISYLljj",
+  "date": "2026-07-24",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Elephant Gambit: Paulsen Countergambit",
+  "reached_win": true,
+  "label": "#1 x3",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "dCPIkNGu",
+  "date": "2026-07-24",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Four Knights Game: Spanish Variation, Classical Variation",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "q56Hfkjb",
+  "date": "2026-07-25",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "King's Pawn Game: Napoleon Attack",
+  "reached_win": true,
+  "label": "#1 x3",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "iNwPLhcu",
+  "date": "2026-07-25",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "#1 x3",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "OgYbDzWr",
+  "date": "2026-07-25",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Three Knights Opening",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "YxtNXPjO",
+  "date": "2026-07-25",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "ogFPsbqX",
+  "date": "2026-07-25",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Queen's Pawn Game: Accelerated London System",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "V49fceDL",
+  "date": "2026-07-25",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "qh94Xx2g",
+  "date": "2026-07-26",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Italian Game: Giuoco Piano",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "cZmwOEVK",
+  "date": "2026-07-26",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "King's Pawn Game: Wayward Queen Attack",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "Uo8erzXG",
+  "date": "2026-07-26",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "King's Pawn Game: Busch-Gass Gambit",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "2vLzuzL2",
+  "date": "2026-07-26",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "Q5KjLCNz",
+  "date": "2026-07-26",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "uzWiebbi",
+  "date": "2026-07-27",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Italian Game: Anti-Fried Liver Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "U4JeXOYB",
+  "date": "2026-07-27",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Petrov's Defense: Italian Variation",
+  "reached_win": true,
+  "label": "#1 x3",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "DTeaUUTI",
+  "date": "2026-07-27",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "bdIYzZni",
+  "date": "2026-07-28",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Ruy Lopez: Berlin Defense, Anti-Berlin Variation",
+  "reached_win": true,
+  "label": "#1 x3",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "j9fTnhKM",
+  "date": "2026-07-28",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game: Giuoco Piano",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "X4ZzlBaT",
+  "date": "2026-07-28",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Scotch Game",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "STOlKAin",
+  "date": "2026-07-28",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Queen's Pawn Game: Accelerated London System",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "5MSpOtqa",
+  "date": "2026-07-28",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Queen's Gambit Declined: Chigorin Defense",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "AfDFvPd9",
+  "date": "2026-07-28",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "#1 x3",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "mbHl3Ybl",
+  "date": "2026-07-29",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "p4N9lzno",
+  "date": "2026-07-29",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "French Defense",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "mWdR1i2R",
+  "date": "2026-07-29",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "J8xB213W",
+  "date": "2026-07-29",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "gGP3SzuK",
+  "date": "2026-07-29",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "ztyU5exA",
+  "date": "2026-07-29",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Queen's Pawn Game: Accelerated London System",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "cgYF8YgR",
+  "date": "2026-07-29",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Caro-Kann Defense",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "SL1lenaL",
+  "date": "2026-07-29",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game: Giuoco Piano",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "Wy1M8OYQ",
+  "date": "2026-07-29",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "King's Knight Opening: Normal Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "6DCNXsRu",
+  "date": "2026-07-30",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Bishop's Opening: Vienna Hybrid, Spielmann Attack",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "G9ZL0pV1",
+  "date": "2026-07-30",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Pirc Defense",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "BUqKSmpi",
+  "date": "2026-07-30",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "King's Pawn Game: Wayward Queen Attack",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "gzSLsOUb",
+  "date": "2026-07-30",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "King's Pawn Game: Damiano Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "rUcIIfKh",
+  "date": "2026-07-30",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Barnes Opening: Walkerling",
+  "reached_win": true,
+  "label": "#1 x3",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "LGHaF8gj",
+  "date": "2026-07-31",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Elephant Gambit: Paulsen Countergambit",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "YRHBy6JF",
+  "date": "2026-07-31",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Sicilian Defense: Bowdler Attack",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "jeh8Fn3t",
+  "date": "2026-07-31",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "B5pAtVDT",
+  "date": "2026-07-31",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Scotch Game: Schmidt Variation",
+  "reached_win": true,
+  "label": "#1 x3",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "F82JQuvC",
+  "date": "2026-07-31",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "#1 x5",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "0ZCzjUFy",
+  "date": "2026-07-31",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Three Knights Opening",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "RkPK5crI",
+  "date": "2026-07-31",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "King's Pawn Game: Busch-Gass Gambit",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "Ax8j5RpM",
+  "date": "2026-07-31",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Barnes Opening: Walkerling",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "2aHCBGRS",
+  "date": "2026-07-31",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Queen's Pawn Game: Zukertort Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "xHxJvPnA",
+  "date": "2026-07-31",
+  "colour": "White",
+  "result": "DRAW",
+  "opening": "Philidor Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "HoRvvHVG",
+  "date": "2026-07-31",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Italian Game",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "MAWfNHxi",
+  "date": "2026-07-31",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "King's Gambit Accepted: Schallopp Defense",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "4mMKGf2E",
+  "date": "2026-07-31",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game: Two Knights Defense",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "DEBUu98z",
+  "date": "2026-07-31",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Zukertort Opening: Black Mustang Defense",
+  "reached_win": true,
+  "label": "#1 x3",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "6zckr6VF",
+  "date": "2026-07-31",
+  "colour": "White",
+  "result": "DRAW",
+  "opening": "Nimzowitsch Defense",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "Vs0lX44D",
+  "date": "2026-07-31",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Nimzo-Larsen Attack: Modern Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "QAQKhTeN",
+  "date": "2026-08-01",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Italian Game: Classical Variation",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "9pyTgc2Z",
+  "date": "2026-08-01",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Scandinavian Defense: Mieses-Kotroc Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "3BDQCnYH",
+  "date": "2026-08-01",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Scandinavian Defense: Gubinsky-Melts Defense",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "sRO2skAa",
+  "date": "2026-08-01",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Three Knights Opening",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "iA74kr29",
+  "date": "2026-08-01",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Italian Game: Giuoco Pianissimo, Normal",
+  "reached_win": true,
+  "label": "#1 x6",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "VADtJc91",
+  "date": "2026-08-01",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "King's Knight Opening",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "X1BTu1Sn",
+  "date": "2026-08-01",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "ccBrzqHd",
+  "date": "2026-08-01",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Italian Game: Giuoco Piano",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "1q3kqzCh",
+  "date": "2026-08-01",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Four Knights Game: Spanish Variation, Classical Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "NrqqHy6s",
+  "date": "2026-08-01",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game: Giuoco Piano",
+  "reached_win": true,
+  "label": "#1 x4",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "Y3Kv4gW3",
+  "date": "2026-08-02",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game: Anti-Fried Liver Defense",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "MlFKnACJ",
+  "date": "2026-08-02",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game: Two Knights Defense, Ponziani-Steinitz Gambit",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "LsUiE1eT",
+  "date": "2026-08-02",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game: Giuoco Piano",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "tQdA4r7C",
+  "date": "2026-08-02",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Queen's Pawn Game: Zukertort Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "02KSCmJj",
+  "date": "2026-08-02",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "#1 x6",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "wGMHGsv2",
+  "date": "2026-08-03",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Pirc Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "MD6Npijn",
+  "date": "2026-08-03",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Center Game: Normal Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "RqLOV42C",
+  "date": "2026-08-03",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Englund Gambit Declined: Reversed French",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "r9VNRU3n",
+  "date": "2026-08-03",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "Qglzesxx",
+  "date": "2026-08-03",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game: Giuoco Piano",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "TRmNgMnz",
+  "date": "2026-08-03",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Scotch Game: Schmidt Variation",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "10tKCsyO",
+  "date": "2026-08-03",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "Qzw5dn6q",
+  "date": "2026-08-03",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Scotch Game",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "FYbPn7CL",
+  "date": "2026-08-03",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Modern Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "TmIGS62N",
+  "date": "2026-08-03",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "King's Pawn Game: Wayward Queen Attack",
+  "reached_win": true,
+  "label": "#1 x3",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "MoejOjhC",
+  "date": "2026-08-04",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game: Two Knights Defense, Knight Attack, Normal Variation",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "AzNhfcSx",
+  "date": "2026-08-04",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Scandinavian Defense: Main Line",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "n85stUB8",
+  "date": "2026-08-04",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Three Knights Opening",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "VInvekkA",
+  "date": "2026-08-04",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Bishop's Opening: Boi Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "ejebzBwt",
+  "date": "2026-08-04",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game: Anti-Fried Liver Defense",
+  "reached_win": true,
+  "label": "#1 x3",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "ef1rjzLm",
+  "date": "2026-08-04",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "King's Pawn Game: Wayward Queen Attack",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "Fod6ANRs",
+  "date": "2026-08-04",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "jC1os8A5",
+  "date": "2026-08-04",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Italian Game: Two Knights Defense, Knight Attack",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "YyKf6oWN",
+  "date": "2026-08-04",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Queen's Pawn Game",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "Wrw506D5",
+  "date": "2026-08-04",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "sH59Rf3c",
+  "date": "2026-08-04",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Scotch Game",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "XKI3Dd3k",
+  "date": "2026-08-04",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Center Game: Halasz-McDonnell Gambit",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "rqHtwV59",
+  "date": "2026-08-04",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Italian Game: Giuoco Pianissimo, Normal",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "y917jXwR",
+  "date": "2026-08-04",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Scandinavian Defense: Main Line",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "6EkiI3kJ",
+  "date": "2026-08-04",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Queen's Pawn Game: Zukertort Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "K4ewOFOc",
+  "date": "2026-08-04",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Bishop's Opening",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "8Zh2ZHCd",
+  "date": "2026-08-04",
+  "colour": "White",
+  "result": "DRAW",
+  "opening": "Sicilian Defense: Bowdler Attack",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "hNPuGBNi",
+  "date": "2026-08-04",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Scandinavian Defense: Valencian Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "5z05aAaL",
+  "date": "2026-08-04",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Italian Game: Two Knights Defense",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "8R7hhIkk",
+  "date": "2026-08-04",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game: Two Knights Defense, Modern Bishop's Opening",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "RO4VYlAU",
+  "date": "2026-08-04",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Petrov's Defense: Three Knights Game",
+  "reached_win": true,
+  "label": "#1 x5",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "dKVZBhvD",
+  "date": "2026-08-04",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Italian Game: Giuoco Piano",
+  "reached_win": true,
+  "label": "#1 x4",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "u0Haeu65",
+  "date": "2026-08-04",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "ruJsYVEu",
+  "date": "2026-08-04",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "dbmveRfk",
+  "date": "2026-08-04",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Ware Defense",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "cSTaFCiA",
+  "date": "2026-08-04",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game: Anti-Fried Liver Defense",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "OJkzLgWp",
+  "date": "2026-08-04",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "XeoQdVp9",
+  "date": "2026-08-04",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Scotch Game: Schmidt Variation",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "llqcjKxv",
+  "date": "2026-08-04",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "King's Pawn Game",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "7AXngaE8",
+  "date": "2026-08-05",
+  "colour": "White",
+  "result": "DRAW",
+  "opening": "King's Pawn Game: Busch-Gass Gambit",
+  "reached_win": true,
+  "label": "#1 x3",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "kgnV7lo8",
+  "date": "2026-08-05",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "BKDYPjA2",
+  "date": "2026-08-05",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Italian Game: Giuoco Pianissimo, Normal",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "vMdAdGO2",
+  "date": "2026-08-05",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game: Two Knights Defense, Modern Bishop's Opening",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "WL4vgTz8",
+  "date": "2026-08-05",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Four Knights Game: Spanish Variation, Classical Variation",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "35ehJ67N",
+  "date": "2026-08-05",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Philidor Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "itKETSuS",
+  "date": "2026-08-05",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Scotch Game: Haxo Gambit",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "xrtLRUcU",
+  "date": "2026-08-05",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game: Anti-Fried Liver Defense",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "aUWNqwJv",
+  "date": "2026-08-05",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Scandinavian Defense",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "gAvN7j6z",
+  "date": "2026-08-05",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Italian Game: Giuoco Pianissimo, Normal",
+  "reached_win": true,
+  "label": "#1 x4",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "3tQOPTsz",
+  "date": "2026-08-05",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "King's Gambit Accepted: Schallopp Defense",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "6Lb5UYf7",
+  "date": "2026-08-05",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Scotch Game: Schmidt Variation",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "B5Za9DSd",
+  "date": "2026-08-05",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game: Anti-Fried Liver Defense",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "RreGSXto",
+  "date": "2026-08-05",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "gVXMeDCm",
+  "date": "2026-08-05",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "French Defense: Queen's Knight",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "8wmdSyla",
+  "date": "2026-08-05",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Portuguese Opening",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "emS42Lu7",
+  "date": "2026-08-05",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Scotch Game: Haxo Gambit",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "OQiXo4Tj",
+  "date": "2026-08-05",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Italian Game: Evans Gambit Accepted",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "lJnHNzdR",
+  "date": "2026-08-05",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "French Defense",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "J9EiMQtN",
+  "date": "2026-08-05",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "fHvMsfh6",
+  "date": "2026-08-05",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Bishop's Opening: Boi Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "R2Uk86zr",
+  "date": "2026-08-05",
+  "colour": "Black",
+  "result": "DRAW",
+  "opening": "Scotch Game: Schmidt Variation",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "N4QXpepd",
+  "date": "2026-08-05",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Scandinavian Defense: Main Line",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "htQMB0AI",
+  "date": "2026-08-06",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Hungarian Opening",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "wStRPypy",
+  "date": "2026-08-06",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Queen's Pawn Game: Accelerated London System",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "NyBwKVN3",
+  "date": "2026-08-06",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Philidor Defense",
+  "reached_win": true,
+  "label": "#1 x3",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "Xa7nbMWe",
+  "date": "2026-08-06",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "YlDk34sF",
+  "date": "2026-08-06",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Queen's Gambit Accepted: Old Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "31UTLuJ5",
+  "date": "2026-08-06",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "04kdzAFQ",
+  "date": "2026-08-06",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "English Opening: King's English Variation, Reversed Sicilian",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "3QcyIqP5",
+  "date": "2026-08-06",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "King's Pawn Game: Wayward Queen Attack",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "WTRFzj6p",
+  "date": "2026-08-06",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Italian Game: Two Knights Defense, Modern Bishop's Opening",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "NHd80pib",
+  "date": "2026-08-06",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Caro-Kann Defense: Hillbilly Attack",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "Pp91vK8e",
+  "date": "2026-08-06",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Four Knights Game: Spanish Variation, Classical Variation",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "RXykhh6K",
+  "date": "2026-08-06",
+  "colour": "White",
+  "result": "DRAW",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "C1Ehjio1",
+  "date": "2026-08-06",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Caro-Kann Defense: Hillbilly Attack",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "HC2BUcuq",
+  "date": "2026-08-06",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Italian Game: Giuoco Piano",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "ICv0bONk",
+  "date": "2026-08-06",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Ruy Lopez: Berlin Defense, Beverwijk Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "dWA1JMqc",
+  "date": "2026-08-06",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "King's Pawn Game: Wayward Queen Attack",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "qcrtN4oy",
+  "date": "2026-08-06",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Hungarian Opening",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "VgjGDILP",
+  "date": "2026-08-06",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Philidor Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "CBDUCQSO",
+  "date": "2026-08-06",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Scandinavian Defense: Main Line",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "jXbD9Hx4",
+  "date": "2026-08-06",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Philidor Defense",
+  "reached_win": true,
+  "label": "#1 x7",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "8X11WZVg",
+  "date": "2026-08-06",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Owen Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "fwLq0DhL",
+  "date": "2026-08-07",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Three Knights Opening",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "T1ZEV5Lf",
+  "date": "2026-08-07",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Ruy Lopez: Berlin Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "KDI2Me4T",
+  "date": "2026-08-07",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Caro-Kann Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "MexSODzM",
+  "date": "2026-08-07",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "French Defense: Exchange Variation",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "IWSoPxzI",
+  "date": "2026-08-07",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "King's Pawn Game: Wayward Queen Attack",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "iTvrNAyq",
+  "date": "2026-08-07",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Nimzo-Larsen Attack: Modern Variation",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "XeG1ukFP",
+  "date": "2026-08-07",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Ruy Lopez: Morphy Defense, Caro Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "XGt0vtsN",
+  "date": "2026-08-07",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Italian Game: Giuoco Pianissimo, Normal",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "tKznOwMG",
+  "date": "2026-08-07",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Scandinavian Defense: Mieses-Kotroc Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "oWWWV06w",
+  "date": "2026-08-07",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "English Opening: King's English Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "v8J2DlSD",
+  "date": "2026-08-07",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game: Giuoco Pianissimo, Normal",
+  "reached_win": true,
+  "label": "#1 x4",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "Digt0r2d",
+  "date": "2026-08-07",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Petrov's Defense: Italian Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "CvarQfXV",
+  "date": "2026-08-07",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "King's Pawn Game: McConnell Defense",
+  "reached_win": true,
+  "label": "#1 x4",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "GizFrFvx",
+  "date": "2026-08-07",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Bishop's Opening: Vienna Hybrid, Spielmann Attack",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "DcOdataf",
+  "date": "2026-08-07",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Italian Game: Two Knights Defense, Knight Attack",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "3KdG1z2v",
+  "date": "2026-08-07",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Italian Game: Anti-Fried Liver Defense",
+  "reached_win": true,
+  "label": "#1 x3",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "D1YS3Ves",
+  "date": "2026-08-07",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Italian Game: Classical Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "EGIUqS6K",
+  "date": "2026-08-07",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "5Endk9CC",
+  "date": "2026-08-07",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Italian Game: Giuoco Piano",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "VjtIBQrB",
+  "date": "2026-08-08",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "French Defense: Exchange Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "mJFczuiU",
+  "date": "2026-08-08",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Queen's Pawn Game",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "npDJgRjM",
+  "date": "2026-08-08",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "QYiwXadN",
+  "date": "2026-08-08",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Ruy Lopez: Berlin Defense, Anti-Berlin Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "EEy6Q3nq",
+  "date": "2026-08-08",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "#1 x3",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "uN1J5GYa",
+  "date": "2026-08-08",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Petrov's Defense: Three Knights Game",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "N21DOL6p",
+  "date": "2026-08-08",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "IpxU7lvz",
+  "date": "2026-08-08",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Ruy Lopez: Exchange Variation",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "uyXulzV2",
+  "date": "2026-08-08",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "xcS40Nux",
+  "date": "2026-08-08",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "OoQ207MR",
+  "date": "2026-08-08",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Center Game: Hall Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "BBquttfL",
+  "date": "2026-08-08",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Caro-Kann Defense",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "q3JAqPQ5",
+  "date": "2026-08-08",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Queen's Gambit Accepted: Central Variation, McDonnell Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "rVQIMmHk",
+  "date": "2026-08-08",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Scandinavian Defense: Main Line",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "CmEioAh4",
+  "date": "2026-08-08",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "King's Pawn Game: Gunderam Gambit",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "gFSt7YT9",
+  "date": "2026-08-08",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Italian Game: Giuoco Pianissimo, Normal",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "mGvYywl6",
+  "date": "2026-08-08",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Ponziani Opening: Jaenisch Counterattack",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "D5scBbFO",
+  "date": "2026-08-08",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Pirc Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "ni1M2xzS",
+  "date": "2026-08-08",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Zukertort Opening: Black Mustang Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "nZlXavcz",
+  "date": "2026-08-09",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Sicilian Defense: Bowdler Attack",
+  "reached_win": true,
+  "label": "#1 x5",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "VEnCjYdm",
+  "date": "2026-08-09",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Petrov's Defense: Three Knights Game",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "R63FNDAQ",
+  "date": "2026-08-09",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Pirc Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "ivq70Y7R",
+  "date": "2026-08-09",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Four Knights Game",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "wCyZQWcx",
+  "date": "2026-08-09",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Italian Game: Classical Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "Wz5mqybz",
+  "date": "2026-08-09",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Italian Game: Classical Variation",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "TntnzlkC",
+  "date": "2026-08-09",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Italian Game",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "vJ1ZNIqx",
+  "date": "2026-08-09",
+  "colour": "White",
+  "result": "DRAW",
+  "opening": "French Defense: King's Indian Attack",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "ovM3By1s",
+  "date": "2026-08-09",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Van't Kruijs Opening",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "iLAf86LO",
+  "date": "2026-08-10",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "gr9uFxor",
+  "date": "2026-08-10",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Italian Game: Blackburne-Kosti\u0107 Gambit",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "U1HIGMXc",
+  "date": "2026-08-10",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "97XoQ5T0",
+  "date": "2026-08-10",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Italian Game: Giuoco Pianissimo, Normal",
+  "reached_win": true,
+  "label": "#1 x3",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "iolvr03h",
+  "date": "2026-08-10",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Scandinavian Defense: Valencian Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "ZKIHFA2s",
+  "date": "2026-08-10",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Hungarian Opening: Indian Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "nMOvBOMG",
+  "date": "2026-08-10",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "uRBmSa2C",
+  "date": "2026-08-10",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "D0x3USbB",
+  "date": "2026-08-10",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "King's Pawn Game: Wayward Queen Attack",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "WEcWtItj",
+  "date": "2026-08-10",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "King's Pawn Game: Wayward Queen Attack",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "Og3fgCgW",
+  "date": "2026-08-10",
+  "colour": "White",
+  "result": "DRAW",
+  "opening": "Caro-Kann Defense",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "zrUyrwBa",
+  "date": "2026-08-10",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "D00c7Vzp",
+  "date": "2026-08-10",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Queen's Pawn Game: Chigorin Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "XZLMB9Yf",
+  "date": "2026-08-10",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Italian Game: Giuoco Piano",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "JLQ8UuEz",
+  "date": "2026-08-10",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Italian Game: Giuoco Piano",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "162AysP3",
+  "date": "2026-08-10",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Italian Game: Blackburne-Kosti\u0107 Gambit",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "YPXL8Kg2",
+  "date": "2026-08-10",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "G58h1tAx",
+  "date": "2026-08-10",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Italian Game: Anti-Fried Liver Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "Gipco4NY",
+  "date": "2026-08-10",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "King's Knight Opening: Normal Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "9vrAbnbI",
+  "date": "2026-08-10",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Italian Game",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "GquNE5NK",
+  "date": "2026-08-10",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "vzjbyNk6",
+  "date": "2026-08-11",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Italian Game: Anti-Fried Liver Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "yv1jn9di",
+  "date": "2026-08-11",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Pirc Defense",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "iwNX95TW",
+  "date": "2026-08-11",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Scandinavian Defense: Main Line, Mieses Variation",
+  "reached_win": true,
+  "label": "#1 x6",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "HdWMAvOX",
+  "date": "2026-08-11",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Scotch Game: Haxo Gambit",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "Bi4dusL6",
+  "date": "2026-08-11",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Italian Game: Classical Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "Ioxb2Pab",
+  "date": "2026-08-11",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Van't Kruijs Opening",
+  "reached_win": true,
+  "label": "#1 x5",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "NqKqhYBe",
+  "date": "2026-08-11",
+  "colour": "White",
+  "result": "DRAW",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "XXz2kuyh",
+  "date": "2026-08-11",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Bishop's Opening: Vienna Hybrid",
+  "reached_win": true,
+  "label": "#1 x3",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "rDv1NnvF",
+  "date": "2026-08-11",
+  "colour": "Black",
+  "result": "DRAW",
+  "opening": "Vienna Game: Vienna Gambit",
+  "reached_win": true,
+  "label": "#1 x4",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "hRGhBy60",
+  "date": "2026-08-11",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "UVXP5uoP",
+  "date": "2026-08-11",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Italian Game: Giuoco Piano",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "0AtGuqOs",
+  "date": "2026-08-11",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Italian Game: Classical Variation",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "ceFIlxw4",
+  "date": "2026-08-11",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "King's Pawn Game: Wayward Queen Attack",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "NYq1pcpX",
+  "date": "2026-08-11",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Queen's Gambit Declined: Austrian Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "ZRXPNCpu",
+  "date": "2026-08-11",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "King's Pawn Game: McConnell Defense",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "SyGq2gzA",
+  "date": "2026-08-11",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Vienna Gambit, with Max Lange Defense",
+  "reached_win": true,
+  "label": "#1 x3",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "fWkVwv54",
+  "date": "2026-08-12",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Sicilian Defense: Closed",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "8nafzC7N",
+  "date": "2026-08-12",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "PxYAfhge",
+  "date": "2026-08-12",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Scotch Game",
+  "reached_win": true,
+  "label": "#1 x3",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "c7RPC4xG",
+  "date": "2026-08-12",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "King's Pawn Game: McConnell Defense",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "ojdcHXts",
+  "date": "2026-08-12",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Queen's Pawn Game: Accelerated London System",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "aBos02hS",
+  "date": "2026-08-12",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "PeXJQyVv",
+  "date": "2026-08-12",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "o4jrF19u",
+  "date": "2026-08-12",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "fCpGMrDp",
+  "date": "2026-08-12",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Scotch Game: Haxo Gambit",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "wB1LXJil",
+  "date": "2026-08-12",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Bishop's Opening: Boi Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "Laa5B5fj",
+  "date": "2026-08-12",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "PbOSdad3",
+  "date": "2026-08-12",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "0SuPqBU7",
+  "date": "2026-08-12",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Ruy Lopez: Classical Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "KyqI78Ea",
+  "date": "2026-08-12",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "#1 x3",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "lgQDWAjs",
+  "date": "2026-08-12",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game: Rousseau Gambit",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "ICi6NlLc",
+  "date": "2026-08-12",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Vienna Game: Anderssen Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "ftAQvsbb",
+  "date": "2026-08-12",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Pirc Defense",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "sTICLvTL",
+  "date": "2026-08-12",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Scotch Game: Haxo Gambit",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "G296kQ0w",
+  "date": "2026-08-12",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Scandinavian Defense: Mieses-Kotroc Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "cuJpD7hv",
+  "date": "2026-08-13",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Scotch Game: Haxo Gambit",
+  "reached_win": true,
+  "label": "#1 x4",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "CNHHBoW0",
+  "date": "2026-08-13",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "King's Pawn Game: Wayward Queen Attack",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "OcgISiZD",
+  "date": "2026-08-13",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "French Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "6XVD3Uc4",
+  "date": "2026-08-13",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game: Anti-Fried Liver Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "oD6yrqK1",
+  "date": "2026-08-13",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Italian Game: Giuoco Pianissimo, Normal",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "g4WA5iLB",
+  "date": "2026-08-13",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Center Game: Berger Variation",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "PObrxjJY",
+  "date": "2026-08-13",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game: Giuoco Piano",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "QI07rBf5",
+  "date": "2026-08-13",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Owen Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "XOHJ3ojn",
+  "date": "2026-08-13",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Italian Game: Evans Gambit Accepted",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "MUYos5Q6",
+  "date": "2026-08-13",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Queen's Pawn Game",
+  "reached_win": true,
+  "label": "#1 x4",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "hnlZSJpl",
+  "date": "2026-08-13",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Caro-Kann Defense: Two Knights Attack",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "oF1hceVO",
+  "date": "2026-08-13",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "OBHm1F5A",
+  "date": "2026-08-13",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Center Game: Paulsen Attack Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "Z2R0u8B6",
+  "date": "2026-08-13",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "French Defense: Queen's Knight",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "qozUPBiH",
+  "date": "2026-08-13",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Ponziani Opening",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "K8JCNd2q",
+  "date": "2026-08-13",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "5S2Llik5",
+  "date": "2026-08-13",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Italian Game: Hungarian Defense",
+  "reached_win": true,
+  "label": "#1 x6",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "uzOU1Tyx",
+  "date": "2026-08-13",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Italian Game: Giuoco Piano",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "qCRttDng",
+  "date": "2026-08-13",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "ji6ps3f1",
+  "date": "2026-08-13",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Italian Game: Giuoco Piano",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "qYjNWCYL",
+  "date": "2026-08-13",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Three Knights Opening",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "52PCLILg",
+  "date": "2026-08-14",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game: Anti-Fried Liver Defense",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "7IPRmznz",
+  "date": "2026-08-14",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Italian Game: Giuoco Pianissimo, Normal",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "7lZzDWDQ",
+  "date": "2026-08-14",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "IgzMnf0W",
+  "date": "2026-08-14",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Caro-Kann Defense",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "fAB0PTh4",
+  "date": "2026-08-14",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game: Giuoco Piano",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "kfFOnFMw",
+  "date": "2026-08-14",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Italian Game: Giuoco Piano",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "LjEqa3NS",
+  "date": "2026-08-14",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "King's Pawn Game: King's Head Opening",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "DBBCAwFy",
+  "date": "2026-08-14",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "Wno75pEa",
+  "date": "2026-08-14",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "lCLiMxVT",
+  "date": "2026-08-14",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "King's Gambit Accepted: Schallopp Defense",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "8WE50Jyk",
+  "date": "2026-08-14",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Elephant Gambit",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "QmSUZMRn",
+  "date": "2026-08-14",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Queen's Gambit Declined: Harrwitz Attack",
+  "reached_win": true,
+  "label": "#1 x3",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "2TDI0uhu",
+  "date": "2026-08-15",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Petrov's Defense: Modern Attack",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "QihHIIH4",
+  "date": "2026-08-15",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "French Defense: Queen's Knight",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "xFPDNgoG",
+  "date": "2026-08-15",
+  "colour": "Black",
+  "result": "DRAW",
+  "opening": "Queen's Pawn Game: London System",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "xpjdY5iv",
+  "date": "2026-08-15",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Caro-Kann Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "NrYaD4hl",
+  "date": "2026-08-15",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Zukertort Opening: Black Mustang Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "OpF4nCwn",
+  "date": "2026-08-15",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "kfIMTvL5",
+  "date": "2026-08-15",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "#1 x4",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "rYdYxrjx",
+  "date": "2026-08-15",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "4IKI3RAH",
+  "date": "2026-08-15",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Italian Game: Giuoco Pianissimo, Normal",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "zHYcOtLi",
+  "date": "2026-08-16",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "French Defense: Knight Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "IVZJWB6f",
+  "date": "2026-08-16",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Italian Game: Giuoco Piano",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "2YxA9hkW",
+  "date": "2026-08-16",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "812wuoEf",
+  "date": "2026-08-16",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "#1 x3",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "Hku4DC93",
+  "date": "2026-08-16",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Italian Game: Hungarian Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "3FkLKhKi",
+  "date": "2026-08-16",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Queen's Pawn Game: Chigorin Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "Gzd7mvv4",
+  "date": "2026-08-16",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Petrov's Defense: Three Knights Game",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "76Y60a0h",
+  "date": "2026-08-16",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Grob Opening",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "cNRJxoJ2",
+  "date": "2026-08-16",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "vd2dWexF",
+  "date": "2026-08-16",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Italian Game: Giuoco Pianissimo, Normal",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "V4rzEHwl",
+  "date": "2026-08-16",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "King's Pawn Game: Wayward Queen Attack",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "Z8BwX8hp",
+  "date": "2026-08-16",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Ruy Lopez: Exchange Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "B3DI4kcF",
+  "date": "2026-08-16",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Queen's Pawn Game: London System",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "UXbasT4v",
+  "date": "2026-08-16",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Italian Game: Hungarian Defense",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "VDXrBTvl",
+  "date": "2026-08-16",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Italian Game: Anti-Fried Liver Defense",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "bJ9qUGvJ",
+  "date": "2026-08-16",
+  "colour": "Black",
+  "result": "DRAW",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "RieJJ52l",
+  "date": "2026-08-16",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Caro-Kann Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "2ehr1txC",
+  "date": "2026-08-16",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Petrov's Defense: Three Knights Game",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "DdVQcEC5",
+  "date": "2026-08-16",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Three Knights Opening",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "DJ6yCEMM",
+  "date": "2026-08-17",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Italian Game: Giuoco Pianissimo, Normal",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "Yz6q2p0P",
+  "date": "2026-08-17",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Queen's Pawn Game",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "DaD7lvja",
+  "date": "2026-08-17",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Italian Game: Giuoco Piano",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "diEBQ65s",
+  "date": "2026-08-17",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "dEFFy34I",
+  "date": "2026-08-17",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Queen's Pawn Game: Accelerated London System",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "QSbqkOLK",
+  "date": "2026-08-17",
+  "colour": "White",
+  "result": "DRAW",
+  "opening": "Italian Game: Paris Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "PKBIlelW",
+  "date": "2026-08-17",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Caro-Kann Defense: Hillbilly Attack",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "Qm95PFz0",
+  "date": "2026-08-17",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Three Knights Opening",
+  "reached_win": true,
+  "label": "#1 x3",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "Cg6ipfME",
+  "date": "2026-08-17",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game: Paris Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "EKSDTDCf",
+  "date": "2026-08-17",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Scandinavian Defense: Valencian Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "oPdnQCe2",
+  "date": "2026-08-18",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Philidor Defense",
+  "reached_win": true,
+  "label": "#1 x3",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "QzBHRNz9",
+  "date": "2026-08-18",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Sicilian Defense: Bowdler Attack",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "95qNgrW5",
+  "date": "2026-08-18",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Italian Game: Giuoco Pianissimo, Normal",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "tfASsfFI",
+  "date": "2026-08-18",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Italian Game: Giuoco Piano",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "PUyGbyom",
+  "date": "2026-08-18",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "King's Gambit",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "5ClbAVRa",
+  "date": "2026-08-18",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Rapport-Jobava System",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "iAenYpVz",
+  "date": "2026-08-18",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Queen's Pawn Game: Accelerated London System",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "Lu09HFVy",
+  "date": "2026-08-18",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "King's Pawn Game: Leonardis Variation",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "2ZO5g1du",
+  "date": "2026-08-18",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Italian Game: Classical Variation",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "acq0Zlqz",
+  "date": "2026-08-18",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game: Scotch Invitation Declined",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "UOEGZYEi",
+  "date": "2026-08-18",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Scotch Game: Schmidt Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "xKvottg4",
+  "date": "2026-08-18",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Scandinavian Defense: Modern Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "zNo6ToY8",
+  "date": "2026-08-19",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Bishop's Opening: Berlin Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "FyxUVaAS",
+  "date": "2026-08-19",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Philidor Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "5khCu0D0",
+  "date": "2026-08-19",
+  "colour": "Black",
+  "result": "DRAW",
+  "opening": "Italian Game: Classical Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "SywKfYUx",
+  "date": "2026-08-19",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Scandinavian Defense: Mieses-Kotroc Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "i0a4rYXO",
+  "date": "2026-08-19",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Scotch Game: Scotch Gambit, Dubois R\u00e9ti Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "KM2W7WR9",
+  "date": "2026-08-19",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "King's Pawn Game: Mar\u00f3czy Defense",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "hpE7WSO5",
+  "date": "2026-08-19",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Queen's Gambit Declined: Chigorin Defense, Modern Gambit",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "MD562VLg",
+  "date": "2026-08-19",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "King's Pawn Game: Mar\u00f3czy Defense",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "C3c2Inc2",
+  "date": "2026-08-19",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Four Knights Game: Spanish Variation",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "EEhkOOnB",
+  "date": "2026-08-19",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "Djb0NmyH",
+  "date": "2026-08-19",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Italian Game: Hungarian Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "GEcmelQD",
+  "date": "2026-08-19",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game: Anti-Fried Liver Defense",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "00qtJSnr",
+  "date": "2026-08-20",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Van Geet Opening: Reversed Nimzowitsch",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "AW5y7Sy5",
+  "date": "2026-08-20",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Alekhine Defense: Scandinavian Variation",
+  "reached_win": true,
+  "label": "#1 x4",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "jgb26wwY",
+  "date": "2026-08-20",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Ruy Lopez: Spanish Countergambit",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "6xDo9cPj",
+  "date": "2026-08-20",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Scotch Game",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "lYnYICUn",
+  "date": "2026-08-20",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Queen's Pawn Game: Chigorin Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "TTiNGcMj",
+  "date": "2026-08-20",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Pirc Defense",
+  "reached_win": true,
+  "label": "#1 x5",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "QT651Pfe",
+  "date": "2026-08-20",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "King's Pawn Game: Wayward Queen Attack",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "X9HeUoeO",
+  "date": "2026-08-20",
+  "colour": "Black",
+  "result": "DRAW",
+  "opening": "Queen's Pawn Game: Colle System, Anti-Colle",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "Wp0tfSaV",
+  "date": "2026-08-20",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Scandinavian Defense: Mieses-Kotroc Variation",
+  "reached_win": true,
+  "label": "#1 x3",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "JcsXanTS",
+  "date": "2026-08-20",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Ruy Lopez: Berlin Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "4H8Zn855",
+  "date": "2026-08-21",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Slav Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "Xt2Wa5XP",
+  "date": "2026-08-21",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Caro-Kann Defense: Exchange Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "E2h5DOnP",
+  "date": "2026-08-21",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "6zO26ccr",
+  "date": "2026-08-21",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Italian Game: Scotch Invitation Declined",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "bpHn4ijw",
+  "date": "2026-08-21",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Vienna Game: Vienna Gambit",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "DnXARH0Q",
+  "date": "2026-08-21",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "rheMOmQj",
+  "date": "2026-08-21",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game: Classical Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "WnHxNdFU",
+  "date": "2026-08-21",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Bishop's Opening: Berlin Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "TwK20dFa",
+  "date": "2026-08-21",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Philidor Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "pGerGLqV",
+  "date": "2026-08-21",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Hungarian Opening",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "SLTxFwnb",
+  "date": "2026-08-21",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Four Knights Game: Scotch Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "pBYIJ8we",
+  "date": "2026-08-22",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "King's Pawn Game: Wayward Queen Attack",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "fCZN99KH",
+  "date": "2026-08-22",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Queen's Pawn Game: Accelerated London System",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "NLVrayop",
+  "date": "2026-08-22",
+  "colour": "Black",
+  "result": "DRAW",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "vt3H2kMi",
+  "date": "2026-08-22",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "LEHHxyqo",
+  "date": "2026-08-22",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game: Scotch Invitation Declined",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "bcSjNv3C",
+  "date": "2026-08-22",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Italian Game",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "IJnkLjr0",
+  "date": "2026-08-22",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Center Game: Paulsen Attack Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "jkKT9OJ0",
+  "date": "2026-08-22",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Nimzowitsch Defense: Declined Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "ZcXMy85w",
+  "date": "2026-08-22",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "King's Pawn Game: Wayward Queen Attack",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "Ll8ioso3",
+  "date": "2026-08-22",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "King's Pawn Game: Busch-Gass Gambit",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "frMYWoP8",
+  "date": "2026-08-23",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Italian Game: Anti-Fried Liver Defense",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "tqVAmbbo",
+  "date": "2026-08-23",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "King's Pawn Game: Wayward Queen Attack",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "VfWLE4dC",
+  "date": "2026-08-23",
+  "colour": "Black",
+  "result": "DRAW",
+  "opening": "Scotch Game",
+  "reached_win": true,
+  "label": "#1 x4",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "HwKMBgdm",
+  "date": "2026-08-23",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "French Defense: Normal Variation",
+  "reached_win": true,
+  "label": "#1 x4",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "fauaXPmQ",
+  "date": "2026-08-23",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Slav Defense: Slav Gambit, Alekhine Attack",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "IQIkUcRj",
+  "date": "2026-08-23",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Petrov's Defense: Italian Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "4FBAjKAi",
+  "date": "2026-08-23",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Scotch Game: Scotch Gambit, Dubois R\u00e9ti Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "T3V4xzRt",
+  "date": "2026-08-23",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Italian Game: Giuoco Piano",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "Mabs912p",
+  "date": "2026-08-23",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Italian Game: Two Knights Defense, Open Variation",
+  "reached_win": true,
+  "label": "#1 x4",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "bbGCH54f",
+  "date": "2026-08-23",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Italian Game: Giuoco Pianissimo, Normal",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "5PGQpfdW",
+  "date": "2026-08-24",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Scandinavian Defense: Valencian Variation",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "52s1Kylq",
+  "date": "2026-08-24",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "King's Pawn Game: Alapin Opening",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "eJMYptU3",
+  "date": "2026-08-24",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Caro-Kann Defense",
+  "reached_win": true,
+  "label": "#1 x3",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "QAx1VYDn",
+  "date": "2026-08-24",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "English Opening: King's English Variation",
+  "reached_win": true,
+  "label": "#1 x3",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "jk6lPjCD",
+  "date": "2026-08-24",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Owen Defense",
+  "reached_win": true,
+  "label": "#1 x4",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "I7amEqdS",
+  "date": "2026-08-24",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Bishop's Opening: Berlin Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "nRa5xJz4",
+  "date": "2026-08-24",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "French Defense: Franco-Sicilian Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "XCM3hohL",
+  "date": "2026-08-24",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game: Two Knights Defense, Open Variation",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "GGHnK1ZZ",
+  "date": "2026-08-24",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Ruy Lopez: Spanish Countergambit",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "xQUbLOHq",
+  "date": "2026-08-24",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Scotch Game",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "BoocIgNu",
+  "date": "2026-08-24",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "King's Pawn Game: Mar\u00f3czy Defense",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "UAwrPcmf",
+  "date": "2026-08-24",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Queen's Gambit Declined: Marshall Defense",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "WvRl2rCx",
+  "date": "2026-08-24",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "French Defense: Exchange Variation",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "2J75IwST",
+  "date": "2026-08-25",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Philidor Defense",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "jzeITLGK",
+  "date": "2026-08-25",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Center Game: Paulsen Attack Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "mMms3Cwb",
+  "date": "2026-08-25",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "sUOvpxGa",
+  "date": "2026-08-25",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "French Defense: Exchange Variation",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "brlBXJdc",
+  "date": "2026-08-25",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Sicilian Defense: Morphy Gambit",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "B5Ojtw6y",
+  "date": "2026-08-25",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Sicilian Defense: Smith-Morra Gambit",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "ylCADlfs",
+  "date": "2026-08-25",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Queen's Pawn Game: Symmetrical Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "w1HKObEk",
+  "date": "2026-08-25",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Modern Defense: Two Knights Variation, Suttles Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "leyz7aCN",
+  "date": "2026-08-25",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Scotch Game: Haxo Gambit",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "0zxIudzI",
+  "date": "2026-08-26",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Petrov's Defense: Italian Variation",
+  "reached_win": true,
+  "label": "#1 x4",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "rOnnYzY2",
+  "date": "2026-08-26",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Italian Game: Giuoco Piano",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "KBPwwi64",
+  "date": "2026-08-26",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Petrov's Defense: Modern Attack",
+  "reached_win": true,
+  "label": "#1 x6",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "gD9MVBkz",
+  "date": "2026-08-26",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Three Knights Opening: Winawer Defense",
+  "reached_win": true,
+  "label": "#1 x4",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "mk7yHI84",
+  "date": "2026-08-26",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Queen's Pawn Game: Colle System",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "HfFh58RI",
+  "date": "2026-08-27",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Caro-Kann Defense: Exchange Variation",
+  "reached_win": true,
+  "label": "#1 x5",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "sFhIYYen",
+  "date": "2026-08-27",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Scotch Game: Schmidt Variation",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "g4odZUCj",
+  "date": "2026-08-27",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Italian Game: Blackburne-Kosti\u0107 Gambit",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "UhLRNhGn",
+  "date": "2026-08-27",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Ruy Lopez: Berlin Defense, Anti-Berlin Variation",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "thLOFYKf",
+  "date": "2026-08-28",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Ruy Lopez: Classical Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "84akHDaW",
+  "date": "2026-08-28",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Scotch Game: Scotch Gambit, Dubois R\u00e9ti Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "XcVnYOZG",
+  "date": "2026-08-28",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "King's Knight Opening: Normal Variation",
+  "reached_win": true,
+  "label": "#1 x6",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "NkA1JfVe",
+  "date": "2026-08-28",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Italian Game: Scotch Invitation Declined",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "rqI1mR3J",
+  "date": "2026-08-28",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Goldsmith Defense",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "c2pK8FUN",
+  "date": "2026-08-28",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "King's Pawn Game: Wayward Queen Attack",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "0PXa61ol",
+  "date": "2026-08-28",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "French Defense: Exchange Variation",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "Md5dnRsK",
+  "date": "2026-08-28",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Scotch Game: Scotch Gambit, Dubois R\u00e9ti Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "9rZn2kid",
+  "date": "2026-08-29",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Italian Game: Giuoco Pianissimo, Normal",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "r5lx2zA3",
+  "date": "2026-08-29",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Portuguese Opening",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "4xoTC4Iw",
+  "date": "2026-08-29",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game: Classical Variation",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "r23g6C01",
+  "date": "2026-08-29",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game: Anti-Fried Liver Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "sQdizx6h",
+  "date": "2026-08-29",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Nimzo-Larsen Attack: Modern Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "TerX0gZg",
+  "date": "2026-08-29",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game: Anti-Fried Liver Defense",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "4vwzMel7",
+  "date": "2026-08-29",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Scotch Game: Schmidt Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "ClPpIl6J",
+  "date": "2026-08-29",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "King's Gambit Accepted: Bishop's Gambit, Cozio Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "CfSCXrXJ",
+  "date": "2026-08-29",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game: Anti-Fried Liver Defense",
+  "reached_win": true,
+  "label": "#1 x4",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "iRzVfXuG",
+  "date": "2026-08-29",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Ruy Lopez: Berlin Defense, Anti-Berlin Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "iTgcuGWZ",
+  "date": "2026-08-30",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game",
+  "reached_win": true,
+  "label": "#1 x5",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "NH9vpZzC",
+  "date": "2026-08-30",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Italian Game: Two Knights Defense, Open Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "fWiWcGLw",
+  "date": "2026-08-30",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Italian Game: Giuoco Pianissimo, Normal",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "mQ24dmYS",
+  "date": "2026-08-30",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Italian Game: Giuoco Pianissimo, Normal",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "li3hPCxe",
+  "date": "2026-08-30",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Scotch Game",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "11Dafkgg",
+  "date": "2026-08-30",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Scotch Game: Scotch Gambit, Dubois R\u00e9ti Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "lzL3iUJd",
+  "date": "2026-08-30",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "Ymc07qDB",
+  "date": "2026-08-31",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Scotch Game: Haxo Gambit",
+  "reached_win": true,
+  "label": "#1 x3",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "GjGQl9GJ",
+  "date": "2026-08-31",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Pirc Defense",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "PhAvXXbj",
+  "date": "2026-08-31",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Philidor Defense",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "TRTashkR",
+  "date": "2026-08-31",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Bishop's Opening: Berlin Defense",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "jtA0H8Zf",
+  "date": "2026-09-01",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Italian Game: Giuoco Piano",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "bUbPwqXg",
+  "date": "2026-09-01",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Ponziani Opening: Jaenisch Counterattack",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "0fzTYJSp",
+  "date": "2026-09-01",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Queen's Pawn Game: Chigorin Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "blAd9LdS",
+  "date": "2026-09-01",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Hungarian Opening",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "pmfX9uOi",
+  "date": "2026-09-01",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game: Scotch Invitation Declined",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "0OGDkDZ5",
+  "date": "2026-09-01",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Italian Game: Giuoco Pianissimo, Normal",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "p7VN6ZH1",
+  "date": "2026-09-01",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game: Two Knights Defense, Open Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "epmU4Axq",
+  "date": "2026-09-01",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Ruy Lopez: Berlin Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "81m1Eg0y",
+  "date": "2026-09-01",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game: Classical Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "RLZHOcCI",
+  "date": "2026-09-01",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game: Two Knights Defense, Open Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "vlKZRcv5",
+  "date": "2026-09-01",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Sicilian Defense: Open",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "n8AyEs6U",
+  "date": "2026-09-01",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Scandinavian Defense",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "tdQcWsaz",
+  "date": "2026-09-02",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Scotch Game: Schmidt Variation",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "pzVqJUch",
+  "date": "2026-09-02",
+  "colour": "Black",
+  "result": "DRAW",
+  "opening": "Four Knights Game: Scotch Variation Accepted",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "BhKOhu8H",
+  "date": "2026-09-02",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Scandinavian Defense",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "HNU1vNnz",
+  "date": "2026-09-02",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "qki6DFQj",
+  "date": "2026-09-02",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Italian Game: Anti-Fried Liver Defense",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "Z72j7wPR",
+  "date": "2026-09-02",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Italian Game: Giuoco Pianissimo, Normal",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "J0i2WeVb",
+  "date": "2026-09-02",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Alekhine Defense",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "xyLOlQ3d",
+  "date": "2026-09-02",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Queen's Gambit Accepted: Old Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "Qtn3IlWT",
+  "date": "2026-09-03",
+  "colour": "White",
+  "result": "DRAW",
+  "opening": "French Defense: Classical Variation, Steinitz Variation",
+  "reached_win": true,
+  "label": "#1 x3",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "z99cXmF7",
+  "date": "2026-09-03",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Pirc Defense: Classical Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "SiCu4lqv",
+  "date": "2026-09-03",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Scotch Game: Schmidt Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "DX6i9tOE",
+  "date": "2026-09-03",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Modern Defense: Two Knights Variation, Suttles Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "oyyO2D54",
+  "date": "2026-09-03",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "King's Pawn Game: Napoleon Attack",
+  "reached_win": true,
+  "label": "#1 x3",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "ZEuluJLb",
+  "date": "2026-09-03",
+  "colour": "Black",
+  "result": "DRAW",
+  "opening": "Italian Game: Giuoco Piano",
+  "reached_win": true,
+  "label": "#1 x3",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "0hzeihnw",
+  "date": "2026-09-03",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game: Paris Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "jbzwCzXQ",
+  "date": "2026-09-03",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game: Anti-Fried Liver Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "cygYvT8g",
+  "date": "2026-09-03",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Scotch Game: Schmidt Variation",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "DEDbuVGt",
+  "date": "2026-09-03",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Philidor Defense",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "YesdjEj6",
+  "date": "2026-09-03",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "jorCXTL5",
+  "date": "2026-09-03",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game: Classical Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "GArZwCVF",
+  "date": "2026-09-03",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "lTZzxmbf",
+  "date": "2026-09-03",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Scotch Game: Haxo Gambit",
+  "reached_win": true,
+  "label": "#1 x3",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "cBC1w3UE",
+  "date": "2026-09-03",
+  "colour": "White",
+  "result": "DRAW",
+  "opening": "Scotch Game: Scotch Gambit, Dubois R\u00e9ti Defense",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "XCkXBe6t",
+  "date": "2026-09-03",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Italian Game: Giuoco Piano",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "DVRDgiVP",
+  "date": "2026-09-04",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Italian Game: Two Knights Defense, Open Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "HMkrnKxG",
+  "date": "2026-09-04",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "King's Knight Opening: Normal Variation",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "cf7moeop",
+  "date": "2026-09-04",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Owen Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "b8vu4DFD",
+  "date": "2026-09-04",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game: Paris Defense",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "SAtCNX2F",
+  "date": "2026-09-04",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Scotch Game: Schmidt Variation",
+  "reached_win": true,
+  "label": "#1 x3",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "jMHgCRpu",
+  "date": "2026-09-04",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "3MNxN3Jy",
+  "date": "2026-09-04",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "King's Pawn Game: McConnell Defense",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "PgUfG10i",
+  "date": "2026-09-04",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "King's Pawn Game: Wayward Queen Attack",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "xEwXYDTH",
+  "date": "2026-09-04",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Italian Game: Classical Variation",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "uPjyIpjl",
+  "date": "2026-09-04",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Italian Game: Giuoco Piano",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "7FFoRZsw",
+  "date": "2026-09-04",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Italian Game",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "STorgwwa",
+  "date": "2026-09-04",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game: Two Knights Defense, Open Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "TEnuluj3",
+  "date": "2026-09-04",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Three Knights Opening",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "IgaUZRec",
+  "date": "2026-09-04",
+  "colour": "White",
+  "result": "DRAW",
+  "opening": "Italian Game: Scotch Invitation Declined",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "tF9HSnGP",
+  "date": "2026-09-04",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "N1wYz4qW",
+  "date": "2026-09-04",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Queen's Gambit Declined",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "deDID8GP",
+  "date": "2026-09-04",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "King's Pawn Game: Busch-Gass Gambit",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "kpf8otUZ",
+  "date": "2026-09-05",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Four Knights Game",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "YIau5vw0",
+  "date": "2026-09-05",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Sicilian Defense: Smith-Morra Gambit",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "zCEKj63J",
+  "date": "2026-09-05",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Italian Game",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "elwh2qgg",
+  "date": "2026-09-05",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Queen's Pawn Game: Accelerated London System",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "0xzKT7yl",
+  "date": "2026-09-05",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Queen's Pawn Game: Chigorin Variation",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "LFIsNqa3",
+  "date": "2026-09-05",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Center Game: Normal Variation",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "ER5uOvbF",
+  "date": "2026-09-05",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "King's Pawn Game: Wayward Queen Attack",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "nnMnFkyM",
+  "date": "2026-09-05",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game: Classical Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "8X3LYniO",
+  "date": "2026-09-05",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Scotch Game: Schmidt Variation",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "jOjRmab5",
+  "date": "2026-09-05",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Modern Defense: Two Knights Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "AXkRhR0u",
+  "date": "2026-09-05",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "King's Pawn Game: Napoleon Attack",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "tS8b9uOs",
+  "date": "2026-09-05",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Scotch Game: Schmidt Variation",
+  "reached_win": true,
+  "label": "#1 x4",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "qE4NBC3T",
+  "date": "2026-09-05",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "King's Pawn Game: Mar\u00f3czy Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "5eSoX8Su",
+  "date": "2026-09-05",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Scotch Game: Scotch Gambit, Dubois R\u00e9ti Defense",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "79OQuVNc",
+  "date": "2026-09-05",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Ruy Lopez: Berlin Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "g7zs6urg",
+  "date": "2026-09-05",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Owen Defense",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "Z8lHLvil",
+  "date": "2026-09-05",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Ruy Lopez: Morphy Defense, Caro Variation",
+  "reached_win": true,
+  "label": "#1 x3",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "SFa7FhBq",
+  "date": "2026-09-05",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Scandinavian Defense: Mieses-Kotroc Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "wYI86tw2",
+  "date": "2026-09-05",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Pirc Defense",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "Pyj4Zvkj",
+  "date": "2026-09-05",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "King's Knight Opening: Normal Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "IKmuo3GF",
+  "date": "2026-09-05",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Italian Game: Scotch Invitation Declined",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "dREtm5fZ",
+  "date": "2026-09-06",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Italian Game: Anti-Fried Liver Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "S4LWa1jb",
+  "date": "2026-09-06",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Italian Game: Giuoco Piano",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "gx3qyHek",
+  "date": "2026-09-06",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game",
+  "reached_win": true,
+  "label": "#1 x5",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "BQyhsvJw",
+  "date": "2026-09-06",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Richter-Veresov Attack",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "MdiIkGDW",
+  "date": "2026-09-06",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Italian Game: Giuoco Piano",
+  "reached_win": true,
+  "label": "#1 x3",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "C9SUPfwd",
+  "date": "2026-09-06",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "4rW7geNB",
+  "date": "2026-09-06",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Sicilian Defense: Smith-Morra Gambit",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "z2tewYLW",
+  "date": "2026-09-06",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Four Knights Game: Spanish Variation",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "dns8l48Q",
+  "date": "2026-09-06",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Sicilian Defense: Smith-Morra Gambit",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "y7c8Y0u6",
+  "date": "2026-09-06",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Ruy Lopez: Berlin Defense",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "Y0lo6A2e",
+  "date": "2026-09-06",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Caro-Kann Defense: Exchange Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "vtBIyyxZ",
+  "date": "2026-09-06",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Scotch Game: Scotch Gambit, Dubois R\u00e9ti Defense",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "fcEyDSKu",
+  "date": "2026-09-07",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Caro-Kann Defense: Exchange Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "iOFoNsIo",
+  "date": "2026-09-07",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Queen's Pawn Game: Chigorin Variation",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "W2Yzin6u",
+  "date": "2026-09-07",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "King's Pawn Game: Busch-Gass Gambit",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "AtIiLpAM",
+  "date": "2026-09-07",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Queen's Pawn Game: Accelerated London System",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "nKG2ohTb",
+  "date": "2026-09-07",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Scandinavian Defense: Main Line",
+  "reached_win": true,
+  "label": "#1 x4",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "F5FY7gaf",
+  "date": "2026-09-07",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "King's Pawn Game: McConnell Defense",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "ppL4qL5q",
+  "date": "2026-09-07",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "King's Pawn Game: Damiano Defense",
+  "reached_win": true,
+  "label": "#1 x3",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "Z8nu0GZS",
+  "date": "2026-09-07",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Bird Opening: Double Duck Formation",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "HOKB4c0h",
+  "date": "2026-09-07",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "NXP02vDD",
+  "date": "2026-09-07",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Italian Game: Anti-Fried Liver Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "jdKQKeEB",
+  "date": "2026-09-07",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "French Defense: Franco-Sicilian Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "6ufrXLJ7",
+  "date": "2026-09-07",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Italian Game: Scotch Invitation Declined",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "GMGpsRL5",
+  "date": "2026-09-07",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game: Classical Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "YBa4CinR",
+  "date": "2026-09-07",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "King's Pawn Game: Wayward Queen Attack",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "yA3Vg3dy",
+  "date": "2026-09-07",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Ponziani Opening: Jaenisch Counterattack",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "5t8vQueg",
+  "date": "2026-09-07",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "French Defense: Advance Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "Xq8HYyLa",
+  "date": "2026-09-07",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "tQnDQD55",
+  "date": "2026-09-07",
+  "colour": "Black",
+  "result": "DRAW",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "KTrIu6KR",
+  "date": "2026-09-07",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Borg Defense",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "j7rQqklP",
+  "date": "2026-09-07",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Scandinavian Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "D1TuQImD",
+  "date": "2026-09-07",
+  "colour": "Black",
+  "result": "DRAW",
+  "opening": "King's Pawn Game: Wayward Queen Attack",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "6jECyDpi",
+  "date": "2026-09-07",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Queen's Gambit Declined: Albin Countergambit",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "JWunGtux",
+  "date": "2026-09-07",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Scotch Game: Scotch Gambit, Dubois R\u00e9ti Defense",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "cgtRHJ4j",
+  "date": "2026-09-07",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Caro-Kann Defense: Main Line",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "5zqiCqXB",
+  "date": "2026-09-07",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Three Knights Opening",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "6HO6xySS",
+  "date": "2026-09-07",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "#1 x3",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "wINrwHNr",
+  "date": "2026-09-07",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game: Scotch Invitation Declined",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "pvCoNmu1",
+  "date": "2026-09-07",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Italian Game: Giuoco Pianissimo, Normal",
+  "reached_win": true,
+  "label": "#1 x3",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "dOEoqHoW",
+  "date": "2026-09-07",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Philidor Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "FEdxvsnC",
+  "date": "2026-09-07",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Ponziani Opening: Jaenisch Counterattack",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "iOAgbWGo",
+  "date": "2026-09-07",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "French Defense: Advance Variation, Nimzowitsch System",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "4Y9NscY5",
+  "date": "2026-09-08",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game: Anti-Fried Liver Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "8zCPG1gC",
+  "date": "2026-09-08",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Bishop's Opening: Ponziani Gambit",
+  "reached_win": true,
+  "label": "#1 x3",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "pbMfhuvv",
+  "date": "2026-09-08",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Scandinavian Defense: Mieses-Kotroc Variation",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "tCZYpF5Y",
+  "date": "2026-09-08",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Three Knights Opening",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "4jpV984U",
+  "date": "2026-09-08",
+  "colour": "Black",
+  "result": "DRAW",
+  "opening": "Scotch Game: Schmidt Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "c8DYzGI7",
+  "date": "2026-09-08",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Scandinavian Defense: Boehnke Gambit",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "kp0CLv7v",
+  "date": "2026-09-08",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Philidor Defense",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "rePE3RIP",
+  "date": "2026-09-08",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Four Knights Game: Spanish Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "3jFcHvkr",
+  "date": "2026-09-08",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Scandinavian Defense: Valencian Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "fc7saaqz",
+  "date": "2026-09-08",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "King's Pawn Game: Leonardis Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "85TRwipG",
+  "date": "2026-09-08",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game",
+  "reached_win": true,
+  "label": "#1 x3",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "KG7k1FUH",
+  "date": "2026-09-08",
+  "colour": "Black",
+  "result": "DRAW",
+  "opening": "Three Knights Opening",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "pUpsBHyW",
+  "date": "2026-09-08",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "French Defense: Exchange Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "ZEM8yHne",
+  "date": "2026-09-08",
+  "colour": "Black",
+  "result": "DRAW",
+  "opening": "Italian Game: Giuoco Pianissimo, Normal",
+  "reached_win": true,
+  "label": "#1 x3",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "gJvAiQek",
+  "date": "2026-09-08",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Scandinavian Defense: Main Line",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "hhlieS2a",
+  "date": "2026-09-08",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Four Knights Game: Scotch Variation Accepted",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "yGLyAUjO",
+  "date": "2026-09-08",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Italian Game: Scotch Invitation Declined",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "z6fOlyM7",
+  "date": "2026-09-08",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Four Knights Game",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "MV1CZekn",
+  "date": "2026-09-08",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Italian Game: Two Knights Defense, Modern Bishop's Opening",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "1gPVkZvi",
+  "date": "2026-09-08",
+  "colour": "White",
+  "result": "DRAW",
+  "opening": "Scandinavian Defense: Anderssen Counterattack",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "o6qCuygA",
+  "date": "2026-09-08",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Pirc Defense",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "DNonnFay",
+  "date": "2026-09-08",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Queen's Pawn Game: Accelerated London System",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "qjOoWkOb",
+  "date": "2026-09-08",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game: Paris Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "bMYXD6kS",
+  "date": "2026-09-09",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Scotch Game: Schmidt Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "yAPh97hg",
+  "date": "2026-09-09",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game: Anti-Fried Liver Defense",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "qe3dKnGf",
+  "date": "2026-09-09",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Van't Kruijs Opening",
+  "reached_win": true,
+  "label": "#1 x3",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "SGSvieIF",
+  "date": "2026-09-09",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Italian Game: Giuoco Piano",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "dxErmJZV",
+  "date": "2026-09-09",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Four Knights Game: Spanish Variation, Classical Variation",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "KtV3DrSH",
+  "date": "2026-09-09",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Sicilian Defense: Smith-Morra Gambit",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "KGY31QbC",
+  "date": "2026-09-09",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Italian Game: Two Knights Defense, Open Variation",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "9D1Ie1Yr",
+  "date": "2026-09-09",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "King's Pawn Game: Busch-Gass Gambit",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "pdjzr9TW",
+  "date": "2026-09-09",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Alekhine Defense: Normal Variation",
+  "reached_win": true,
+  "label": "#1 x3",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "UGk3E2lp",
+  "date": "2026-09-09",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "ZMJmjVaQ",
+  "date": "2026-09-09",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "KVar2Akw",
+  "date": "2026-09-10",
+  "colour": "White",
+  "result": "DRAW",
+  "opening": "King's Pawn Game: McConnell Defense",
+  "reached_win": true,
+  "label": "#1 x6",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "MocTAVpO",
+  "date": "2026-09-10",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "King's Pawn Game: Wayward Queen Attack",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "4HHptHL2",
+  "date": "2026-09-10",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Italian Game: Giuoco Piano",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "hD2iTRzR",
+  "date": "2026-09-10",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "King's Pawn Game: Wayward Queen Attack",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "S4DcCyRo",
+  "date": "2026-09-10",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game: Anti-Fried Liver Defense",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "W4nZgWNs",
+  "date": "2026-09-10",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Scotch Game",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "QsKeqSxM",
+  "date": "2026-09-11",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Philidor Defense",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "jJJaW6TO",
+  "date": "2026-09-11",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Englund Gambit Declined: Reversed French",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "elhoLBgK",
+  "date": "2026-09-11",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Four Knights Game: Scotch Variation Accepted",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "QbC1FffD",
+  "date": "2026-09-11",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Italian Game: Classical Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "NclCQAMs",
+  "date": "2026-09-11",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Bird Opening: Dutch Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "XlUSGykf",
+  "date": "2026-09-11",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Scotch Game",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "m3J8YQi1",
+  "date": "2026-09-11",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Ruy Lopez: Morphy Defense, Modern Steinitz Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "lke6jJWd",
+  "date": "2026-09-11",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "eiECtyWW",
+  "date": "2026-09-11",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Pirc Defense",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "gHBwX3zV",
+  "date": "2026-09-11",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Three Knights Opening",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "fChKiloi",
+  "date": "2026-09-11",
+  "colour": "White",
+  "result": "DRAW",
+  "opening": "Sicilian Defense: Smith-Morra Gambit",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "mAkUyg3q",
+  "date": "2026-09-11",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "Yu7ihb01",
+  "date": "2026-09-11",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Italian Game: Giuoco Piano",
+  "reached_win": true,
+  "label": "#1 x3",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "oj6bAx5M",
+  "date": "2026-09-11",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Queen's Pawn Game: Colle System",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "29GbzTiJ",
+  "date": "2026-09-11",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "King's Pawn Game: Busch-Gass Gambit",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "KDQH6qfK",
+  "date": "2026-09-11",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Italian Game: Two Knights Defense, Knight Attack, Normal Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "QKU8FqkO",
+  "date": "2026-09-11",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game: Paris Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "3Z9MPmj4",
+  "date": "2026-09-11",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "#1 x7",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "QHCiIzlf",
+  "date": "2026-09-11",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Scotch Game: Scotch Gambit, Dubois R\u00e9ti Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "806ENbze",
+  "date": "2026-09-11",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "Og3e7XcS",
+  "date": "2026-09-11",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "King's Knight Opening",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "zM0gsHra",
+  "date": "2026-09-11",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "U37Iog0Y",
+  "date": "2026-09-11",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Italian Game: Anti-Fried Liver Defense",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "ntNzglQ0",
+  "date": "2026-09-11",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Scotch Game: Haxo Gambit",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "hkfAqT8D",
+  "date": "2026-09-11",
+  "colour": "Black",
+  "result": "DRAW",
+  "opening": "Italian Game: Giuoco Piano",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "L9w5aCjg",
+  "date": "2026-09-12",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "English Opening: Carls-Bremen System",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "KzDwZlJv",
+  "date": "2026-09-12",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Queen's Pawn Game: Accelerated London System",
+  "reached_win": true,
+  "label": "#1 x3",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "9LgluYqL",
+  "date": "2026-09-12",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Ponziani Opening: Jaenisch Counterattack",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "YPNFM83x",
+  "date": "2026-09-12",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Scotch Game: Schmidt Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "yvdoR5eG",
+  "date": "2026-09-12",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "King's Pawn Game: Busch-Gass Gambit",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "t5u00VRy",
+  "date": "2026-09-12",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Clemenz Opening",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "NM2YrlcR",
+  "date": "2026-09-12",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Four Knights Game: Gunsberg Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "tJpTSJgR",
+  "date": "2026-09-12",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Italian Game: Anti-Fried Liver Defense",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "2JVjaWOH",
+  "date": "2026-09-12",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Anderssen's Opening",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "NJ9h7prA",
+  "date": "2026-09-13",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Queen's Gambit Declined: Queen's Knight Variation",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "kMUl2J8N",
+  "date": "2026-09-14",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "French Defense: Advance Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "4VKH7R0U",
+  "date": "2026-09-14",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Philidor Defense",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "BdYpa6hf",
+  "date": "2026-09-14",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Queen's Gambit Declined",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "W3u2pYbr",
+  "date": "2026-09-14",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Ruy Lopez: Exchange Variation",
+  "reached_win": true,
+  "label": "#1 x3",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "tt2u45T3",
+  "date": "2026-09-14",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Pirc Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "e0sHmsLm",
+  "date": "2026-09-14",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Scandinavian Defense: Panov Transfer",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "FYw1yuh7",
+  "date": "2026-09-15",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Zukertort Opening: Tennison Gambit",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "tl0EPTFX",
+  "date": "2026-09-15",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Italian Game: Giuoco Piano",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "EtmNt2qs",
+  "date": "2026-09-15",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game",
+  "reached_win": true,
+  "label": "#1 x8",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "Cw8tdm32",
+  "date": "2026-09-15",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "King's Pawn Game: Wayward Queen Attack",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "vzhgsbMb",
+  "date": "2026-09-15",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Italian Game: Two Knights Defense, Knight Attack, Normal Variation",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "Yqxuwv4f",
+  "date": "2026-09-15",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Italian Game: Anti-Fried Liver Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "8SqJJQTU",
+  "date": "2026-09-15",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Queen's Pawn Game: Chigorin Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "lpjBqK6Q",
+  "date": "2026-09-15",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Italian Game: Two Knights Defense, Open Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "wp81WU1R",
+  "date": "2026-09-15",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game: Two Knights Defense, Open Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "s2HaiRbs",
+  "date": "2026-09-15",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Italian Game: Anti-Fried Liver Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "Rb2w96Pe",
+  "date": "2026-09-15",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Four Knights Game: Spanish Variation",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "MeC2M9tN",
+  "date": "2026-09-15",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Italian Game: Giuoco Pianissimo, Normal",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "WhpzDwBa",
+  "date": "2026-09-15",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Mieses Opening: Reversed Rat",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "yD3OJt6I",
+  "date": "2026-09-15",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Queen's Pawn Game: Accelerated London System",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "xWDhzFJ7",
+  "date": "2026-09-15",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Petrov's Defense: Three Knights Game",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "nXZECZCB",
+  "date": "2026-09-15",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Scandinavian Defense: Mieses-Kotroc Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "9DXmcnjZ",
+  "date": "2026-09-15",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Petrov's Defense: Modern Attack",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "cbc8abiN",
+  "date": "2026-09-15",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Elephant Gambit",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "bvyvUq6w",
+  "date": "2026-09-15",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Center Game: Halasz-McDonnell Gambit",
+  "reached_win": true,
+  "label": "#1 x3",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "Z0ukHRei",
+  "date": "2026-09-15",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game: Anti-Fried Liver Defense",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "tErh55AX",
+  "date": "2026-09-15",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Center Game: Halasz-McDonnell Gambit",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "QIu8yXgX",
+  "date": "2026-09-15",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Italian Game",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "SifSkivN",
+  "date": "2026-09-15",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Italian Game: Two Knights Defense, Knight Attack, Normal Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "BJwR0BzJ",
+  "date": "2026-09-16",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Queen's Pawn Game: Chigorin Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "Nw561sKV",
+  "date": "2026-09-16",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Rat Defense: Antal Defense",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "LXHTis8n",
+  "date": "2026-09-16",
+  "colour": "White",
+  "result": "DRAW",
+  "opening": "Nimzowitsch Defense",
+  "reached_win": true,
+  "label": "#1 x4",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "q1ubImUn",
+  "date": "2026-09-16",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Three Knights Opening",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "C3E39Pcx",
+  "date": "2026-09-16",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Richter-Veresov Attack",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "UHFib6jc",
+  "date": "2026-09-16",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Scotch Game",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "6hHNyXui",
+  "date": "2026-09-16",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game: Two Knights Defense, Open Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "gS7mQxnO",
+  "date": "2026-09-16",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "King's Knight Opening: Normal Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "5g8ukwz8",
+  "date": "2026-09-16",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Scandinavian Defense: Blackburne Gambit",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "CWP9R6CO",
+  "date": "2026-09-16",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "King's Pawn Game: Wayward Queen Attack",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "uuluCooX",
+  "date": "2026-09-16",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "King's Pawn Game: Wayward Queen Attack",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "kzjtgLTe",
+  "date": "2026-09-16",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "rzipHn9z",
+  "date": "2026-09-16",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Three Knights Opening",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "S7XqNUXh",
+  "date": "2026-09-16",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Scotch Game: Scotch Gambit, Dubois R\u00e9ti Defense",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "2dXCuK58",
+  "date": "2026-09-16",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Caro-Kann Defense: Exchange Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "uukwSQja",
+  "date": "2026-09-16",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Scotch Game: Schmidt Variation",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "5KF1bL7f",
+  "date": "2026-09-17",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game: Anti-Fried Liver Defense",
+  "reached_win": true,
+  "label": "#1 x3",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "dyTIyykK",
+  "date": "2026-09-17",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Italian Game",
+  "reached_win": true,
+  "label": "#1 x4",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "mvn32sVJ",
+  "date": "2026-09-17",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "King's Pawn Game: Leonardis Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "jmronewj",
+  "date": "2026-09-17",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Englund Gambit Declined: Reversed French",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "rIJFqhO6",
+  "date": "2026-09-17",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "King's Pawn Game: Mar\u00f3czy Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "PzXpS6jT",
+  "date": "2026-09-17",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Rapport-Jobava System",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "aYjYGa5C",
+  "date": "2026-09-17",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "King's Pawn Game: Wayward Queen Attack",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "57ImkcRZ",
+  "date": "2026-09-17",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Caro-Kann Defense: Exchange Variation",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "FIYNDu6f",
+  "date": "2026-09-17",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Queen's Pawn Game: Colle System",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "ryUyhze8",
+  "date": "2026-09-17",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Italian Game: Classical Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "quUUM4O8",
+  "date": "2026-09-17",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Queen's Pawn Game: Accelerated London System",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "kbpUFpxs",
+  "date": "2026-09-17",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Pirc Defense",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "gqMqIV4A",
+  "date": "2026-09-17",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Scotch Game: Scotch Gambit, Dubois R\u00e9ti Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "QJHE9r3I",
+  "date": "2026-09-17",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "King's Pawn Game: Wayward Queen Attack",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "exNZYVMT",
+  "date": "2026-09-17",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Philidor Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "7xhP3RuM",
+  "date": "2026-09-17",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "King's Pawn Game: Leonardis Variation",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "Z8wKf3EF",
+  "date": "2026-09-17",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "OyCnm1Xq",
+  "date": "2026-09-17",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Pirc Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "4fhicN1n",
+  "date": "2026-09-17",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "e4KSGFgx",
+  "date": "2026-09-17",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Scotch Game: G\u00f6ring Gambit",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "rOlpKWeo",
+  "date": "2026-09-17",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Philidor Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "djXlWyvC",
+  "date": "2026-09-17",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Italian Game: Two Knights Defense, Open Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "N4PH9QiZ",
+  "date": "2026-09-17",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Scandinavian Defense: Mieses-Kotroc Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "6QeAUGPD",
+  "date": "2026-09-17",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Ruy Lopez: Berlin Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "Lv8GKzkB",
+  "date": "2026-09-17",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Italian Game: Giuoco Pianissimo, Normal",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "I9ORcbVn",
+  "date": "2026-09-17",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Pirc Defense: Byrne Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "EAg53Vwt",
+  "date": "2026-09-17",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Center Game: Normal Variation",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "bdPJGHbS",
+  "date": "2026-09-17",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Italian Game: Classical Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "JRiWkDg2",
+  "date": "2026-09-17",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Scandinavian Defense: Mieses-Kotroc Variation",
+  "reached_win": true,
+  "label": "#1 x4",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "3xCenYFx",
+  "date": "2026-09-17",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Queen's Pawn Game",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "gT0ifqcr",
+  "date": "2026-09-17",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Modern Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "KjevW7nr",
+  "date": "2026-09-17",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "AvyPLrHQ",
+  "date": "2026-09-17",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game: Anti-Fried Liver Defense",
+  "reached_win": true,
+  "label": "#1 x5",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "3SfpPdH7",
+  "date": "2026-09-17",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "King's Pawn Game: Wayward Queen Attack",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "9Aeiau5t",
+  "date": "2026-09-17",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "King's Pawn Game: Busch-Gass Gambit",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "8nchKwjt",
+  "date": "2026-09-17",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Philidor Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "6H1pztnY",
+  "date": "2026-09-17",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Italian Game: Classical Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "5mswGv8b",
+  "date": "2026-09-17",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Queen's Pawn Game: Symmetrical Variation",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "YjB4NVxn",
+  "date": "2026-09-18",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Scotch Game: Scotch Gambit",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "ReDx0rIQ",
+  "date": "2026-09-18",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Nimzo-Larsen Attack: Modern Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "HHhsHdli",
+  "date": "2026-09-18",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "King's Pawn Game: Wayward Queen Attack",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "kGHti8t2",
+  "date": "2026-09-18",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game: Classical Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "XTyMB7bK",
+  "date": "2026-09-18",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Italian Game: Classical Variation",
+  "reached_win": true,
+  "label": "#1 x4",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "Ig5D0cmf",
+  "date": "2026-09-18",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game: Classical Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "d2x1rwd1",
+  "date": "2026-09-18",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Italian Game: Giuoco Pianissimo, Normal",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "cF3MkhNV",
+  "date": "2026-09-18",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game: Classical Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "6RJzJDdA",
+  "date": "2026-09-18",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Queen's Pawn Game: Accelerated London System",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "HnwftlKm",
+  "date": "2026-09-18",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game: Anti-Fried Liver Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "ShPTqHoM",
+  "date": "2026-09-18",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Scandinavian Defense: Mieses-Kotroc Variation",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "4F3YEmXk",
+  "date": "2026-09-18",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Queen's Gambit Accepted",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "tWnekAZ2",
+  "date": "2026-09-18",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Vienna Game",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "fY53D8Ir",
+  "date": "2026-09-19",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game: Scotch Invitation Declined",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "zTOcVlDf",
+  "date": "2026-09-19",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Four Knights Game: Italian Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "MBhrrUZG",
+  "date": "2026-09-19",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "French Defense: Classical Variation, Steinitz Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "vTylLWzB",
+  "date": "2026-09-19",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Van't Kruijs Opening",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "IIoWUv8V",
+  "date": "2026-09-19",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Nimzowitsch Defense: Breyer Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "wrPkySn3",
+  "date": "2026-09-19",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Scandinavian Defense: Valencian Variation",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "QjEQ1ABC",
+  "date": "2026-09-19",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Caro-Kann Defense: Advance Variation",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "61OKqTTN",
+  "date": "2026-09-19",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Pirc Defense: Classical Variation",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "wF1XYG3w",
+  "date": "2026-09-19",
+  "colour": "Black",
+  "result": "DRAW",
+  "opening": "Caro-Kann Defense: Advance Variation, Van der Wiel Attack",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "wXouEHB8",
+  "date": "2026-09-19",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Caro-Kann Defense",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "Fb58mPBQ",
+  "date": "2026-09-19",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Italian Game: Rousseau Gambit",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "AfRuezEf",
+  "date": "2026-09-19",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Caro-Kann Defense",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "Q0mClcSM",
+  "date": "2026-09-19",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Scandinavian Defense: Main Line, Mieses Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "mM0IUiLm",
+  "date": "2026-09-19",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Ware Opening: Symmetric Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "pow7IdDq",
+  "date": "2026-09-19",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Caro-Kann Defense",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "p2a1ceJP",
+  "date": "2026-09-19",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "King's Pawn Game: Busch-Gass Gambit",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "5E5CuBiR",
+  "date": "2026-09-19",
+  "colour": "White",
+  "result": "LOSS",
+  "opening": "Philidor Defense",
+  "reached_win": true,
+  "label": "#1 x2",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "BDOIwbFz",
+  "date": "2026-09-20",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Caro-Kann Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "zbG6066P",
+  "date": "2026-09-20",
+  "colour": "Black",
+  "result": "LOSS",
+  "opening": "Caro-Kann Defense",
+  "reached_win": false,
+  "label": "no winning position",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "AzJDh4nw",
+  "date": "2026-09-20",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Scotch Game: Scotch Gambit, Dubois R\u00e9ti Defense",
+  "reached_win": true,
+  "label": "#1 x1",
+  "analysed_by": "stockfish"
+ },
+ {
+  "id": "mpyQK4PA",
+  "date": "2026-09-20",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "8QSDOF75",
+  "date": "2026-09-20",
+  "colour": "White",
+  "result": "WIN",
+  "opening": "Italian Game: Classical Variation",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "kbZOpMWi",
+  "date": "2026-09-20",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Caro-Kann Defense: Two Knights Attack",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ },
+ {
+  "id": "RtsF7naM",
+  "date": "2026-09-20",
+  "colour": "Black",
+  "result": "WIN",
+  "opening": "Caro-Kann Defense",
+  "reached_win": true,
+  "label": "clean",
+  "analysed_by": "lichess"
+ }
+]

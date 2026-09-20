@@ -16,3 +16,7 @@ chess-coach-bundle.md
 repomix-output.xml
 
 .claude/
+
+# Python
+venv/
+__pycache__/

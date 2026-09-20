@@ -98,3 +98,27 @@ If I only send moves 26 onward, **say so**, and don't make claims about moves
 
 That's the opening of a correct analysis. Colour, result, sign direction, range
 — then the chess.
+
+---
+
+## Reading the Lichess API instead of the screen
+
+Same rules, different traps. When a game comes from the API (JSON export):
+
+1. **Colour:** `players.white.user.id` or `players.black.user.id` equals
+   `thatosm` (lowercase). Never infer colour from move order or opening.
+2. **Result:** the `winner` field (`"white"`, `"black"`, or absent for a draw)
+   is authoritative. Never infer the result from the evals.
+3. **Eval sign:** every `eval` (centipawns) and `mate` value in the `analysis`
+   array is from **White's** point of view — flip the sign for my Black games.
+   The key is `eval`, not `cp`.
+4. **Ply indexing:** `analysis[i]` is the position after ply `i` (0-based).
+   Even `i` = White's move, odd `i` = Black's. Move number = `i // 2 + 1`.
+5. **Player numbers:** accuracy, ACPL, blunder, mistake and inaccuracy counts
+   live under `players.<colour>.analysis`. Accuracy only appears if the
+   request included `accuracy=true`.
+6. **Phases:** `division.middle` and `division.end` are ply indices where the
+   middlegame and endgame start. Missing keys mean the game never reached that
+   phase.
+7. **Unanalysed games** have no `analysis` array. Don't treat "no flagged
+   moves" as "clean" — check whether analysis exists first.

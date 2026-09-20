@@ -16,6 +16,8 @@ REPO STRUCTURE — read this first, it governs every part below:
   40 games per file, newest-first within each file. All links, moves, and
   analysis live here.
 - `docs/` is off limits. Never edit anything in it.
+- `games/leak-scan/` and `scripts/` are off limits. The leak scan is run by
+  hand on my PC; never edit or regenerate those files.
 - `README.md`, `training/`, and every `**Lesson —` and `**The ONE thing to
   fix:**` block are HUMAN-WRITTEN. Never edit them. Numbers that change go in
   STATS.md (Part 5), which is regenerated wholesale every night.
@@ -100,6 +102,7 @@ eval-sign direction FIRST. Use this structure:
     - Mode: [Rated/Unrated] · [clock in minutes]+[increment in seconds]
     - Date: YYYY/MM/DD
     - PGN: `games/pgn/game-NN-opponentname.pgn`
+    - Opening: [the opening name from the JSON `opening.name` field]
     - Moves:
       ```
       <the full mainline movetext from the PGN, both players, all moves, one line>
@@ -107,6 +110,8 @@ eval-sign direction FIRST. Use this structure:
     - Result: [from Termination tag / Result tag, in plain English]
     - **Me: [NOT YET ANALYSED] accuracy · blunders · mistakes · inaccuracies · ACPL.**
     - **Opponent: [NOT YET ANALYSED]**
+
+    - Tea: [ ] · Before chess: [ ] · Focus (1–5): [ ]
 
     **Lesson — [DRAFT: needs review, no leak number assigned yet].**
 
@@ -148,8 +153,10 @@ literal text `[NOT YET ANALYSED]`. For each, extract its Lichess game ID from it
 the right one.
 
 STEP 2 — For each such game ID, query:
-`curl -s -A "Mozilla/5.0" 'https://lichess.org/game/export/GAMEID?evals=true&accuracy=true' -H 'Accept: application/json'`
-and check whether the response's top-level `analysis` array is present AND
+`curl -s -A "Mozilla/5.0" 'https://lichess.org/game/export/GAMEID?evals=true&accuracy=true&division=true' -H 'Accept: application/json'`
+(the request must include `&accuracy=true&division=true`, otherwise accuracy
+and phase scores are missing — the full URL is below) and check whether the
+response's top-level `analysis` array is present AND
 `players.white.analysis` / `players.black.analysis` objects are present (both
 must exist — that means Lichess has finished analysing it). If not present yet,
 skip this game and leave its placeholder untouched — do not fabricate numbers.
@@ -160,10 +167,9 @@ estimate anything):
 
 - Determine my colour from `players.white.user.id`/`players.black.user.id`
   matching `thatosm` (case-insensitive).
-- Read `players.<mycolor>.analysis` → `{inaccuracy, mistake, blunder, acpl,
-  accuracy, phases}` and the same for the opponent's colour. `accuracy` is a
-  whole-number percentage; `phases` is `{opening, middlegame, endgame}`, also
-  percentages. Both only appear if `accuracy=true` was in the query string.
+- Read `players.<mycolor>.analysis` → `{accuracy, inaccuracy, mistake, blunder,
+  acpl}` and the same for the opponent's colour. `accuracy` may be missing on
+  some games — write "—" if so, never estimate.
 - Read `division.middle` and `division.end` (ply numbers) if present — convert
   ply to an approximate move number via `(ply+1)//2`.
 - Walk the `analysis` array (index i = ply i, 0-indexed; i even = White's move,
@@ -181,9 +187,7 @@ Replace the placeholder lines (`- **Me: [NOT YET ANALYSED]...**` and
 `- **Opponent: [NOT YET ANALYSED]**`) with:
 
     - **Me: N% accuracy · N blunders · N mistakes · N inaccuracies · N ACPL.**
-      Phases: Opening NN / Middlegame NN / Endgame NN.
     - **Opponent: N% accuracy · N blunders · N mistakes · N inaccuracies · N ACPL.**
-      Phases: Opening NN / Middlegame NN / Endgame NN.
     - Phases (Lichess division): opening ends ~move X, endgame starts ~move Y.
 
     **Computer analysis — flagged moves (from Lichess):**
@@ -194,6 +198,15 @@ Replace the placeholder lines (`- **Me: [NOT YET ANALYSED]...**` and
 
 (Omit the Phases line if division data is missing. Omit the table entirely if
 there are zero flagged moves.)
+
+NO SERVER ANALYSIS AFTER 7 DAYS: I review most games with the local browser
+engine, not Lichess server analysis (which has a daily limit). If an entry
+still contains `[NOT YET ANALYSED]` and its `Played:` date is more than 7 days
+ago, replace its two placeholder lines with exactly:
+
+    - **No Lichess server analysis.** Reviewed with the local engine. The auto Leak label comes from `scripts/leak-scan.py`.
+
+and never check that game again.
 
 Do NOT touch the `**Lesson —` section, the leak number, `**The ONE thing to
 fix:**`, or the row in `games/game-log.md` — those stay as human-review

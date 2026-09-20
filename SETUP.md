@@ -1,130 +1,176 @@
 # Setup Guide
 
-Two things to do with this repo:
+Written first-timer style, for Windows PowerShell in VS Code. The repo lives
+at `C:\Users\Ryzen 5 PC\projects\chess-coach`.
 
-- **Part A** — turn it into a Claude Project (do this first, it's the useful bit)
-- **Part B** — put it on GitHub via VS Code, from scratch
-
-Both are written first-timer style. Nothing is assumed.
-
----
-
-## Part A — Create the Claude Project
-
-1. Go to **claude.ai** and sign in.
-2. In the left sidebar, click **Projects**.
-3. Click **Create project** (top right).
-4. Name it **"Chess Coach — Thato"**. Add a short description, e.g.
-   "Coaching system, recurring leaks, and game log for ThatoSM (Lichess)."
-5. Open the new project. Find the **project knowledge** / **project files**
-   area — usually a panel on the right or an **Add content** button.
-6. Upload every `.md` file from this repo: `README.md`, `SETUP.md`, everything
-   in `docs/`, `games/`, and `training/`. You can select them all and drag them
-   in at once. (Skip `.gitignore` and the `games/pgn/` folder — those are for
-   GitHub, not for Claude.)
-7. In the project's **custom instructions** box, paste this:
-
-   > You are my chess coach. Before analysing any game I paste, read
-   > `docs/06-reading-an-analysis.md` and confirm which colour I played and
-   > which way the eval sign runs — this has been misread twice, so do it
-   > every time. Then read `docs/03-my-recurring-mistakes.md` and
-   > `docs/05-coaching-principles.md`. Name which numbered leak the game shows.
-   > Read the accuracy and phase numbers before commenting on individual moves.
-   > Be honest — don't congratulate a win that contained the same blunders as
-   > my losses, and don't invent a struggle that didn't happen. End with ONE
-   > thing to fix, not five.
-
-8. Done. Every new chat inside that project now starts knowing my chess.
-
-**Important:** the Claude Project's uploaded files and my chat memory are
-separate systems. This repo is the portable, version-controlled source of
-truth; the Project is a **snapshot** of it. **When I update these files, I must
-re-upload them** or the Project keeps coaching me off an old story.
+- **Part A** — the Claude Project
+- **Part B** — committing and pushing
+- **Part C** — Python and Stockfish, for the scripts (once)
+- **Part D** — re-running the Leak #1 scan (every ~50 games)
+- **Part E** — the daily loop
+- **Part F** — the nightly routine
 
 ---
 
-## Part B — Create the Git repo and push to GitHub (from scratch)
+## Part A — The Claude Project
 
-### One-time prerequisites
+The Project is called **Chess**. Its knowledge is one file:
+`repomix-output.xml`, a packed copy of this repo.
 
-1. Install **Git**: https://git-scm.com/downloads — accept all the defaults.
-2. Install **VS Code**: https://code.visualstudio.com
-3. Create a **GitHub account** if I don't have one: https://github.com
-4. Restart VS Code after installing Git, so it can find it.
+**Custom instructions** (Project → Instructions), paste exactly:
 
-### Tell Git who I am (once, ever)
+> You are my chess coach. Before analysing any game I paste, read
+> `docs/06-reading-an-analysis.md` and confirm which colour I played and
+> which way the eval sign runs — this has been misread twice, so do it
+> every time. Then read `docs/03-my-recurring-mistakes.md` and
+> `docs/05-coaching-principles.md`. Name which numbered leak the game shows.
+> Read the accuracy and phase numbers before commenting on individual moves.
+> Be honest — don't congratulate a win that contained the same blunders as
+> my losses, and don't invent a struggle that didn't happen. End with ONE
+> thing to fix, not five.
 
-Open VS Code, then open the terminal with **Ctrl + `** (the backtick key, top
-left of the keyboard, under Escape). Type these two lines, pressing Enter after
-each. Use my real name and the email on my GitHub account:
+**Refreshing the Project after any change** (this is the step that actually
+affects coaching — Git and Claude don't talk to each other):
 
-```powershell
-git config --global user.name "Thato"
-git config --global user.email "my-github-email@example.com"
-```
+1. In VS Code, open the terminal: **Ctrl + `** (backtick, under Escape).
+2. Make sure you're in the repo:
+   ```powershell
+   cd "C:\Users\Ryzen 5 PC\projects\chess-coach"
+   ```
+3. Rebuild the bundle:
+   ```powershell
+   npx repomix
+   ```
+   It prints a summary and writes `repomix-output.xml` in the repo folder.
+4. On claude.ai, open the **Chess** Project → Project knowledge.
+5. Delete the old `repomix-output.xml` (the **⋯** or bin icon on the file).
+6. Drag the new `repomix-output.xml` from File Explorer into the knowledge
+   panel.
 
-Nothing will appear to happen. That's correct — it worked.
+---
 
-### Create the repo
+## Part B — Committing and pushing
 
-1. In VS Code: **File → Open Folder** → select the `chess-coach` folder.
-2. Open the **Source Control** panel: click the branch-shaped icon in the far
-   left bar, or press **Ctrl + Shift + G**.
-3. Click the **Initialize Repository** button. VS Code now lists every file in
-   the folder as a change.
-4. In the message box at the top of that panel, type:
-   `Initial chess coaching system`
-5. Click the **✓ Commit** button.
-6. If it asks "Would you like to stage all your changes and commit them
-   directly?" — click **Yes**.
-7. Click **Publish Branch** (it may say **Publish to GitHub**).
-8. VS Code opens a browser window asking me to **sign in to GitHub**. Sign in
-   and click **Authorize**.
-9. VS Code asks whether to publish as **private** or **public**. Choose
-   **private** unless I specifically want this public.
-10. Confirm the repo name (`chess-coach` is fine). VS Code pushes everything up.
-
-The repo is now on GitHub. Refresh github.com to see it.
-
-### Pushing future changes (every time I update a file)
-
-1. Save the file (**Ctrl + S**).
-2. Source Control panel (**Ctrl + Shift + G**).
-3. Type a short commit message describing what changed, e.g.
-   `Add Game 9 vs <opponent>`.
-4. Click **✓ Commit**, then **Yes** if it asks to stage everything.
-5. Click **Sync Changes** (the circular-arrows icon) to push to GitHub.
-6. **Then re-upload the changed files to the Claude Project** (Part A, step 6).
-   Git and Claude do not talk to each other. This step is easy to forget and
-   it's the one that matters for coaching.
-
-### The command-line equivalent (if I prefer the terminal)
-
-From inside the folder, in VS Code's terminal (**Ctrl + `**):
+After any change:
 
 ```powershell
+cd "C:\Users\Ryzen 5 PC\projects\chess-coach"
+git pull
 git add .
-git commit -m "Update coaching files"
+git commit -m "Describe what changed"
 git push
 ```
 
-The very first time only, if the repo isn't linked to GitHub yet:
+- `git pull` first, because the nightly routine pushes from the cloud. If you
+  skip it, `git push` is rejected with "Updates were rejected"; run
+  `git pull`, then `git push` again.
+- Commit messages describe the change. **No dates or day numbers in them.**
 
+---
+
+## Part C — Python and Stockfish (once)
+
+### C1. Python
+
+1. Check Python is installed:
+   ```powershell
+   python --version
+   ```
+   Anything 3.10 or newer is fine. If it says "not recognized", install it
+   from https://www.python.org/downloads/ and **tick "Add python.exe to
+   PATH"** on the first installer screen, then close and reopen VS Code.
+2. Create the virtual environment in the repo (once):
+   ```powershell
+   cd "C:\Users\Ryzen 5 PC\projects\chess-coach"
+   python -m venv venv
+   ```
+3. Activate it (every new terminal):
+   ```powershell
+   .\venv\Scripts\Activate.ps1
+   ```
+   The prompt now starts with `(venv)`. If PowerShell says running scripts
+   is disabled, run this once, answer **Y**, then activate again:
+   ```powershell
+   Set-ExecutionPolicy -Scope CurrentUser RemoteSigned
+   ```
+4. Install the chess library:
+   ```powershell
+   pip install chess
+   ```
+
+`venv/` is in `.gitignore`, so it never gets committed.
+
+### C2. Stockfish
+
+1. Go to https://stockfishchess.org/download/ → **Windows**.
+2. Download the **x86-64-avx2** build (right for a Ryzen 5).
+3. Open the downloaded `.zip` → **Extract all** → extract to `C:\tools\`.
+4. In File Explorer, open `C:\tools\stockfish\` and find the `.exe` (named
+   like `stockfish-windows-x86-64-avx2.exe`). Right-click it → **Copy as
+   path**. That quoted path is your `--stockfish` value below.
+
+---
+
+## Part D — Re-running the Leak #1 scan (every ~50 games)
+
+1. Open the terminal, go to the repo, activate the venv:
+   ```powershell
+   cd "C:\Users\Ryzen 5 PC\projects\chess-coach"
+   .\venv\Scripts\Activate.ps1
+   ```
+2. Run the scan (paste your own Stockfish path from C2):
+   ```powershell
+   python scripts/leak-scan.py --stockfish "C:\tools\stockfish\stockfish-windows-x86-64-avx2.exe"
+   ```
+   It prints progress every 50 games and takes a few minutes. It overwrites
+   the four files in `games/leak-scan/`.
+3. Preview the Leak column update, then apply it:
+   ```powershell
+   python scripts/apply-leak-column.py --dry-run
+   python scripts/apply-leak-column.py
+   ```
+   Only `*pending*` cells change. My own labels are never touched.
+4. Open `games/leak-scan/leak-by-game.md`. Copy the Headline numbers into
+   the **Trend** table in `docs/03-my-recurring-mistakes.md` as a new row.
+5. Commit and push (Part B), then refresh the Project (Part A).
+
+Opening results, any time:
 ```powershell
-git init
-git add .
-git commit -m "Initial chess coaching system"
-git branch -M main
-git remote add origin https://github.com/<my-username>/chess-coach.git
-git push -u origin main
+python scripts/opening-results.py --since 2026-09-15 --family Caro-Kann
 ```
+
+---
+
+## Part E — The daily loop
+
+1. Play, with the board card open (`training/board-card.md`).
+2. After each game: review with the local engine and log the human fields
+   (`training/post-game-review.md`).
+3. The nightly routine syncs games, fills in the Lichess numbers, commits
+   and pushes.
+4. Next session: `git pull`, then refresh the Project (Part A) before asking
+   Claude about recent games.
+
+---
+
+## Part F — The nightly routine
+
+- Runs as a Claude Code scheduled routine (trigger
+  `trig_01GXQNmE1LNhre48LCwwiGSs`), 19:00 UTC / 21:00 SAST.
+- Its instructions are `routine-prompt.md`. It edits only `games/` (not
+  `games/leak-scan/`), `STATS.md` and `.repomixignore`.
+- To check it's still running:
+  ```powershell
+  git pull
+  git log -5 --oneline
+  ```
+  Recent commits from the routine should appear. If the newest routine
+  commit is days old, open Claude Code and check the routine.
 
 ---
 
 ## Security note
 
-**Never paste a password, personal access token, or API key into a chat with
-Claude.** Enter credentials only in GitHub's own sign-in window or VS Code's
-own prompt. If I ever paste a token by accident, go to GitHub →
-**Settings → Developer settings → Personal access tokens** and delete it
-immediately.
+Never paste a password, personal access token or API key into a chat with
+Claude. If one leaks, delete it at GitHub → **Settings → Developer settings
+→ Personal access tokens**.
