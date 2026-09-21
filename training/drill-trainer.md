@@ -31,15 +31,22 @@ browser, per device. The trainer is the source of truth for my opening lines;
   (vs 1.d4); other first moves.
 - 314 move notes, one per Black position. The original 148 were audited
   against their positions (notes 30, 32 and 137 were rewritten). The 166
-  added in the coverage rebuild were written against their positions.
-- Every Black move is Stockfish-checked (depth 17-18): none is more than
-  0.30 pawns worse than the engine's best, so none is a mistake.
+  added in the coverage rebuild were written against their positions,
+  then re-read: 6 were corrected (two ...Qb6 notes claimed pressure on d4
+  through my own c5 pawn, one claimed ...Qb6 hit b2 through White's b5
+  bishop, one miscounted material after Bxe5, one overstated a pawn grab, one
+  said ...exd6 opened both bishops).
+- Every Black move is Stockfish-checked (depth 18). Every move added in
+  the coverage rebuild is within 0.30 pawns of the engine's best. The
+  worst of the original moves cost 0.4-0.6 pawns (3...Bg4 in the
+  Blackmar-Diemer, ...Qb6 against Qb3 in the Slav, ...Bg4 against the
+  Bird): all standard book moves, kept on purpose. None is a mistake.
 - The London covers White taking on c5 in every move order: 4.dxc5 e6
   (5.b4 a5), 4.c3 Nc6 5.dxc5 e5!, the Nf3 orders, and dxc5 after Nd2 e6.
 - Coverage: lines were added for every White move that leaves the drill
   in at least 2 of every 1,000 Lichess rapid games at 900-1500 (sample:
   477k games from the August database). If I always play the drill move,
-  White leaves the drill before the line ends in about 41 games in 100,
+  White leaves the drill before the line ends in about 40 games in 100,
   down from 91. What's left is mostly moves seen in 1-2 games.
 - 5 Leak #1 positions (Y3Kv4gW3, NrqqHy6s, jXbD9Hx4, Ioxb2Pab and
   CvarQfXV) and 4 no-calculation positions: rule of the square, king to
