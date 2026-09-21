@@ -25,6 +25,7 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 771 | WIN | White | gertzen (1104) | *pending* |
 | 770 | WIN | Black | mrsnake2016 (1189) | *pending* |
 | 769 | WIN | Black | mrsnake2016 (1210) | *pending* |
 | 768 | WIN | White | TikhiniaLev91 (1202) | *pending* |
@@ -224,7 +225,6 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 | 574 | LOSS | White | Erotides1313 (1064) | #1 x2 (auto) |
 | 573 | WIN | White | catanddogtrainer (1123) | #1 x1 (auto) |
 | 572 | DRAW | Black | Hefnawy99 (1040) | #1 x1 (auto) |
-| 571 | WIN | Black | lam050708 (1098) | #1 x1 (auto) |
 | 1 | — | — | *profile snapshot* | — |
 
 ---
