@@ -17,10 +17,10 @@ browser, per device. The trainer is the source of truth for my opening lines;
    - A "Why" note appears after each of my moves.
 2. **Squares.** Tap the named square. 30 seconds. "As White" and "As Black"
    board views.
-3. **Key squares.** 36 positions: plans, targets, traps, and moments from my
+3. **Key squares.** 40 positions: plans, targets, traps, and moments from my
    own games (RtsF7naM, 8QSDOF75). Tap the answer square, then read the
    explanation.
-4. **Lessons.** Spaced-repetition flashcards (35 built in) from game reviews.
+4. **Lessons.** Spaced-repetition flashcards (36 built in) from game reviews.
    Intervals: 1, 3, 7, 14, 30 days.
 
 ## What's in it
@@ -34,6 +34,8 @@ browser, per device. The trainer is the source of truth for my opening lines;
 - 5 Leak #1 positions (Y3Kv4gW3, NrqqHy6s, jXbD9Hx4, Ioxb2Pab and
   CvarQfXV) and 4 no-calculation positions: rule of the square, king to
   the sixth, rook behind the passer, Blackburne Shilling.
+- 4 "Their reply" positions (85TRwipG, hD2iTRzR, 2jB6uoec, gT0ifqcr):
+  the opponent's punishing check or capture right after my mistake.
 
 ## Rules for editing it (for Claude)
 

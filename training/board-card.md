@@ -26,6 +26,9 @@ This is where my games are lost. Before touching a piece, out loud:
 2. **Every check.** Name each one. For each: *does it mate?*
 3. **Every capture.** Name each one.
 4. Only then consider a quiet move.
+5. **Before releasing ANY move here: their checks? their captures?**
+   67 of 109 middlegame collapses in my last 141 analysed games were
+   punished by the opponent's very next move — a check or a capture.
 
 **A free piece will still be free after I've looked for mate. The mate might
 not still be there.**
