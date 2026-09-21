@@ -1,7 +1,3 @@
-GIT AUTHORSHIP — every commit you make must use this exact flag:
-git commit --author="Thato <tsmofokeng1118@gmail.com>" -m "<message>"
-Never commit without the --author flag.
-
 This is a personal chess-training repo. My Lichess username is ThatoSM.
 
 IMPORTANT — always send a `User-Agent` header on every curl request to
