@@ -25,12 +25,22 @@ browser, per device. The trainer is the source of truth for my opening lines;
 
 ## What's in it
 
-- 13 line groups, 52 sequences: Classical, Advance, Exchange, Panov, Two
-  Knights, Fantasy, other 2nd moves, early queen (vs 1.e4); Slav, London,
-  Colle, Blackmar-Diemer (vs 1.d4); other first moves.
-- 148 move notes, one per first-seen Black position. All 148 audited
-  against their actual positions; notes 30, 32 and 137 were factually
-  wrong and were rewritten.
+- 15 line groups, 189 sequences: Classical, Advance, Exchange, Panov, Two
+  Knights, Fantasy, other 2nd moves, 2.Nf3/2.Nc3 then exd5, early queen
+  (vs 1.e4); Slav, London, Colle, Blackmar-Diemer, other 1.d4 d5 systems
+  (vs 1.d4); other first moves.
+- 314 move notes, one per Black position. The original 148 were audited
+  against their positions (notes 30, 32 and 137 were rewritten). The 166
+  added in the coverage rebuild were written against their positions.
+- Every Black move is Stockfish-checked (depth 17-18): none is more than
+  0.30 pawns worse than the engine's best, so none is a mistake.
+- The London covers White taking on c5 in every move order: 4.dxc5 e6
+  (5.b4 a5), 4.c3 Nc6 5.dxc5 e5!, the Nf3 orders, and dxc5 after Nd2 e6.
+- Coverage: lines were added for every White move that leaves the drill
+  in at least 2 of every 1,000 Lichess rapid games at 900-1500 (sample:
+  477k games from the August database). If I always play the drill move,
+  White leaves the drill before the line ends in about 41 games in 100,
+  down from 91. What's left is mostly moves seen in 1-2 games.
 - 5 Leak #1 positions (Y3Kv4gW3, NrqqHy6s, jXbD9Hx4, Ioxb2Pab and
   CvarQfXV) and 4 no-calculation positions: rule of the square, king to
   the sixth, rook behind the passer, Blackburne Shilling.
@@ -40,13 +50,20 @@ browser, per device. The trainer is the source of truth for my opening lines;
 ## Rules for editing it (for Claude)
 
 1. **Update the same artifact link.** Never create a new one.
-2. **Notes are matched to positions by first-seen order.** New lines go only
-   at the **end** of `LINES`, and their notes at the **end** of `NOTES`.
-   Inserting in the middle shifts every later note onto the wrong move.
+2. **Notes are keyed by move sequence.** `NOTES` is an object: the key is
+   the move sequence that first reaches a Black position, the value is the
+   note. Order no longer matters, so new sequences go in the group they
+   belong to. Every Black position must have exactly one note, and a
+   headless run must confirm none is missing (the page does not warn). Positions are keyed the way chess.js 0.10.3
+   writes FENs (the en-passant square is always written after a two-square
+   pawn move), so a transposition that ends with a pawn's double step is a
+   different position and needs its own note.
 3. A position must never have two different Black replies across lines.
 4. **Validate before publishing:** every line and every key-square position
-   through chess.js; note count must equal the number of first-seen Black
-   positions; then a headless test of the page.
+   through chess.js; every Black position has a note; then a headless run
+   that plays every variation of every group to the end with the book
+   moves and confirms zero mistakes, zero stuck runs and a note on every
+   Black move.
 5. Moments from my games go into Key squares with the game ID in the
    question text.
 6. A note is not validated by chess.js. Check what it CLAIMS against the
@@ -54,6 +71,10 @@ browser, per device. The trainer is the source of truth for my opening lines;
    can that knight actually go there?
 7. Key-square positions are stored as FENs and outlive the 200-game
    window. Never swap a position because its game was trimmed.
+8. New Black moves must be Stockfish-checked and within about 0.30 pawns
+   of the best move. Prefer the move that fits the repertoire's system
+   (bishop out before ...e6, ...c5 against d4, Bb5+ answered by ...Bd7)
+   when it is that close.
 
 ## Fixed
 
