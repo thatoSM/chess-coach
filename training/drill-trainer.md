@@ -31,8 +31,8 @@ browser, per device. The trainer is the source of truth for my opening lines;
 - 148 move notes, one per first-seen Black position. All 148 audited
   against their actual positions; notes 30, 32 and 137 were factually
   wrong and were rewritten.
-- 5 Leak #1 positions (EtmNt2qs, bvyvUq6w, LXHTis8n, dyTIyykK and
-  d2x1rwd1) and 4 no-calculation positions: rule of the square, king to
+- 5 Leak #1 positions (Y3Kv4gW3, NrqqHy6s, jXbD9Hx4, Ioxb2Pab and
+  CvarQfXV) and 4 no-calculation positions: rule of the square, king to
   the sixth, rook behind the passer, Blackburne Shilling.
 
 ## Rules for editing it (for Claude)
@@ -50,6 +50,8 @@ browser, per device. The trainer is the source of truth for my opening lines;
 6. A note is not validated by chess.js. Check what it CLAIMS against the
    position: is that square occupied, is that piece actually blocked,
    can that knight actually go there?
+7. Key-square positions are stored as FENs and outlive the 200-game
+   window. Never swap a position because its game was trimmed.
 
 ## Fixed
 
