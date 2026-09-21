@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/HgKkW39n"]
+[Date "2026.09.21"]
+[Round "-"]
+[White "asumer"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "HgKkW39n"]
+[UTCDate "2026.09.21"]
+[UTCTime "13:22:14"]
+[WhiteElo "1127"]
+[BlackElo "1197"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... c6 { [%eval 0.31] } 2. Nf3 { [%eval 0.17] } 2... d5 { [%eval 0.21] } 3. b3 { [%eval -1.28] } 3... dxe4 { [%eval -1.43] } 4. Nh4 { [%eval -3.7] } 4... e5 { [%eval -2.49] } 5. Bc4 { [%eval -7.62] } 5... Qxh4 { [%eval -7.39] } 6. Nc3 { [%eval -7.53] } 6... Nf6 { [%eval -7.99] } 7. O-O { [%eval -8.06] } 7... Bc5 { [%eval -7.94] } 8. g3 { [%eval -8.86] } 8... Qh3 { [%eval -8.08] } 9. Re1 { [%eval #-6] } 9... Bd4 { [%eval -6.03] } 10. Rb1 { [%eval #-6] } 10... Ng4 { [%eval -10.31] } 11. Nxe4 { [%eval #-3] } 11... Bxf2+ { [%eval #-2] } 12. Nxf2 { [%eval #-2] } 12... Qxh2+ { [%eval #-1] } 13. Kf1 { [%eval #-1] } 13... Qxf2# 0-1
+
+

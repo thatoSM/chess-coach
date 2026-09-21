@@ -25,6 +25,10 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 775 | WIN | White | Randomness11 (1500) | *pending* |
+| 774 | WIN | White | SASZchess (1184) | *pending* |
+| 773 | WIN | Black | asumer (1127) | *pending* |
+| 772 | WIN | Black | Pasteris56 (1189) | *pending* |
 | 771 | WIN | White | gertzen (1104) | *pending* |
 | 770 | WIN | Black | mrsnake2016 (1189) | *pending* |
 | 769 | WIN | Black | mrsnake2016 (1210) | *pending* |
@@ -221,10 +225,6 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 | 578 | LOSS | Black | Tagananent (1142) | #1 x1 (auto) |
 | 577 | WIN | White | Savior5027 (1178) | #1 x1 (auto) |
 | 576 | LOSS | Black | AXE722 (1151) | *pending* |
-| 575 | WIN | Black | delniya_nasiri_2017 (1118) | #1 x1 (auto) |
-| 574 | LOSS | White | Erotides1313 (1064) | #1 x2 (auto) |
-| 573 | WIN | White | catanddogtrainer (1123) | #1 x1 (auto) |
-| 572 | DRAW | Black | Hefnawy99 (1040) | #1 x1 (auto) |
 | 1 | — | — | *profile snapshot* | — |
 
 ---
