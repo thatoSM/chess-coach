@@ -25,6 +25,26 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 795 | WIN | White | Ghsm_echecs (1102) | *pending* |
+| 794 | LOSS | Black | pondhanvi (1217) | *pending* |
+| 793 | WIN | Black | PayamFarsadkia (1303) | *pending* |
+| 792 | LOSS | White | airilain (1191) | *pending* |
+| 791 | DRAW | White | mmarr13 (1200) | *pending* |
+| 790 | WIN | Black | Slabak_123 (1214) | *pending* |
+| 789 | WIN | White | navidtbt (1272) | *pending* |
+| 788 | WIN | White | mreza_gholampour (1224) | *pending* |
+| 787 | LOSS | White | Php94fr (1194) | *pending* |
+| 786 | LOSS | Black | JuDiTh121 (1185) | *pending* |
+| 785 | LOSS | Black | Makhambet57 (1242) | *pending* |
+| 784 | LOSS | White | loulou57240 (1240) | *pending* |
+| 783 | WIN | Black | letchoubi (1207) | *pending* |
+| 782 | LOSS | Black | VKapantaidakis (1221) | *pending* |
+| 781 | WIN | White | Aramdolatdoost2016 (1138) | *pending* |
+| 780 | WIN | White | Priss4228 (1224) | *pending* |
+| 779 | WIN | Black | lino_mocchetti (1202) | *pending* |
+| 778 | LOSS | White | Ram2070 (1153) | *pending* |
+| 777 | LOSS | Black | Enzoalbon (1206) | *pending* |
+| 776 | LOSS | Black | jboy0_12 (1247) | *pending* |
 | 775 | WIN | White | Randomness11 (1500) | *pending* |
 | 774 | WIN | White | SASZchess (1184) | *pending* |
 | 773 | WIN | Black | asumer (1127) | *pending* |
@@ -205,26 +225,6 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 | 598 | LOSS | Black | Ruka4975 (1202) | #1 x2 (auto) |
 | 597 | LOSS | Black | JovanBgd995 (1199) | #1 x3 (auto) |
 | 596 | WIN | White | sedzen (1117) | #1 x2 (auto) |
-| 595 | WIN | Black | KarimJoseph (1059) | clean (auto) |
-| 594 | WIN | White | wayoutwestspb (1104) | clean (auto) |
-| 593 | WIN | Black | lpkramit (1043) | clean (auto) |
-| 592 | LOSS | White | JonatamGood (1018) | #1 x1 (auto) |
-| 591 | DRAW | White | breedknight (1124) | clean (auto) |
-| 590 | LOSS | Black | h1221b (1213) | no win (auto) |
-| 589 | WIN | Black | Maria3310 (991) | clean (auto) |
-| 588 | WIN | White | alexandrejr48 (1019) | *pending* |
-| 587 | WIN | White | OSoleildesLunes1 (875) | *pending* |
-| 586 | WIN | Black | OSoleildesLunes1 (878) | *pending* |
-| 585 | LOSS | White | vitalityko (1033) | clean (auto) |
-| 584 | LOSS | Black | ArturK23 (1042) | no win (auto) |
-| 583 | WIN | White | theDJX59 (1219) | clean (auto) |
-| 582 | DRAW | Black | Ivanyk-k (1051) | #1 x3 (auto) |
-| 581 | LOSS | White | maluherz (1140) | clean (auto) |
-| 580 | DRAW | Black | subash41 (1136) | #1 x1 (auto) |
-| 579 | WIN | White | FiorelaCabanillasUTP (1072) | #1 x3 (auto) |
-| 578 | LOSS | Black | Tagananent (1142) | #1 x1 (auto) |
-| 577 | WIN | White | Savior5027 (1178) | #1 x1 (auto) |
-| 576 | LOSS | Black | AXE722 (1151) | *pending* |
 | 1 | — | — | *profile snapshot* | — |
 
 ---

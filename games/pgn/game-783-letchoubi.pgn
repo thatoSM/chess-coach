@@ -1,0 +1,23 @@
+[Event "rated classical game"]
+[Site "https://lichess.org/NQTgIpFv"]
+[Date "2026.09.22"]
+[Round "-"]
+[White "letchoubi"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "NQTgIpFv"]
+[UTCDate "2026.09.22"]
+[UTCTime "11:39:47"]
+[WhiteElo "1207"]
+[BlackElo "1155"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+40"]
+[Variant "Standard"]
+[TimeControl "1800+0"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... c6 { [%eval 0.31] } 2. Nf3 { [%eval 0.17] } 2... d5 { [%eval 0.21] } 3. d4 { [%eval -0.84] } 3... dxe4 { [%eval -0.8] } 4. Ne5 { [%eval -0.82] } 4... Bf5 { [%eval 0.69] } 5. g4 { [%eval -0.62] } 5... Bg6 { [%eval 0.98] } 6. Bg2 { [%eval -0.33] } 6... Nd7 { [%eval -0.47] } 7. Rg1 { [%eval -2.87] } 7... Nxe5 { [%eval -2.86] } 8. dxe5 { [%eval -3.04] } 8... Qxd1+ { [%eval -1.25] } 9. Kxd1 { [%eval -1.22] } 9... e6 { [%eval -1.23] } 10. Be3 { [%eval -1.42] } 10... O-O-O+ { [%eval -1.21] } 11. Nd2 { [%eval -1.31] } 11... h5 { [%eval -0.91] } 12. g5 { [%eval -0.93] } 12... Rd5 { [%eval -1.05] } 13. Bxe4 { [%eval -5.98] } 13... Bxe4 { [%eval -5.94] } 14. Bxa7 { [%eval -5.68] } 14... Bb4 { [%eval -5.59] } 15. c3 { [%eval -5.49] } 15... Be7 { [%eval -5.13] } 16. f4 { [%eval -5.12] } 16... f6 { [%eval -5.1] } 17. Re1 { [%eval -5.97] } 17... Bf3+ { [%eval -4.74] } 18. Kc2 { [%eval -4.88] } 18... Bg4 { [%eval -4.85] } 19. Rac1 { [%eval -6.93] } 19... fxg5 { [%eval -6.32] } 20. Rcd1 { [%eval -7.54] } 20... gxf4 { [%eval -7.49] } 0-1
+
+

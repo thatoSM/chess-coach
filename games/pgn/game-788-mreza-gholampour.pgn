@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/9YmJTliN"]
+[Date "2026.09.22"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "mreza_gholampour"]
+[Result "1-0"]
+[GameId "9YmJTliN"]
+[UTCDate "2026.09.22"]
+[UTCTime "15:53:32"]
+[WhiteElo "1184"]
+[BlackElo "1224"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C55"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. Bc4 { [%eval 0.07] } 3... Nf6 { [%eval 0.22] } 4. d3 { [%eval 0.09] } 4... Be7 { [%eval 0.24] } 5. O-O { [%eval 0.05] } 5... O-O { [%eval 0.29] } 6. a3 { [%eval 0.0] } 6... a6 { [%eval 0.36] } 7. Nc3 { [%eval 0.35] } 7... b5 { [%eval 0.43] } 8. Ba2 { [%eval 0.4] } 8... d6 { [%eval 0.41] } 9. Bg5 { [%eval 0.17] } 9... h6 { [%eval 0.24] } 10. Bh4 { [%eval 0.01] } 10... Re8 { [%eval 0.13] } 11. h3 { [%eval 0.09] } 11... Qd7 { [%eval 0.46] } 12. Re1 { [%eval 0.24] } 12... Nh5 { [%eval 1.41] } 13. Bxe7 { [%eval 0.76] } 13... Rxe7 { [%eval 1.83] } 14. Nxe5 { [%eval -3.74] } 14... Nxe5 { [%eval 3.15] } 15. Qxh5 { [%eval 3.12] } 15... Qe6 { [%eval 8.96] } 16. Bxe6 { [%eval 9.01] } 1-0
+
+

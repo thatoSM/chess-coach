@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/VLT19Z3T"]
+[Date "2026.09.22"]
+[Round "-"]
+[White "pondhanvi"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "VLT19Z3T"]
+[UTCDate "2026.09.22"]
+[UTCTime "18:35:29"]
+[WhiteElo "1217"]
+[BlackElo "1204"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "900+10"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... c6 { [%eval 0.31] } 2. Nf3 { [%eval 0.17] } 2... d5 { [%eval 0.21] } 3. exd5 { [%eval 0.14] } 3... cxd5 { [%eval 0.07] } 4. Bb5+ { [%eval 0.0] } 4... Bd7 { [%eval 0.0] } 5. Nc3 { [%eval -0.17] } 5... Bxb5 { [%eval -0.24] } 6. Nxb5 { [%eval -0.16] } 6... Qb6 { [%eval -0.03] } 7. a4 { [%eval -0.13] } 7... a6 { [%eval -0.07] } 8. a5 { [%eval -6.37] } 8... Qxb5 { [%eval -6.42] } 9. Ne5 { [%eval -6.67] } 9... f6 { [%eval -2.07] } 10. Qh5+ { [%eval -2.06] } 10... Kd8 { [%eval 1.13] } 11. Nf7+ { [%eval 1.23] } 1-0
+
+

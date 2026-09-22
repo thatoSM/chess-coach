@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/mcbhdgqc"]
+[Date "2026.09.22"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "Priss4228"]
+[Result "1-0"]
+[GameId "mcbhdgqc"]
+[UTCDate "2026.09.22"]
+[UTCTime "10:48:29"]
+[WhiteElo "1200"]
+[BlackElo "1224"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-17"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Valencian Variation"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.18] } 1... d5 { [%eval 0.54] } 2. exd5 { [%eval 0.51] } 2... Qxd5 { [%eval 0.52] } 3. Nc3 { [%eval 0.47] } 3... Qd8 { [%eval 0.58] } 4. Nf3 { [%eval 0.61] } 4... Bf5 { [%eval 0.57] } 5. d4 { [%eval 0.71] } 5... e6 { [%eval 0.71] } 6. Bd3 { [%eval 0.55] } 6... Bd6 { [%eval 1.1] } 7. Bxf5 { [%eval 1.08] } 7... exf5 { [%eval 1.23] } 8. O-O { [%eval 0.95] } 8... Ne7 { [%eval 0.99] } 9. Re1 { [%eval 0.81] } 9... O-O { [%eval 0.87] } 10. Bg5 { [%eval 0.8] } 10... f6 { [%eval 1.27] } 11. Bh4 { [%eval -0.56] } 11... c6 { [%eval 0.29] } 12. d5 { [%eval -0.05] } 12... Bb4 { [%eval 0.08] } 13. dxc6 { [%eval -0.91] } 1-0
+
+

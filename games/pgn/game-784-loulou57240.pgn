@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/Zc3u15pa"]
+[Date "2026.09.22"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "loulou57240"]
+[Result "0-1"]
+[GameId "Zc3u15pa"]
+[UTCDate "2026.09.22"]
+[UTCTime "11:58:24"]
+[WhiteElo "1205"]
+[BlackElo "1240"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "900+10"]
+[ECO "C54"]
+[Opening "Italian Game: Classical Variation, Center Attack"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. Bc4 { [%eval 0.07] } 3... Bc5 { [%eval 0.2] } 4. c3 { [%eval 0.09] } 4... Nf6 { [%eval 0.13] } 5. d4 { [%eval 0.0] } 5... Bd6 { [%eval 1.43] } 6. dxe5 { [%eval 0.99] } 6... Nxe5 { [%eval 2.53] } 7. Nxe5 { [%eval 2.6] } 7... Bxe5 { [%eval 2.53] } 8. O-O { [%eval 0.45] } 8... h6 { [%eval 2.73] } 9. Re1 { [%eval 0.69] } 9... d6 { [%eval 2.84] } 10. Nd2 { [%eval 0.59] } 10... a6 { [%eval 0.73] } 11. Nf3 { [%eval 0.5] } 11... Bg4 { [%eval 1.37] } 12. h3 { [%eval 0.7] } 12... Bh5 { [%eval 1.82] } 13. g4 { [%eval 1.68] } 13... Bg6 { [%eval 1.36] } 14. Nd2 { [%eval -0.24] } 14... b5 { [%eval 0.63] } 15. Bd5 { [%eval -0.62] } 15... Rc8 { [%eval 2.44] } 16. Nf3 { [%eval -0.02] } 16... c6 { [%eval 0.51] } 17. Nxe5 { [%eval 0.07] } 17... dxe5 { [%eval 0.03] } 18. Bb3 { [%eval 0.16] } 18... Bxe4 { [%eval 0.64] } 19. Qxd8+ { [%eval 0.02] } 19... Rxd8 { [%eval 0.06] } 20. a4 { [%eval -0.33] } 20... bxa4 { [%eval 1.84] } 21. Bxa4 { [%eval 0.33] } 21... O-O { [%eval 0.28] } 22. b4 { [%eval -0.05] } 22... Rd3 { [%eval 0.88] } 23. Bb2 { [%eval -3.45] } 23... Rxh3 { [%eval -3.18] } 24. Bc2 { [%eval #-1] } 24... Rh1# 0-1
+
+
