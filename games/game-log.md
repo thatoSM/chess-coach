@@ -25,6 +25,24 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 813 | LOSS | White | lonnatdhd (1232) | *pending* |
+| 812 | LOSS | Black | hamoda29 (1164) | *pending* |
+| 811 | LOSS | White | hamoda29 (1157) | *pending* |
+| 810 | WIN | Black | Remizov_Vladimir (1201) | *pending* |
+| 809 | LOSS | Black | Schachtomat3000 (1228) | *pending* |
+| 808 | WIN | Black | Akahng (1213) | *pending* |
+| 807 | LOSS | White | ismailugur (1218) | *pending* |
+| 806 | LOSS | Black | incentive (1315) | *pending* |
+| 805 | LOSS | White | ArtaChess1393 (1192) | *pending* |
+| 804 | WIN | White | Mesteren2018 (1219) | *pending* |
+| 803 | LOSS | Black | LelikBolek (1306) | *pending* |
+| 802 | WIN | Black | Chintu99556 (1085) | *pending* |
+| 801 | DRAW | White | nadrez (1225) | *pending* |
+| 800 | WIN | Black | hoainamchess (1169) | *pending* |
+| 799 | LOSS | White | Anton_1968 (1250) | *pending* |
+| 798 | WIN | White | art-chess (1233) | *pending* |
+| 797 | LOSS | Black | olich349 (1242) | *pending* |
+| 796 | WIN | Black | JasonPolmateer (1192) | *pending* |
 | 795 | WIN | White | Ghsm_echecs (1102) | *pending* |
 | 794 | LOSS | Black | pondhanvi (1217) | *pending* |
 | 793 | WIN | Black | PayamFarsadkia (1303) | *pending* |
@@ -207,24 +225,6 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 | 616 | WIN | Black | fefe15 (1075) | #1 x1 (auto) |
 | 615 | LOSS | White | behrad_mirhoshyar (1151) | #1 x1 (auto) |
 | 614 | LOSS | White | hope_38 (1216) | #1 x2 (auto) |
-| 613 | WIN | Black | veritygavelle (1141) | clean (auto) |
-| 612 | LOSS | White | Serwind (1193) | #1 x1 (auto) |
-| 611 | WIN | Black | igorokok83 (1081) | clean (auto) |
-| 610 | WIN | White | Aaronvir (1206) | #1 x1 (auto) |
-| 609 | LOSS | Black | kathisonnenschein (1139) | clean (auto) |
-| 608 | WIN | Black | anniehalll (1127) | clean (auto) |
-| 607 | WIN | Black | chotzh (1207) | clean (auto) |
-| 606 | DRAW | White | Nilaybharagava29 (1072) | #1 x6 (auto) |
-| 605 | WIN | Black | target1200 (1128) | #1 x1 (auto) |
-| 604 | LOSS | Black | raahityaghosh17 (1113) | no win (auto) |
-| 603 | LOSS | White | matitoe (1077) | #1 x3 (auto) |
-| 602 | WIN | White | Pelmesek18 (1012) | #1 x2 (auto) |
-| 601 | LOSS | White | Kleomenas (1058) | no win (auto) |
-| 600 | WIN | White | N0tQuiteMyTemp0 (1065) | clean (auto) |
-| 599 | WIN | Black | Hen-N (1085) | no win (auto) |
-| 598 | LOSS | Black | Ruka4975 (1202) | #1 x2 (auto) |
-| 597 | LOSS | Black | JovanBgd995 (1199) | #1 x3 (auto) |
-| 596 | WIN | White | sedzen (1117) | #1 x2 (auto) |
 | 1 | — | — | *profile snapshot* | — |
 
 ---

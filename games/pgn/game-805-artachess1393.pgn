@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/SC9GAo1c"]
+[Date "2026.09.23"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "ArtaChess1393"]
+[Result "0-1"]
+[GameId "SC9GAo1c"]
+[UTCDate "2026.09.23"]
+[UTCTime "16:15:25"]
+[WhiteElo "1215"]
+[BlackElo "1192"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C50"]
+[Opening "Italian Game: Giuoco Pianissimo, Normal"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. O-O d6 6. h3 Be6 7. Bxe6 fxe6 8. Nbd2 d5 9. Re1 O-O 10. Nb3 Qe7 11. exd5 exd5 12. Nxc5 Qxc5 13. Nxe5 Rfe8 14. Nxc6 Rxe1+ 15. Qxe1 Qxc6 16. c3 Re8 17. Qd1 Re5 18. d4 Re6 19. Bg5 Qe8 20. Bf4 c6 21. a3 a5 22. Bg5 h6 23. Bh4 Ne4 24. f3 g5 25. fxe4 gxh4 26. exd5 cxd5 27. Qd2 Re2 28. Qc1 Qe4 29. Rb1 Qxg2# 0-1
+
+

@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/O9jaMntd"]
+[Date "2026.09.23"]
+[Round "-"]
+[White "hoainamchess"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "O9jaMntd"]
+[UTCDate "2026.09.23"]
+[UTCTime "13:05:54"]
+[WhiteElo "1169"]
+[BlackElo "1205"]
+[WhiteRatingDiff "-64"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense: Two Knights Attack"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... c6 { [%eval 0.31] } 2. Nf3 { [%eval 0.17] } 2... d5 { [%eval 0.21] } 3. Nc3 { [%eval 0.2] } 3... dxe4 { [%eval 0.16] } 4. Nxe4 { [%eval 0.12] } 4... Bf5 { [%eval 0.37] } 5. Bd3 { [%eval 0.1] } 5... Nf6 { [%eval 4.61] } 6. Ne5 { [%eval -6.72] } 6... Bxe4 { [%eval -6.38] } 7. f3 { [%eval -7.19] } 7... Bxd3 { [%eval -7.19] } 8. cxd3 { [%eval -8.01] } 8... Nbd7 { [%eval -7.79] } 9. Qe2 { [%eval -8.0] } 9... Nxe5 { [%eval -7.85] } 10. Qxe5 { [%eval -7.91] } 10... Qxd3 { [%eval -7.67] } 11. Qe2 { [%eval -7.69] } 11... Qxe2+ { [%eval -7.68] } 12. Kxe2 { [%eval -7.6] } 0-1
+
+
