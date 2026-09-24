@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/uHCndeCn"]
+[Date "2026.09.24"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "prathit21"]
+[Result "0-1"]
+[GameId "uHCndeCn"]
+[UTCDate "2026.09.24"]
+[UTCTime "13:18:24"]
+[WhiteElo "1197"]
+[BlackElo "1254"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+10"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C54"]
+[Opening "Italian Game: Classical Variation, Center Attack"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 Bd6 6. dxe5 Bxe5 7. Nxe5 Nxe5 8. Qd5 Nxd5 0-1
+
+

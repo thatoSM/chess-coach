@@ -25,6 +25,27 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 849 | WIN | White | SacrificeMenace (1231) | *pending* |
+| 848 | WIN | Black | supriya222 (1161) | *pending* |
+| 847 | LOSS | Black | Viktor5577 (1206) | *pending* |
+| 846 | WIN | White | Anton8398 (1303) | *pending* |
+| 845 | LOSS | White | tbdee (1282) | *pending* |
+| 844 | LOSS | Black | shuksj (1154) | *pending* |
+| 843 | LOSS | Black | jazzsader (1220) | *pending* |
+| 842 | WIN | White | DanielGodfrey (1277) | *pending* |
+| 841 | WIN | Black | MarcTou (1182) | *pending* |
+| 840 | WIN | White | fedyok_98 (1169) | *pending* |
+| 839 | LOSS | Black | safranecko (1219) | *pending* |
+| 838 | LOSS | White | ZamirSm (1134) | *pending* |
+| 837 | LOSS | Black | ZamirSm (1127) | *pending* |
+| 836 | WIN | White | ZamirSm (1132) | *pending* |
+| 835 | LOSS | White | prathit21 (1254) | *pending* |
+| 834 | LOSS | Black | maybe777 (1229) | *pending* |
+| 833 | WIN | White | IKseniaI (1205) | *pending* |
+| 832 | LOSS | White | Ismecar (1190) | *pending* |
+| 831 | DRAW | Black | Sonokyoung (1177) | *pending* |
+| 830 | DRAW | Black | undeepblue (1191) | *pending* |
+| 829 | LOSS | Black | backwords (1265) | *pending* |
 | 828 | WIN | White | Rajithcy (1185) | *pending* |
 | 827 | WIN | Black | bigbalabobby (1244) | *pending* |
 | 826 | WIN | White | gayrettinzaman (1077) | *pending* |
@@ -204,27 +225,6 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 | 652 | WIN | White | yahto19 (1101) | clean (auto) |
 | 651 | WIN | White | MarcoxP1 (1122) | clean (auto) |
 | 650 | LOSS | Black | lovrocroatia (1162) | #1 x3 (auto) |
-| 649 | LOSS | Black | panjiturama (1098) | #1 x1 (auto) |
-| 648 | WIN | White | Tamara-13 (1107) | #1 x1 (auto) |
-| 647 | LOSS | White | Od1no4ka011 (1135) | clean (auto) |
-| 646 | LOSS | Black | dice2 (1153) | no win (auto) |
-| 645 | LOSS | Black | gwatblat (1108) | #1 x1 (auto) |
-| 644 | LOSS | White | radmehr46 (1120) | #1 x1 (auto) |
-| 643 | WIN | Black | anteman (1112) | #1 x1 (auto) |
-| 642 | WIN | Black | Panarin-Artem2015 (1206) | no win (auto) |
-| 641 | LOSS | White | Check_Matey77 (1088) | #1 x1 (auto) |
-| 640 | WIN | Black | aydinusta (1137) | #1 x1 (auto) |
-| 639 | LOSS | Black | Ngan_Arrchie1802 (1171) | #1 x1 (auto) |
-| 638 | LOSS | Black | Hannaankhan (1147) | #1 x3 (auto) |
-| 637 | LOSS | Black | Kalter312 (1061) | no win (auto) |
-| 636 | DRAW | Black | Chemfan (1011) | clean (auto) |
-| 635 | LOSS | Black | LesibaR (1156) | clean (auto) |
-| 634 | LOSS | White | LesibaR (1150) | #1 x1 (auto) |
-| 633 | WIN | White | hiatogomes (1196) | no win (auto) |
-| 632 | WIN | White | fu2012 (1090) | clean (auto) |
-| 631 | LOSS | Black | HAIJACK122R (1092) | no win (auto) |
-| 630 | WIN | White | HAIJACK122R (1097) | clean (auto) |
-| 629 | LOSS | Black | HAIJACK122R (1091) | #1 x7 (auto) |
 | 1 | — | — | *profile snapshot* | — |
 
 ---

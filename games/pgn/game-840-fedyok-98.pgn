@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/n3c5UJxH"]
+[Date "2026.09.24"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "fedyok_98"]
+[Result "1-0"]
+[GameId "n3c5UJxH"]
+[UTCDate "2026.09.24"]
+[UTCTime "14:58:45"]
+[WhiteElo "1178"]
+[BlackElo "1169"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "900+10"]
+[ECO "C42"]
+[Opening "Petrov's Defense: Three Knights Game"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nf6 { [%eval 0.34] } 3. Nc3 { [%eval 0.08] } 3... Bc5 { [%eval 0.97] } 4. Bc4 { [%eval 0.0] } 4... Bxf2+ { [%eval 4.26] } 5. Kxf2 { [%eval 3.39] } 5... Ng4+ { [%eval 3.98] } 6. Kf1 { [%eval 3.54] } 6... O-O { [%eval 3.62] } 7. h3 { [%eval 6.56] } 7... Nf6 { [%eval 3.62] } 8. Nxe5 { [%eval 5.71] } 8... Qe7 { [%eval 6.94] } 9. Nf3 { [%eval 6.7] } 9... b6 { [%eval 7.35] } 10. d3 { [%eval 7.33] } 10... Bb7 { [%eval 7.47] } 11. Bg5 { [%eval 7.16] } 11... Nc6 { [%eval 7.27] } 12. a3 { [%eval 6.62] } 12... Ne5 { [%eval 6.7] } 13. Nxe5 { [%eval 6.42] } 13... Qxe5 { [%eval 6.2] } 14. Bxf6 { [%eval 6.08] } 14... Qxf6+ { [%eval 6.16] } 15. Qf3 { [%eval 6.0] } 15... Qe5 { [%eval 6.35] } 16. Qf5 { [%eval 6.05] } 16... Qg3 { [%eval 6.57] } 17. Rg1 { [%eval 6.08] } 17... g6 { [%eval 6.47] } 18. Nd5 { [%eval -8.19] } 18... Bxd5 { [%eval 5.45] } 19. Qxd5 { [%eval 5.04] } 19... Qf4+ { [%eval 6.83] } 20. Ke2 { [%eval 6.9] } 20... c6 { [%eval 7.61] } 21. Qxd7 { [%eval 7.39] } 21... b5 { [%eval 7.7] } 22. Bb3 { [%eval 7.35] } 22... Qf6 { [%eval 7.99] } 23. Rgf1 { [%eval 7.99] } 23... Qxb2 { [%eval 9.31] } 24. Qxc6 { [%eval 7.53] } 24... Qe5 { [%eval 8.74] } 25. Qf6 { [%eval 7.7] } 25... Qh5+ { [%eval 9.09] } 26. Qf3 { [%eval 7.24] } 26... Qc5 { [%eval 8.68] } 27. Qe3 { [%eval 7.22] } 27... Qxc2+ { [%eval 11.52] } 28. Bxc2 { [%eval 11.16] } 1-0
+
+

@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/yY60Nvn5"]
+[Date "2026.09.24"]
+[Round "-"]
+[White "maybe777"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "yY60Nvn5"]
+[UTCDate "2026.09.24"]
+[UTCTime "13:06:46"]
+[WhiteElo "1229"]
+[BlackElo "1202"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Accelerated London System"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.15] } 1... d5 { [%eval 0.27] } 2. Bf4 { [%eval 0.0] } 2... Nf6 { [%eval 0.14] } 3. e3 { [%eval 0.04] } 3... Bf5 { [%eval 0.14] } 4. Nf3 { [%eval 0.16] } 4... e6 { [%eval 0.18] } 5. h3 { [%eval -0.07] } 5... c5 { [%eval 0.0] } 6. c3 { [%eval -0.21] } 6... cxd4 { [%eval 0.0] } 7. cxd4 { [%eval -0.07] } 7... Nc6 { [%eval 0.0] } 8. Bd3 { [%eval -0.4] } 8... Bxd3 { [%eval 0.02] } 9. Qxd3 { [%eval 0.01] } 9... Bb4+ { [%eval 0.06] } 10. Nc3 { [%eval 0.03] } 10... h6 { [%eval 0.0] } 11. a3 { [%eval -0.09] } 11... Ba5 { [%eval 0.07] } 12. b4 { [%eval -0.14] } 12... Bb6 { [%eval 0.26] } 13. Rb1 { [%eval -0.04] } 13... Bc7 { [%eval -0.04] } 14. Bxc7 { [%eval -0.1] } 14... Qxc7 { [%eval -0.06] } 15. Ne5 { [%eval -1.61] } 15... Nxe5 { [%eval -1.75] } 16. dxe5 { [%eval -1.81] } 16... Qxe5 { [%eval -1.58] } 17. Qb5+ { [%eval -1.5] } 17... Ke7 { [%eval 0.0] } 18. Qxb7+ { [%eval 0.0] } 18... Nd7 { [%eval 0.0] } 19. Ne2 { [%eval -0.23] } 19... Rhb8 { [%eval -0.27] } 20. Qa6 { [%eval -2.99] } 20... Qg5 { [%eval 0.48] } 21. O-O { [%eval 0.5] } 21... Ne5 { [%eval 6.52] } 22. f4 { [%eval 6.36] } 22... Rb6 { [%eval 6.42] } 23. Qa5 { [%eval 4.19] } 23... Nc4 { [%eval 9.93] } 24. Qc5+ { [%eval 9.54] } 24... Rd6 { [%eval 10.79] } 25. fxg5 { [%eval 10.35] } 1-0
+
+

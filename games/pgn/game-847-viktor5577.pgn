@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/FMfBfO1p"]
+[Date "2026.09.24"]
+[Round "-"]
+[White "Viktor5577"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "FMfBfO1p"]
+[UTCDate "2026.09.24"]
+[UTCTime "17:31:23"]
+[WhiteElo "1206"]
+[BlackElo "1189"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Accelerated London System"]
+[Termination "Normal"]
+
+1. d4 d5 2. Bf4 Nf6 3. e3 Bg4 4. Nf3 e6 5. h3 Bh5 6. g4 Bg6 7. c3 c5 8. Qa4+ Nc6 9. Ne5 Qd7 10. Nxd7 1-0
+
+

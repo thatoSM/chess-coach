@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/O5yGlK3Q"]
+[Date "2026.09.24"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "Ismecar"]
+[Result "0-1"]
+[GameId "O5yGlK3Q"]
+[UTCDate "2026.09.24"]
+[UTCTime "11:24:36"]
+[WhiteElo "1202"]
+[BlackElo "1190"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C40"]
+[Opening "Elephant Gambit"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d5 3. Nxe5 dxe4 4. d4 Bd6 5. Nc3 Bxe5 6. dxe5 Qxd1+ 7. Kxd1 Ne7 8. Nxe4 Nbc6 9. f4 Bg4+ 10. Be2 Bxe2+ 11. Kxe2 O-O-O 12. Be3 Nd5 13. Bf2 Nxf4+ 14. Kf3 Ne6 15. Bh4 Ncd4+ 16. Ke3 Rde8 17. c3 Nc2+ 0-1
+
+
