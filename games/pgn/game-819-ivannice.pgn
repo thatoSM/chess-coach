@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/582vjeGy"]
+[Date "2026.09.24"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "IvanNice"]
+[Result "0-1"]
+[GameId "582vjeGy"]
+[UTCDate "2026.09.24"]
+[UTCTime "05:29:24"]
+[WhiteElo "1195"]
+[BlackElo "1222"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "C54"]
+[Opening "Italian Game: Classical Variation, Greco Gambit, Traditional Line"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. Bc4 { [%eval 0.07] } 3... Bc5 { [%eval 0.2] } 4. c3 { [%eval 0.09] } 4... Nf6 { [%eval 0.13] } 5. d4 { [%eval 0.0] } 5... exd4 { [%eval 0.18] } 6. cxd4 { [%eval -0.01] } 6... Bb4+ { [%eval 0.0] } 7. Bd2 { [%eval -0.05] } 7... Nxe4 { [%eval -0.21] } 8. Bxb4 { [%eval 0.0] } 8... Nxb4 { [%eval 0.06] } 9. Qe2 { [%eval -0.68] } 9... d5 { [%eval -0.81] } 10. Na3 { [%eval -5.01] } 10... Bf5 { [%eval -3.05] } 11. Nh4 { [%eval -7.89] } 11... Qxh4 { [%eval -7.7] } 0-1
+
+

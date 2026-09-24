@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/XcHmzR2Z"]
+[Date "2026.09.24"]
+[Round "-"]
+[White "Paarthsr"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "XcHmzR2Z"]
+[UTCDate "2026.09.24"]
+[UTCTime "05:54:42"]
+[WhiteElo "1198"]
+[BlackElo "1195"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "D12"]
+[Opening "Slav Defense: Quiet Variation, Schallopp Defense"]
+[Termination "Normal"]
+
+1. Nf3 { [%eval 0.1] } 1... d5 { [%eval 0.18] } 2. e3 { [%eval 0.0] } 2... Nf6 { [%eval 0.01] } 3. c4 { [%eval 0.07] } 3... c6 { [%eval 0.3] } 4. d4 { [%eval 0.15] } 4... Bf5 { [%eval 0.14] } 5. Nc3 { [%eval 0.23] } 5... e6 { [%eval 0.16] } 6. b3 { [%eval -0.13] } 6... Bb4 { [%eval -0.21] } 7. Bd2 { [%eval -0.12] } 7... c5 { [%eval 0.54] } 8. dxc5 { [%eval 0.03] } 8... Bxc5 { [%eval -0.05] } 9. g3 { [%eval -0.71] } 9... Nc6 { [%eval -0.51] } 10. Bg2 { [%eval -1.08] } 10... h6 { [%eval -0.12] } 11. O-O { [%eval -0.66] } 11... O-O { [%eval -0.06] } 12. Nh4 { [%eval -1.95] } 12... Bd3 { [%eval -1.78] } 13. Re1 { [%eval -2.28] } 13... dxc4 { [%eval -2.35] } 14. bxc4 { [%eval -2.27] } 14... Bxc4 { [%eval -2.18] } 15. Qa4 { [%eval -2.14] } 15... Bd5 { [%eval -0.26] } 16. Nxd5 { [%eval -0.22] } 16... Nxd5 { [%eval -0.26] } 17. Bxd5 { [%eval -1.38] } 17... Qxd5 { [%eval -1.53] } 18. Rad1 { [%eval -1.77] } 18... Bb6 { [%eval -1.35] } 19. Bc3 { [%eval -1.68] } 19... Qa5 { [%eval 7.33] } 20. Bxa5 { [%eval 7.4] } 1-0
+
+

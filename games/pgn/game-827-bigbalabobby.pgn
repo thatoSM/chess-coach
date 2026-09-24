@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/IcYQDtIK"]
+[Date "2026.09.24"]
+[Round "-"]
+[White "bigbalabobby"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "IcYQDtIK"]
+[UTCDate "2026.09.24"]
+[UTCTime "07:49:19"]
+[WhiteElo "1244"]
+[BlackElo "1195"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Short Variation"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... c6 { [%eval 0.31] } 2. d4 { [%eval 0.24] } 2... d5 { [%eval 0.24] } 3. e5 { [%eval 0.33] } 3... Bf5 { [%eval 0.22] } 4. Nf3 { [%eval 0.15] } 4... e6 { [%eval 0.24] } 5. Be3 { [%eval 0.03] } 5... Nd7 { [%eval 0.27] } 6. Bd3 { [%eval 0.18] } 6... c5 { [%eval 2.23] } 7. c3 { [%eval -0.05] } 7... Bxd3 { [%eval 0.14] } 8. Qxd3 { [%eval 0.12] } 8... c4 { [%eval 0.49] } 9. Qd2 { [%eval 0.26] } 9... Nb6 { [%eval 0.68] } 10. Bg5 { [%eval 0.29] } 10... Be7 { [%eval 0.6] } 11. O-O { [%eval 0.53] } 11... Bxg5 { [%eval 0.61] } 12. Nxg5 { [%eval 0.63] } 12... Ne7 { [%eval 0.66] } 13. Qf4 { [%eval 0.3] } 13... O-O { [%eval 0.35] } 14. Qg4 { [%eval -0.31] } 14... Ng6 { [%eval 1.4] } 15. h4 { [%eval 0.45] } 15... f6 { [%eval 2.41] } 16. Nxe6 { [%eval 1.41] } 16... f5 { [%eval 3.37] } 17. Qg3 { [%eval 3.0] } 17... Qxh4 { [%eval 3.31] } 18. Qxh4 { [%eval 3.39] } 18... Nxh4 { [%eval 3.43] } 19. Nxf8 { [%eval 3.47] } 19... Rxf8 { [%eval 3.41] } 20. g3 { [%eval 3.03] } 20... Nf3+ { [%eval 3.01] } 21. Kg2 { [%eval 3.06] } 21... Ng5 { [%eval 2.88] } 22. f4 { [%eval 2.58] } 22... Ne4 { [%eval 2.53] } 23. Kf3 { [%eval 1.97] } 23... Na4 { [%eval 2.3] } 24. b3 { [%eval 2.42] } 24... Naxc3 { [%eval 4.37] } 25. Nxc3 { [%eval 4.23] } 25... Nxc3 { [%eval 4.08] } 26. bxc4 { [%eval 4.21] } 26... dxc4 { [%eval 4.25] } 27. Rfc1 { [%eval 4.2] } 27... Ne4 { [%eval 3.92] } 28. Rxc4 { [%eval -3.0] } 28... h6 { [%eval 5.11] } 29. d5 { [%eval -2.69] } 29... Nd2+ { [%eval -2.45] } 30. Ke2 { [%eval -2.58] } 30... Nxc4 { [%eval -2.5] } 31. d6 { [%eval -2.88] } 0-1
+
+

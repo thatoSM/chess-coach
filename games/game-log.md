@@ -25,6 +25,21 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 828 | WIN | White | Rajithcy (1185) | *pending* |
+| 827 | WIN | Black | bigbalabobby (1244) | *pending* |
+| 826 | WIN | White | gayrettinzaman (1077) | *pending* |
+| 825 | WIN | Black | moriiii777 (1158) | *pending* |
+| 824 | WIN | Black | Bomburr (1129) | *pending* |
+| 823 | LOSS | White | foxaslan (1204) | *pending* |
+| 822 | LOSS | White | zc314 (1293) | *pending* |
+| 821 | LOSS | Black | Paarthsr (1198) | *pending* |
+| 820 | WIN | Black | Themasterblastertan (1171) | *pending* |
+| 819 | LOSS | White | IvanNice (1222) | *pending* |
+| 818 | WIN | White | baran0625 (1211) | *pending* |
+| 817 | WIN | White | Malina_Z (1084) | *pending* |
+| 816 | LOSS | White | Gokhan_5335 (1319) | *pending* |
+| 815 | LOSS | Black | ChessDeGN (1214) | *pending* |
+| 814 | WIN | Black | Daxmatt (1198) | *pending* |
 | 813 | LOSS | White | lonnatdhd (1232) | *pending* |
 | 812 | LOSS | Black | hamoda29 (1164) | *pending* |
 | 811 | LOSS | White | hamoda29 (1157) | *pending* |
@@ -210,21 +225,6 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 | 631 | LOSS | Black | HAIJACK122R (1092) | no win (auto) |
 | 630 | WIN | White | HAIJACK122R (1097) | clean (auto) |
 | 629 | LOSS | Black | HAIJACK122R (1091) | #1 x7 (auto) |
-| 628 | WIN | White | Matesat (1071) | clean (auto) |
-| 627 | LOSS | Black | VillegePumpkin (1069) | #1 x1 (auto) |
-| 626 | LOSS | White | VillegePumpkin (1062) | clean (auto) |
-| 625 | LOSS | Black | NikolaStojak (1144) | clean (auto) |
-| 624 | WIN | Black | Rodribainotto (1022) | #1 x3 (auto) |
-| 623 | LOSS | Black | materzi53 (1243) | clean (auto) |
-| 622 | DRAW | White | Saint_Just1 (1232) | no win (auto) |
-| 621 | WIN | White | NyutaM (984) | #1 x1 (auto) |
-| 620 | WIN | White | E44_22DD51K (1193) | no win (auto) |
-| 619 | LOSS | Black | Samyuktha2020 (1121) | no win (auto) |
-| 618 | WIN | Black | LilyBee83 (1133) | clean (auto) |
-| 617 | WIN | White | Zlata_Tarasova (1107) | #1 x2 (auto) |
-| 616 | WIN | Black | fefe15 (1075) | #1 x1 (auto) |
-| 615 | LOSS | White | behrad_mirhoshyar (1151) | #1 x1 (auto) |
-| 614 | LOSS | White | hope_38 (1216) | #1 x2 (auto) |
 | 1 | — | — | *profile snapshot* | — |
 
 ---
