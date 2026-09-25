@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/0dVwqVUd"]
+[Date "2026.09.25"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "Hasanga2017"]
+[Result "1-0"]
+[GameId "0dVwqVUd"]
+[UTCDate "2026.09.25"]
+[UTCTime "07:33:22"]
+[WhiteElo "1188"]
+[BlackElo "1100"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-9"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C54"]
+[Opening "Italian Game: Classical Variation, Greco Gambit, Traditional Line"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. Bc4 { [%eval 0.07] } 3... Bc5 { [%eval 0.2] } 4. c3 { [%eval 0.09] } 4... Nf6 { [%eval 0.13] } 5. d4 { [%eval 0.0] } 5... exd4 { [%eval 0.18] } 6. cxd4 { [%eval -0.01] } 6... Bb6 { [%eval 2.46] } 7. e5 { [%eval 2.12] } 7... Ne4 { [%eval 1.85] } 8. O-O { [%eval 0.54] } 8... d5 { [%eval 0.51] } 9. Bb5 { [%eval -0.13] } 9... Bd7 { [%eval 0.37] } 10. Qd3 { [%eval -0.14] } 10... a6 { [%eval 0.17] } 11. Bxc6 { [%eval 0.18] } 11... Bxc6 { [%eval 0.22] } 12. Nc3 { [%eval 0.2] } 12... Nxc3 { [%eval 0.3] } 13. Qxc3 { [%eval 0.39] } 13... O-O { [%eval 0.43] } 14. Bg5 { [%eval 0.24] } 14... Qd6 { [%eval 7.75] } 15. exd6 { [%eval 7.76] } 15... cxd6 { [%eval 7.69] } 1-0
+
+

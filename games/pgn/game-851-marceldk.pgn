@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/2syJHmBG"]
+[Date "2026.09.25"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "MarcelDk"]
+[Result "0-1"]
+[GameId "2syJHmBG"]
+[UTCDate "2026.09.25"]
+[UTCTime "07:23:20"]
+[WhiteElo "1201"]
+[BlackElo "1218"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "900+10"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Icelandic-Palme Gambit"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... d5 { [%eval 0.54] } 2. exd5 { [%eval 0.51] } 2... Nf6 { [%eval 0.53] } 3. c4 { [%eval 0.14] } 3... e6 { [%eval 0.44] } 4. dxe6 { [%eval 0.4] } 4... Bxe6 { [%eval 0.37] } 5. d3 { [%eval -0.24] } 5... Bb4+ { [%eval 0.0] } 6. Bd2 { [%eval -0.18] } 6... Bc5 { [%eval 0.25] } 7. h3 { [%eval -0.45] } 7... Qd4 { [%eval -0.42] } 8. Be3 { [%eval -0.45] } 8... Qxb2 { [%eval -0.51] } 9. Bxc5 { [%eval -2.77] } 9... Qxa1 { [%eval -2.86] } 0-1
+
+

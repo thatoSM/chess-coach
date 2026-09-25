@@ -25,6 +25,23 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 866 | LOSS | White | AndrzejoStar (1149) | *pending* |
+| 865 | LOSS | Black | olegnos (1262) | *pending* |
+| 864 | LOSS | Black | dipblu23 (1210) | *pending* |
+| 863 | WIN | White | technotechno (1225) | *pending* |
+| 862 | WIN | Black | ljckevin (1152) | *pending* |
+| 861 | WIN | White | Axel-Champion (1175) | *pending* |
+| 860 | LOSS | Black | komet44 (1193) | *pending* |
+| 859 | WIN | Black | MaryamRebai (1196) | *pending* |
+| 858 | LOSS | Black | lukamudishef (1203) | *pending* |
+| 857 | DRAW | White | Bonanzalopez (1160) | *pending* |
+| 856 | WIN | White | koushikatota (1154) | *pending* |
+| 855 | DRAW | Black | Ezequ (1250) | *pending* |
+| 854 | WIN | White | Behzadimohamad (1241) | *pending* |
+| 853 | WIN | White | Hasanga2017 (1100) | *pending* |
+| 852 | LOSS | Black | Caposlowski (1100) | *pending* |
+| 851 | LOSS | White | MarcelDk (1218) | *pending* |
+| 850 | WIN | Black | vasquito_1992 (1171) | *pending* |
 | 849 | WIN | White | SacrificeMenace (1231) | *pending* |
 | 848 | WIN | Black | supriya222 (1161) | *pending* |
 | 847 | LOSS | Black | Viktor5577 (1206) | *pending* |
@@ -208,23 +225,6 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 | 669 | WIN | Black | cleobule (1077) | clean (auto) |
 | 668 | LOSS | Black | LakhdarDenni (1112) | #1 x1 (auto) |
 | 667 | LOSS | Black | kaktyznds (1140) | no win (auto) |
-| 666 | LOSS | Black | Neomate067 (1101) | no win (auto) |
-| 665 | LOSS | White | de_profundiis (1155) | clean (auto) |
-| 664 | WIN | White | pelm (1057) | #1 x1 (auto) |
-| 663 | LOSS | Black | Kolupanko_Jar17 (1063) | *pending* |
-| 662 | LOSS | White | BATES_COUGH (1146) | *pending* |
-| 661 | WIN | Black | bettelley (908) | *pending* |
-| 660 | LOSS | White | Maxonka68 (1153) | clean (auto) |
-| 659 | WIN | Black | EOQT (987) | clean (auto) |
-| 658 | LOSS | White | alijudoka (1041) | clean (auto) |
-| 657 | LOSS | Black | RrrrrrrTtttttttt (967) | no win (auto) |
-| 656 | LOSS | Black | Ben207E (1190) | #1 x2 (auto) |
-| 655 | WIN | White | Mohamedgad2023 (1035) | #1 x8 (auto) |
-| 654 | LOSS | Black | pp2109 (1065) | #1 x1 (auto) |
-| 653 | LOSS | White | muhammetbasarann (1093) | clean (auto) |
-| 652 | WIN | White | yahto19 (1101) | clean (auto) |
-| 651 | WIN | White | MarcoxP1 (1122) | clean (auto) |
-| 650 | LOSS | Black | lovrocroatia (1162) | #1 x3 (auto) |
 | 1 | — | — | *profile snapshot* | — |
 
 ---
