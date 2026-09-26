@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/vMVYJJmi"]
+[Date "2026.09.26"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "Kozerog1981"]
+[Result "0-1"]
+[GameId "vMVYJJmi"]
+[UTCDate "2026.09.26"]
+[UTCTime "11:13:11"]
+[WhiteElo "1213"]
+[BlackElo "1213"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "C50"]
+[Opening "Italian Game: Giuoco Pianissimo, Normal"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. h3 O-O 6. O-O Nd4 7. Nxd4 Bxd4 8. Re1 c6 9. Be3 Bxe3 10. Rxe3 d5 11. Bb3 dxe4 12. dxe4 Qxd1+ 0-1
+
+

@@ -25,6 +25,21 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 881 | LOSS | White | YuriyBelousov (1231) | *pending* |
+| 880 | WIN | Black | myersb99 (1323) | *pending* |
+| 879 | LOSS | Black | txusti (1272) | *pending* |
+| 878 | WIN | White | txusti (1280) | *pending* |
+| 877 | WIN | White | Liaj69 (1250) | *pending* |
+| 876 | WIN | Black | Jyotikri (1218) | *pending* |
+| 875 | LOSS | Black | TomLinS (1198) | *pending* |
+| 874 | DRAW | White | greyccloud (1225) | *pending* |
+| 873 | WIN | White | Saish_Raut (1229) | *pending* |
+| 872 | LOSS | White | Kozerog1981 (1213) | *pending* |
+| 871 | WIN | Black | masterluukx (1249) | *pending* |
+| 870 | WIN | Black | lhommearaignee (1184) | *pending* |
+| 869 | DRAW | White | josep_llado (1307) | *pending* |
+| 868 | LOSS | Black | eanaasss (1186) | *pending* |
+| 867 | WIN | White | Lestr2000 (1199) | *pending* |
 | 866 | LOSS | White | AndrzejoStar (1149) | *pending* |
 | 865 | LOSS | Black | olegnos (1262) | *pending* |
 | 864 | LOSS | Black | dipblu23 (1210) | *pending* |
@@ -210,21 +225,6 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 | 684 | WIN | Black | nikpowell (1047) | #1 x1 (auto) |
 | 683 | WIN | Black | S1World (1090) | clean (auto) |
 | 682 | WIN | Black | Yass63 (1045) | no win (auto) |
-| 681 | DRAW | White | Iceberg84 (1074) | #1 x4 (auto) |
-| 680 | WIN | White | Haj_i (1121) | #1 x1 (auto) |
-| 679 | LOSS | Black | Evigila (938) | clean (auto) |
-| 678 | WIN | Black | Vamsi_molaka (1171) | #1 x1 (auto) |
-| 677 | LOSS | White | hany20250 (951) | clean (auto) |
-| 676 | LOSS | Black | hany20250 (943) | #1 x2 (auto) |
-| 675 | WIN | White | hany20250 (947) | #1 x2 (auto) |
-| 674 | WIN | Black | hany20250 (951) | #1 x3 (auto) |
-| 673 | WIN | White | hany20250 (955) | #1 x1 (auto) |
-| 672 | LOSS | Black | shazushads (1018) | #1 x1 (auto) |
-| 671 | LOSS | White | Karacabey28 (1157) | clean (auto) |
-| 670 | WIN | White | Echecs2020 (1108) | clean (auto) |
-| 669 | WIN | Black | cleobule (1077) | clean (auto) |
-| 668 | LOSS | Black | LakhdarDenni (1112) | #1 x1 (auto) |
-| 667 | LOSS | Black | kaktyznds (1140) | no win (auto) |
 | 1 | — | — | *profile snapshot* | — |
 
 ---

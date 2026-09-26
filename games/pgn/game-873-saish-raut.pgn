@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/4sRN1Ega"]
+[Date "2026.09.26"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "Saish_Raut"]
+[Result "1-0"]
+[GameId "4sRN1Ega"]
+[UTCDate "2026.09.26"]
+[UTCTime "16:22:48"]
+[WhiteElo "1207"]
+[BlackElo "1229"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "900+10"]
+[ECO "C54"]
+[Opening "Italian Game: Classical Variation, with d5"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. Bc4 { [%eval 0.07] } 3... Nf6 { [%eval 0.22] } 4. d3 { [%eval 0.09] } 4... Bc5 { [%eval 0.1] } 5. c3 { [%eval 0.15] } 5... d5 { [%eval 0.68] } 6. exd5 { [%eval 0.72] } 6... Nxd5 { [%eval 0.65] } 7. d4 { [%eval -0.04] } 7... exd4 { [%eval -0.07] } 8. cxd4 { [%eval -0.84] } 8... Bb4+ { [%eval -0.91] } 9. Bd2 { [%eval -0.83] } 9... Bxd2+ { [%eval -0.53] } 10. Nbxd2 { [%eval -0.53] } 10... Bg4 { [%eval 0.12] } 11. h3 { [%eval -0.75] } 11... Bh5 { [%eval 0.2] } 12. O-O { [%eval 0.0] } 12... Nxd4 { [%eval 4.53] } 13. Re1+ { [%eval 1.7] } 13... Ne7 { [%eval 3.94] } 14. Be2 { [%eval 0.0] } 14... Nef5 { [%eval 7.55] } 15. Nxd4 { [%eval 7.36] } 15... Qxd4 { [%eval 7.69] } 16. Bxh5+ { [%eval 7.48] } 16... Ne7 { [%eval 7.62] } 17. b3 { [%eval 7.24] } 17... Rd8 { [%eval 7.74] } 18. Nf3 { [%eval 1.84] } 18... Qc5 { [%eval 7.11] } 19. Qe2 { [%eval 7.09] } 19... Qxh5 { [%eval #1] } 20. Qxe7# 1-0
+
+
