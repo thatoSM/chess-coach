@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/cQ3pCrhg"]
+[Date "2026.09.27"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "IvanV2025"]
+[Result "0-1"]
+[GameId "cQ3pCrhg"]
+[UTCDate "2026.09.27"]
+[UTCTime "13:47:42"]
+[WhiteElo "1225"]
+[BlackElo "1256"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "900+10"]
+[ECO "C50"]
+[Opening "Italian Game"]
+[Termination "Time forfeit"]
+
+1. e4 Nc6 2. Nf3 e5 3. Bc4 f6 4. d4 Nge7 5. a3 a6 6. d5 Nb8 7. Nc3 d6 8. O-O b5 9. Be2 g5 10. h3 h5 11. b4 g4 12. hxg4 Bxg4 13. Nh2 Bxe2 14. Qxe2 Ng6 15. g3 Qd7 16. Kg2 h4 17. g4 h3+ 18. Kg3 Nf4 19. Bxf4 exf4+ 20. Kxf4 Bh6+ 21. Kg3 Bg5 22. Qf3 Qh7 23. Qf5 Qh4+ 24. Kf3 Qh7 25. Qxh7 Rxh7 26. Ne2 Nd7 27. Ng3 Ne5+ 28. Ke2 Nc4 29. Nf5 O-O-O 30. f3 Nd2 31. Rh1 Nc4 32. Nf1 Rdd7 33. N1g3 Bf4 34. Nh5 Be5 35. Ra2 Kb7 36. Rxh3 Kb6 37. Kf2 a5 38. Ke2 c6 39. dxc6 Kxc6 40. Kf2 a4 41. Kg2 Nd2 42. Nhg3 Rxh3 43. Kxh3 Nxf3 44. Nh5 Ng5+ 45. Kh4 Rh7 46. c4 bxc4 47. Rc2 Kb5 48. Ne3 Nf3+ 49. Kh3 Ng5+ 50. Kh4 Rc7 51. Nd5 Rc8 52. Ne7 Rc7 53. Nd5 Rd7 54. Ndxf6 Bxf6 55. Nxf6 Rg7 56. Kh5 Nf7 57. Nd5 Ne5 58. g5 Nf3 59. g6 Ne5 60. Nf4 Rg8 61. Kg5 Nf3+ 62. Kf5 Nd4+ 63. Kf6 Nxc2 64. g7 Nd4 65. e5 dxe5 66. Nh5 Nc6 67. Kf7 Rd8 68. g8=Q Rxg8 69. Kxg8 c3 70. Ng3 c2 71. Ne2 Nd4 72. Nc1 Nb3 73. Nd3 e4 0-1
+
+

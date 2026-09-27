@@ -25,6 +25,18 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 893 | LOSS | Black | getdrpankaj (1165) | *pending* |
+| 892 | LOSS | White | IvanV2025 (1256) | *pending* |
+| 891 | WIN | White | elpegatori (1224) | *pending* |
+| 890 | LOSS | Black | Juande00 (1198) | *pending* |
+| 889 | LOSS | White | Marc57700 (1150) | *pending* |
+| 888 | DRAW | White | Yabott (1317) | *pending* |
+| 887 | LOSS | Black | Spartano91075 (1203) | *pending* |
+| 886 | WIN | Black | Rolf-Kilian (1166) | *pending* |
+| 885 | WIN | White | AmosGael (1118) | *pending* |
+| 884 | LOSS | Black | InvictusNavarchus (1243) | *pending* |
+| 883 | WIN | White | Warnal_the_Narwhal (1303) | *pending* |
+| 882 | WIN | Black | LuzieNikolaus (1179) | *pending* |
 | 881 | LOSS | White | YuriyBelousov (1231) | *pending* |
 | 880 | WIN | Black | myersb99 (1323) | *pending* |
 | 879 | LOSS | Black | txusti (1272) | *pending* |
@@ -213,18 +225,6 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 | 696 | LOSS | White | MohamedSoliman-121 (975) | #1 x4 (auto) |
 | 695 | WIN | White | Bekkiboy (1113) | #1 x3 (auto) |
 | 694 | LOSS | Black | Edulom (1101) | #1 x2 (auto) |
-| 693 | WIN | White | tonybaby77 (1133) | clean (auto) |
-| 692 | WIN | White | CB1218 (1032) | #1 x1 (auto) |
-| 691 | LOSS | Black | CB1218 (1025) | no win (auto) |
-| 690 | WIN | White | Scndstrg (1081) | #1 x1 (auto) |
-| 689 | LOSS | Black | stargirl1982 (1040) | #1 x1 (auto) |
-| 688 | LOSS | Black | kareemadel1 (1105) | clean (auto) |
-| 687 | LOSS | White | SVV0000 (1160) | clean (auto) |
-| 686 | WIN | Black | N3R6K9 (1111) | clean (auto) |
-| 685 | WIN | White | BobinBelgium (1144) | clean (auto) |
-| 684 | WIN | Black | nikpowell (1047) | #1 x1 (auto) |
-| 683 | WIN | Black | S1World (1090) | clean (auto) |
-| 682 | WIN | Black | Yass63 (1045) | no win (auto) |
 | 1 | — | — | *profile snapshot* | — |
 
 ---
