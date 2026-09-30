@@ -25,6 +25,48 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 935 | DRAW | White | CoArnavchess5967 (1240) | *pending* |
+| 934 | WIN | White | Samir_ALJENF4WI (1302) | *pending* |
+| 933 | WIN | Black | DavidTeneT (1183) | *pending* |
+| 932 | LOSS | Black | tb20221 (1244) | *pending* |
+| 931 | LOSS | White | xuzhikai (1245) | *pending* |
+| 930 | LOSS | White | Evgenius_Tsk (1241) | *pending* |
+| 929 | WIN | White | BVchBAL (1174) | *pending* |
+| 928 | WIN | Black | michaelv2 (1287) | *pending* |
+| 927 | DRAW | Black | RookAndRoll_182 (1135) | *pending* |
+| 926 | LOSS | Black | kai20050301 (1185) | *pending* |
+| 925 | LOSS | White | cuixinghe (1182) | *pending* |
+| 924 | LOSS | White | faizanahmad_00 (1219) | *pending* |
+| 923 | WIN | Black | carlosabugieiro (1242) | *pending* |
+| 922 | WIN | White | Dekindtchess (1201) | *pending* |
+| 921 | WIN | Black | Aparajita67 (1170) | *pending* |
+| 920 | WIN | White | Vijender21 (1217) | *pending* |
+| 919 | WIN | Black | ICDream (1134) | *pending* |
+| 918 | WIN | White | Yulia_Kalenkovich (1213) | *pending* |
+| 917 | LOSS | Black | harman_everything (1171) | *pending* |
+| 916 | WIN | White | imran1967 (1183) | *pending* |
+| 915 | LOSS | White | heavenshopper (1210) | *pending* |
+| 914 | WIN | Black | Nikita1986a (1196) | *pending* |
+| 913 | LOSS | White | antognoni (1271) | *pending* |
+| 912 | LOSS | White | reych9 (1234) | *pending* |
+| 911 | WIN | Black | reych9 (1240) | *pending* |
+| 910 | LOSS | Black | TemChang (1155) | *pending* |
+| 909 | DRAW | White | adambc (1207) | *pending* |
+| 908 | LOSS | Black | anwer1983 (1188) | *pending* |
+| 907 | DRAW | White | AMS_ES (1243) | *pending* |
+| 906 | WIN | Black | teoluma (1231) | *pending* |
+| 905 | WIN | White | dodo-1 (1223) | *pending* |
+| 904 | DRAW | White | WermterWx (1300) | *pending* |
+| 903 | WIN | Black | Tatiana_EROFF (1208) | *pending* |
+| 902 | DRAW | Black | Leleuprimitivo (1267) | *pending* |
+| 901 | LOSS | White | danilaagl (1206) | *pending* |
+| 900 | WIN | White | omar_102 (1195) | *pending* |
+| 899 | LOSS | Black | yaoyaolingyang (1236) | *pending* |
+| 898 | WIN | Black | Varghese_jac (1226) | *pending* |
+| 897 | WIN | White | anlesh (1101) | *pending* |
+| 896 | LOSS | Black | Roma908137 (1229) | *pending* |
+| 895 | LOSS | White | Luth_1987 (1287) | *pending* |
+| 894 | WIN | Black | Tjoyfm (1153) | *pending* |
 | 893 | LOSS | Black | getdrpankaj (1165) | *pending* |
 | 892 | LOSS | White | IvanV2025 (1256) | *pending* |
 | 891 | WIN | White | elpegatori (1224) | *pending* |
@@ -183,48 +225,6 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 | 738 | WIN | Black | dwtsn343 (1073) | *pending* |
 | 737 | LOSS | White | Shaga347 (1164) | #1 x4 (auto) |
 | 736 | WIN | White | krisabel (1180) | #1 x1 (auto) |
-| 735 | LOSS | Black | piskor_k (1040) | clean (auto) |
-| 734 | LOSS | Black | PhishyStude (1220) | #1 x1 (auto) |
-| 733 | LOSS | Black | brikkeherre (1102) | no win (auto) |
-| 732 | WIN | Black | aristeuneves (1074) | #1 x2 (auto) |
-| 731 | LOSS | White | kgashaneMan (1081) | clean (auto) |
-| 730 | WIN | White | Hoseinbuffon72 (1098) | clean (auto) |
-| 729 | LOSS | White | oesejonathan (1171) | clean (auto) |
-| 728 | WIN | Black | skjr254 (1071) | clean (auto) |
-| 727 | WIN | White | Marrrra (1155) | #1 x5 (auto) |
-| 726 | WIN | Black | Mohab_mohamed_mourad (1070) | #1 x1 (auto) |
-| 725 | WIN | White | Kamyar101 (1121) | clean (auto) |
-| 724 | LOSS | Black | night2000bd (1104) | no win (auto) |
-| 723 | WIN | White | alois111 (1116) | #1 x4 (auto) |
-| 722 | WIN | Black | mynameiskareem442 (1082) | #1 x1 (auto) |
-| 721 | WIN | Black | Hoseinbuffon72 (1105) | no win (auto) |
-| 720 | WIN | White | AutumnSoldier (1080) | #1 x1 (auto) |
-| 719 | WIN | Black | genitaliusznik (1175) | no win (auto) |
-| 718 | LOSS | Black | Aramis76 (1206) | clean (auto) |
-| 717 | WIN | White | Bonbonklacz (1076) | #1 x1 (auto) |
-| 716 | LOSS | White | Pantosss_16 (1146) | clean (auto) |
-| 715 | LOSS | White | vj0702 (1031) | clean (auto) |
-| 714 | LOSS | Black | Sergei_1974 (1105) | #1 x1 (auto) |
-| 713 | WIN | Black | eric26dg (1110) | clean (auto) |
-| 712 | WIN | White | eric26dg (1120) | clean (auto) |
-| 711 | LOSS | Black | FaUSSt_F (1120) | no win (auto) |
-| 710 | LOSS | Black | hop-hey-lala-ley (969) | no win (auto) |
-| 709 | LOSS | White | D_C_89 (1141) | clean (auto) |
-| 708 | WIN | Black | ell-sih-mirmo (1185) | #1 x2 (auto) |
-| 707 | WIN | White | Gamps888 (1093) | clean (auto) |
-| 706 | LOSS | White | roman7900 (1184) | #1 x2 (auto) |
-| 705 | LOSS | Black | Mdq8 (1151) | no win (auto) |
-| 704 | LOSS | White | PopeHilarius (1228) | clean (auto) |
-| 703 | WIN | Black | buddy975 (1093) | #1 x1 (auto) |
-| 702 | WIN | White | cdd0207 (1105) | #1 x2 (auto) |
-| 701 | LOSS | Black | TullioMagister (1209) | no win (auto) |
-| 700 | WIN | Black | Brunogva1 (1091) | clean (auto) |
-| 699 | WIN | White | kedoos7 (1235) | clean (auto) |
-| 698 | LOSS | Black | kedoos7 (1197) | clean (auto) |
-| 697 | WIN | Black | Bogo1939 (1057) | #1 x1 (auto) |
-| 696 | LOSS | White | MohamedSoliman-121 (975) | #1 x4 (auto) |
-| 695 | WIN | White | Bekkiboy (1113) | #1 x3 (auto) |
-| 694 | LOSS | Black | Edulom (1101) | #1 x2 (auto) |
 | 1 | — | — | *profile snapshot* | — |
 
 ---
