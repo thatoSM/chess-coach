@@ -25,6 +25,17 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 946 | LOSS | White | OGN (1345) | *pending* |
+| 945 | LOSS | Black | BongoHobbit (1223) | *pending* |
+| 944 | WIN | White | Feliziano (1268) | *pending* |
+| 943 | WIN | White | Bsisa77 (1292) | *pending* |
+| 942 | WIN | Black | savan105 (1218) | *pending* |
+| 941 | WIN | White | Plotnikova_Irina (1221) | *pending* |
+| 940 | WIN | White | artur06022017 (1247) | *pending* |
+| 939 | LOSS | Black | panteleon (1253) | *pending* |
+| 938 | WIN | White | gregg_ink (1255) | *pending* |
+| 937 | WIN | Black | rudy8929 (1500) | *pending* |
+| 936 | WIN | Black | Daxmatt (1281) | *pending* |
 | 935 | DRAW | White | CoArnavchess5967 (1240) | *pending* |
 | 934 | WIN | White | Samir_ALJENF4WI (1302) | *pending* |
 | 933 | WIN | Black | DavidTeneT (1183) | *pending* |
@@ -214,17 +225,6 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 | 749 | LOSS | White | ArtemLix (1219) | #1 x1 (auto) |
 | 748 | LOSS | Black | Kirithik24 (1153) | #1 x1 (auto) |
 | 747 | WIN | White | AEMILIUS1908 (1248) | clean (auto) |
-| 746 | WIN | Black | JLuis65 (1193) | clean (auto) |
-| 745 | WIN | Black | sudeesh_3 (1211) | #1 x1 (auto) |
-| 744 | WIN | White | Diaa_Ezz (1071) | no win (auto) |
-| 743 | WIN | White | denis-sepetov (1245) | clean (auto) |
-| 742 | WIN | Black | akyctik (1037) | clean (auto) |
-| 741 | WIN | White | AmirMahdiAEM2009 (1051) | #1 x1 (auto) |
-| 740 | WIN | Black | Raultriatlon (1101) | #1 x1 (auto) |
-| 739 | WIN | White | ABANOUB1CHESS (1016) | clean (auto) |
-| 738 | WIN | Black | dwtsn343 (1073) | *pending* |
-| 737 | LOSS | White | Shaga347 (1164) | #1 x4 (auto) |
-| 736 | WIN | White | krisabel (1180) | #1 x1 (auto) |
 | 1 | — | — | *profile snapshot* | — |
 
 ---
