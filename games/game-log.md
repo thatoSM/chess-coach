@@ -25,6 +25,21 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 961 | WIN | White | michaelmaue (1294) | *pending* |
+| 960 | WIN | Black | Mokarina (1273) | *pending* |
+| 959 | WIN | White | Lateigne91 (1311) | *pending* |
+| 958 | WIN | White | hannaasemsem (1160) | *pending* |
+| 957 | WIN | White | Youssef9306 (1216) | *pending* |
+| 956 | LOSS | Black | xentomile (1281) | *pending* |
+| 955 | LOSS | Black | saurabh1101 (1148) | *pending* |
+| 954 | LOSS | Black | DonegalGAA (1179) | *pending* |
+| 953 | WIN | White | mildchess04 (1127) | *pending* |
+| 952 | LOSS | Black | Zongereg (1219) | *pending* |
+| 951 | WIN | Black | DrLee07 (1307) | *pending* |
+| 950 | LOSS | White | Chimpancy (1254) | *pending* |
+| 949 | LOSS | White | Danil301084 (1222) | *pending* |
+| 948 | WIN | Black | Rekonkwista70 (1268) | *pending* |
+| 947 | LOSS | White | naveenchalimeti (1275) | *pending* |
 | 946 | LOSS | White | OGN (1345) | *pending* |
 | 945 | LOSS | Black | BongoHobbit (1223) | *pending* |
 | 944 | WIN | White | Feliziano (1268) | *pending* |
@@ -210,21 +225,6 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 | 764 | WIN | Black | Allen2020 (1226) | *pending* |
 | 763 | LOSS | White | valerioneto (1168) | *pending* |
 | 762 | LOSS | White | Yuniesky83 (1259) | *pending* |
-| 761 | WIN | Black | RedMasterrr (1060) | *pending* |
-| 760 | WIN | Black | bariqdharmawan (1134) | *pending* |
-| 759 | WIN | White | Batyoushaiy (1195) | *pending* |
-| 758 | WIN | Black | esmaeilnazarpour (1081) | *pending* |
-| 757 | LOSS | White | selcukkudu (1145) | no win (auto) |
-| 756 | LOSS | Black | teufion (1188) | no win (auto) |
-| 755 | DRAW | Black | parminsharifniya (1050) | #1 x1 (auto) |
-| 754 | WIN | White | DoktorZapdos (1136) | #1 x1 (auto) |
-| 753 | WIN | Black | Delsa94 (1092) | #1 x2 (auto) |
-| 752 | LOSS | White | viktorsergeevich82 (1240) | #1 x2 (auto) |
-| 751 | LOSS | White | gdn28 (1164) | #1 x1 (auto) |
-| 750 | WIN | Black | KGupta-644 (1197) | clean (auto) |
-| 749 | LOSS | White | ArtemLix (1219) | #1 x1 (auto) |
-| 748 | LOSS | Black | Kirithik24 (1153) | #1 x1 (auto) |
-| 747 | WIN | White | AEMILIUS1908 (1248) | clean (auto) |
 | 1 | — | — | *profile snapshot* | — |
 
 ---
