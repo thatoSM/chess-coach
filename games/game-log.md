@@ -25,6 +25,13 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 968 | LOSS | White | atalib22 (1286) | *pending* |
+| 967 | LOSS | White | lambdallama (1385) | *pending* |
+| 966 | WIN | Black | Tushar_1311 (1313) | *pending* |
+| 965 | WIN | Black | FrankChess86 (1274) | *pending* |
+| 964 | WIN | White | Frank-Bremen (1247) | *pending* |
+| 963 | LOSS | Black | El-shatranj-arg2609 (1154) | *pending* |
+| 962 | WIN | Black | Erbao180901 (1288) | *pending* |
 | 961 | WIN | White | michaelmaue (1294) | *pending* |
 | 960 | WIN | Black | Mokarina (1273) | *pending* |
 | 959 | WIN | White | Lateigne91 (1311) | *pending* |
@@ -218,13 +225,6 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 | 771 | WIN | White | gertzen (1104) | *pending* |
 | 770 | WIN | Black | mrsnake2016 (1189) | *pending* |
 | 769 | WIN | Black | mrsnake2016 (1210) | *pending* |
-| 768 | WIN | White | TikhiniaLev91 (1202) | *pending* |
-| 767 | WIN | White | DaniHasTheWorldGoRou (1132) | *pending* |
-| 766 | WIN | White | DimaZverev0602 (1122) | *pending* |
-| 765 | LOSS | Black | beyazatlar (1128) | *pending* |
-| 764 | WIN | Black | Allen2020 (1226) | *pending* |
-| 763 | LOSS | White | valerioneto (1168) | *pending* |
-| 762 | LOSS | White | Yuniesky83 (1259) | *pending* |
 | 1 | — | — | *profile snapshot* | — |
 
 ---
