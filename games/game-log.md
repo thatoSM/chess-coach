@@ -25,6 +25,10 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 972 | LOSS | Black | arturrusakk (1280) | *pending* |
+| 971 | WIN | White | ego_189 (1361) | *pending* |
+| 970 | WIN | Black | Me_te15 (1300) | *pending* |
+| 969 | WIN | White | Atharv_ACA (1219) | *pending* |
 | 968 | LOSS | White | atalib22 (1286) | *pending* |
 | 967 | LOSS | White | lambdallama (1385) | *pending* |
 | 966 | WIN | Black | Tushar_1311 (1313) | *pending* |
@@ -221,10 +225,6 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 | 775 | WIN | White | Randomness11 (1500) | *pending* |
 | 774 | WIN | White | SASZchess (1184) | *pending* |
 | 773 | WIN | Black | asumer (1127) | *pending* |
-| 772 | WIN | Black | Pasteris56 (1189) | *pending* |
-| 771 | WIN | White | gertzen (1104) | *pending* |
-| 770 | WIN | Black | mrsnake2016 (1189) | *pending* |
-| 769 | WIN | Black | mrsnake2016 (1210) | *pending* |
 | 1 | — | — | *profile snapshot* | — |
 
 ---
