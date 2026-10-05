@@ -25,6 +25,11 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 977 | LOSS | White | Piet2017 (1284) | *pending* |
+| 976 | LOSS | Black | Piet2017 (1277) | *pending* |
+| 975 | LOSS | White | King_Chess_2014 (1281) | *pending* |
+| 974 | WIN | Black | Knutero (1294) | *pending* |
+| 973 | WIN | White | vaibhavdg (1246) | *pending* |
 | 972 | LOSS | Black | arturrusakk (1280) | *pending* |
 | 971 | WIN | White | ego_189 (1361) | *pending* |
 | 970 | WIN | Black | Me_te15 (1300) | *pending* |
@@ -220,11 +225,6 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 | 780 | WIN | White | Priss4228 (1224) | *pending* |
 | 779 | WIN | Black | lino_mocchetti (1202) | *pending* |
 | 778 | LOSS | White | Ram2070 (1153) | *pending* |
-| 777 | LOSS | Black | Enzoalbon (1206) | *pending* |
-| 776 | LOSS | Black | jboy0_12 (1247) | *pending* |
-| 775 | WIN | White | Randomness11 (1500) | *pending* |
-| 774 | WIN | White | SASZchess (1184) | *pending* |
-| 773 | WIN | Black | asumer (1127) | *pending* |
 | 1 | — | — | *profile snapshot* | — |
 
 ---
