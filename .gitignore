@@ -12,6 +12,9 @@ desktop.ini
 scratch/
 *.tmp
 
+# Opening explorer cache (generated locally, regenerated on demand)
+explorer/*.json
+
 chess-coach-bundle.md
 repomix-output.xml
 
