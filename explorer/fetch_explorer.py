@@ -16,7 +16,12 @@ s = requests.Session()
 s.headers["Authorization"] = f"Bearer {TOKEN}"
 for i, fen in enumerate(todo, 1):
     while True:
-        r = s.get(URL, params={**PARAMS, "fen": fen}, timeout=30)
+        try:
+            r = s.get(URL, params={**PARAMS, "fen": fen}, timeout=30)
+        except (requests.ConnectionError, requests.Timeout):
+            print("Connection dropped - retrying in 30 seconds (normal, it carries on by itself)...")
+            time.sleep(30)
+            continue
         if r.status_code == 429:
             print("Rate limited - waiting 90 seconds (normal, it carries on by itself)...")
             time.sleep(90)
@@ -26,7 +31,7 @@ for i, fen in enumerate(todo, 1):
     d = r.json()
     out[fen] = {"total": d["white"] + d["draws"] + d["black"],
                 "moves": [[m["san"], m["white"] + m["draws"] + m["black"]] for m in d["moves"]]}
-    if i % 25 == 0 or i == len(todo):
+    if i % 10 == 0 or i == len(todo):
         with open("explorer_all.json", "w", encoding="utf-8") as f:
             json.dump(out, f)
         print(f"{i}/{len(todo)} saved")
