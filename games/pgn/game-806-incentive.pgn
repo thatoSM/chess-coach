@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/o5pVDdPV"]
+[Date "2026.09.23"]
+[Round "-"]
+[White "incentive"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "o5pVDdPV"]
+[UTCDate "2026.09.23"]
+[UTCTime "16:22:58"]
+[WhiteElo "1315"]
+[BlackElo "1209"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-4"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. Ng5 e6 4. d4 Be7 5. Qh5 g6 6. Qh4 b6 7. exd5 cxd5 8. Bb5+ Bd7 9. Nc3 a6 10. Bd3 b5 11. Ne2 Bf6 12. Qf4 Nc6 13. c3 h6 14. Nf3 g5 15. Qe3 Qc7 16. Ng3 e5 17. Bc2 e4 18. Nd2 Nge7 19. Nh5 Ng8 20. f3 Be7 21. fxe4 dxe4 22. Bxe4 Bd6 23. Bxc6+ Ne7 24. Bxa8 Bf4 25. Qf3 b4 26. c4 Qc6 27. Bxc6 1-0
+
+

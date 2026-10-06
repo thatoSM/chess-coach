@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/LNFHfBZp"]
+[Date "2026.09.23"]
+[Round "-"]
+[White "Akahng"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "LNFHfBZp"]
+[UTCDate "2026.09.23"]
+[UTCTime "17:22:18"]
+[WhiteElo "1213"]
+[BlackElo "1200"]
+[WhiteRatingDiff "-46"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.18] } 1... c6 { [%eval 0.31] } 2. d4 { [%eval 0.24] } 2... d5 { [%eval 0.24] } 3. Bd3 { [%eval -0.04] } 3... dxe4 { [%eval 0.0] } 4. Bxe4 { [%eval 0.0] } 4... Nf6 { [%eval 0.0] } 5. Nc3 { [%eval -0.12] } 5... Nxe4 { [%eval 0.0] } 6. Nxe4 { [%eval 0.0] } 6... Bf5 { [%eval 0.0] } 7. Qf3 { [%eval -1.15] } 7... e6 { [%eval -0.15] } 8. Bg5 { [%eval -5.38] } 8... Qxd4 { [%eval 3.34] } 0-1
+
+

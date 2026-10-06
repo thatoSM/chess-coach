@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/HstDi11K"]
+[Date "2026.09.24"]
+[Round "-"]
+[White "shuksj"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "HstDi11K"]
+[UTCDate "2026.09.24"]
+[UTCTime "16:01:18"]
+[WhiteElo "1154"]
+[BlackElo "1191"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "900+10"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[Termination "Normal"]
+
+1. e3 d5 2. d3 e5 3. h3 c5 4. a3 Nc6 5. Nf3 Nf6 6. g4 h6 7. g5 hxg5 8. Nxg5 d4 9. h4 Be7 10. e4 Nd7 11. Qf3 f6 12. Ne6 Qa5+ 13. Nd2 Bf8 14. Qf5 c4 15. Qg6+ Ke7 16. Nxg7 Nc5 17. Qe8+ Kd6 18. b4 Bd7 19. Nf5+ Kc7 20. Qxa8 Bc8 21. bxa5 1-0
+
+

@@ -214,6 +214,12 @@ instances. Most are likely a piece of mine left hanging or a threat ignored.
 Listed in `games/leak-scan/leak1-evidence.md` for review. Not a leak until
 I've looked at a sample of positions and named the shape.
 
+**Evidence (engine phase study, 141 analysed games of the last 200):**
+109 decisive middlegame errors in 62 games; 70 while already winning.
+67 (61%) were punished by the opponent's next move being a check or a
+capture. Examples: 85TRwipG 14.exf5? Qa5+; hD2iTRzR 35...Rb6? Qxf6+;
+2jB6uoec 21...Ke7? Bxg5+; gT0ifqcr 25.Rb2? Ne3+.
+
 ---
 
 ## Removed rows

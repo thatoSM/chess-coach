@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/tJd3bvAS"]
+[Date "2026.09.24"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "ZamirSm"]
+[Result "1-0"]
+[GameId "tJd3bvAS"]
+[UTCDate "2026.09.24"]
+[UTCTime "13:20:47"]
+[WhiteElo "1192"]
+[BlackElo "1132"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Bb5 Qa5 6. Bxc6+ bxc6 7. f4 cxd4 8. Qxd4 Bc5 9. Qd1 Ba6 10. Nf3 Ne7 11. Nbd2 Rd8 12. Nb3 Qb6 13. Nxc5 Qxc5 14. Bd2 Nf5 15. b4 Qb6 16. Nd4 c5 17. Nxf5 exf5 18. bxc5 Qxc5 19. Qa4+ Bb5 20. Qd4 Qxd4 21. cxd4 O-O 22. a4 Ba6 23. Kf2 Rfe8 24. Kf3 f6 25. Rhc1 fxe5 26. fxe5 Rb8 27. Kf4 g6 28. g4 Rb4 29. Bxb4 Bd3 30. gxf5 Bxf5 31. h4 Rb8 32. Bd2 Rb3 33. Be3 Rb2 34. a5 Rh2 35. Rc7 Rxh4+ 36. Kg3 g5 37. Bxg5 Rh3+ 38. Kf4 Bg6 39. Rxa7 h6 40. Bf6 Bf7 41. Rb1 Rd3 42. Rb4 Rc3 43. Ra8+ Kh7 44. Rab8 Kg6 45. Ra4 Rc1 46. a6 Rf1+ 47. Ke3 Re1+ 48. Kd2 Re4 49. a7 1-0
+
+

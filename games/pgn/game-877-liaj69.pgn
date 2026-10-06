@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/RCvRi2Us"]
+[Date "2026.09.26"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "Liaj69"]
+[Result "1-0"]
+[GameId "RCvRi2Us"]
+[UTCDate "2026.09.26"]
+[UTCTime "18:02:26"]
+[WhiteElo "1213"]
+[BlackElo "1250"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-37"]
+[Variant "Standard"]
+[TimeControl "900+10"]
+[ECO "C54"]
+[Opening "Italian Game: Classical Variation, Giuoco Pianissimo"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. Bc4 { [%eval 0.07] } 3... Nf6 { [%eval 0.22] } 4. d3 { [%eval 0.09] } 4... Bc5 { [%eval 0.1] } 5. c3 { [%eval 0.15] } 5... Ng4 { [%eval 1.38] } 6. d4 { [%eval 2.1] } 6... exd4 { [%eval 1.69] } 7. cxd4 { [%eval 1.46] } 7... Nxf2 { [%eval 5.69] } 8. Kxf2 { [%eval 5.81] } 8... Bxd4+ { [%eval 7.81] } 9. Nxd4 { [%eval 7.53] } 9... Nxd4 { [%eval 8.49] } 10. Qxd4 { [%eval 8.14] } 1-0
+
+

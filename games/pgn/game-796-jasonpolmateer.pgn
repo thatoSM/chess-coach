@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/AhLdBEnf"]
+[Date "2026.09.23"]
+[Round "-"]
+[White "JasonPolmateer"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "AhLdBEnf"]
+[UTCDate "2026.09.23"]
+[UTCTime "02:52:56"]
+[WhiteElo "1192"]
+[BlackElo "1203"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... c6 { [%eval 0.31] } 2. Nf3 { [%eval 0.17] } 2... d5 { [%eval 0.21] } 3. exd5 { [%eval 0.14] } 3... cxd5 { [%eval 0.07] } 4. d4 { [%eval 0.0] } 4... Nf6 { [%eval 0.15] } 5. Bb5+ { [%eval 0.09] } 5... Bd7 { [%eval 0.15] } 6. Bxd7+ { [%eval -0.1] } 6... Qxd7 { [%eval 0.0] } 7. O-O { [%eval -0.01] } 7... Nc6 { [%eval -0.01] } 8. Nc3 { [%eval -0.1] } 8... e6 { [%eval 0.02] } 9. Be3 { [%eval -0.2] } 9... h6 { [%eval -0.11] } 10. h3 { [%eval -0.23] } 10... Bd6 { [%eval -0.24] } 11. Re1 { [%eval -0.29] } 11... O-O { [%eval -0.31] } 12. a3 { [%eval -0.36] } 12... a6 { [%eval -0.11] } 13. Qd2 { [%eval -0.43] } 13... Rfe8 { [%eval -0.21] } 14. Bf4 { [%eval -0.16] } 14... Bxf4 { [%eval -0.09] } 15. Qxf4 { [%eval -0.04] } 15... Qd8 { [%eval -0.08] } 16. b4 { [%eval -0.96] } 16... Qb6 { [%eval -0.48] } 17. Rad1 { [%eval -0.81] } 17... a5 { [%eval -0.66] } 18. bxa5 { [%eval -1.44] } 18... Qxa5 { [%eval -1.34] } 19. Qe3 { [%eval -2.06] } 19... Qxa3 { [%eval -1.83] } 20. Nb5 { [%eval -2.01] } 20... Qa5 { [%eval -1.2] } 21. Rb1 { [%eval -1.38] } 21... Rab8 { [%eval -0.79] } 22. Nd6 { [%eval -0.9] } 22... Red8 { [%eval 1.91] } 23. Nxb7 { [%eval 1.87] } 23... Rxb7 { [%eval 1.91] } 24. Rxb7 { [%eval 1.82] } 24... Rb8 { [%eval 3.5] } 25. Rxb8+ { [%eval 2.85] } 25... Nxb8 { [%eval 2.74] } 26. Qb3 { [%eval 2.43] } 26... Nbd7 { [%eval 2.35] } 27. Qb7 { [%eval 2.3] } 27... Qc3 { [%eval 2.3] } 28. Ne5 { [%eval -6.46] } 28... Nxe5 { [%eval 0.22] } 29. Rxe5 { [%eval 0.0] } 29... Qxd4 { [%eval 0.19] } 30. Re1 { [%eval 0.0] } 30... Qd2 { [%eval 0.0] } 31. Rf1 { [%eval -0.35] } 31... Qxc2 { [%eval -0.17] } 32. Qb8+ { [%eval -0.2] } 32... Kh7 { [%eval -0.16] } 33. Qf8 { [%eval -0.14] } 33... Kg6 { [%eval -0.15] } 34. Re1 { [%eval -3.17] } 34... Ne4 { [%eval -2.82] } 35. f3 { [%eval #-19] } 35... Qf2+ { [%eval -13.54] } 0-1
+
+

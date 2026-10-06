@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/x7nXnXwG"]
+[Date "2026.09.25"]
+[Round "-"]
+[White "eanaasss"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "x7nXnXwG"]
+[UTCDate "2026.09.25"]
+[UTCTime "20:32:35"]
+[WhiteElo "1186"]
+[BlackElo "1203"]
+[WhiteRatingDiff "+149"]
+[BlackRatingDiff "-4"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... c6 { [%eval 0.31] } 2. Nf3 { [%eval 0.17] } 2... d5 { [%eval 0.21] } 3. e5 { [%eval 0.12] } 3... Bf5 { [%eval 0.4] } 4. Nc3 { [%eval -0.01] } 4... e6 { [%eval 0.0] } 5. Bd3 { [%eval -0.86] } 5... Bxd3 { [%eval -0.73] } 6. cxd3 { [%eval -0.78] } 6... Ne7 { [%eval -0.12] } 7. O-O { [%eval -0.95] } 7... Ng6 { [%eval 0.05] } 8. d4 { [%eval 0.01] } 8... c5 { [%eval 0.39] } 9. dxc5 { [%eval 0.41] } 9... Bxc5 { [%eval 0.42] } 10. a3 { [%eval -0.45] } 10... Nc6 { [%eval 0.12] } 11. b4 { [%eval -0.49] } 11... Bd4 { [%eval -0.46] } 12. Nxd4 { [%eval -0.45] } 12... Nxd4 { [%eval -0.35] } 13. Qg4 { [%eval -1.17] } 13... Nf5 { [%eval -1.17] } 14. d4 { [%eval -1.35] } 14... Qb6 { [%eval 0.15] } 15. a4 { [%eval -2.32] } 15... Qxd4 { [%eval -2.16] } 16. Qxd4 { [%eval -2.16] } 16... Nxd4 { [%eval -2.4] } 17. Be3 { [%eval -3.28] } 17... Nf5 { [%eval -3.2] } 18. Bd2 { [%eval -3.01] } 18... Nxe5 { [%eval -2.92] } 19. a5 { [%eval -4.89] } 19... O-O { [%eval -4.18] } 20. Nb5 { [%eval -5.56] } 20... Rfc8 { [%eval -4.23] } 21. Bf4 { [%eval -5.46] } 21... Ng6 { [%eval -4.9] } 22. Nc7 { [%eval -6.94] } 22... Rxc7 { [%eval -0.95] } 23. Bxc7 { [%eval -0.83] } 23... a6 { [%eval 0.34] } 24. g4 { [%eval -0.89] } 24... Nfh4 { [%eval 1.26] } 25. Bg3 { [%eval 0.08] } 25... Rc8 { [%eval 4.65] } 26. Rac1 { [%eval 4.46] } 26... Rb8 { [%eval 7.57] } 27. Bxb8 { [%eval 7.49] } 1-0
+
+

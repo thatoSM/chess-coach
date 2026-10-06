@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/8LVniZsv"]
+[Date "2026.09.23"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "art-chess"]
+[Result "1-0"]
+[GameId "8LVniZsv"]
+[UTCDate "2026.09.23"]
+[UTCTime "08:49:49"]
+[WhiteElo "1204"]
+[BlackElo "1233"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "900+10"]
+[ECO "B23"]
+[Opening "Sicilian Defense: Closed, Traditional"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... c5 { [%eval 0.32] } 2. Nc3 { [%eval 0.19] } 2... Nc6 { [%eval 0.22] } 3. Nf3 { [%eval 0.19] } 3... e5 { [%eval 0.33] } 4. Bc4 { [%eval 0.16] } 4... h6 { [%eval 0.49] } 5. d3 { [%eval 0.23] } 5... Nf6 { [%eval 0.45] } 6. Be3 { [%eval 0.28] } 6... Nd4 { [%eval 3.06] } 7. Nd5 { [%eval 0.58] } 7... d6 { [%eval 0.63] } 8. c3 { [%eval 0.41] } 8... Nxf3+ { [%eval 0.39] } 9. Qxf3 { [%eval 0.53] } 9... Be6 { [%eval 0.84] } 10. d4 { [%eval 0.5] } 10... Nxd5 { [%eval 4.41] } 11. exd5 { [%eval 3.94] } 11... Bd7 { [%eval 4.55] } 12. dxe5 { [%eval 4.53] } 12... dxe5 { [%eval 4.62] } 13. Qe4 { [%eval -0.29] } 13... Bd6 { [%eval -0.27] } 14. Bb3 { [%eval -1.21] } 14... b5 { [%eval -0.09] } 15. c4 { [%eval -1.65] } 15... bxc4 { [%eval -0.28] } 16. Bxc4 { [%eval -0.31] } 16... a5 { [%eval 0.03] } 17. O-O { [%eval 0.0] } 17... Qb6 { [%eval 0.42] } 18. b3 { [%eval 0.07] } 18... a4 { [%eval 0.73] } 19. Rfb1 { [%eval 0.16] } 19... g6 { [%eval 4.35] } 20. h4 { [%eval 0.01] } 20... Bf5 { [%eval 0.0] } 21. bxa4 { [%eval 0.0] } 21... Qxb1+ { [%eval 0.0] } 22. Qxb1 { [%eval 0.0] } 22... Bxb1 { [%eval 0.0] } 23. Rxb1 { [%eval 0.0] } 23... Rxa4 { [%eval 6.77] } 24. Rb6 { [%eval -2.93] } 24... Bc7 { [%eval 0.61] } 25. Bb5+ { [%eval 0.71] } 25... Ke7 { [%eval 7.4] } 26. Rb7 { [%eval 6.07] } 26... Rb4 { [%eval 7.96] } 27. Rxc7+ { [%eval 6.99] } 27... Kd6 { [%eval #1] } 28. Bxc5+ { [%eval 7.88] } 28... Kxc7 { [%eval 7.48] } 29. Bxb4 { [%eval 7.02] } 29... Kb6 { [%eval 6.97] } 30. Bc6 { [%eval 6.74] } 30... Rd8 { [%eval 6.73] } 31. f3 { [%eval 6.61] } 31... Kc7 { [%eval 10.7] } 1-0
+
+

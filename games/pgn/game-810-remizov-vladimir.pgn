@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/CwIiAzRC"]
+[Date "2026.09.23"]
+[Round "-"]
+[White "Remizov_Vladimir"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "CwIiAzRC"]
+[UTCDate "2026.09.23"]
+[UTCTime "18:08:50"]
+[WhiteElo "1201"]
+[BlackElo "1200"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "B13"]
+[Opening "Caro-Kann Defense: Panov Attack"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... c6 { [%eval 0.31] } 2. d4 { [%eval 0.24] } 2... d5 { [%eval 0.24] } 3. exd5 { [%eval 0.08] } 3... cxd5 { [%eval 0.18] } 4. c4 { [%eval 0.0] } 4... Nf6 { [%eval 0.13] } 5. Nc3 { [%eval 0.09] } 5... Bf5 { [%eval 0.91] } 6. Bg5 { [%eval 0.33] } 6... e6 { [%eval 0.56] } 7. Nf3 { [%eval 0.0] } 7... h6 { [%eval 1.37] } 8. Bf4 { [%eval -0.14] } 8... Bd6 { [%eval 0.41] } 9. Be5 { [%eval -0.37] } 9... Bxe5 { [%eval 0.28] } 10. Nxe5 { [%eval -0.49] } 10... Ne4 { [%eval 0.49] } 11. Nxe4 { [%eval 0.22] } 11... Bxe4 { [%eval 0.29] } 12. cxd5 { [%eval 0.0] } 12... Bxd5 { [%eval -0.02] } 13. Bb5+ { [%eval -0.01] } 13... Nc6 { [%eval -0.06] } 14. Qa4 { [%eval -0.71] } 14... Qc8 { [%eval 0.04] } 15. Rc1 { [%eval 0.0] } 15... O-O { [%eval 0.03] } 16. Bxc6 { [%eval -0.23] } 16... Bxc6 { [%eval 0.02] } 17. Nxc6 { [%eval 0.02] } 17... bxc6 { [%eval 0.02] } 18. Rxc6 { [%eval -0.1] } 18... Qd7 { [%eval 0.12] } 19. O-O { [%eval 0.04] } 19... Rfd8 { [%eval 0.01] } 20. Rd1 { [%eval 0.0] } 20... Rdc8 { [%eval 0.3] } 21. Rdc1 { [%eval 0.33] } 21... Rd8 { [%eval 0.69] } 22. Rd1 { [%eval 0.0] } 22... Rdc8 { [%eval 0.45] } 23. Rdc1 { [%eval 0.5] } 23... Rd8 { [%eval 0.59] } 24. Qa6 { [%eval 0.0] } 24... Qxd4 { [%eval 0.0] } 25. Rc8 { [%eval -8.6] } 25... Qd2 { [%eval 0.05] } 26. Rxd8+ { [%eval -0.05] } 26... Rxd8 { [%eval -0.03] } 27. Rf1 { [%eval -0.16] } 27... Qxb2 { [%eval -0.02] } 28. Qxa7 { [%eval -0.07] } 28... Qe2 { [%eval -0.05] } 29. a4 { [%eval -8.43] } 29... Rd1 { [%eval -8.49] } 30. Qb8+ { [%eval -8.42] } 30... Kh7 { [%eval -8.52] } 31. Qb5 { [%eval #-1] } 31... Rxf1# 0-1
+
+

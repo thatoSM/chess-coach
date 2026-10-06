@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/OfTo28RI"]
+[Date "2026.09.23"]
+[Round "-"]
+[White "olich349"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "OfTo28RI"]
+[UTCDate "2026.09.23"]
+[UTCTime "08:39:15"]
+[WhiteElo "1242"]
+[BlackElo "1209"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: London System"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.15] } 1... d5 { [%eval 0.27] } 2. Bf4 { [%eval 0.0] } 2... Nf6 { [%eval 0.14] } 3. Nf3 { [%eval 0.04] } 3... Bf5 { [%eval 0.2] } 4. e3 { [%eval 0.16] } 4... e6 { [%eval 0.18] } 5. c3 { [%eval 0.12] } 5... c5 { [%eval 0.28] } 6. Qa4+ { [%eval -0.33] } 6... Nc6 { [%eval 0.12] } 7. Bb5 { [%eval 0.11] } 7... Bd6 { [%eval 1.57] } 8. dxc5 { [%eval 0.52] } 8... Bxf4 { [%eval 1.41] } 9. exf4 { [%eval 0.85] } 9... a6 { [%eval 3.04] } 10. Bxc6+ { [%eval 3.24] } 10... bxc6 { [%eval 2.95] } 11. Qxc6+ { [%eval 3.07] } 11... Qd7 { [%eval 9.02] } 12. Qxa8+ { [%eval 8.97] } 1-0
+
+

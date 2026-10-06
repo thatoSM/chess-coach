@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/wsB89lFm"]
+[Date "2026.09.25"]
+[Round "-"]
+[White "lukamudishef"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "wsB89lFm"]
+[UTCDate "2026.09.25"]
+[UTCTime "09:23:17"]
+[WhiteElo "1203"]
+[BlackElo "1203"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "A00"]
+[Opening "Mieses Opening"]
+[Termination "Normal"]
+
+1. d3 d5 2. c3 e5 3. h3 c5 4. g4 g5 5. Bg2 Be7 6. Nd2 Nc6 7. Qa4 Bd7 8. Bxd5 Nd4 9. Qd1 Ba4 10. Qxa4+ 1-0
+
+

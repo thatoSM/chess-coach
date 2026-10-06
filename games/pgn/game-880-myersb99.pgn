@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/XzaEj20q"]
+[Date "2026.09.26"]
+[Round "-"]
+[White "myersb99"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "XzaEj20q"]
+[UTCDate "2026.09.26"]
+[UTCTime "18:41:38"]
+[WhiteElo "1323"]
+[BlackElo "1221"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "900+10"]
+[ECO "A06"]
+[Opening "Zukertort Opening"]
+[Termination "Normal"]
+
+1. Nf3 d5 0-1
+
+

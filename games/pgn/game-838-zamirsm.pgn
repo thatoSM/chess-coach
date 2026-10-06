@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/IzLTn7LU"]
+[Date "2026.09.24"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "ZamirSm"]
+[Result "0-1"]
+[GameId "IzLTn7LU"]
+[UTCDate "2026.09.24"]
+[UTCTime "13:50:46"]
+[WhiteElo "1190"]
+[BlackElo "1134"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation, Nimzowitsch System"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e6 { [%eval 0.22] } 2. d4 { [%eval 0.29] } 2... d5 { [%eval 0.38] } 3. e5 { [%eval 0.25] } 3... c5 { [%eval 0.2] } 4. Nf3 { [%eval -0.16] } 4... Nc6 { [%eval 0.23] } 5. Bb5 { [%eval -0.33] } 5... Qa5+ { [%eval -0.13] } 6. Nc3 { [%eval -0.12] } 6... cxd4 { [%eval -0.09] } 7. Nxd4 { [%eval -0.15] } 7... Bd7 { [%eval -0.09] } 8. Nxc6 { [%eval -0.64] } 8... Bxc6 { [%eval -0.4] } 9. Bxc6+ { [%eval -0.4] } 9... bxc6 { [%eval -0.38] } 10. O-O { [%eval -0.3] } 10... Qc7 { [%eval -0.18] } 11. Re1 { [%eval -0.33] } 11... Ne7 { [%eval -0.14] } 12. f4 { [%eval -1.03] } 12... Ng6 { [%eval -0.34] } 13. Be3 { [%eval -0.31] } 13... Qb7 { [%eval 0.02] } 14. b3 { [%eval -0.46] } 14... Qb4 { [%eval 0.19] } 15. Na4 { [%eval 0.21] } 15... Nh4 { [%eval 0.58] } 16. g3 { [%eval -2.55] } 16... Nf5 { [%eval 0.18] } 17. Bd2 { [%eval -0.31] } 17... Qd4+ { [%eval -0.08] } 18. Kh1 { [%eval -0.08] } 18... h5 { [%eval -0.18] } 19. Be3 { [%eval -6.6] } 19... Qe4+ { [%eval -6.3] } 20. Kg1 { [%eval -6.06] } 20... Nxe3 { [%eval -6.03] } 0-1
+
+

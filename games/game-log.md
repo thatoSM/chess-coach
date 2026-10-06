@@ -25,206 +25,206 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
-| 757 | LOSS | White | selcukkudu (1145) | no win (auto) |
-| 756 | LOSS | Black | teufion (1188) | no win (auto) |
-| 755 | DRAW | Black | parminsharifniya (1050) | #1 x1 (auto) |
-| 754 | WIN | White | DoktorZapdos (1136) | #1 x1 (auto) |
-| 753 | WIN | Black | Delsa94 (1092) | #1 x2 (auto) |
-| 752 | LOSS | White | viktorsergeevich82 (1240) | #1 x2 (auto) |
-| 751 | LOSS | White | gdn28 (1164) | #1 x1 (auto) |
-| 750 | WIN | Black | KGupta-644 (1197) | clean (auto) |
-| 749 | LOSS | White | ArtemLix (1219) | #1 x1 (auto) |
-| 748 | LOSS | Black | Kirithik24 (1153) | #1 x1 (auto) |
-| 747 | WIN | White | AEMILIUS1908 (1248) | clean (auto) |
-| 746 | WIN | Black | JLuis65 (1193) | clean (auto) |
-| 745 | WIN | Black | sudeesh_3 (1211) | #1 x1 (auto) |
-| 744 | WIN | White | Diaa_Ezz (1071) | no win (auto) |
-| 743 | WIN | White | denis-sepetov (1245) | clean (auto) |
-| 742 | WIN | Black | akyctik (1037) | clean (auto) |
-| 741 | WIN | White | AmirMahdiAEM2009 (1051) | #1 x1 (auto) |
-| 740 | WIN | Black | Raultriatlon (1101) | #1 x1 (auto) |
-| 739 | WIN | White | ABANOUB1CHESS (1016) | clean (auto) |
-| 738 | WIN | Black | dwtsn343 (1073) | *pending* |
-| 737 | LOSS | White | Shaga347 (1164) | #1 x4 (auto) |
-| 736 | WIN | White | krisabel (1180) | #1 x1 (auto) |
-| 735 | LOSS | Black | piskor_k (1040) | clean (auto) |
-| 734 | LOSS | Black | PhishyStude (1220) | #1 x1 (auto) |
-| 733 | LOSS | Black | brikkeherre (1102) | no win (auto) |
-| 732 | WIN | Black | aristeuneves (1074) | #1 x2 (auto) |
-| 731 | LOSS | White | kgashaneMan (1081) | clean (auto) |
-| 730 | WIN | White | Hoseinbuffon72 (1098) | clean (auto) |
-| 729 | LOSS | White | oesejonathan (1171) | clean (auto) |
-| 728 | WIN | Black | skjr254 (1071) | clean (auto) |
-| 727 | WIN | White | Marrrra (1155) | #1 x5 (auto) |
-| 726 | WIN | Black | Mohab_mohamed_mourad (1070) | #1 x1 (auto) |
-| 725 | WIN | White | Kamyar101 (1121) | clean (auto) |
-| 724 | LOSS | Black | night2000bd (1104) | no win (auto) |
-| 723 | WIN | White | alois111 (1116) | #1 x4 (auto) |
-| 722 | WIN | Black | mynameiskareem442 (1082) | #1 x1 (auto) |
-| 721 | WIN | Black | Hoseinbuffon72 (1105) | no win (auto) |
-| 720 | WIN | White | AutumnSoldier (1080) | #1 x1 (auto) |
-| 719 | WIN | Black | genitaliusznik (1175) | no win (auto) |
-| 718 | LOSS | Black | Aramis76 (1206) | clean (auto) |
-| 717 | WIN | White | Bonbonklacz (1076) | #1 x1 (auto) |
-| 716 | LOSS | White | Pantosss_16 (1146) | clean (auto) |
-| 715 | LOSS | White | vj0702 (1031) | clean (auto) |
-| 714 | LOSS | Black | Sergei_1974 (1105) | #1 x1 (auto) |
-| 713 | WIN | Black | eric26dg (1110) | clean (auto) |
-| 712 | WIN | White | eric26dg (1120) | clean (auto) |
-| 711 | LOSS | Black | FaUSSt_F (1120) | no win (auto) |
-| 710 | LOSS | Black | hop-hey-lala-ley (969) | no win (auto) |
-| 709 | LOSS | White | D_C_89 (1141) | clean (auto) |
-| 708 | WIN | Black | ell-sih-mirmo (1185) | #1 x2 (auto) |
-| 707 | WIN | White | Gamps888 (1093) | clean (auto) |
-| 706 | LOSS | White | roman7900 (1184) | #1 x2 (auto) |
-| 705 | LOSS | Black | Mdq8 (1151) | no win (auto) |
-| 704 | LOSS | White | PopeHilarius (1228) | clean (auto) |
-| 703 | WIN | Black | buddy975 (1093) | #1 x1 (auto) |
-| 702 | WIN | White | cdd0207 (1105) | #1 x2 (auto) |
-| 701 | LOSS | Black | TullioMagister (1209) | no win (auto) |
-| 700 | WIN | Black | Brunogva1 (1091) | clean (auto) |
-| 699 | WIN | White | kedoos7 (1235) | clean (auto) |
-| 698 | LOSS | Black | kedoos7 (1197) | clean (auto) |
-| 697 | WIN | Black | Bogo1939 (1057) | #1 x1 (auto) |
-| 696 | LOSS | White | MohamedSoliman-121 (975) | #1 x4 (auto) |
-| 695 | WIN | White | Bekkiboy (1113) | #1 x3 (auto) |
-| 694 | LOSS | Black | Edulom (1101) | #1 x2 (auto) |
-| 693 | WIN | White | tonybaby77 (1133) | clean (auto) |
-| 692 | WIN | White | CB1218 (1032) | #1 x1 (auto) |
-| 691 | LOSS | Black | CB1218 (1025) | no win (auto) |
-| 690 | WIN | White | Scndstrg (1081) | #1 x1 (auto) |
-| 689 | LOSS | Black | stargirl1982 (1040) | #1 x1 (auto) |
-| 688 | LOSS | Black | kareemadel1 (1105) | clean (auto) |
-| 687 | LOSS | White | SVV0000 (1160) | clean (auto) |
-| 686 | WIN | Black | N3R6K9 (1111) | clean (auto) |
-| 685 | WIN | White | BobinBelgium (1144) | clean (auto) |
-| 684 | WIN | Black | nikpowell (1047) | #1 x1 (auto) |
-| 683 | WIN | Black | S1World (1090) | clean (auto) |
-| 682 | WIN | Black | Yass63 (1045) | no win (auto) |
-| 681 | DRAW | White | Iceberg84 (1074) | #1 x4 (auto) |
-| 680 | WIN | White | Haj_i (1121) | #1 x1 (auto) |
-| 679 | LOSS | Black | Evigila (938) | clean (auto) |
-| 678 | WIN | Black | Vamsi_molaka (1171) | #1 x1 (auto) |
-| 677 | LOSS | White | hany20250 (951) | clean (auto) |
-| 676 | LOSS | Black | hany20250 (943) | #1 x2 (auto) |
-| 675 | WIN | White | hany20250 (947) | #1 x2 (auto) |
-| 674 | WIN | Black | hany20250 (951) | #1 x3 (auto) |
-| 673 | WIN | White | hany20250 (955) | #1 x1 (auto) |
-| 672 | LOSS | Black | shazushads (1018) | #1 x1 (auto) |
-| 671 | LOSS | White | Karacabey28 (1157) | clean (auto) |
-| 670 | WIN | White | Echecs2020 (1108) | clean (auto) |
-| 669 | WIN | Black | cleobule (1077) | clean (auto) |
-| 668 | LOSS | Black | LakhdarDenni (1112) | #1 x1 (auto) |
-| 667 | LOSS | Black | kaktyznds (1140) | no win (auto) |
-| 666 | LOSS | Black | Neomate067 (1101) | no win (auto) |
-| 665 | LOSS | White | de_profundiis (1155) | clean (auto) |
-| 664 | WIN | White | pelm (1057) | #1 x1 (auto) |
-| 663 | LOSS | Black | Kolupanko_Jar17 (1063) | *pending* |
-| 662 | LOSS | White | BATES_COUGH (1146) | *pending* |
-| 661 | WIN | Black | bettelley (908) | *pending* |
-| 660 | LOSS | White | Maxonka68 (1153) | clean (auto) |
-| 659 | WIN | Black | EOQT (987) | clean (auto) |
-| 658 | LOSS | White | alijudoka (1041) | clean (auto) |
-| 657 | LOSS | Black | RrrrrrrTtttttttt (967) | no win (auto) |
-| 656 | LOSS | Black | Ben207E (1190) | #1 x2 (auto) |
-| 655 | WIN | White | Mohamedgad2023 (1035) | #1 x8 (auto) |
-| 654 | LOSS | Black | pp2109 (1065) | #1 x1 (auto) |
-| 653 | LOSS | White | muhammetbasarann (1093) | clean (auto) |
-| 652 | WIN | White | yahto19 (1101) | clean (auto) |
-| 651 | WIN | White | MarcoxP1 (1122) | clean (auto) |
-| 650 | LOSS | Black | lovrocroatia (1162) | #1 x3 (auto) |
-| 649 | LOSS | Black | panjiturama (1098) | #1 x1 (auto) |
-| 648 | WIN | White | Tamara-13 (1107) | #1 x1 (auto) |
-| 647 | LOSS | White | Od1no4ka011 (1135) | clean (auto) |
-| 646 | LOSS | Black | dice2 (1153) | no win (auto) |
-| 645 | LOSS | Black | gwatblat (1108) | #1 x1 (auto) |
-| 644 | LOSS | White | radmehr46 (1120) | #1 x1 (auto) |
-| 643 | WIN | Black | anteman (1112) | #1 x1 (auto) |
-| 642 | WIN | Black | Panarin-Artem2015 (1206) | no win (auto) |
-| 641 | LOSS | White | Check_Matey77 (1088) | #1 x1 (auto) |
-| 640 | WIN | Black | aydinusta (1137) | #1 x1 (auto) |
-| 639 | LOSS | Black | Ngan_Arrchie1802 (1171) | #1 x1 (auto) |
-| 638 | LOSS | Black | Hannaankhan (1147) | #1 x3 (auto) |
-| 637 | LOSS | Black | Kalter312 (1061) | no win (auto) |
-| 636 | DRAW | Black | Chemfan (1011) | clean (auto) |
-| 635 | LOSS | Black | LesibaR (1156) | clean (auto) |
-| 634 | LOSS | White | LesibaR (1150) | #1 x1 (auto) |
-| 633 | WIN | White | hiatogomes (1196) | no win (auto) |
-| 632 | WIN | White | fu2012 (1090) | clean (auto) |
-| 631 | LOSS | Black | HAIJACK122R (1092) | no win (auto) |
-| 630 | WIN | White | HAIJACK122R (1097) | clean (auto) |
-| 629 | LOSS | Black | HAIJACK122R (1091) | #1 x7 (auto) |
-| 628 | WIN | White | Matesat (1071) | clean (auto) |
-| 627 | LOSS | Black | VillegePumpkin (1069) | #1 x1 (auto) |
-| 626 | LOSS | White | VillegePumpkin (1062) | clean (auto) |
-| 625 | LOSS | Black | NikolaStojak (1144) | clean (auto) |
-| 624 | WIN | Black | Rodribainotto (1022) | #1 x3 (auto) |
-| 623 | LOSS | Black | materzi53 (1243) | clean (auto) |
-| 622 | DRAW | White | Saint_Just1 (1232) | no win (auto) |
-| 621 | WIN | White | NyutaM (984) | #1 x1 (auto) |
-| 620 | WIN | White | E44_22DD51K (1193) | no win (auto) |
-| 619 | LOSS | Black | Samyuktha2020 (1121) | no win (auto) |
-| 618 | WIN | Black | LilyBee83 (1133) | clean (auto) |
-| 617 | WIN | White | Zlata_Tarasova (1107) | #1 x2 (auto) |
-| 616 | WIN | Black | fefe15 (1075) | #1 x1 (auto) |
-| 615 | LOSS | White | behrad_mirhoshyar (1151) | #1 x1 (auto) |
-| 614 | LOSS | White | hope_38 (1216) | #1 x2 (auto) |
-| 613 | WIN | Black | veritygavelle (1141) | clean (auto) |
-| 612 | LOSS | White | Serwind (1193) | #1 x1 (auto) |
-| 611 | WIN | Black | igorokok83 (1081) | clean (auto) |
-| 610 | WIN | White | Aaronvir (1206) | #1 x1 (auto) |
-| 609 | LOSS | Black | kathisonnenschein (1139) | clean (auto) |
-| 608 | WIN | Black | anniehalll (1127) | clean (auto) |
-| 607 | WIN | Black | chotzh (1207) | clean (auto) |
-| 606 | DRAW | White | Nilaybharagava29 (1072) | #1 x6 (auto) |
-| 605 | WIN | Black | target1200 (1128) | #1 x1 (auto) |
-| 604 | LOSS | Black | raahityaghosh17 (1113) | no win (auto) |
-| 603 | LOSS | White | matitoe (1077) | #1 x3 (auto) |
-| 602 | WIN | White | Pelmesek18 (1012) | #1 x2 (auto) |
-| 601 | LOSS | White | Kleomenas (1058) | no win (auto) |
-| 600 | WIN | White | N0tQuiteMyTemp0 (1065) | clean (auto) |
-| 599 | WIN | Black | Hen-N (1085) | no win (auto) |
-| 598 | LOSS | Black | Ruka4975 (1202) | #1 x2 (auto) |
-| 597 | LOSS | Black | JovanBgd995 (1199) | #1 x3 (auto) |
-| 596 | WIN | White | sedzen (1117) | #1 x2 (auto) |
-| 595 | WIN | Black | KarimJoseph (1059) | clean (auto) |
-| 594 | WIN | White | wayoutwestspb (1104) | clean (auto) |
-| 593 | WIN | Black | lpkramit (1043) | clean (auto) |
-| 592 | LOSS | White | JonatamGood (1018) | #1 x1 (auto) |
-| 591 | DRAW | White | breedknight (1124) | clean (auto) |
-| 590 | LOSS | Black | h1221b (1213) | no win (auto) |
-| 589 | WIN | Black | Maria3310 (991) | clean (auto) |
-| 588 | WIN | White | alexandrejr48 (1019) | *pending* |
-| 587 | WIN | White | OSoleildesLunes1 (875) | *pending* |
-| 586 | WIN | Black | OSoleildesLunes1 (878) | *pending* |
-| 585 | LOSS | White | vitalityko (1033) | clean (auto) |
-| 584 | LOSS | Black | ArturK23 (1042) | no win (auto) |
-| 583 | WIN | White | theDJX59 (1219) | clean (auto) |
-| 582 | DRAW | Black | Ivanyk-k (1051) | #1 x3 (auto) |
-| 581 | LOSS | White | maluherz (1140) | clean (auto) |
-| 580 | DRAW | Black | subash41 (1136) | #1 x1 (auto) |
-| 579 | WIN | White | FiorelaCabanillasUTP (1072) | #1 x3 (auto) |
-| 578 | LOSS | Black | Tagananent (1142) | #1 x1 (auto) |
-| 577 | WIN | White | Savior5027 (1178) | #1 x1 (auto) |
-| 576 | LOSS | Black | AXE722 (1151) | *pending* |
-| 575 | WIN | Black | delniya_nasiri_2017 (1118) | #1 x1 (auto) |
-| 574 | LOSS | White | Erotides1313 (1064) | #1 x2 (auto) |
-| 573 | WIN | White | catanddogtrainer (1123) | #1 x1 (auto) |
-| 572 | DRAW | Black | Hefnawy99 (1040) | #1 x1 (auto) |
-| 571 | WIN | Black | lam050708 (1098) | #1 x1 (auto) |
-| 570 | WIN | White | Ratnesh1996 (1116) | #1 x2 (auto) |
-| 569 | WIN | Black | Antananarivochess (1110) | #1 x3 (auto) |
-| 568 | WIN | White | drakeahmad (1023) | clean (auto) |
-| 567 | WIN | White | eliastohidimoghdam (1041) | #1 x2 (auto) |
-| 566 | LOSS | Black | Lujimotive (1031) | #1 x1 (auto) |
-| 565 | WIN | White | mhs83 (1094) | clean (auto) |
-| 564 | WIN | Black | Nuutan (1097) | #1 x3 (auto) |
-| 563 | WIN | White | heljarskinn458 (1100) | #1 x1 (auto) |
-| 562 | LOSS | White | Medicfromtf2 (1056) | #1 x3 (auto) |
-| 561 | LOSS | Black | MohamEd_108 (1096) | no win (auto) |
-| 560 | LOSS | White | Ocherednaya_A-2015 (1117) | clean (auto) |
-| 559 | LOSS | White | Buddhananas (1049) | #1 x1 (auto) |
-| 558 | WIN | Black | Lowenzahn71 (1136) | no win (auto) |
+| 977 | LOSS | White | Piet2017 (1284) | *pending* |
+| 976 | LOSS | Black | Piet2017 (1277) | *pending* |
+| 975 | LOSS | White | King_Chess_2014 (1281) | *pending* |
+| 974 | WIN | Black | Knutero (1294) | *pending* |
+| 973 | WIN | White | vaibhavdg (1246) | *pending* |
+| 972 | LOSS | Black | arturrusakk (1280) | *pending* |
+| 971 | WIN | White | ego_189 (1361) | *pending* |
+| 970 | WIN | Black | Me_te15 (1300) | *pending* |
+| 969 | WIN | White | Atharv_ACA (1219) | *pending* |
+| 968 | LOSS | White | atalib22 (1286) | *pending* |
+| 967 | LOSS | White | lambdallama (1385) | *pending* |
+| 966 | WIN | Black | Tushar_1311 (1313) | *pending* |
+| 965 | WIN | Black | FrankChess86 (1274) | *pending* |
+| 964 | WIN | White | Frank-Bremen (1247) | *pending* |
+| 963 | LOSS | Black | El-shatranj-arg2609 (1154) | *pending* |
+| 962 | WIN | Black | Erbao180901 (1288) | *pending* |
+| 961 | WIN | White | michaelmaue (1294) | *pending* |
+| 960 | WIN | Black | Mokarina (1273) | *pending* |
+| 959 | WIN | White | Lateigne91 (1311) | *pending* |
+| 958 | WIN | White | hannaasemsem (1160) | *pending* |
+| 957 | WIN | White | Youssef9306 (1216) | *pending* |
+| 956 | LOSS | Black | xentomile (1281) | *pending* |
+| 955 | LOSS | Black | saurabh1101 (1148) | *pending* |
+| 954 | LOSS | Black | DonegalGAA (1179) | *pending* |
+| 953 | WIN | White | mildchess04 (1127) | *pending* |
+| 952 | LOSS | Black | Zongereg (1219) | *pending* |
+| 951 | WIN | Black | DrLee07 (1307) | *pending* |
+| 950 | LOSS | White | Chimpancy (1254) | *pending* |
+| 949 | LOSS | White | Danil301084 (1222) | *pending* |
+| 948 | WIN | Black | Rekonkwista70 (1268) | *pending* |
+| 947 | LOSS | White | naveenchalimeti (1275) | *pending* |
+| 946 | LOSS | White | OGN (1345) | *pending* |
+| 945 | LOSS | Black | BongoHobbit (1223) | *pending* |
+| 944 | WIN | White | Feliziano (1268) | *pending* |
+| 943 | WIN | White | Bsisa77 (1292) | *pending* |
+| 942 | WIN | Black | savan105 (1218) | *pending* |
+| 941 | WIN | White | Plotnikova_Irina (1221) | *pending* |
+| 940 | WIN | White | artur06022017 (1247) | *pending* |
+| 939 | LOSS | Black | panteleon (1253) | *pending* |
+| 938 | WIN | White | gregg_ink (1255) | *pending* |
+| 937 | WIN | Black | rudy8929 (1500) | *pending* |
+| 936 | WIN | Black | Daxmatt (1281) | *pending* |
+| 935 | DRAW | White | CoArnavchess5967 (1240) | *pending* |
+| 934 | WIN | White | Samir_ALJENF4WI (1302) | *pending* |
+| 933 | WIN | Black | DavidTeneT (1183) | *pending* |
+| 932 | LOSS | Black | tb20221 (1244) | *pending* |
+| 931 | LOSS | White | xuzhikai (1245) | *pending* |
+| 930 | LOSS | White | Evgenius_Tsk (1241) | *pending* |
+| 929 | WIN | White | BVchBAL (1174) | *pending* |
+| 928 | WIN | Black | michaelv2 (1287) | *pending* |
+| 927 | DRAW | Black | RookAndRoll_182 (1135) | *pending* |
+| 926 | LOSS | Black | kai20050301 (1185) | *pending* |
+| 925 | LOSS | White | cuixinghe (1182) | *pending* |
+| 924 | LOSS | White | faizanahmad_00 (1219) | *pending* |
+| 923 | WIN | Black | carlosabugieiro (1242) | *pending* |
+| 922 | WIN | White | Dekindtchess (1201) | *pending* |
+| 921 | WIN | Black | Aparajita67 (1170) | *pending* |
+| 920 | WIN | White | Vijender21 (1217) | *pending* |
+| 919 | WIN | Black | ICDream (1134) | *pending* |
+| 918 | WIN | White | Yulia_Kalenkovich (1213) | *pending* |
+| 917 | LOSS | Black | harman_everything (1171) | *pending* |
+| 916 | WIN | White | imran1967 (1183) | *pending* |
+| 915 | LOSS | White | heavenshopper (1210) | *pending* |
+| 914 | WIN | Black | Nikita1986a (1196) | *pending* |
+| 913 | LOSS | White | antognoni (1271) | *pending* |
+| 912 | LOSS | White | reych9 (1234) | *pending* |
+| 911 | WIN | Black | reych9 (1240) | *pending* |
+| 910 | LOSS | Black | TemChang (1155) | *pending* |
+| 909 | DRAW | White | adambc (1207) | *pending* |
+| 908 | LOSS | Black | anwer1983 (1188) | *pending* |
+| 907 | DRAW | White | AMS_ES (1243) | *pending* |
+| 906 | WIN | Black | teoluma (1231) | *pending* |
+| 905 | WIN | White | dodo-1 (1223) | *pending* |
+| 904 | DRAW | White | WermterWx (1300) | *pending* |
+| 903 | WIN | Black | Tatiana_EROFF (1208) | *pending* |
+| 902 | DRAW | Black | Leleuprimitivo (1267) | *pending* |
+| 901 | LOSS | White | danilaagl (1206) | *pending* |
+| 900 | WIN | White | omar_102 (1195) | *pending* |
+| 899 | LOSS | Black | yaoyaolingyang (1236) | *pending* |
+| 898 | WIN | Black | Varghese_jac (1226) | *pending* |
+| 897 | WIN | White | anlesh (1101) | *pending* |
+| 896 | LOSS | Black | Roma908137 (1229) | *pending* |
+| 895 | LOSS | White | Luth_1987 (1287) | *pending* |
+| 894 | WIN | Black | Tjoyfm (1153) | *pending* |
+| 893 | LOSS | Black | getdrpankaj (1165) | *pending* |
+| 892 | LOSS | White | IvanV2025 (1256) | *pending* |
+| 891 | WIN | White | elpegatori (1224) | *pending* |
+| 890 | LOSS | Black | Juande00 (1198) | *pending* |
+| 889 | LOSS | White | Marc57700 (1150) | *pending* |
+| 888 | DRAW | White | Yabott (1317) | *pending* |
+| 887 | LOSS | Black | Spartano91075 (1203) | *pending* |
+| 886 | WIN | Black | Rolf-Kilian (1166) | *pending* |
+| 885 | WIN | White | AmosGael (1118) | *pending* |
+| 884 | LOSS | Black | InvictusNavarchus (1243) | *pending* |
+| 883 | WIN | White | Warnal_the_Narwhal (1303) | *pending* |
+| 882 | WIN | Black | LuzieNikolaus (1179) | *pending* |
+| 881 | LOSS | White | YuriyBelousov (1231) | *pending* |
+| 880 | WIN | Black | myersb99 (1323) | *pending* |
+| 879 | LOSS | Black | txusti (1272) | *pending* |
+| 878 | WIN | White | txusti (1280) | *pending* |
+| 877 | WIN | White | Liaj69 (1250) | *pending* |
+| 876 | WIN | Black | Jyotikri (1218) | *pending* |
+| 875 | LOSS | Black | TomLinS (1198) | *pending* |
+| 874 | DRAW | White | greyccloud (1225) | *pending* |
+| 873 | WIN | White | Saish_Raut (1229) | *pending* |
+| 872 | LOSS | White | Kozerog1981 (1213) | *pending* |
+| 871 | WIN | Black | masterluukx (1249) | *pending* |
+| 870 | WIN | Black | lhommearaignee (1184) | *pending* |
+| 869 | DRAW | White | josep_llado (1307) | *pending* |
+| 868 | LOSS | Black | eanaasss (1186) | *pending* |
+| 867 | WIN | White | Lestr2000 (1199) | *pending* |
+| 866 | LOSS | White | AndrzejoStar (1149) | *pending* |
+| 865 | LOSS | Black | olegnos (1262) | *pending* |
+| 864 | LOSS | Black | dipblu23 (1210) | *pending* |
+| 863 | WIN | White | technotechno (1225) | *pending* |
+| 862 | WIN | Black | ljckevin (1152) | *pending* |
+| 861 | WIN | White | Axel-Champion (1175) | *pending* |
+| 860 | LOSS | Black | komet44 (1193) | *pending* |
+| 859 | WIN | Black | MaryamRebai (1196) | *pending* |
+| 858 | LOSS | Black | lukamudishef (1203) | *pending* |
+| 857 | DRAW | White | Bonanzalopez (1160) | *pending* |
+| 856 | WIN | White | koushikatota (1154) | *pending* |
+| 855 | DRAW | Black | Ezequ (1250) | *pending* |
+| 854 | WIN | White | Behzadimohamad (1241) | *pending* |
+| 853 | WIN | White | Hasanga2017 (1100) | *pending* |
+| 852 | LOSS | Black | Caposlowski (1100) | *pending* |
+| 851 | LOSS | White | MarcelDk (1218) | *pending* |
+| 850 | WIN | Black | vasquito_1992 (1171) | *pending* |
+| 849 | WIN | White | SacrificeMenace (1231) | *pending* |
+| 848 | WIN | Black | supriya222 (1161) | *pending* |
+| 847 | LOSS | Black | Viktor5577 (1206) | *pending* |
+| 846 | WIN | White | Anton8398 (1303) | *pending* |
+| 845 | LOSS | White | tbdee (1282) | *pending* |
+| 844 | LOSS | Black | shuksj (1154) | *pending* |
+| 843 | LOSS | Black | jazzsader (1220) | *pending* |
+| 842 | WIN | White | DanielGodfrey (1277) | *pending* |
+| 841 | WIN | Black | MarcTou (1182) | *pending* |
+| 840 | WIN | White | fedyok_98 (1169) | *pending* |
+| 839 | LOSS | Black | safranecko (1219) | *pending* |
+| 838 | LOSS | White | ZamirSm (1134) | *pending* |
+| 837 | LOSS | Black | ZamirSm (1127) | *pending* |
+| 836 | WIN | White | ZamirSm (1132) | *pending* |
+| 835 | LOSS | White | prathit21 (1254) | *pending* |
+| 834 | LOSS | Black | maybe777 (1229) | *pending* |
+| 833 | WIN | White | IKseniaI (1205) | *pending* |
+| 832 | LOSS | White | Ismecar (1190) | *pending* |
+| 831 | DRAW | Black | Sonokyoung (1177) | *pending* |
+| 830 | DRAW | Black | undeepblue (1191) | *pending* |
+| 829 | LOSS | Black | backwords (1265) | *pending* |
+| 828 | WIN | White | Rajithcy (1185) | *pending* |
+| 827 | WIN | Black | bigbalabobby (1244) | *pending* |
+| 826 | WIN | White | gayrettinzaman (1077) | *pending* |
+| 825 | WIN | Black | moriiii777 (1158) | *pending* |
+| 824 | WIN | Black | Bomburr (1129) | *pending* |
+| 823 | LOSS | White | foxaslan (1204) | *pending* |
+| 822 | LOSS | White | zc314 (1293) | *pending* |
+| 821 | LOSS | Black | Paarthsr (1198) | *pending* |
+| 820 | WIN | Black | Themasterblastertan (1171) | *pending* |
+| 819 | LOSS | White | IvanNice (1222) | *pending* |
+| 818 | WIN | White | baran0625 (1211) | *pending* |
+| 817 | WIN | White | Malina_Z (1084) | *pending* |
+| 816 | LOSS | White | Gokhan_5335 (1319) | *pending* |
+| 815 | LOSS | Black | ChessDeGN (1214) | *pending* |
+| 814 | WIN | Black | Daxmatt (1198) | *pending* |
+| 813 | LOSS | White | lonnatdhd (1232) | *pending* |
+| 812 | LOSS | Black | hamoda29 (1164) | *pending* |
+| 811 | LOSS | White | hamoda29 (1157) | *pending* |
+| 810 | WIN | Black | Remizov_Vladimir (1201) | *pending* |
+| 809 | LOSS | Black | Schachtomat3000 (1228) | *pending* |
+| 808 | WIN | Black | Akahng (1213) | *pending* |
+| 807 | LOSS | White | ismailugur (1218) | *pending* |
+| 806 | LOSS | Black | incentive (1315) | *pending* |
+| 805 | LOSS | White | ArtaChess1393 (1192) | *pending* |
+| 804 | WIN | White | Mesteren2018 (1219) | *pending* |
+| 803 | LOSS | Black | LelikBolek (1306) | *pending* |
+| 802 | WIN | Black | Chintu99556 (1085) | *pending* |
+| 801 | DRAW | White | nadrez (1225) | *pending* |
+| 800 | WIN | Black | hoainamchess (1169) | *pending* |
+| 799 | LOSS | White | Anton_1968 (1250) | *pending* |
+| 798 | WIN | White | art-chess (1233) | *pending* |
+| 797 | LOSS | Black | olich349 (1242) | *pending* |
+| 796 | WIN | Black | JasonPolmateer (1192) | *pending* |
+| 795 | WIN | White | Ghsm_echecs (1102) | *pending* |
+| 794 | LOSS | Black | pondhanvi (1217) | *pending* |
+| 793 | WIN | Black | PayamFarsadkia (1303) | *pending* |
+| 792 | LOSS | White | airilain (1191) | *pending* |
+| 791 | DRAW | White | mmarr13 (1200) | *pending* |
+| 790 | WIN | Black | Slabak_123 (1214) | *pending* |
+| 789 | WIN | White | navidtbt (1272) | *pending* |
+| 788 | WIN | White | mreza_gholampour (1224) | *pending* |
+| 787 | LOSS | White | Php94fr (1194) | *pending* |
+| 786 | LOSS | Black | JuDiTh121 (1185) | *pending* |
+| 785 | LOSS | Black | Makhambet57 (1242) | *pending* |
+| 784 | LOSS | White | loulou57240 (1240) | *pending* |
+| 783 | WIN | Black | letchoubi (1207) | *pending* |
+| 782 | LOSS | Black | VKapantaidakis (1221) | *pending* |
+| 781 | WIN | White | Aramdolatdoost2016 (1138) | *pending* |
+| 780 | WIN | White | Priss4228 (1224) | *pending* |
+| 779 | WIN | Black | lino_mocchetti (1202) | *pending* |
+| 778 | LOSS | White | Ram2070 (1153) | *pending* |
 | 1 | — | — | *profile snapshot* | — |
 
 ---

@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/mAx0B700"]
+[Date "2026.09.24"]
+[Round "-"]
+[White "vasquito_1992"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "mAx0B700"]
+[UTCDate "2026.09.24"]
+[UTCTime "19:41:46"]
+[WhiteElo "1171"]
+[BlackElo "1195"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense: Two Knights Attack"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Nc5 b6 6. Nb7 Qc7 7. Ba6 Bc8 8. Qe2 Bxb7 9. Bxb7 Qxb7 10. O-O Nf6 11. Re1 e6 12. Ng5 Qc8 13. Qd3 h6 14. Ne4 Nxe4 15. Qxe4 Be7 16. d4 Qd7 17. c4 O-O 18. d5 cxd5 19. cxd5 Qxd5 20. Qf3 Qa5 21. Bd2 Qd5 22. Qe2 Nc6 23. Rad1 Qxa2 24. Qg4 Bg5 25. Bxg5 hxg5 26. Qxg5 Qxb2 27. Rd2 Qc3 28. Re4 Qc1+ 0-1
+
+

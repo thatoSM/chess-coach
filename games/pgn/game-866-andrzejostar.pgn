@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/DmzjBJGM"]
+[Date "2026.09.25"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "AndrzejoStar"]
+[Result "0-1"]
+[GameId "DmzjBJGM"]
+[UTCDate "2026.09.25"]
+[UTCTime "17:11:02"]
+[WhiteElo "1204"]
+[BlackElo "1149"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Valencian Variation"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. Nf3 Bg4 5. h3 Bh5 6. d3 f6 7. Be2 e5 8. Be3 Nc6 9. d4 Bb4 10. dxe5 fxe5 11. a3 Ba5 12. b4 Bb6 13. Bxb6 axb6 14. Qxd8+ Rxd8 15. O-O Nge7 16. Bb5 O-O 17. Bc4+ Kh8 18. Rfe1 Bxf3 19. gxf3 Rxf3 20. Re3 Rff8 21. Rae1 Rd2 22. R1e2 Rfd8 23. Nd5 Rd1+ 24. Kg2 Nf5 25. Ne7 Nxe3+ 26. Rxe3 Nxe7 27. Rxe5 Ng6 28. Re2 R1d4 29. Bb5 Nf4+ 0-1
+
+

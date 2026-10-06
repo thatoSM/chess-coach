@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/axZI2zDh"]
+[Date "2026.09.25"]
+[Round "-"]
+[White "Caposlowski"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "axZI2zDh"]
+[UTCDate "2026.09.25"]
+[UTCTime "07:28:40"]
+[WhiteElo "1100"]
+[BlackElo "1195"]
+[WhiteRatingDiff "+17"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "900+10"]
+[ECO "D35"]
+[Opening "Queen's Gambit Declined: Harrwitz Attack"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bf4 dxc4 5. e3 c5 6. Bxc4 cxd4 7. Qxd4 Qxd4 8. exd4 Nc6 9. O-O-O Bb4 10. Bd2 O-O 11. Bg5 Nd7 12. a3 Bxc3 13. bxc3 Rd8 14. Bxd8 Nxd8 1-0
+
+

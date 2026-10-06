@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/qtnXOUtz"]
+[Date "2026.09.24"]
+[Round "-"]
+[White "ZamirSm"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "qtnXOUtz"]
+[UTCDate "2026.09.24"]
+[UTCTime "13:47:08"]
+[WhiteElo "1127"]
+[BlackElo "1196"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Short Variation"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. e5 Bf5 4. d4 e6 5. Bg5 Be7 6. Bf4 c5 7. Bb5+ Nc6 8. Be3 a6 9. Bxc6+ bxc6 10. dxc5 Qa5+ 11. c3 Bxc5 12. b4 Bxe3 13. bxa5 1-0
+
+

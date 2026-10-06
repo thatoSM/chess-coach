@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/5UyYFsFG"]
+[Date "2026.09.24"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "tbdee"]
+[Result "0-1"]
+[GameId "5UyYFsFG"]
+[UTCDate "2026.09.24"]
+[UTCTime "17:05:08"]
+[WhiteElo "1185"]
+[BlackElo "1282"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C53"]
+[Opening "Italian Game: Classical Variation"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 d6 5. d4 Be6 6. dxc5 Bxc4 7. Nbd2 b5 8. Nxc4 bxc4 9. Qd5 Nce7 10. Qxc4 dxc5 11. Qxc5 Nf6 12. h3 Nxe4 13. Qxe5 f5 14. Qxg7 Rg8 15. Qxh7 Rxg2 16. Qh8+ Kd7 17. Qxd8+ Rxd8 18. Kf1 Rxf2+ 19. Kg1 Rxf3 0-1
+
+
