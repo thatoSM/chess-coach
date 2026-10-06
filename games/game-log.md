@@ -25,6 +25,11 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 982 | WIN | White | swing_bowler (1266) | *pending* |
+| 981 | LOSS | Black | Anna_Korotina (1317) | *pending* |
+| 980 | LOSS | Black | LEON_13 (1400) | *pending* |
+| 979 | WIN | White | web_developer (1360) | *pending* |
+| 978 | WIN | White | Ovesiss (1075) | *pending* |
 | 977 | LOSS | White | Piet2017 (1284) | *pending* |
 | 976 | LOSS | Black | Piet2017 (1277) | *pending* |
 | 975 | LOSS | White | King_Chess_2014 (1281) | *pending* |
@@ -220,11 +225,6 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 | 785 | LOSS | Black | Makhambet57 (1242) | *pending* |
 | 784 | LOSS | White | loulou57240 (1240) | *pending* |
 | 783 | WIN | Black | letchoubi (1207) | *pending* |
-| 782 | LOSS | Black | VKapantaidakis (1221) | *pending* |
-| 781 | WIN | White | Aramdolatdoost2016 (1138) | *pending* |
-| 780 | WIN | White | Priss4228 (1224) | *pending* |
-| 779 | WIN | Black | lino_mocchetti (1202) | *pending* |
-| 778 | LOSS | White | Ram2070 (1153) | *pending* |
 | 1 | — | — | *profile snapshot* | — |
 
 ---
