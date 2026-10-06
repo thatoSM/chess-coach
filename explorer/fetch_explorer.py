@@ -1,16 +1,16 @@
-"""Fetch what real Lichess rapid players (1000-1599) play in each drill position.
-Reads positions.txt, writes explorer.json. Safe to stop and re-run: it resumes."""
+"""Fetch what real Lichess players (1000-2199, blitz/rapid/classical) play in each drill position.
+Reads positions.txt, writes explorer_all.json. Safe to stop and re-run: it resumes."""
 import json, os, time
 import requests
 
 TOKEN = os.environ["LICHESS_TOKEN"]
 URL = "https://explorer.lichess.ovh/lichess"
-PARAMS = {"variant": "standard", "speeds": "rapid", "ratings": "1000,1200,1400", "moves": 12, "topGames": 0, "recentGames": 0}
+PARAMS = {"variant": "standard", "speeds": "blitz,rapid,classical", "ratings": "1000,1200,1400,1600,1800,2000", "moves": 12, "topGames": 0, "recentGames": 0}
 
 fens = [l.strip() for l in open("positions.txt", encoding="utf-8") if l.strip()]
-out = json.load(open("explorer.json", encoding="utf-8")) if os.path.exists("explorer.json") else {}
+out = json.load(open("explorer_all.json", encoding="utf-8")) if os.path.exists("explorer_all.json") else {}
 todo = [f for f in fens if f not in out]
-print(f"{len(out)} done, {len(todo)} to go (about {len(todo) // 60} minutes)")
+print(f"{len(out)} done, {len(todo)} to go (about {len(todo) * 2 // 60} minutes)")
 
 s = requests.Session()
 s.headers["Authorization"] = f"Bearer {TOKEN}"
@@ -18,8 +18,8 @@ for i, fen in enumerate(todo, 1):
     while True:
         r = s.get(URL, params={**PARAMS, "fen": fen}, timeout=30)
         if r.status_code == 429:
-            print("Rate limited - waiting 60 seconds...")
-            time.sleep(60)
+            print("Rate limited - waiting 90 seconds (normal, it carries on by itself)...")
+            time.sleep(90)
             continue
         r.raise_for_status()
         break
@@ -27,8 +27,8 @@ for i, fen in enumerate(todo, 1):
     out[fen] = {"total": d["white"] + d["draws"] + d["black"],
                 "moves": [[m["san"], m["white"] + m["draws"] + m["black"]] for m in d["moves"]]}
     if i % 25 == 0 or i == len(todo):
-        with open("explorer.json", "w", encoding="utf-8") as f:
+        with open("explorer_all.json", "w", encoding="utf-8") as f:
             json.dump(out, f)
         print(f"{i}/{len(todo)} saved")
-    time.sleep(1)
-print("DONE - send explorer.json to Claude")
+    time.sleep(2)
+print("DONE - send explorer_all.json to Claude")
