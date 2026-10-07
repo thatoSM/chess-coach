@@ -25,6 +25,8 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 984 | WIN | White | vikas55856 (1241) | *pending* |
+| 983 | WIN | Black | RossoneroHadi (1258) | *pending* |
 | 982 | WIN | White | swing_bowler (1266) | *pending* |
 | 981 | LOSS | Black | Anna_Korotina (1317) | *pending* |
 | 980 | LOSS | Black | LEON_13 (1400) | *pending* |
@@ -223,8 +225,6 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 | 787 | LOSS | White | Php94fr (1194) | *pending* |
 | 786 | LOSS | Black | JuDiTh121 (1185) | *pending* |
 | 785 | LOSS | Black | Makhambet57 (1242) | *pending* |
-| 784 | LOSS | White | loulou57240 (1240) | *pending* |
-| 783 | WIN | Black | letchoubi (1207) | *pending* |
 | 1 | — | — | *profile snapshot* | — |
 
 ---
