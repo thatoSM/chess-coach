@@ -25,6 +25,8 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 986 | WIN | White | Mirii09 (1307) | *pending* |
+| 985 | WIN | Black | Snurre3 (1284) | *pending* |
 | 984 | WIN | White | vikas55856 (1241) | *pending* |
 | 983 | WIN | Black | RossoneroHadi (1258) | *pending* |
 | 982 | WIN | White | swing_bowler (1266) | *pending* |
@@ -223,8 +225,6 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 | 789 | WIN | White | navidtbt (1272) | *pending* |
 | 788 | WIN | White | mreza_gholampour (1224) | *pending* |
 | 787 | LOSS | White | Php94fr (1194) | *pending* |
-| 786 | LOSS | Black | JuDiTh121 (1185) | *pending* |
-| 785 | LOSS | Black | Makhambet57 (1242) | *pending* |
 | 1 | — | — | *profile snapshot* | — |
 
 ---
