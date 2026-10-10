@@ -25,6 +25,9 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 990 | WIN | White | rsantoschess (1351) | *pending* |
+| 989 | WIN | Black | Modawii (1200) | *pending* |
+| 988 | WIN | White | raika10 (1353) | *pending* |
 | 987 | WIN | Black | matin-7 (1258) | *pending* |
 | 986 | WIN | White | Mirii09 (1307) | *pending* |
 | 985 | WIN | Black | Snurre3 (1284) | *pending* |
@@ -222,9 +225,6 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 | 793 | WIN | Black | PayamFarsadkia (1303) | *pending* |
 | 792 | LOSS | White | airilain (1191) | *pending* |
 | 791 | DRAW | White | mmarr13 (1200) | *pending* |
-| 790 | WIN | Black | Slabak_123 (1214) | *pending* |
-| 789 | WIN | White | navidtbt (1272) | *pending* |
-| 788 | WIN | White | mreza_gholampour (1224) | *pending* |
 | 1 | — | — | *profile snapshot* | — |
 
 ---

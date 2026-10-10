@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/BDKoYiOv"]
+[Date "2026.10.10"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "rsantoschess"]
+[Result "1-0"]
+[GameId "BDKoYiOv"]
+[UTCDate "2026.10.10"]
+[UTCTime "12:51:36"]
+[WhiteElo "1319"]
+[BlackElo "1351"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-35"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C45"]
+[Opening "Scotch Game: Schmidt Variation"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. d4 { [%eval 0.07] } 3... exd4 { [%eval 0.04] } 4. Nxd4 { [%eval 0.06] } 4... Nf6 { [%eval 0.1] } 5. Nxc6 { [%eval 0.05] } 5... bxc6 { [%eval 0.15] } 6. Bd3 { [%eval 0.0] } 6... Bb4+ { [%eval 0.6] } 7. Bd2 { [%eval 0.46] } 7... Bc5 { [%eval 0.86] } 8. O-O { [%eval 0.36] } 8... O-O { [%eval 1.04] } 9. Re1 { [%eval -0.49] } 9... Qe8 { [%eval 2.91] } 10. c4 { [%eval -0.5] } 10... Qe5 { [%eval 0.41] } 11. Bc3 { [%eval 0.39] } 11... Bd4 { [%eval 0.59] } 12. h3 { [%eval 0.37] } 12... Bxc3 { [%eval 0.48] } 13. Nxc3 { [%eval 0.51] } 13... Rb8 { [%eval 0.6] } 14. Rb1 { [%eval 0.51] } 14... Qd4 { [%eval 6.52] } 15. e5 { [%eval 6.56] } 15... Ne8 { [%eval 9.37] } 16. Re4 { [%eval 2.49] } 16... Qc5 { [%eval 2.55] } 17. Qh5 { [%eval 1.46] } 17... d5 { [%eval 5.09] } 18. Na4 { [%eval 1.11] } 18... Qa5 { [%eval 2.83] } 19. Rh4 { [%eval 2.72] } 19... h6 { [%eval 2.69] } 20. b3 { [%eval 2.48] } 20... Qd2 { [%eval 3.12] } 21. Qe2 { [%eval 1.24] } 21... Qg5 { [%eval 3.07] } 22. Qh5 { [%eval 1.54] } 22... Qd2 { [%eval 2.79] } 23. Qf3 { [%eval 2.71] } 23... Qg5 { [%eval 2.46] } 24. Rf4 { [%eval -0.08] } 24... Qxe5 { [%eval -0.06] } 25. cxd5 { [%eval -0.11] } 25... cxd5 { [%eval -0.13] } 26. Bf5 { [%eval -4.79] } 26... Nf6 { [%eval -0.69] } 27. Bxc8 { [%eval -0.6] } 27... Rbxc8 { [%eval -0.49] } 28. Rd1 { [%eval -1.0] } 28... Rcd8 { [%eval -0.6] } 29. Rfd4 { [%eval -0.8] } 29... Rfe8 { [%eval -0.86] } 30. Nc3 { [%eval -2.26] } 30... Qh5 { [%eval 1.19] } 31. Qxh5 { [%eval 1.12] } 31... Nxh5 { [%eval 0.91] } 32. Rxd5 { [%eval 0.23] } 32... Rxd5 { [%eval 0.24] } 33. Rxd5 { [%eval 0.25] } 33... Re3 { [%eval 8.42] } 34. Rd8+ { [%eval 8.32] } 34... Kh7 { [%eval 8.26] } 35. fxe3 { [%eval 7.7] } 1-0
+
+
