@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/8eckicld"]
+[Date "2026.10.11"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "jollee33"]
+[Result "1-0"]
+[GameId "8eckicld"]
+[UTCDate "2026.10.11"]
+[UTCTime "07:01:10"]
+[WhiteElo "1324"]
+[BlackElo "1344"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Main Line, Mieses Variation"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... d5 { [%eval 0.54] } 2. exd5 { [%eval 0.51] } 2... Qxd5 { [%eval 0.52] } 3. Nc3 { [%eval 0.47] } 3... Qa5 { [%eval 0.57] } 4. d4 { [%eval 0.5] } 4... Nf6 { [%eval 0.56] } 5. Nf3 { [%eval 0.5] } 5... Bg4 { [%eval 0.88] } 6. Be3 { [%eval 0.16] } 6... e6 { [%eval 0.12] } 7. h3 { [%eval 0.24] } 7... Bh5 { [%eval 0.21] } 8. Bc4 { [%eval 0.0] } 8... Bb4 { [%eval 0.05] } 9. Qd2 { [%eval -2.89] } 9... Ne4 { [%eval -2.65] } 10. Qd3 { [%eval -3.83] } 10... Nxc3 { [%eval -1.24] } 11. bxc3 { [%eval -1.17] } 11... Bxc3+ { [%eval -1.26] } 12. Ke2 { [%eval -4.9] } 12... Bxa1 { [%eval -4.1] } 13. Rxa1 { [%eval -3.99] } 13... Bxf3+ { [%eval -3.14] } 14. Kxf3 { [%eval -3.94] } 14... Qh5+ { [%eval -3.34] } 15. g4 { [%eval -5.64] } 15... Qxh3+ { [%eval -5.37] } 16. Ke2 { [%eval -5.47] } 16... Qxg4+ { [%eval -5.41] } 17. Kd2 { [%eval -5.68] } 17... O-O { [%eval -5.07] } 18. Qb3 { [%eval -6.28] } 18... b6 { [%eval -5.13] } 19. a4 { [%eval -6.03] } 19... Nc6 { [%eval -6.04] } 20. Qc3 { [%eval -6.11] } 20... Rae8 { [%eval -4.67] } 21. Bb5 { [%eval -5.43] } 21... e5 { [%eval -5.62] } 22. Bxc6 { [%eval -5.8] } 22... Rd8 { [%eval 0.39] } 23. d5 { [%eval 0.4] } 23... e4 { [%eval 1.32] } 24. Qe5 { [%eval 1.33] } 24... f6 { [%eval 3.57] } 25. Qxc7 { [%eval 3.57] } 25... Rf7 { [%eval 8.24] } 26. Qxd8+ { [%eval 8.38] } 1-0
+
+
