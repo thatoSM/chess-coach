@@ -25,6 +25,9 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 994 | LOSS | Black | viktoruss (1412) | *pending* |
+| 993 | LOSS | Black | sershev (1348) | *pending* |
+| 992 | WIN | White | sereeyni (1242) | *pending* |
 | 991 | WIN | White | jollee33 (1344) | *pending* |
 | 990 | WIN | White | rsantoschess (1351) | *pending* |
 | 989 | WIN | Black | Modawii (1200) | *pending* |
@@ -222,9 +225,6 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 | 797 | LOSS | Black | olich349 (1242) | *pending* |
 | 796 | WIN | Black | JasonPolmateer (1192) | *pending* |
 | 795 | WIN | White | Ghsm_echecs (1102) | *pending* |
-| 794 | LOSS | Black | pondhanvi (1217) | *pending* |
-| 793 | WIN | Black | PayamFarsadkia (1303) | *pending* |
-| 792 | LOSS | White | airilain (1191) | *pending* |
 | 1 | — | — | *profile snapshot* | — |
 
 ---

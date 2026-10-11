@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/v5PpdIIG"]
+[Date "2026.10.11"]
+[Round "-"]
+[White "viktoruss"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "v5PpdIIG"]
+[UTCDate "2026.10.11"]
+[UTCTime "18:05:52"]
+[WhiteElo "1412"]
+[BlackElo "1329"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. f3 h6 5. g4 Bh7 6. Bd3 Bxd3 7. Qxd3 e6 8. Nd2 c5 9. h4 Nc6 10. c3 cxd4 11. cxd4 Bb4 12. a3 Be7 13. b4 Bxh4+ 14. Ke2 Bg5 15. Nh3 Be7 16. Nb3 Qb6 17. Be3 a5 18. b5 Na7 19. a4 Bb4 20. Rhc1 Rc8 21. Nc5 Ne7 22. Ra2 Qc7 23. Rac2 b6 24. Nxe6 Qd7 25. Nxg7+ Kf8 26. Nf5 h5 27. Bh6+ Ke8 28. Bg7 Rg8 29. Nxe7 Qxe7 30. Rxc8+ Nxc8 31. Rxc8+ Kd7 32. Rxg8 hxg4 33. Bf6 Qe6 34. Rd8+ Kc7 35. Qc2+ Kb7 36. Ng5 Be7 37. Nxe6 1-0
+
+
