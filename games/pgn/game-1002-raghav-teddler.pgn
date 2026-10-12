@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/8yfxM7Os"]
+[Date "2026.10.12"]
+[Round "-"]
+[White "Raghav_Teddler"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "8yfxM7Os"]
+[UTCDate "2026.10.12"]
+[UTCTime "18:26:59"]
+[WhiteElo "1359"]
+[BlackElo "1322"]
+[WhiteRatingDiff "-40"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... c6 { [%eval 0.31] } 2. Nc3 { [%eval 0.21] } 2... d5 { [%eval 0.38] } 3. exd5 { [%eval -0.03] } 3... cxd5 { [%eval -0.02] } 4. d4 { [%eval -0.07] } 4... Nc6 { [%eval -0.03] } 5. Bb5 { [%eval -0.06] } 5... a6 { [%eval 0.0] } 6. Ba4 { [%eval -0.24] } 6... b5 { [%eval -0.28] } 7. Bb3 { [%eval -0.28] } 7... Qb6 { [%eval 2.12] } 8. Bxd5 { [%eval 0.43] } 8... Bd7 { [%eval 1.53] } 9. Nf3 { [%eval 1.49] } 9... e6 { [%eval 1.62] } 10. Bxc6 { [%eval 0.26] } 10... Bxc6 { [%eval 0.22] } 11. Be3 { [%eval 0.16] } 11... Bb4 { [%eval 5.77] } 12. a3 { [%eval -0.1] } 12... Bxc3+ { [%eval -0.18] } 13. bxc3 { [%eval -0.15] } 13... Nf6 { [%eval 5.33] } 14. d5 { [%eval 5.41] } 14... Qa5 { [%eval 5.33] } 15. dxc6 { [%eval 5.26] } 15... Qxc3+ { [%eval 5.25] } 16. Nd2 { [%eval 4.66] } 16... Qxc6 { [%eval 5.02] } 17. Nb3 { [%eval 1.01] } 17... Qxg2 { [%eval 0.85] } 18. Ke2 { [%eval 0.31] } 18... Ne4 { [%eval 2.07] } 19. Rf1 { [%eval -8.06] } 19... Nc3+ { [%eval -8.01] } 20. Ke1 { [%eval -8.45] } 20... Nxd1 { [%eval -8.33] } 21. Kxd1 { [%eval -10.32] } 21... Qxf1+ { [%eval -10.22] } 22. Kd2 { [%eval -10.08] } 0-1
+
+

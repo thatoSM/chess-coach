@@ -25,6 +25,14 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 1002 | WIN | Black | Raghav_Teddler (1359) | *pending* |
+| 1001 | WIN | Black | leon_nog (1298) | *pending* |
+| 1000 | LOSS | White | iamblind02 (1327) | *pending* |
+| 999 | LOSS | White | nirmal1990 (1323) | *pending* |
+| 998 | WIN | Black | COSMOC111 (1406) | *pending* |
+| 997 | LOSS | White | NadymMT (1296) | *pending* |
+| 996 | WIN | Black | keerthu_8 (1429) | *pending* |
+| 995 | LOSS | White | mateinsixxtynine (1328) | *pending* |
 | 994 | LOSS | Black | viktoruss (1412) | *pending* |
 | 993 | LOSS | Black | sershev (1348) | *pending* |
 | 992 | WIN | White | sereeyni (1242) | *pending* |
@@ -217,14 +225,6 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 | 805 | LOSS | White | ArtaChess1393 (1192) | *pending* |
 | 804 | WIN | White | Mesteren2018 (1219) | *pending* |
 | 803 | LOSS | Black | LelikBolek (1306) | *pending* |
-| 802 | WIN | Black | Chintu99556 (1085) | *pending* |
-| 801 | DRAW | White | nadrez (1225) | *pending* |
-| 800 | WIN | Black | hoainamchess (1169) | *pending* |
-| 799 | LOSS | White | Anton_1968 (1250) | *pending* |
-| 798 | WIN | White | art-chess (1233) | *pending* |
-| 797 | LOSS | Black | olich349 (1242) | *pending* |
-| 796 | WIN | Black | JasonPolmateer (1192) | *pending* |
-| 795 | WIN | White | Ghsm_echecs (1102) | *pending* |
 | 1 | — | — | *profile snapshot* | — |
 
 ---

@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/WrhxzQf5"]
+[Date "2026.10.12"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "iamblind02"]
+[Result "0-1"]
+[GameId "WrhxzQf5"]
+[UTCDate "2026.10.12"]
+[UTCTime "13:39:26"]
+[WhiteElo "1322"]
+[BlackElo "1327"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+44"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C44"]
+[Opening "Scotch Game: Lolli Variation"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. d4 { [%eval 0.07] } 3... exd4 { [%eval 0.04] } 4. Nxd4 { [%eval 0.06] } 4... Nxd4 { [%eval 0.63] } 5. Qxd4 { [%eval 0.54] } 5... d6 { [%eval 0.91] } 6. Bf4 { [%eval 0.98] } 6... Nf6 { [%eval 0.93] } 7. Bd3 { [%eval 0.33] } 7... Be7 { [%eval 0.38] } 8. Nc3 { [%eval 0.59] } 8... b6 { [%eval 1.8] } 9. Bb5+ { [%eval 1.52] } 9... Bd7 { [%eval 1.74] } 10. e5 { [%eval 0.14] } 10... dxe5 { [%eval 0.34] } 11. Bxe5 { [%eval 0.3] } 11... c5 { [%eval 0.81] } 12. Bxd7+ { [%eval 0.12] } 12... Nxd7 { [%eval 4.42] } 13. Qe4 { [%eval -0.08] } 13... O-O { [%eval 1.81] } 14. Nd5 { [%eval -0.73] } 14... Bg5 { [%eval -0.88] } 15. h4 { [%eval -5.8] } 15... Re8 { [%eval -5.1] } 16. hxg5 { [%eval -6.46] } 16... Rxe5 { [%eval -6.38] } 17. g6 { [%eval -9.45] } 17... Rxe4+ { [%eval -9.32] } 0-1
+
+

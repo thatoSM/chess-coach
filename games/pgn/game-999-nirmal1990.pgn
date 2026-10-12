@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/9UFv8qmT"]
+[Date "2026.10.12"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "nirmal1990"]
+[Result "0-1"]
+[GameId "9UFv8qmT"]
+[UTCDate "2026.10.12"]
+[UTCTime "13:28:46"]
+[WhiteElo "1328"]
+[BlackElo "1323"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C40"]
+[Opening "King's Pawn Game: Busch-Gass Gambit"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Bc5 { [%eval 1.81] } 3. d4 { [%eval 0.0] } 3... exd4 { [%eval 0.0] } 4. Nxd4 { [%eval -0.03] } 4... Qf6 { [%eval 0.34] } 5. Be3 { [%eval 0.12] } 5... Nc6 { [%eval 0.25] } 6. Bd3 { [%eval -3.58] } 6... Bxd4 { [%eval -4.3] } 7. Qg4 { [%eval -5.86] } 7... Bxe3 { [%eval -5.67] } 8. fxe3 { [%eval -5.36] } 8... Qxb2 { [%eval -5.21] } 9. Qxg7 { [%eval -8.2] } 9... Qxg7 { [%eval -8.24] } 0-1
+
+
