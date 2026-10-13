@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/lx6bQNQB"]
+[Date "2026.10.13"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "Phanik07"]
+[Result "1-0"]
+[GameId "lx6bQNQB"]
+[UTCDate "2026.10.13"]
+[UTCTime "09:53:20"]
+[WhiteElo "1331"]
+[BlackElo "1304"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C41"]
+[Opening "Philidor Defense: Exchange Variation"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... d6 { [%eval 0.55] } 3. d4 { [%eval 0.58] } 3... exd4 { [%eval 0.45] } 4. Nxd4 { [%eval 0.5] } 4... Be7 { [%eval 0.5] } 5. Bf4 { [%eval 0.59] } 5... Be6 { [%eval 1.87] } 6. Nxe6 { [%eval 1.96] } 6... fxe6 { [%eval 1.83] } 7. Nc3 { [%eval 1.45] } 7... e5 { [%eval 1.93] } 8. Bg3 { [%eval 1.02] } 8... Nf6 { [%eval 0.99] } 9. h3 { [%eval 0.03] } 9... Nc6 { [%eval 1.21] } 10. Bb5 { [%eval 0.1] } 10... Qd7 { [%eval 0.58] } 11. a3 { [%eval 0.19] } 11... a6 { [%eval 0.7] } 12. Ba4 { [%eval 0.18] } 12... Nd4 { [%eval 8.54] } 13. Bxd7+ { [%eval 7.98] } 1-0
+
+

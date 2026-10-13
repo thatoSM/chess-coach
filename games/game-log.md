@@ -25,6 +25,16 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 1012 | WIN | White | abdollah1335 (1354) | *pending* |
+| 1011 | WIN | Black | batangmawmaw (1407) | *pending* |
+| 1010 | WIN | White | Yunnika16 (1350) | *pending* |
+| 1009 | DRAW | Black | Ghost5337 (1285) | *pending* |
+| 1008 | WIN | Black | Pietrix07 (1379) | *pending* |
+| 1007 | WIN | White | Phanik07 (1304) | *pending* |
+| 1006 | DRAW | White | Daniel_Borel (1320) | *pending* |
+| 1005 | LOSS | Black | m0s6afa (1371) | *pending* |
+| 1004 | WIN | White | Geistmann24 (1268) | *pending* |
+| 1003 | WIN | White | Hulio322 (1227) | *pending* |
 | 1002 | WIN | Black | Raghav_Teddler (1359) | *pending* |
 | 1001 | WIN | Black | leon_nog (1298) | *pending* |
 | 1000 | LOSS | White | iamblind02 (1327) | *pending* |
@@ -215,16 +225,6 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 | 815 | LOSS | Black | ChessDeGN (1214) | *pending* |
 | 814 | WIN | Black | Daxmatt (1198) | *pending* |
 | 813 | LOSS | White | lonnatdhd (1232) | *pending* |
-| 812 | LOSS | Black | hamoda29 (1164) | *pending* |
-| 811 | LOSS | White | hamoda29 (1157) | *pending* |
-| 810 | WIN | Black | Remizov_Vladimir (1201) | *pending* |
-| 809 | LOSS | Black | Schachtomat3000 (1228) | *pending* |
-| 808 | WIN | Black | Akahng (1213) | *pending* |
-| 807 | LOSS | White | ismailugur (1218) | *pending* |
-| 806 | LOSS | Black | incentive (1315) | *pending* |
-| 805 | LOSS | White | ArtaChess1393 (1192) | *pending* |
-| 804 | WIN | White | Mesteren2018 (1219) | *pending* |
-| 803 | LOSS | Black | LelikBolek (1306) | *pending* |
 | 1 | — | — | *profile snapshot* | — |
 
 ---

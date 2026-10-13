@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/CC8SVNtB"]
+[Date "2026.10.13"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "Daniel_Borel"]
+[Result "1/2-1/2"]
+[GameId "CC8SVNtB"]
+[UTCDate "2026.10.13"]
+[UTCTime "06:56:55"]
+[WhiteElo "1331"]
+[BlackElo "1320"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+1"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "B21"]
+[Opening "Sicilian Defense: Smith-Morra Gambit Declined, Center Formation"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... c5 { [%eval 0.32] } 2. c3 { [%eval 0.0] } 2... e5 { [%eval 0.16] } 3. d4 { [%eval 0.08] } 3... cxd4 { [%eval 0.07] } 4. cxd4 { [%eval -0.05] } 4... exd4 { [%eval 0.0] } 5. Qxd4 { [%eval -0.21] } 5... Nc6 { [%eval -0.2] } 6. Qa4 { [%eval -0.23] } 6... a6 { [%eval 0.01] } 7. Nc3 { [%eval 0.0] } 7... Bb4 { [%eval 0.0] } 8. a3 { [%eval -0.35] } 8... Bxc3+ { [%eval -0.33] } 9. bxc3 { [%eval -0.26] } 9... d6 { [%eval 0.06] } 10. Nf3 { [%eval -0.03] } 10... Bd7 { [%eval 0.06] } 11. Qb3 { [%eval -0.03] } 11... h6 { [%eval 0.18] } 12. Qxb7 { [%eval 0.26] } 12... Nf6 { [%eval 0.19] } 13. Bxa6 { [%eval -6.6] } 13... Nxe4 { [%eval 0.03] } 14. Bd3 { [%eval -2.93] } 14... Nxc3 { [%eval 0.19] } 15. O-O { [%eval 0.07] } 15... O-O { [%eval 0.07] } 16. Re1 { [%eval 0.06] } 16... Na4 { [%eval 0.07] } 17. Qb5 { [%eval -3.36] } 17... Nc5 { [%eval -0.24] } 18. Be3 { [%eval -4.61] } 18... Nxd3 { [%eval -0.02] } 19. Qxd3 { [%eval 0.04] } 19... Bg4 { [%eval 0.13] } 20. Bd4 { [%eval -0.24] } 20... f6 { [%eval 6.41] } 21. Bb2 { [%eval 0.14] } 21... Re8 { [%eval 6.53] } 22. Rxe8+ { [%eval 0.06] } 22... Qxe8 { [%eval 0.07] } 23. h3 { [%eval 0.04] } 23... Bh5 { [%eval 0.08] } 24. Qd5+ { [%eval 0.11] } 24... Bf7 { [%eval 0.23] } 25. Qxd6 { [%eval 0.2] } 25... Na5 { [%eval 0.37] } 26. Re1 { [%eval 0.2] } 26... Qb5 { [%eval 0.53] } 27. Bc1 { [%eval 0.1] } 27... Qd5 { [%eval 0.25] } 28. Qxd5 { [%eval 0.0] } 28... Bxd5 { [%eval 0.0] } 29. Rd1 { [%eval 0.07] } 29... Bf7 { [%eval 0.08] } 30. Rd4 { [%eval 0.0] } 30... Nb3 { [%eval 0.0] } 31. Rd1 { [%eval 0.0] } 31... Nxc1 { [%eval 0.12] } 32. Rxc1 { [%eval 0.0] } 32... Rxa3 { [%eval 0.0] } 33. Rc8+ { [%eval 0.0] } 33... Kh7 { [%eval 0.0] } 34. Rc7 { [%eval -0.03] } 34... Bd5 { [%eval 0.0] } 35. Nd4 { [%eval 0.0] } 35... Kg6 { [%eval 0.0] } 36. Rc5 { [%eval -0.07] } 36... Bf7 { [%eval 0.0] } 37. Nc2 { [%eval 0.0] } 37... Ra7 { [%eval 0.0] } 38. g4 { [%eval 0.02] } 38... Re7 { [%eval 0.0] } 39. Kh2 { [%eval 0.0] } 39... Be6 { [%eval 0.0] } 40. Kg3 { [%eval 0.0] } 40... Kf7 { [%eval 0.0] } 41. Ne3 { [%eval 0.0] } 41... g5 { [%eval 0.11] } 42. Nf5 { [%eval 0.0] } 42... Bxf5 { [%eval 0.0] } 43. Rxf5 { [%eval 0.0] } 43... Re5 { [%eval 0.0] } 44. h4 { [%eval -6.48] } 44... Rxf5 { [%eval -6.43] } 45. gxf5 { [%eval -6.46] } 45... h5 { [%eval -5.22] } 46. f3 { [%eval -6.32] } 46... Ke7 { [%eval -8.96] } 47. hxg5 { [%eval -10.2] } 47... fxg5 { [%eval -51.69] } 48. Kh3 { [%eval -22.93] } 48... Kf6 { [%eval -91.65] } 49. f4 { [%eval -16.03] } 49... Kxf5 { [%eval 0.0] } 50. fxg5 { [%eval 0.0] } 50... Kxg5 { [%eval 0.0] } 51. Kg3 { [%eval 0.0] } 51... h4+ { [%eval 0.0] } 52. Kh3 { [%eval 0.0] } 52... Kh5 { [%eval 0.0] } 53. Kh2 { [%eval 0.0] } 53... Kg4 { [%eval 0.0] } 54. Kg2 { [%eval 0.0] } 54... h3+ { [%eval 0.0] } 55. Kh2 { [%eval 0.0] } 55... Kh4 { [%eval 0.0] } 56. Kg1 { [%eval 0.0] } 56... Kg4 { [%eval 0.0] } 57. Kh2 { [%eval 0.0] } 57... Kh4 { [%eval 0.0] } 58. Kg1 { [%eval 0.0] } 58... Kg3 { [%eval 0.0] } 59. Kh1 { [%eval 0.0] } 59... Kf3 { [%eval 0.0] } 60. Kh2 { [%eval 0.0] } 60... Kg4 { [%eval 0.0] } 61. Kh1 { [%eval 0.0] } 61... Kg3 { [%eval 0.0] } 62. Kg1 { [%eval 0.0] } 62... h2+ { [%eval 0.0] } 63. Kh1 { [%eval 0.0] } 63... Kh3 { [%eval 0.0] } 1/2-1/2
+
+
