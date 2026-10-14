@@ -25,6 +25,9 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 1015 | LOSS | Black | AtharvKPrasad (1367) | *pending* |
+| 1014 | LOSS | White | pat-postman (1401) | *pending* |
+| 1013 | WIN | Black | karmapolice44 (1336) | *pending* |
 | 1012 | WIN | White | abdollah1335 (1354) | *pending* |
 | 1011 | WIN | Black | batangmawmaw (1407) | *pending* |
 | 1010 | WIN | White | Yunnika16 (1350) | *pending* |
@@ -222,9 +225,6 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 | 818 | WIN | White | baran0625 (1211) | *pending* |
 | 817 | WIN | White | Malina_Z (1084) | *pending* |
 | 816 | LOSS | White | Gokhan_5335 (1319) | *pending* |
-| 815 | LOSS | Black | ChessDeGN (1214) | *pending* |
-| 814 | WIN | Black | Daxmatt (1198) | *pending* |
-| 813 | LOSS | White | lonnatdhd (1232) | *pending* |
 | 1 | — | — | *profile snapshot* | — |
 
 ---
