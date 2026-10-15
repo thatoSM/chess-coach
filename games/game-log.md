@@ -25,6 +25,15 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 1024 | WIN | White | AlTorS (1243) | *pending* |
+| 1023 | WIN | Black | sirokodaleko (1369) | *pending* |
+| 1022 | LOSS | Black | Kampmarsvin (1316) | *pending* |
+| 1021 | WIN | Black | rolv123 (1248) | *pending* |
+| 1020 | WIN | Black | karlospecht (1428) | *pending* |
+| 1019 | LOSS | White | kubag285 (1332) | *pending* |
+| 1018 | LOSS | White | don_delulu (1320) | *pending* |
+| 1017 | LOSS | Black | wuz4 (1432) | *pending* |
+| 1016 | LOSS | White | HAI52 (1415) | *pending* |
 | 1015 | LOSS | Black | AtharvKPrasad (1367) | *pending* |
 | 1014 | LOSS | White | pat-postman (1401) | *pending* |
 | 1013 | WIN | Black | karmapolice44 (1336) | *pending* |
@@ -216,15 +225,6 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 | 827 | WIN | Black | bigbalabobby (1244) | *pending* |
 | 826 | WIN | White | gayrettinzaman (1077) | *pending* |
 | 825 | WIN | Black | moriiii777 (1158) | *pending* |
-| 824 | WIN | Black | Bomburr (1129) | *pending* |
-| 823 | LOSS | White | foxaslan (1204) | *pending* |
-| 822 | LOSS | White | zc314 (1293) | *pending* |
-| 821 | LOSS | Black | Paarthsr (1198) | *pending* |
-| 820 | WIN | Black | Themasterblastertan (1171) | *pending* |
-| 819 | LOSS | White | IvanNice (1222) | *pending* |
-| 818 | WIN | White | baran0625 (1211) | *pending* |
-| 817 | WIN | White | Malina_Z (1084) | *pending* |
-| 816 | LOSS | White | Gokhan_5335 (1319) | *pending* |
 | 1 | — | — | *profile snapshot* | — |
 
 ---

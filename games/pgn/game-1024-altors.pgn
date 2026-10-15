@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/ttmyClvR"]
+[Date "2026.10.15"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "AlTorS"]
+[Result "1-0"]
+[GameId "ttmyClvR"]
+[UTCDate "2026.10.15"]
+[UTCTime "17:35:44"]
+[WhiteElo "1346"]
+[BlackElo "1243"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-3"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.18] } 1... c6 { [%eval 0.31] } 2. c3 { [%eval 0.3] } 2... d5 { [%eval 0.26] } 3. exd5 { [%eval 0.15] } 3... cxd5 { [%eval 0.13] } 4. d4 { [%eval 0.13] } 4... Nc6 { [%eval 0.17] } 5. Bb5 { [%eval -0.01] } 5... Nf6 { [%eval 0.12] } 6. Nf3 { [%eval 0.02] } 6... Bg4 { [%eval 0.2] } 7. h3 { [%eval 0.19] } 7... Bh5 { [%eval 0.38] } 8. Bg5 { [%eval -0.13] } 8... Ne4 { [%eval -0.11] } 9. Bh4 { [%eval -0.41] } 9... Qc7 { [%eval -0.12] } 10. g4 { [%eval -0.36] } 10... Bg6 { [%eval -0.4] } 11. Ne5 { [%eval -0.66] } 11... O-O-O { [%eval 0.31] } 12. Nd2 { [%eval -1.61] } 12... Ng5 { [%eval 6.56] } 13. Bxg5 { [%eval 0.18] } 13... Nxe5 { [%eval 0.34] } 14. Nf3 { [%eval -5.4] } 14... Nxf3+ { [%eval -5.39] } 15. Qxf3 { [%eval -5.34] } 15... f6 { [%eval -5.29] } 16. Bh4 { [%eval -5.21] } 16... Be4 { [%eval -5.25] } 17. Bg3 { [%eval -7.04] } 17... e5 { [%eval -6.52] } 18. dxe5 { [%eval -9.21] } 1-0
+
+

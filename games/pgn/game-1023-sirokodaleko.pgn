@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/wa7YCxgi"]
+[Date "2026.10.15"]
+[Round "-"]
+[White "sirokodaleko"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "wa7YCxgi"]
+[UTCDate "2026.10.15"]
+[UTCTime "17:18:46"]
+[WhiteElo "1369"]
+[BlackElo "1339"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense: Hillbilly Attack"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... c6 { [%eval 0.31] } 2. Bc4 { [%eval -0.28] } 2... d5 { [%eval -0.2] } 3. exd5 { [%eval -0.29] } 3... cxd5 { [%eval -0.27] } 4. Bb3 { [%eval -0.24] } 4... Nf6 { [%eval -0.23] } 5. d3 { [%eval -0.34] } 5... Nc6 { [%eval -0.44] } 6. Bg5 { [%eval -0.64] } 6... h6 { [%eval -0.51] } 7. Bh4 { [%eval -0.64] } 7... e6 { [%eval -0.43] } 8. Qe2 { [%eval -1.08] } 8... Na5 { [%eval 0.01] } 9. Bxd5 { [%eval -6.15] } 9... Qxd5 { [%eval -6.11] } 10. Bxf6 { [%eval -6.6] } 10... gxf6 { [%eval -6.3] } 11. Nc3 { [%eval -6.85] } 11... Qxg2 { [%eval -6.82] } 12. Qf1 { [%eval -9.14] } 12... Qxh1 { [%eval -8.86] } 13. Nb5 { [%eval -9.86] } 13... Rb8 { [%eval -8.94] } 14. a3 { [%eval -9.47] } 14... Rg8 { [%eval -9.26] } 15. Ne2 { [%eval -9.24] } 15... Qxf1+ { [%eval -8.97] } 16. Kxf1 { [%eval -8.81] } 16... Kd7 { [%eval -8.53] } 17. b4 { [%eval -8.45] } 17... Nc6 { [%eval -8.33] } 18. c4 { [%eval -8.43] } 18... e5 { [%eval -8.56] } 19. Rd1 { [%eval -8.56] } 19... a6 { [%eval -8.5] } 20. Nbc3 { [%eval -8.51] } 20... Nd4 { [%eval -8.49] } 21. Ng3 { [%eval -9.04] } 21... Bd6 { [%eval -8.61] } 22. Nce4 { [%eval -8.91] } 22... Ke6 { [%eval -8.34] } 23. c5 { [%eval -8.48] } 23... Bc7 { [%eval -8.57] } 24. Nh5 { [%eval -9.01] } 24... Rg6 { [%eval -9.11] } 25. f4 { [%eval -9.57] } 25... exf4 { [%eval -8.67] } 26. Re1 { [%eval -8.93] } 26... Kf5 { [%eval -8.61] } 27. Nd6+ { [%eval -9.52] } 27... Bxd6 { [%eval -9.19] } 28. cxd6 { [%eval -9.87] } 28... Kg5 { [%eval -9.71] } 29. Re4 { [%eval -9.9] } 29... Ne6 { [%eval -9.99] } 30. Nxf4 { [%eval -9.49] } 30... Nxf4 { [%eval -9.23] } 31. Re8 { [%eval #-10] } 31... Bh3+ { [%eval #-9] } 32. Ke1 { [%eval #-9] } 32... Rxe8+ { [%eval #-8] } 33. Kd2 { [%eval #-9] } 33... Re2+ { [%eval #-8] } 34. Kc3 { [%eval #-8] } 34... f5 { [%eval #-8] } 35. d7 { [%eval #-7] } 35... Rd6 { [%eval #-6] } 36. d8=Q+ { [%eval #-6] } 36... Rxd8 { [%eval #-5] } 37. d4 { [%eval #-5] } 37... Nd5+ { [%eval #-4] } 38. Kc4 { [%eval #-2] } 38... f4 { [%eval #-4] } 39. Kc5 { [%eval #-1] } 39... Be6 { [%eval #-3] } 40. a4 { [%eval #-1] } 40... b6+ { [%eval #-3] } 41. Kc6 { [%eval #-3] } 41... Rd7 { [%eval #-2] } 42. b5 { [%eval #-1] } 42... Rc2# 0-1
+
+

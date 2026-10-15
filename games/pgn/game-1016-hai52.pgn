@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/Vk1yEVq1"]
+[Date "2026.10.15"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "HAI52"]
+[Result "0-1"]
+[GameId "Vk1yEVq1"]
+[UTCDate "2026.10.15"]
+[UTCTime "03:27:30"]
+[WhiteElo "1355"]
+[BlackElo "1415"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "900+10"]
+[ECO "C42"]
+[Opening "Petrov's Defense: Three Knights Game"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nf6 { [%eval 0.34] } 3. Nc3 { [%eval 0.08] } 3... Bb4 { [%eval 0.35] } 4. a3 { [%eval 0.14] } 4... Bxc3 { [%eval 0.14] } 5. dxc3 { [%eval 0.08] } 5... Nxe4 { [%eval 0.61] } 6. g3 { [%eval -1.07] } 6... d6 { [%eval -1.14] } 7. Bc4 { [%eval -1.65] } 7... Be6 { [%eval -0.87] } 8. Bxe6 { [%eval -0.91] } 8... fxe6 { [%eval -0.83] } 9. Qe2 { [%eval -0.85] } 9... Nf6 { [%eval -1.1] } 10. Qb5+ { [%eval -1.01] } 10... Nc6 { [%eval -0.24] } 11. Qxb7 { [%eval -0.25] } 11... Na5 { [%eval 1.52] } 12. Qb5+ { [%eval 0.01] } 12... c6 { [%eval 0.06] } 13. Qxa5 { [%eval -7.06] } 13... Qxa5 { [%eval -7.15] } 0-1
+
+

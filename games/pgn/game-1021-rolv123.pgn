@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/9vLsm5Vg"]
+[Date "2026.10.15"]
+[Round "-"]
+[White "rolv123"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "9vLsm5Vg"]
+[UTCDate "2026.10.15"]
+[UTCTime "13:50:41"]
+[WhiteElo "1248"]
+[BlackElo "1341"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+4"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "A45"]
+[Opening "Indian Defense: Accelerated London System"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.15] } 1... Nf6 { [%eval 0.15] } 2. Bf4 { [%eval 0.0] } 2... g6 { [%eval 0.06] } 3. Nc3 { [%eval 0.0] } 3... Bg7 { [%eval 0.48] } 4. Nb5 { [%eval -0.57] } 4... Nd5 { [%eval 0.04] } 5. e4 { [%eval -4.14] } 5... Nxf4 { [%eval -3.99] } 6. e5 { [%eval -4.67] } 6... Nd5 { [%eval -4.12] } 7. Bc4 { [%eval -4.15] } 7... c6 { [%eval -4.05] } 8. Nd6+ { [%eval -5.3] } 8... exd6 { [%eval -5.47] } 9. exd6 { [%eval -5.37] } 9... O-O { [%eval -5.26] } 10. Ne2 { [%eval -5.57] } 0-1
+
+
