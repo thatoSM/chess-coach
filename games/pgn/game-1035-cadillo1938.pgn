@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/tuZK9VRF"]
+[Date "2026.10.16"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "cadillo1938"]
+[Result "0-1"]
+[GameId "tuZK9VRF"]
+[UTCDate "2026.10.16"]
+[UTCTime "12:34:04"]
+[WhiteElo "1367"]
+[BlackElo "1372"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "B06"]
+[Opening "Modern Defense"]
+[Termination "Normal"]
+
+1. e4 g6 2. Nf3 Bg7 3. d4 e6 4. Nc3 d6 5. Bd3 Ne7 6. O-O O-O 7. Bg5 Nd7 8. d5 e5 9. Re1 Qe8 10. h3 Nf6 11. a4 h5 12. h4 Nh7 13. Be3 Bg4 14. Kh2 f5 15. exf5 Nxf5 16. Nb5 Qe7 17. b3 Bxf3 18. Qxf3 Qxh4+ 19. Kg1 Nxe3 20. Qxe3 e4 21. Ra2 exd3 22. Qxd3 0-1
+
+

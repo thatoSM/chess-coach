@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/Tc8Z4SZG"]
+[Date "2026.10.16"]
+[Round "-"]
+[White "ZoroHD"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "Tc8Z4SZG"]
+[UTCDate "2026.10.16"]
+[UTCTime "09:46:18"]
+[WhiteElo "1336"]
+[BlackElo "1358"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "900+10"]
+[ECO "B18"]
+[Opening "Caro-Kann Defense: Classical Variation"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bf5 5. Bd3 Qxd4 6. Nf3 Qd8 7. O-O Bxe4 8. Ng5 Bxd3 9. Qf3 f6 10. Ne6 Qd6 11. Re1 Bxc2 12. Bf4 Qd5 13. Nc7+ Kf7 14. Nxd5 cxd5 15. Qxd5+ Ke8 16. Qc5 Bg6 17. Rad1 Nc6 18. Qb5 Rb8 19. Bxb8 1-0
+
+

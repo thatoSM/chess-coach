@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/gi6fA12n"]
+[Date "2026.10.16"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "bhargavseela"]
+[Result "1-0"]
+[GameId "gi6fA12n"]
+[UTCDate "2026.10.16"]
+[UTCTime "12:00:37"]
+[WhiteElo "1367"]
+[BlackElo "1342"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-15"]
+[Variant "Standard"]
+[TimeControl "900+10"]
+[ECO "C44"]
+[Opening "Scotch Game: Scotch Gambit, Advance Variation"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. d4 { [%eval 0.07] } 3... exd4 { [%eval 0.04] } 4. Bc4 { [%eval 0.0] } 4... Nf6 { [%eval 0.0] } 5. e5 { [%eval 0.0] } 5... d6 { [%eval 3.3] } 6. exf6 { [%eval 3.26] } 1-0
+
+

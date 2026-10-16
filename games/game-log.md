@@ -25,6 +25,21 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 1039 | LOSS | White | Trikon (1411) | *pending* |
+| 1038 | WIN | White | BVKnights11 (1367) | *pending* |
+| 1037 | DRAW | Black | QueenKnights (1372) | *pending* |
+| 1036 | WIN | Black | WBDWBD (1378) | *pending* |
+| 1035 | LOSS | White | cadillo1938 (1372) | *pending* |
+| 1034 | LOSS | White | Tanav_ppca (1450) | *pending* |
+| 1033 | WIN | White | bhargavseela (1342) | *pending* |
+| 1032 | WIN | Black | tiruchirajan77 (1411) | *pending* |
+| 1031 | LOSS | Black | vanshking01 (1388) | *pending* |
+| 1030 | WIN | White | garriballd (1373) | *pending* |
+| 1029 | WIN | White | Toren54 (1417) | *pending* |
+| 1028 | LOSS | Black | ZoroHD (1336) | *pending* |
+| 1027 | WIN | White | rafamg68 (1356) | *pending* |
+| 1026 | LOSS | White | mypoint (1467) | *pending* |
+| 1025 | WIN | Black | old6500 (1371) | *pending* |
 | 1024 | WIN | White | AlTorS (1243) | *pending* |
 | 1023 | WIN | Black | sirokodaleko (1369) | *pending* |
 | 1022 | LOSS | Black | Kampmarsvin (1316) | *pending* |
@@ -210,21 +225,6 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 | 842 | WIN | White | DanielGodfrey (1277) | *pending* |
 | 841 | WIN | Black | MarcTou (1182) | *pending* |
 | 840 | WIN | White | fedyok_98 (1169) | *pending* |
-| 839 | LOSS | Black | safranecko (1219) | *pending* |
-| 838 | LOSS | White | ZamirSm (1134) | *pending* |
-| 837 | LOSS | Black | ZamirSm (1127) | *pending* |
-| 836 | WIN | White | ZamirSm (1132) | *pending* |
-| 835 | LOSS | White | prathit21 (1254) | *pending* |
-| 834 | LOSS | Black | maybe777 (1229) | *pending* |
-| 833 | WIN | White | IKseniaI (1205) | *pending* |
-| 832 | LOSS | White | Ismecar (1190) | *pending* |
-| 831 | DRAW | Black | Sonokyoung (1177) | *pending* |
-| 830 | DRAW | Black | undeepblue (1191) | *pending* |
-| 829 | LOSS | Black | backwords (1265) | *pending* |
-| 828 | WIN | White | Rajithcy (1185) | *pending* |
-| 827 | WIN | Black | bigbalabobby (1244) | *pending* |
-| 826 | WIN | White | gayrettinzaman (1077) | *pending* |
-| 825 | WIN | Black | moriiii777 (1158) | *pending* |
 | 1 | — | — | *profile snapshot* | — |
 
 ---

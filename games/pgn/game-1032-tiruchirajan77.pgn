@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/s22T0zdM"]
+[Date "2026.10.16"]
+[Round "-"]
+[White "tiruchirajan77"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "s22T0zdM"]
+[UTCDate "2026.10.16"]
+[UTCTime "10:30:28"]
+[WhiteElo "1411"]
+[BlackElo "1360"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Short Variation"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.18] } 1... c6 { [%eval 0.31] } 2. Nf3 { [%eval 0.17] } 2... d5 { [%eval 0.21] } 3. e5 { [%eval 0.12] } 3... Bf5 { [%eval 0.4] } 4. d4 { [%eval 0.15] } 4... e6 { [%eval 0.24] } 5. Bd3 { [%eval 0.0] } 5... Bxd3 { [%eval 0.0] } 6. Qxd3 { [%eval 0.03] } 6... c5 { [%eval 0.0] } 7. c3 { [%eval 0.0] } 7... cxd4 { [%eval 0.43] } 8. cxd4 { [%eval 0.36] } 8... Nc6 { [%eval 0.38] } 9. Bd2 { [%eval 0.23] } 9... Nge7 { [%eval 0.23] } 10. Nc3 { [%eval 0.21] } 10... Nf5 { [%eval 0.24] } 11. O-O { [%eval 0.31] } 11... Be7 { [%eval 0.57] } 12. h3 { [%eval 0.11] } 12... O-O { [%eval 0.17] } 13. Nh2 { [%eval -2.17] } 13... Qb6 { [%eval -0.2] } 14. g4 { [%eval -2.85] } 14... Nfxd4 { [%eval -2.56] } 15. Be3 { [%eval -2.89] } 15... Rab8 { [%eval 1.2] } 16. Nf3 { [%eval -7.97] } 16... Nxf3+ { [%eval -8.17] } 17. Kh1 { [%eval -8.16] } 17... Nfxe5 { [%eval -7.55] } 18. Qe2 { [%eval -7.62] } 18... Qd8 { [%eval -6.71] } 19. Bf4 { [%eval -7.19] } 19... Bd6 { [%eval -6.97] } 20. Bxe5 { [%eval -7.17] } 20... Bxe5 { [%eval -7.04] } 21. f4 { [%eval -6.97] } 21... Bxc3 { [%eval -6.79] } 22. bxc3 { [%eval -6.86] } 22... Qa5 { [%eval -6.95] } 23. Qe1 { [%eval -6.89] } 23... b5 { [%eval -6.23] } 24. a3 { [%eval -6.75] } 24... Rfe8 { [%eval -6.68] } 25. g5 { [%eval -7.69] } 25... Qc7 { [%eval -7.36] } 26. h4 { [%eval -7.3] } 26... e5 { [%eval -6.87] } 27. f5 { [%eval -6.61] } 27... Qd7 { [%eval -6.61] } 28. h5 { [%eval -6.5] } 28... g6 { [%eval -6.24] } 29. hxg6 { [%eval -6.48] } 29... fxg6 { [%eval -6.71] } 30. Qf2 { [%eval -6.61] } 30... Rf8 { [%eval -6.53] } 31. f6 { [%eval -6.65] } 31... Qh3+ { [%eval -6.4] } 32. Qh2 { [%eval -6.23] } 32... Qxh2+ { [%eval -6.35] } 33. Kxh2 { [%eval -6.16] } 33... e4 { [%eval -6.19] } 34. Kg2 { [%eval -6.2] } 34... Ne5 { [%eval -6.61] } 35. Rh1 { [%eval -6.78] } 35... a5 { [%eval -6.29] } 36. Rh3 { [%eval -6.99] } 36... b4 { [%eval -6.51] } 0-1
+
+

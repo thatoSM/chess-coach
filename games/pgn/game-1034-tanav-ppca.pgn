@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/mAFmY8PP"]
+[Date "2026.10.16"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "Tanav_ppca"]
+[Result "0-1"]
+[GameId "mAFmY8PP"]
+[UTCDate "2026.10.16"]
+[UTCTime "12:11:59"]
+[WhiteElo "1372"]
+[BlackElo "1450"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "900+10"]
+[ECO "C56"]
+[Opening "Italian Game: Scotch Gambit, Max Lange Attack"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. d4 { [%eval 0.07] } 3... exd4 { [%eval 0.04] } 4. Bc4 { [%eval 0.0] } 4... Nf6 { [%eval 0.0] } 5. e5 { [%eval 0.0] } 5... d5 { [%eval 0.0] } 6. Bb5 { [%eval 0.0] } 6... Ne4 { [%eval 0.0] } 7. Nxd4 { [%eval 0.0] } 7... Bd7 { [%eval 0.0] } 8. Bxc6 { [%eval 0.05] } 8... bxc6 { [%eval 0.15] } 9. f3 { [%eval -6.73] } 9... Ng5 { [%eval 0.03] } 10. Nc3 { [%eval -0.13] } 10... c5 { [%eval 0.02] } 11. Nb3 { [%eval -0.31] } 11... d4 { [%eval -0.32] } 12. Ne2 { [%eval -0.34] } 12... f6 { [%eval 0.25] } 13. exf6 { [%eval -0.37] } 13... Qxf6 { [%eval -0.24] } 14. O-O { [%eval -0.3] } 14... Bd6 { [%eval -0.51] } 15. Qd3 { [%eval -1.0] } 15... Bf5 { [%eval -0.36] } 16. Qb5+ { [%eval -0.38] } 16... Bd7 { [%eval -0.45] } 17. Qd3 { [%eval -1.09] } 17... O-O { [%eval -1.06] } 18. Ng3 { [%eval -0.98] } 18... Be6 { [%eval -0.31] } 19. Bd2 { [%eval -2.04] } 19... c4 { [%eval -2.12] } 20. Bxg5 { [%eval -2.41] } 20... Qxg5 { [%eval -2.35] } 21. Qe4 { [%eval -5.66] } 21... Bd5 { [%eval -5.47] } 22. Qxd4 { [%eval -5.21] } 22... cxb3 { [%eval -5.38] } 23. axb3 { [%eval -4.99] } 23... Bxb3 { [%eval -1.75] } 24. cxb3 { [%eval -6.55] } 24... Bc5 { [%eval -6.62] } 25. Ra5 { [%eval -16.3] } 25... Bxd4+ { [%eval -17.05] } 0-1
+
+
