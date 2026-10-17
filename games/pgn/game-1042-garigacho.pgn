@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/BMEcvkeT"]
+[Date "2026.10.17"]
+[Round "-"]
+[White "Garigacho"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "BMEcvkeT"]
+[UTCDate "2026.10.17"]
+[UTCTime "07:27:53"]
+[WhiteElo "1417"]
+[BlackElo "1367"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Short Variation"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... c6 { [%eval 0.31] } 2. d4 { [%eval 0.24] } 2... d5 { [%eval 0.24] } 3. e5 { [%eval 0.33] } 3... Bf5 { [%eval 0.22] } 4. Nf3 { [%eval 0.15] } 4... e6 { [%eval 0.24] } 5. Nc3 { [%eval 0.2] } 5... c5 { [%eval 0.17] } 6. Bb5+ { [%eval 0.0] } 6... Nc6 { [%eval 0.21] } 7. Ba4 { [%eval -0.23] } 7... a6 { [%eval -0.06] } 8. a3 { [%eval -2.27] } 8... b5 { [%eval -2.07] } 9. Bb3 { [%eval -1.9] } 9... a5 { [%eval -0.49] } 10. a4 { [%eval -1.39] } 10... b4 { [%eval -1.29] } 11. Nb5 { [%eval -1.25] } 11... Na7 { [%eval 0.74] } 12. Bg5 { [%eval -0.11] } 12... Be7 { [%eval 4.69] } 13. Bxe7 { [%eval 3.2] } 13... Qxe7 { [%eval 5.13] } 14. Nd6+ { [%eval 5.19] } 14... Kf8 { [%eval 4.97] } 15. dxc5 { [%eval 4.69] } 15... Nc8 { [%eval 8.17] } 16. O-O { [%eval 5.96] } 16... Nxd6 { [%eval 6.28] } 17. cxd6 { [%eval 6.19] } 17... Qa7 { [%eval 6.8] } 18. c4 { [%eval 6.93] } 18... dxc4 { [%eval 7.39] } 19. Bxc4 { [%eval 7.38] } 19... f6 { [%eval 8.36] } 20. exf6 { [%eval 7.97] } 20... Nxf6 { [%eval 8.03] } 21. Ng5 { [%eval 7.68] } 21... Qd7 { [%eval 9.26] } 22. Re1 { [%eval 9.14] } 22... e5 { [%eval 9.72] } 23. Rxe5 { [%eval 9.58] } 23... Bg6 { [%eval 11.45] } 24. Ne6+ { [%eval 11.04] } 24... Ke8 { [%eval 16.54] } 25. Nc5+ { [%eval 15.5] } 1-0
+
+

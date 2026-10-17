@@ -25,6 +25,25 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 1058 | LOSS | White | Nasser_Augusto (1250) | *pending* |
+| 1057 | DRAW | Black | Tiberius-Rancor (1297) | *pending* |
+| 1056 | DRAW | White | Chess_Master321123gg (1314) | *pending* |
+| 1055 | LOSS | Black | Reyansh_2016 (1341) | *pending* |
+| 1054 | LOSS | Black | Observant50 (1440) | *pending* |
+| 1053 | LOSS | Black | laknat85 (1313) | *pending* |
+| 1052 | LOSS | White | revanshihatkar7890 (1224) | *pending* |
+| 1051 | LOSS | White | Watercake (1340) | *pending* |
+| 1050 | LOSS | White | liumiaolin1 (1245) | *pending* |
+| 1049 | WIN | White | AadyaLandge123 (1298) | *pending* |
+| 1048 | LOSS | Black | tallliiingg (1395) | *pending* |
+| 1047 | WIN | Black | baudie (1394) | *pending* |
+| 1046 | LOSS | White | Popova_Valeria (1317) | *pending* |
+| 1045 | LOSS | White | garriballd (1378) | *pending* |
+| 1044 | LOSS | Black | Romashka2020 (1383) | *pending* |
+| 1043 | LOSS | Black | yurish1964 (1298) | *pending* |
+| 1042 | LOSS | Black | Garigacho (1417) | *pending* |
+| 1041 | WIN | Black | Satianadewa (1316) | *pending* |
+| 1040 | LOSS | White | Jamren_18 (1322) | *pending* |
 | 1039 | LOSS | White | Trikon (1411) | *pending* |
 | 1038 | WIN | White | BVKnights11 (1367) | *pending* |
 | 1037 | DRAW | Black | QueenKnights (1372) | *pending* |
@@ -206,25 +225,6 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 | 861 | WIN | White | Axel-Champion (1175) | *pending* |
 | 860 | LOSS | Black | komet44 (1193) | *pending* |
 | 859 | WIN | Black | MaryamRebai (1196) | *pending* |
-| 858 | LOSS | Black | lukamudishef (1203) | *pending* |
-| 857 | DRAW | White | Bonanzalopez (1160) | *pending* |
-| 856 | WIN | White | koushikatota (1154) | *pending* |
-| 855 | DRAW | Black | Ezequ (1250) | *pending* |
-| 854 | WIN | White | Behzadimohamad (1241) | *pending* |
-| 853 | WIN | White | Hasanga2017 (1100) | *pending* |
-| 852 | LOSS | Black | Caposlowski (1100) | *pending* |
-| 851 | LOSS | White | MarcelDk (1218) | *pending* |
-| 850 | WIN | Black | vasquito_1992 (1171) | *pending* |
-| 849 | WIN | White | SacrificeMenace (1231) | *pending* |
-| 848 | WIN | Black | supriya222 (1161) | *pending* |
-| 847 | LOSS | Black | Viktor5577 (1206) | *pending* |
-| 846 | WIN | White | Anton8398 (1303) | *pending* |
-| 845 | LOSS | White | tbdee (1282) | *pending* |
-| 844 | LOSS | Black | shuksj (1154) | *pending* |
-| 843 | LOSS | Black | jazzsader (1220) | *pending* |
-| 842 | WIN | White | DanielGodfrey (1277) | *pending* |
-| 841 | WIN | Black | MarcTou (1182) | *pending* |
-| 840 | WIN | White | fedyok_98 (1169) | *pending* |
 | 1 | — | — | *profile snapshot* | — |
 
 ---

@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/001KlvEr"]
+[Date "2026.10.17"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "revanshihatkar7890"]
+[Result "0-1"]
+[GameId "001KlvEr"]
+[UTCDate "2026.10.17"]
+[UTCTime "11:26:40"]
+[WhiteElo "1333"]
+[BlackElo "1224"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[Variant "Standard"]
+[TimeControl "900+10"]
+[ECO "B07"]
+[Opening "Modern Defense: Geller's System"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... d6 { [%eval 0.43] } 2. d4 { [%eval 0.51] } 2... g6 { [%eval 0.52] } 3. c3 { [%eval 0.36] } 3... Bg7 { [%eval 0.39] } 4. Nf3 { [%eval 0.39] } 4... Nf6 { [%eval 0.41] } 5. Bd3 { [%eval 0.41] } 5... O-O { [%eval 0.39] } 6. O-O { [%eval 0.45] } 6... Bg4 { [%eval 0.62] } 7. Re1 { [%eval 0.45] } 7... a5 { [%eval 0.72] } 8. a4 { [%eval 0.55] } 8... Na6 { [%eval 0.89] } 9. h3 { [%eval 1.03] } 9... Bxf3 { [%eval 0.91] } 10. Qxf3 { [%eval 0.9] } 10... Qd7 { [%eval 1.36] } 11. Bd2 { [%eval 0.95] } 11... Rfd8 { [%eval 1.43] } 12. c4 { [%eval 0.21] } 12... Nb4 { [%eval 0.23] } 13. Bxb4 { [%eval -0.8] } 13... axb4 { [%eval -0.81] } 14. b3 { [%eval -1.99] } 14... Ne8 { [%eval -1.81] } 15. Nd2 { [%eval -2.69] } 15... Bxd4 { [%eval -2.66] } 16. e5 { [%eval -4.2] } 16... Bxa1 { [%eval -4.27] } 17. Rxa1 { [%eval -6.9] } 17... dxe5 { [%eval -6.59] } 18. c5 { [%eval -7.95] } 18... Qxd3 { [%eval -8.2] } 19. Qxd3 { [%eval -8.46] } 19... Rxd3 { [%eval -8.42] } 0-1
+
+

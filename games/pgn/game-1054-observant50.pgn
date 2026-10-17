@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/VNo4ewZO"]
+[Date "2026.10.17"]
+[Round "-"]
+[White "Observant50"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "VNo4ewZO"]
+[UTCDate "2026.10.17"]
+[UTCTime "12:56:47"]
+[WhiteElo "1440"]
+[BlackElo "1320"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Short Variation"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Bg5 Be7 6. Bf4 c5 7. Nc3 Nc6 8. Bb5 a6 9. Bxc6+ bxc6 10. a3 cxd4 11. Nxd4 Bc5 12. Nxc6 Qb6 13. Nb4 Bxb4 14. axb4 Qxb4 15. Rb1 Ne7 16. O-O Ng6 17. Bg3 O-O 18. Na2 Qc5 19. b4 Qc4 20. Ra1 Qxc2 21. Qxc2 Bxc2 22. Rac1 Rfc8 23. Rfe1 Bb3 24. Ra1 Rab8 25. Reb1 Bc2 26. Rb2 Rb6 27. Rc1 Rbc6 28. f3 Bd3 29. Rd1 Bb5 30. Rdd2 Ba4 31. Re2 Rc2 32. Rbxc2 Rxc2 33. Rxc2 Bxc2 34. Nc3 Kf8 35. b5 axb5 36. Nxb5 Ke7 37. Nd6 f5 38. f4 Nf8 39. Nb5 Kd7 40. Nd4 Kc7 41. Nxc2 1-0
+
+

@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/Z48bJYqw"]
+[Date "2026.10.17"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "Watercake"]
+[Result "0-1"]
+[GameId "Z48bJYqw"]
+[UTCDate "2026.10.17"]
+[UTCTime "11:17:20"]
+[WhiteElo "1339"]
+[BlackElo "1340"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+22"]
+[Variant "Standard"]
+[TimeControl "900+10"]
+[ECO "C44"]
+[Opening "Scotch Game: Scotch Gambit, Sarratt Variation"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. d4 { [%eval 0.07] } 3... exd4 { [%eval 0.04] } 4. Bc4 { [%eval 0.0] } 4... Bc5 { [%eval 0.2] } 5. Ng5 { [%eval 0.0] } 5... Nh6 { [%eval 0.0] } 6. Bxf7+ { [%eval 0.0] } 6... Nxf7 { [%eval 0.0] } 7. Nxf7 { [%eval 0.0] } 7... Kxf7 { [%eval 0.0] } 8. Qh5+ { [%eval 0.04] } 8... Kg8 { [%eval 0.25] } 9. Qxc5 { [%eval 0.2] } 9... h6 { [%eval 0.27] } 10. Qc4+ { [%eval -0.47] } 10... Kh7 { [%eval -0.16] } 11. O-O { [%eval -0.28] } 11... Qf6 { [%eval -0.12] } 12. c3 { [%eval -0.15] } 12... dxc3 { [%eval 0.86] } 13. Nxc3 { [%eval 0.71] } 13... d6 { [%eval 0.96] } 14. Qd3 { [%eval 0.5] } 14... Qg6 { [%eval 1.69] } 15. Re1 { [%eval 0.38] } 15... Re8 { [%eval 0.98] } 16. b3 { [%eval 0.01] } 16... Ne5 { [%eval 0.53] } 17. Qd4 { [%eval -9.43] } 17... Nf3+ { [%eval -9.04] } 0-1
+
+

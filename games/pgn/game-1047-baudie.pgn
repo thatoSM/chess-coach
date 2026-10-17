@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/wUXpe9Oy"]
+[Date "2026.10.17"]
+[Round "-"]
+[White "baudie"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "wUXpe9Oy"]
+[UTCDate "2026.10.17"]
+[UTCTime "10:26:57"]
+[WhiteElo "1394"]
+[BlackElo "1339"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "900+10"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... c6 { [%eval 0.31] } 2. Nf3 { [%eval 0.17] } 2... d5 { [%eval 0.21] } 3. exd5 { [%eval 0.14] } 3... cxd5 { [%eval 0.07] } 4. d4 { [%eval 0.0] } 4... Nf6 { [%eval 0.15] } 5. c4 { [%eval 0.0] } 5... Bg4 { [%eval 0.14] } 6. Be2 { [%eval 0.03] } 6... e6 { [%eval 0.0] } 7. cxd5 { [%eval -0.11] } 7... exd5 { [%eval 0.34] } 8. O-O { [%eval 0.42] } 8... Be7 { [%eval 0.46] } 9. h3 { [%eval 0.41] } 9... Bh5 { [%eval 1.04] } 10. Nc3 { [%eval 0.59] } 10... O-O { [%eval 0.76] } 11. Re1 { [%eval 0.33] } 11... Nc6 { [%eval 0.37] } 12. Nh4 { [%eval 0.07] } 12... Bxe2 { [%eval 0.2] } 13. Qxe2 { [%eval -0.2] } 13... Re8 { [%eval -0.09] } 14. Qf3 { [%eval -1.13] } 14... h6 { [%eval 0.43] } 15. Nf5 { [%eval 0.45] } 15... Bb4 { [%eval 2.37] } 16. Bd2 { [%eval 0.81] } 16... Rxe1+ { [%eval 0.9] } 17. Rxe1 { [%eval 0.79] } 17... Qb6 { [%eval 3.28] } 18. Na4 { [%eval 1.36] } 18... Qa5 { [%eval 1.44] } 19. Bxb4 { [%eval -0.12] } 19... Qxb4 { [%eval -0.12] } 20. Nc5 { [%eval -5.71] } 20... Qxe1+ { [%eval -5.58] } 21. Kh2 { [%eval -5.48] } 0-1
+
+

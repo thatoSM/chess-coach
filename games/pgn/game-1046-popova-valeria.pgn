@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/Aw2XwyGt"]
+[Date "2026.10.17"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "Popova_Valeria"]
+[Result "0-1"]
+[GameId "Aw2XwyGt"]
+[UTCDate "2026.10.17"]
+[UTCTime "09:39:23"]
+[WhiteElo "1345"]
+[BlackElo "1317"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C01"]
+[Opening "French Defense: Exchange Variation"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nf3 d5 3. exd5 exd5 4. d4 Nf6 5. Bb5+ c6 6. Ba4 Bd6 7. Nc3 Bg4 8. h3 Bh5 9. O-O O-O 10. Re1 Nbd7 11. Bg5 Nb6 12. Bb3 Rc8 13. a3 Re8 14. Rxe8+ Qxe8 15. Bxf6 gxf6 16. Qd2 Bxf3 17. gxf3 Qd7 18. Kg2 f5 19. Qg5+ Kh8 20. Ne2 Rf8 21. f4 Rg8 0-1
+
+
