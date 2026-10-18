@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/wsl6mJGC"]
+[Date "2026.10.18"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "sebaspro14"]
+[Result "0-1"]
+[GameId "wsl6mJGC"]
+[UTCDate "2026.10.18"]
+[UTCTime "07:10:43"]
+[WhiteElo "1309"]
+[BlackElo "1298"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C41"]
+[Opening "Philidor Defense: Morphy Gambit"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Bc4 h6 5. O-O Nc6 6. Nxd4 Nxd4 7. Qxd4 Qf6 8. Qc3 Qxc3 9. Nxc3 Nf6 10. Re1 Be6 11. Bxe6 fxe6 12. e5 dxe5 13. Rxe5 Rd8 14. Rxe6+ Kf7 15. Re1 Bb4 16. Bf4 Bxc3 17. bxc3 c6 18. g3 g5 19. Be5 Rd2 20. Rac1 Re8 21. Bxf6 Rxe1+ 22. Rxe1 Kxf6 23. Rc1 b5 24. Kf1 a5 25. Ke1 Rd6 26. Ke2 Re6+ 27. Kd3 Rd6+ 28. Ke4 c5 29. f4 gxf4 30. Kxf4 Rd3 31. Ke4 Rxc3 32. Kd5 Kg5 33. Rb1 b4 34. Rb3 Rxc2 35. Kc6 Rxh2 36. Kb5 Rxa2 37. Kxc5 Kg4 38. Kc4 h5 39. Rd3 Rb2 40. Kb5 Ra2 41. Kc4 Kh3 42. Kb3 Ra3+ 43. Kc4 Rxd3 44. Kxd3 Kxg3 45. Kc2 h4 46. Kb3 h3 47. Ka4 h2 48. Kxa5 h1=Q 49. Kxb4 Qc1 50. Kb3 Kf3 51. Kb4 Ke3 52. Kb3 Kd3 53. Kb4 Qc2 54. Kb5 Qc3 55. Kb6 Qc4 56. Kb7 Qc5 57. Kb8 Qc6 58. Ka7 Qb5 59. Ka8 Kd4 60. Ka7 Kc5 61. Ka8 Kc6 62. Ka7 Qb7# 0-1
+
+

@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/4vqwykSG"]
+[Date "2026.10.17"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "He3am_h"]
+[Result "0-1"]
+[GameId "4vqwykSG"]
+[UTCDate "2026.10.17"]
+[UTCTime "20:10:15"]
+[WhiteElo "1310"]
+[BlackElo "1223"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+11"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C44"]
+[Opening "Scotch Game: Scotch Gambit, Advance Variation"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. e5 Qe7 6. Bf4 Qb4+ 7. Nfd2 Ne4 8. O-O Nxd2 9. Nxd2 Be7 10. a3 Qxb2 11. Nb3 Bxa3 12. Qd3 Bb4 13. Qf5 O-O 14. Bd3 g6 15. Qf6 Re8 16. Bh6 Bf8 17. Bd2 Bg7 18. Qf4 Bxe5 19. Qf3 Nb4 20. Rfb1 Nxd3 21. Rxb2 Nxb2 22. Re1 Nc4 23. Kf1 Nxd2+ 24. Nxd2 d6 25. c3 dxc3 26. Nb3 Be6 27. Rxe5 dxe5 28. Qxc3 a5 29. Nc5 Bd5 30. Nd7 Kg7 31. Nxe5 Kf8 32. Nc4 a4 33. Qb4+ Kg8 34. f3 Bxc4+ 35. Qxc4 a3 36. Kg1 a2 37. Qxc7 a1=Q+ 38. Kf2 Qd4+ 39. Kg3 Qe5+ 40. Qxe5 Rxe5 41. Kf2 Ra2+ 42. Kg3 Ra4 43. Kf2 Rg5 44. g4 Rf4 45. Kg3 Ra4 46. h3 h5 47. Kh4 f6 48. Kg3 hxg4 49. hxg4 f5 50. Kh4 fxg4 51. Kxg5 gxf3 52. Kxg6 f2 53. Kf6 f1=Q+ 54. Ke6 b5 55. Kd5 b4 56. Kd6 Qf5 57. Kc6 Kh7 58. Kd6 Ra6+ 59. Ke7 Qg6 60. Kd7 Kh6 61. Kc7 Qg7+ 62. Kb8 Rf6 63. Ka8 Rf8# 0-1
+
+

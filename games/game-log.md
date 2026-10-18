@@ -25,6 +25,18 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 1070 | WIN | Black | JackMakita (1307) | *pending* |
+| 1069 | WIN | Black | tomchzz (1357) | *pending* |
+| 1068 | WIN | White | Ssssimo (1302) | *pending* |
+| 1067 | WIN | Black | cloggedcigar (1251) | *pending* |
+| 1066 | WIN | Black | MaxRex62 (1368) | *pending* |
+| 1065 | WIN | White | Alex182017 (1285) | *pending* |
+| 1064 | LOSS | Black | dorukerkan (1284) | *pending* |
+| 1063 | LOSS | White | Mfaul27 (1346) | *pending* |
+| 1062 | LOSS | White | sebaspro14 (1298) | *pending* |
+| 1061 | WIN | Black | Ranindu_Sadeep (1321) | *pending* |
+| 1060 | LOSS | White | He3am_h (1223) | *pending* |
+| 1059 | WIN | Black | FBARALLOBRE (1309) | *pending* |
 | 1058 | LOSS | White | Nasser_Augusto (1250) | *pending* |
 | 1057 | DRAW | Black | Tiberius-Rancor (1297) | *pending* |
 | 1056 | DRAW | White | Chess_Master321123gg (1314) | *pending* |
@@ -213,18 +225,6 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 | 873 | WIN | White | Saish_Raut (1229) | *pending* |
 | 872 | LOSS | White | Kozerog1981 (1213) | *pending* |
 | 871 | WIN | Black | masterluukx (1249) | *pending* |
-| 870 | WIN | Black | lhommearaignee (1184) | *pending* |
-| 869 | DRAW | White | josep_llado (1307) | *pending* |
-| 868 | LOSS | Black | eanaasss (1186) | *pending* |
-| 867 | WIN | White | Lestr2000 (1199) | *pending* |
-| 866 | LOSS | White | AndrzejoStar (1149) | *pending* |
-| 865 | LOSS | Black | olegnos (1262) | *pending* |
-| 864 | LOSS | Black | dipblu23 (1210) | *pending* |
-| 863 | WIN | White | technotechno (1225) | *pending* |
-| 862 | WIN | Black | ljckevin (1152) | *pending* |
-| 861 | WIN | White | Axel-Champion (1175) | *pending* |
-| 860 | LOSS | Black | komet44 (1193) | *pending* |
-| 859 | WIN | Black | MaryamRebai (1196) | *pending* |
 | 1 | — | — | *profile snapshot* | — |
 
 ---
