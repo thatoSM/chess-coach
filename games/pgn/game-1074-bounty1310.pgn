@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/Ny8r7Nhz"]
+[Date "2026.10.19"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "bounty1310"]
+[Result "0-1"]
+[GameId "Ny8r7Nhz"]
+[UTCDate "2026.10.19"]
+[UTCTime "13:01:47"]
+[WhiteElo "1323"]
+[BlackElo "1210"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+33"]
+[Variant "Standard"]
+[TimeControl "900+10"]
+[ECO "B22"]
+[Opening "Sicilian Defense: Alapin Variation"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... c5 { [%eval 0.32] } 2. c3 { [%eval 0.0] } 2... Nc6 { [%eval 0.2] } 3. d4 { [%eval 0.13] } 3... e5 { [%eval 1.35] } 4. d5 { [%eval 1.41] } 4... Nce7 { [%eval 1.42] } 5. c4 { [%eval 0.78] } 5... d6 { [%eval 0.95] } 6. Nc3 { [%eval 0.85] } 6... Nf6 { [%eval 1.07] } 7. Nf3 { [%eval 1.09] } 7... h6 { [%eval 0.92] } 8. Be2 { [%eval 1.31] } 8... g5 { [%eval 1.54] } 9. h3 { [%eval 1.44] } 9... Bg7 { [%eval 1.64] } 10. Qa4+ { [%eval 1.29] } 10... Bd7 { [%eval 1.19] } 11. Qb3 { [%eval 0.8] } 11... b6 { [%eval 1.01] } 12. a4 { [%eval 0.92] } 12... a5 { [%eval 1.33] } 13. Nb5 { [%eval 1.02] } 13... O-O { [%eval 0.94] } 14. Nxd6 { [%eval -0.85] } 14... Qc7 { [%eval -0.58] } 15. Nb5 { [%eval -0.69] } 15... Bxb5 { [%eval -0.73] } 16. axb5 { [%eval -0.77] } 16... Nxe4 { [%eval -0.6] } 17. Qe3 { [%eval -2.92] } 17... Nd6 { [%eval -2.85] } 18. b3 { [%eval -6.9] } 18... e4 { [%eval -5.65] } 19. Nd2 { [%eval -8.03] } 19... Bd4 { [%eval -6.52] } 20. Qg3 { [%eval -7.07] } 20... Bxa1 { [%eval -6.87] } 21. h4 { [%eval -6.86] } 21... f5 { [%eval -6.48] } 22. hxg5 { [%eval -6.53] } 22... hxg5 { [%eval 0.0] } 23. Qe5 { [%eval -10.59] } 23... Bxe5 { [%eval -10.61] } 0-1
+
+

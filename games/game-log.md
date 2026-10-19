@@ -25,6 +25,11 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 1075 | LOSS | Black | Alec23 (1329) | *pending* |
+| 1074 | LOSS | White | bounty1310 (1210) | *pending* |
+| 1073 | WIN | Black | shourypadaval (1306) | *pending* |
+| 1072 | LOSS | White | thereal_madmax (1328) | *pending* |
+| 1071 | LOSS | White | amin5253 (1448) | *pending* |
 | 1070 | WIN | Black | JackMakita (1307) | *pending* |
 | 1069 | WIN | Black | tomchzz (1357) | *pending* |
 | 1068 | WIN | White | Ssssimo (1302) | *pending* |
@@ -220,11 +225,6 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 | 878 | WIN | White | txusti (1280) | *pending* |
 | 877 | WIN | White | Liaj69 (1250) | *pending* |
 | 876 | WIN | Black | Jyotikri (1218) | *pending* |
-| 875 | LOSS | Black | TomLinS (1198) | *pending* |
-| 874 | DRAW | White | greyccloud (1225) | *pending* |
-| 873 | WIN | White | Saish_Raut (1229) | *pending* |
-| 872 | LOSS | White | Kozerog1981 (1213) | *pending* |
-| 871 | WIN | Black | masterluukx (1249) | *pending* |
 | 1 | — | — | *profile snapshot* | — |
 
 ---
