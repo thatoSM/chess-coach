@@ -25,6 +25,16 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 1085 | WIN | Black | JOR480 (1357) | *pending* |
+| 1084 | LOSS | White | muhammedrafi (1411) | *pending* |
+| 1083 | WIN | White | Faulerfisch (1320) | *pending* |
+| 1082 | WIN | Black | Cherdack (1295) | *pending* |
+| 1081 | LOSS | Black | Saptarshi2019 (1355) | *pending* |
+| 1080 | WIN | White | HSV4thewin (1336) | *pending* |
+| 1079 | LOSS | White | auliacute (1347) | *pending* |
+| 1078 | WIN | Black | MRShakki521 (1346) | *pending* |
+| 1077 | LOSS | White | vahidtajnia (1374) | *pending* |
+| 1076 | WIN | Black | Foxrotty (1328) | *pending* |
 | 1075 | LOSS | Black | Alec23 (1329) | *pending* |
 | 1074 | LOSS | White | bounty1310 (1210) | *pending* |
 | 1073 | WIN | Black | shourypadaval (1306) | *pending* |
@@ -215,16 +225,6 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 | 888 | DRAW | White | Yabott (1317) | *pending* |
 | 887 | LOSS | Black | Spartano91075 (1203) | *pending* |
 | 886 | WIN | Black | Rolf-Kilian (1166) | *pending* |
-| 885 | WIN | White | AmosGael (1118) | *pending* |
-| 884 | LOSS | Black | InvictusNavarchus (1243) | *pending* |
-| 883 | WIN | White | Warnal_the_Narwhal (1303) | *pending* |
-| 882 | WIN | Black | LuzieNikolaus (1179) | *pending* |
-| 881 | LOSS | White | YuriyBelousov (1231) | *pending* |
-| 880 | WIN | Black | myersb99 (1323) | *pending* |
-| 879 | LOSS | Black | txusti (1272) | *pending* |
-| 878 | WIN | White | txusti (1280) | *pending* |
-| 877 | WIN | White | Liaj69 (1250) | *pending* |
-| 876 | WIN | Black | Jyotikri (1218) | *pending* |
 | 1 | — | — | *profile snapshot* | — |
 
 ---

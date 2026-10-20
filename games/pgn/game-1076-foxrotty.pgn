@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/Xc68HisL"]
+[Date "2026.10.20"]
+[Round "-"]
+[White "Foxrotty"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "Xc68HisL"]
+[UTCDate "2026.10.20"]
+[UTCTime "10:27:44"]
+[WhiteElo "1328"]
+[BlackElo "1311"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "A00"]
+[Opening "Hungarian Opening: Indian Defense"]
+[Termination "Normal"]
+
+1. g3 { [%eval 0.1] } 1... Nf6 { [%eval 0.18] } 2. Bg2 { [%eval 0.15] } 2... g6 { [%eval 0.28] } 3. Nf3 { [%eval 0.13] } 3... d5 { [%eval 0.23] } 4. Kf1 { [%eval -0.97] } 4... Bg7 { [%eval -0.66] } 5. Bh3 { [%eval -6.08] } 0-1
+
+

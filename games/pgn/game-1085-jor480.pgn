@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/q8pWLTmj"]
+[Date "2026.10.20"]
+[Round "-"]
+[White "JOR480"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "q8pWLTmj"]
+[UTCDate "2026.10.20"]
+[UTCTime "18:32:39"]
+[WhiteElo "1357"]
+[BlackElo "1321"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "A48"]
+[Opening "London System"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.15] } 1... Nf6 { [%eval 0.15] } 2. Bf4 { [%eval 0.0] } 2... g6 { [%eval 0.06] } 3. e3 { [%eval 0.0] } 3... Bg7 { [%eval 0.13] } 4. Nf3 { [%eval 0.02] } 4... O-O { [%eval 0.14] } 5. Nbd2 { [%eval 0.0] } 5... d6 { [%eval 0.01] } 6. Be2 { [%eval -0.19] } 6... Nbd7 { [%eval 0.0] } 7. O-O { [%eval 0.0] } 7... Nh5 { [%eval 0.07] } 8. c3 { [%eval -0.34] } 8... Nxf4 { [%eval -0.28] } 9. exf4 { [%eval -0.28] } 9... Re8 { [%eval -0.14] } 10. Bc4 { [%eval -0.26] } 10... e5 { [%eval 4.49] } 11. dxe5 { [%eval 0.8] } 11... dxe5 { [%eval 5.08] } 12. Ne4 { [%eval 0.59] } 12... h6 { [%eval 0.6] } 13. Qb3 { [%eval 0.59] } 13... Qe7 { [%eval 0.61] } 14. Rfe1 { [%eval 0.65] } 14... Nb6 { [%eval 0.69] } 15. f5 { [%eval -3.31] } 15... Bxf5 { [%eval -2.94] } 16. Ng3 { [%eval -2.95] } 16... Be6 { [%eval -1.89] } 17. Nxe5 { [%eval -6.68] } 17... Bxe5 { [%eval -6.6] } 18. Rxe5 { [%eval -6.61] } 18... Bxc4 { [%eval -0.05] } 19. Rxe7 { [%eval -0.06] } 19... Rxe7 { [%eval 3.19] } 20. Qc2 { [%eval 3.25] } 20... Rae8 { [%eval 3.15] } 21. Qd2 { [%eval 3.04] } 21... h5 { [%eval 3.11] } 22. b3 { [%eval 2.97] } 22... Ba6 { [%eval 4.42] } 23. c4 { [%eval 4.63] } 23... h4 { [%eval 5.52] } 24. Nf1 { [%eval 5.27] } 24... Re2 { [%eval 5.53] } 25. Qc3 { [%eval 5.8] } 25... c5 { [%eval 6.58] } 26. Ne3 { [%eval 7.03] } 26... Rd8 { [%eval 6.35] } 27. Rd1 { [%eval 1.78] } 27... Rxd1+ { [%eval 1.9] } 28. Nxd1 { [%eval 1.82] } 28... Rxa2 { [%eval 5.89] } 29. h3 { [%eval 5.29] } 29... Re2 { [%eval 6.54] } 30. Kf1 { [%eval 5.61] } 30... Re8 { [%eval 6.19] } 31. Ne3 { [%eval 6.05] } 31... Nd7 { [%eval 5.88] } 32. Ng4 { [%eval 4.56] } 32... b6 { [%eval 5.44] } 33. Nh6+ { [%eval 5.44] } 33... Kf8 { [%eval 5.15] } 34. Qg7+ { [%eval -10.93] } 34... Kxg7 { [%eval -10.36] } 0-1
+
+

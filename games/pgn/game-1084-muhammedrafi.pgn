@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/Xua7BL1N"]
+[Date "2026.10.20"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "muhammedrafi"]
+[Result "0-1"]
+[GameId "Xua7BL1N"]
+[UTCDate "2026.10.20"]
+[UTCTime "18:29:34"]
+[WhiteElo "1325"]
+[BlackElo "1411"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C44"]
+[Opening "Scotch Game: Scotch Gambit, Advance Variation"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. d4 { [%eval 0.07] } 3... exd4 { [%eval 0.04] } 4. Bc4 { [%eval 0.0] } 4... Nf6 { [%eval 0.0] } 5. e5 { [%eval 0.0] } 5... Qe7 { [%eval 2.76] } 6. Bf4 { [%eval -1.39] } 6... Qb4+ { [%eval 0.38] } 0-1
+
+

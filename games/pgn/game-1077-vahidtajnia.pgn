@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/9vuOm7JY"]
+[Date "2026.10.20"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "vahidtajnia"]
+[Result "0-1"]
+[GameId "9vuOm7JY"]
+[UTCDate "2026.10.20"]
+[UTCTime "11:54:12"]
+[WhiteElo "1317"]
+[BlackElo "1374"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "C40"]
+[Opening "King's Pawn Game: McConnell Defense"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Qf6 { [%eval 1.06] } 3. d4 { [%eval 0.96] } 3... exd4 { [%eval 0.97] } 4. Nxd4 { [%eval 0.27] } 4... Bc5 { [%eval 0.34] } 5. Nb5 { [%eval #-1] } 5... Qxf2# { [%eval #0] } 0-1
+
+

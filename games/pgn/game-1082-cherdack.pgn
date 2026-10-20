@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/IIHOi494"]
+[Date "2026.10.20"]
+[Round "-"]
+[White "Cherdack"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "IIHOi494"]
+[UTCDate "2026.10.20"]
+[UTCTime "12:56:26"]
+[WhiteElo "1295"]
+[BlackElo "1314"]
+[WhiteRatingDiff "-16"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Short Variation"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... c6 { [%eval 0.31] } 2. d4 { [%eval 0.24] } 2... d5 { [%eval 0.24] } 3. e5 { [%eval 0.33] } 3... Bf5 { [%eval 0.22] } 4. Nf3 { [%eval 0.15] } 4... e6 { [%eval 0.24] } 5. c3 { [%eval 0.17] } 5... c5 { [%eval 0.26] } 6. Bb5+ { [%eval 0.1] } 6... Nc6 { [%eval 0.1] } 7. Bxc6+ { [%eval 0.0] } 7... bxc6 { [%eval 0.22] } 8. Bg5 { [%eval -0.67] } 8... Qb6 { [%eval -0.76] } 9. b3 { [%eval -0.66] } 9... cxd4 { [%eval -0.23] } 10. Nxd4 { [%eval -0.09] } 10... Bc5 { [%eval 0.29] } 11. O-O { [%eval 0.34] } 11... Bxd4 { [%eval 0.78] } 12. cxd4 { [%eval 0.82] } 12... Qb7 { [%eval 1.9] } 13. Nd2 { [%eval 0.23] } 13... Ne7 { [%eval 0.73] } 14. Nf3 { [%eval 0.41] } 14... h6 { [%eval 0.55] } 15. Be3 { [%eval 0.13] } 15... O-O { [%eval 0.19] } 16. h3 { [%eval 0.09] } 16... Ng6 { [%eval 0.51] } 17. g4 { [%eval 0.0] } 17... Be4 { [%eval -0.02] } 18. Nd2 { [%eval -0.97] } 18... Bd3 { [%eval -1.08] } 19. Re1 { [%eval -0.94] } 19... a5 { [%eval 0.03] } 20. f3 { [%eval -1.71] } 20... Qa6 { [%eval -0.97] } 21. Bf2 { [%eval -1.21] } 21... Nf4 { [%eval -0.8] } 22. Kh2 { [%eval -1.91] } 22... a4 { [%eval -0.93] } 23. Re3 { [%eval -2.7] } 23... axb3 { [%eval 0.0] } 24. Nxb3 { [%eval 0.0] } 24... Bc4 { [%eval 0.0] } 25. Nc5 { [%eval 0.0] } 25... Qb5 { [%eval 0.0] } 26. Nd7 { [%eval -4.7] } 26... Rfd8 { [%eval -4.83] } 27. Nc5 { [%eval -4.58] } 27... Rxa2 { [%eval -0.16] } 28. Rxa2 { [%eval -0.22] } 28... Bxa2 { [%eval -0.31] } 29. Ra3 { [%eval -5.25] } 29... Bc4 { [%eval 0.0] } 30. Be3 { [%eval -6.75] } 30... Qb2+ { [%eval -6.84] } 31. Bd2 { [%eval -7.6] } 31... Qxa3 { [%eval -6.16] } 32. Bxf4 { [%eval -5.95] } 32... Qa2+ { [%eval -5.62] } 33. Kg3 { [%eval -5.8] } 33... Kf8 { [%eval -0.66] } 34. Nb7 { [%eval -5.89] } 34... Rb8 { [%eval -5.67] } 35. Nd6 { [%eval -7.59] } 35... g5 { [%eval -7.64] } 36. Bd2 { [%eval -12.59] } 36... Rb1 { [%eval -11.31] } 37. Qe2 { [%eval #-6] } 37... Bxe2 { [%eval #-5] } 0-1
+
+
