@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/Vgzy7eBu"]
+[Date "2026.10.21"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "s4242"]
+[Result "0-1"]
+[GameId "Vgzy7eBu"]
+[UTCDate "2026.10.21"]
+[UTCTime "13:44:05"]
+[WhiteElo "1308"]
+[BlackElo "1351"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "900+10"]
+[ECO "C41"]
+[Opening "Philidor Defense: Exchange Variation"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 Bd7 5. Nc3 a6 6. Bd3 Nc6 7. O-O Nxd4 0-1
+
+

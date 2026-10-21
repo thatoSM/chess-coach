@@ -25,6 +25,18 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 1097 | WIN | White | spartaco57 (1237) | *pending* |
+| 1096 | WIN | White | chicken111111 (1333) | *pending* |
+| 1095 | WIN | Black | igor_shaposhnyk89 (1304) | *pending* |
+| 1094 | WIN | White | igor_shaposhnyk89 (1310) | *pending* |
+| 1093 | WIN | White | WorldChampion2026 (1309) | *pending* |
+| 1092 | WIN | Black | Shivamsoni (1397) | *pending* |
+| 1091 | LOSS | White | s4242 (1351) | *pending* |
+| 1090 | WIN | Black | niilo013chess (1245) | *pending* |
+| 1089 | LOSS | Black | Cheeshx (1200) | *pending* |
+| 1088 | LOSS | White | fethican (1309) | *pending* |
+| 1087 | LOSS | White | Slavikys (1371) | *pending* |
+| 1086 | LOSS | White | Rohanhrr (1325) | *pending* |
 | 1085 | WIN | Black | JOR480 (1357) | *pending* |
 | 1084 | LOSS | White | muhammedrafi (1411) | *pending* |
 | 1083 | WIN | White | Faulerfisch (1320) | *pending* |
@@ -213,18 +225,6 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 | 900 | WIN | White | omar_102 (1195) | *pending* |
 | 899 | LOSS | Black | yaoyaolingyang (1236) | *pending* |
 | 898 | WIN | Black | Varghese_jac (1226) | *pending* |
-| 897 | WIN | White | anlesh (1101) | *pending* |
-| 896 | LOSS | Black | Roma908137 (1229) | *pending* |
-| 895 | LOSS | White | Luth_1987 (1287) | *pending* |
-| 894 | WIN | Black | Tjoyfm (1153) | *pending* |
-| 893 | LOSS | Black | getdrpankaj (1165) | *pending* |
-| 892 | LOSS | White | IvanV2025 (1256) | *pending* |
-| 891 | WIN | White | elpegatori (1224) | *pending* |
-| 890 | LOSS | Black | Juande00 (1198) | *pending* |
-| 889 | LOSS | White | Marc57700 (1150) | *pending* |
-| 888 | DRAW | White | Yabott (1317) | *pending* |
-| 887 | LOSS | Black | Spartano91075 (1203) | *pending* |
-| 886 | WIN | Black | Rolf-Kilian (1166) | *pending* |
 | 1 | — | — | *profile snapshot* | — |
 
 ---

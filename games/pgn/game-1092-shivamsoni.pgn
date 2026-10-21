@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/RXg5poEw"]
+[Date "2026.10.21"]
+[Round "-"]
+[White "Shivamsoni"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "RXg5poEw"]
+[UTCDate "2026.10.21"]
+[UTCTime "13:46:04"]
+[WhiteElo "1397"]
+[BlackElo "1303"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "900+10"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Short Variation"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... c6 { [%eval 0.31] } 2. d4 { [%eval 0.24] } 2... d5 { [%eval 0.24] } 3. e5 { [%eval 0.33] } 3... Bf5 { [%eval 0.22] } 4. Nf3 { [%eval 0.15] } 4... e6 { [%eval 0.24] } 5. Nc3 { [%eval 0.2] } 5... c5 { [%eval 0.17] } 6. Be2 { [%eval -0.1] } 6... Nc6 { [%eval -0.09] } 7. O-O { [%eval -0.03] } 7... cxd4 { [%eval 0.25] } 8. Nxd4 { [%eval 0.03] } 8... Nxd4 { [%eval 0.03] } 9. Qxd4 { [%eval 0.03] } 9... Ne7 { [%eval 0.04] } 10. Qa4+ { [%eval 0.05] } 10... Nc6 { [%eval 0.02] } 11. Bb5 { [%eval -0.53] } 11... Qc7 { [%eval -0.19] } 12. Be2 { [%eval -1.88] } 12... Qxe5 { [%eval -1.2] } 13. Re1 { [%eval -2.72] } 13... Be7 { [%eval -2.75] } 14. Bd2 { [%eval -2.89] } 14... O-O { [%eval -3.23] } 15. Bb5 { [%eval -3.77] } 15... Qc7 { [%eval -3.15] } 16. g3 { [%eval -4.49] } 16... h6 { [%eval -3.93] } 17. Bf4 { [%eval -4.77] } 17... Qd7 { [%eval -4.95] } 18. Ne2 { [%eval -5.05] } 18... Bd6 { [%eval -1.68] } 19. Bxd6 { [%eval -2.94] } 19... Qxd6 { [%eval -3.07] } 20. Nd4 { [%eval -5.15] } 20... Nxd4 { [%eval -5.11] } 0-1
+
+

@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/8WqAGoBj"]
+[Date "2026.10.21"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "WorldChampion2026"]
+[Result "1-0"]
+[GameId "8WqAGoBj"]
+[UTCDate "2026.10.21"]
+[UTCTime "13:54:22"]
+[WhiteElo "1310"]
+[BlackElo "1309"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "900+10"]
+[ECO "B22"]
+[Opening "Sicilian Defense: Alapin Variation"]
+[Termination "Normal"]
+
+1. e4 c5 2. c3 e5 3. d4 exd4 4. cxd4 cxd4 5. Qxd4 Nc6 6. Qa4 g6 7. Nf3 Bg7 8. Nc3 Nge7 9. Bd3 O-O 10. Bg5 h6 11. Bf4 d5 12. exd5 Nxd5 13. Nxd5 Qxd5 14. Qc4 Qxc4 15. Bxc4 Nb4 16. O-O Nc2 17. Rac1 Nd4 18. Nxd4 Bxd4 19. b3 Bf5 20. Bxh6 a6 21. a4 Rfd8 22. Rcd1 Bg7 23. Bxg7 Kxg7 24. Rxd8 Rxd8 25. f4 Bd3 26. Rd1 Rd7 27. Rxd3 Re7 28. Kf2 b5 29. g3 bxc4 30. bxc4 Rc7 31. Rd4 Rc5 32. Ke3 f5 33. Rd6 Rxc4 34. Rxa6 Rc3+ 35. Kd4 Rb3 36. a5 Rb4+ 37. Kc5 Ra4 38. Kb5 Ra1 39. Rb6 Rb1+ 40. Kc6 Ra1 41. a6 Ra5 42. Kb7 Rd5 43. a7 Rd7+ 44. Ka6 Rd8 45. Rb7+ Kf8 46. Rb8 Rxb8 47. axb8=Q+ Ke7 48. Qc7+ Kf6 49. Qd6+ Kg7 50. Qd7+ Kh8 51. g4 fxg4 52. Qxg4 g5 53. Qxg5 Kh7 54. f5 Kh8 55. f6 Kh7 56. f7 Kh8 57. f8=Q+ Kh7 58. Qgg7# 1-0
+
+

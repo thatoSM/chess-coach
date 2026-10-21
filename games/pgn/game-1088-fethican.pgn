@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/CQiTd60K"]
+[Date "2026.10.21"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "fethican"]
+[Result "0-1"]
+[GameId "CQiTd60K"]
+[UTCDate "2026.10.21"]
+[UTCTime "11:28:00"]
+[WhiteElo "1316"]
+[BlackElo "1309"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "900+10"]
+[ECO "C44"]
+[Opening "Scotch Game"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 f6 4. Nc3 a6 5. b4 d6 6. d5 Nd4 7. Nxd4 exd4 8. Qxd4 f5 9. Bd3 Nh6 10. O-O Be7 11. Qxg7 Nf7 12. exf5 Bf6 13. Qg4 Bxc3 14. Rb1 Qf6 15. Bb2 Bxb2 16. Rxb2 Qxb2 17. Qg7 Qxg7 0-1
+
+
