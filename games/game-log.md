@@ -25,6 +25,9 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 1100 | LOSS | Black | mkkirov43 (1233) | *pending* |
+| 1099 | DRAW | Black | VKO_4_Musabekova-M (1361) | *pending* |
+| 1098 | LOSS | Black | nguyenkhoichess (1420) | *pending* |
 | 1097 | WIN | White | spartaco57 (1237) | *pending* |
 | 1096 | WIN | White | chicken111111 (1333) | *pending* |
 | 1095 | WIN | Black | igor_shaposhnyk89 (1304) | *pending* |
@@ -222,9 +225,6 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 | 903 | WIN | Black | Tatiana_EROFF (1208) | *pending* |
 | 902 | DRAW | Black | Leleuprimitivo (1267) | *pending* |
 | 901 | LOSS | White | danilaagl (1206) | *pending* |
-| 900 | WIN | White | omar_102 (1195) | *pending* |
-| 899 | LOSS | Black | yaoyaolingyang (1236) | *pending* |
-| 898 | WIN | Black | Varghese_jac (1226) | *pending* |
 | 1 | — | — | *profile snapshot* | — |
 
 ---

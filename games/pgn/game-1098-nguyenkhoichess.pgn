@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/game/Rziv30xc"]
+[Date "2026.10.22"]
+[Round "-"]
+[White "nguyenkhoichess"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "Rziv30xc"]
+[UTCDate "2026.10.22"]
+[UTCTime "12:33:03"]
+[WhiteElo "1420"]
+[BlackElo "1337"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-4"]
+[Variant "Standard"]
+[TimeControl "900+10"]
+[ECO "A48"]
+[Opening "East Indian Defense"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. Nf3 g6 3. e3 Bg7 4. g3 O-O 5. Bg2 d5 6. O-O Bg4 7. Qd3 Nbd7 8. Nc3 Nb6 9. b3 c6 10. e4 dxe4 11. Nxe4 Nxe4 12. Qxe4 Bxf3 13. Bxf3 Qxd4 14. Qxd4 Bxd4 15. Rb1 Rfd8 16. Bh6 Bg7 17. Bg5 Bf6 18. Bh6 Nd5 19. Bxd5 Rxd5 20. c4 Rd7 21. Kg2 Bg7 22. Bxg7 Kxg7 23. Rfe1 f5 24. Rbd1 Rad8 25. Rxe7+ Rxe7 26. Rxd8 b5 27. cxb5 cxb5 28. Rb8 a6 29. Ra8 Re6 30. Ra7+ Kh6 31. h4 g5 32. hxg5+ Kxg5 33. Rxh7 Re2 34. a4 b4 35. Ra7 Rb2 36. Rxa6 Rxb3 37. a5 Ra3 38. Rb6 b3 39. a6 f4 40. gxf4+ Kxf4 41. a7 Ra4 42. Rb4+ Rxb4 43. a8=Q b2 44. Qf8+ Ke5 45. Qxb4 1-0
+
+

@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/game/McrzQnoI"]
+[Date "2026.10.22"]
+[Round "-"]
+[White "VKO_4_Musabekova-M"]
+[Black "ThatoSM"]
+[Result "1/2-1/2"]
+[GameId "McrzQnoI"]
+[UTCDate "2026.10.22"]
+[UTCTime "17:32:58"]
+[WhiteElo "1361"]
+[BlackElo "1333"]
+[WhiteRatingDiff "-1"]
+[BlackRatingDiff "+0"]
+[Variant "Standard"]
+[TimeControl "900+10"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Short Variation"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... c6 { [%eval 0.31] } 2. d4 { [%eval 0.24] } 2... d5 { [%eval 0.24] } 3. e5 { [%eval 0.33] } 3... Bf5 { [%eval 0.22] } 4. Nf3 { [%eval 0.15] } 4... e6 { [%eval 0.24] } 5. Bd3 { [%eval 0.0] } 5... Bxd3 { [%eval 0.0] } 6. Qxd3 { [%eval 0.03] } 6... c5 { [%eval 0.0] } 7. c4 { [%eval 0.0] } 7... dxc4 { [%eval 0.07] } 8. Qxc4 { [%eval 0.0] } 8... cxd4 { [%eval 0.04] } 9. Nxd4 { [%eval 0.13] } 9... h6 { [%eval 1.59] } 10. O-O { [%eval 1.12] } 10... Ne7 { [%eval 1.56] } 11. Nc3 { [%eval 1.65] } 11... Ng6 { [%eval 6.1] } 12. Qb5+ { [%eval 1.11] } 12... Qd7 { [%eval 1.21] } 13. Qxd7+ { [%eval 0.1] } 13... Nxd7 { [%eval 0.2] } 14. Nf3 { [%eval -0.68] } 14... Ndxe5 { [%eval -0.67] } 15. Nxe5 { [%eval -0.7] } 15... Nxe5 { [%eval -0.64] } 16. Nb5 { [%eval -0.69] } 16... Rc8 { [%eval -0.16] } 17. Nxa7 { [%eval -0.14] } 17... Rc5 { [%eval 0.61] } 18. a4 { [%eval 0.0] } 18... Be7 { [%eval 0.04] } 19. Be3 { [%eval 0.11] } 19... Rc2 { [%eval 0.93] } 20. Bd4 { [%eval 0.05] } 20... Ng4 { [%eval 0.73] } 21. h3 { [%eval 0.86] } 21... Nf6 { [%eval 1.02] } 22. Rac1 { [%eval 0.84] } 22... Rxc1 { [%eval 0.81] } 23. Rxc1 { [%eval 0.83] } 23... O-O { [%eval 0.88] } 24. Rc7 { [%eval 0.63] } 24... Nd5 { [%eval 3.26] } 25. Rxb7 { [%eval 3.13] } 25... Ra8 { [%eval 3.15] } 26. b3 { [%eval 2.8] } 26... Nf4 { [%eval 4.6] } 27. Be5 { [%eval 3.65] } 27... Nd3 { [%eval 3.96] } 28. Nc6 { [%eval 3.12] } 28... Nxe5 { [%eval 4.2] } 29. Nxe5 { [%eval 4.17] } 29... Bd6 { [%eval 5.04] } 30. Nxf7 { [%eval 5.1] } 30... Bf8 { [%eval 5.21] } 31. Ne5 { [%eval 5.28] } 31... Ra5 { [%eval 5.2] } 32. Nd7 { [%eval 5.2] } 32... Bd6 { [%eval 5.05] } 33. b4 { [%eval 0.0] } 33... Rxa4 { [%eval 0.0] } 34. g3 { [%eval 0.04] } 34... Rxb4 { [%eval 0.0] } 35. Rxb4 { [%eval 0.01] } 35... Bxb4 { [%eval 0.03] } 36. Kg2 { [%eval 0.02] } 36... Kf7 { [%eval 0.03] } 37. Ne5+ { [%eval 0.0] } 37... Kf6 { [%eval 0.0] } 38. f4 { [%eval 0.0] } 38... Bc3 { [%eval 0.03] } 39. Nd3 { [%eval 0.01] } 39... e5 { [%eval 0.0] } 40. fxe5+ { [%eval 0.0] } 40... Bxe5 { [%eval 0.0] } 41. Kf3 { [%eval 0.0] } 41... Bb8 { [%eval 0.0] } 42. g4 { [%eval 0.0] } 42... g5 { [%eval 0.0] } 43. Nc5 { [%eval 0.0] } 43... Be5 { [%eval 0.02] } 44. Ke4 { [%eval 0.03] } 44... Bh2 { [%eval 0.0] } 45. Nd7+ { [%eval 0.0] } 45... Ke6 { [%eval 0.12] } 46. Nf8+ { [%eval 0.0] } 46... Kf6 { [%eval 0.18] } 47. Nd7+ { [%eval 0.0] } 47... Ke6 { [%eval 0.01] } 48. Nc5+ { [%eval 0.11] } 48... Kf6 { [%eval 0.15] } 49. Nd7+ { [%eval 0.0] } 1/2-1/2
+
+
