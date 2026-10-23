@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/game/mqOBITXc"]
+[Date "2026.10.23"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "YaChuHsieh"]
+[Result "0-1"]
+[GameId "mqOBITXc"]
+[UTCDate "2026.10.23"]
+[UTCTime "05:30:13"]
+[WhiteElo "1320"]
+[BlackElo "1311"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C40"]
+[Opening "King's Pawn Game: Busch-Gass Gambit"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Bc5 { [%eval 1.81] } 3. d4 { [%eval 0.0] } 3... exd4 { [%eval 0.0] } 4. Bc4 { [%eval -0.03] } 4... Qe7 { [%eval 0.77] } 5. Ng5 { [%eval -0.45] } 5... Nh6 { [%eval -0.03] } 0-1
+
+

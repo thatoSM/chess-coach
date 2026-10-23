@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/game/nbqdU5U7"]
+[Date "2026.10.23"]
+[Round "-"]
+[White "Tabu233"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "nbqdU5U7"]
+[UTCDate "2026.10.23"]
+[UTCTime "06:01:23"]
+[WhiteElo "1280"]
+[BlackElo "1301"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nc3 d5 3. f4 dxe4 4. Bc4 Bf5 5. d4 exd3 6. cxd3 e6 7. Nf3 h6 8. O-O Bc5+ 9. Kh1 Nf6 10. Re1 O-O 11. a3 a5 12. Na4 b5 13. Bxb5 cxb5 14. Nxc5 Qd4 15. Nxd4 1-0
+
+

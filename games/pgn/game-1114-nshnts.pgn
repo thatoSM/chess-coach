@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/game/ei00yIdC"]
+[Date "2026.10.23"]
+[Round "-"]
+[White "nshnts"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "ei00yIdC"]
+[UTCDate "2026.10.23"]
+[UTCTime "15:59:06"]
+[WhiteElo "1249"]
+[BlackElo "1296"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "900+10"]
+[ECO "A49"]
+[Opening "Indian Defense: Przepiorka Variation"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d5 6. Nc3 b6 7. Re1 Bb7 8. e4 dxe4 9. Ng5 Re8 10. Ngxe4 Nxe4 11. Nxe4 Bxe4 12. Rxe4 e5 13. Rh4 exd4 14. Bxa8 Qe7 15. Bd2 d3 16. cxd3 Bxb2 17. Re4 Qd7 18. Rb1 Rxe4 19. dxe4 Bg7 20. Qc2 c6 21. Bf4 Na6 22. Bxc6 Qh3 23. Qd3 h6 24. Qxa6 1-0
+
+

@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/game/H1Ms1pGO"]
+[Date "2026.10.23"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "ilmarjpb"]
+[Result "1-0"]
+[GameId "H1Ms1pGO"]
+[UTCDate "2026.10.23"]
+[UTCTime "13:54:11"]
+[WhiteElo "1292"]
+[BlackElo "1194"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C00"]
+[Opening "Rat Defense: Small Center Defense"]
+[Termination "Time forfeit"]
+
+1. e4 d6 2. d4 e6 3. Nf3 Nd7 4. Nc3 Be7 5. Bd3 c6 6. Be3 e5 7. d5 Ngf6 8. Bg5 cxd5 9. exd5 Nc5 10. Bb5+ Bd7 11. Bxd7+ Ncxd7 12. Ne4 Nxe4 13. Bxe7 Qxe7 14. Qe2 Nef6 15. O-O Nxd5 16. Qb5 Nb6 17. Rad1 O-O 18. c4 Rac8 19. a4 a6 20. Qb3 Nxc4 21. Rc1 b5 22. axb5 axb5 23. Qxb5 Ncb6 24. Qa6 Ra8 25. Qb7 Rfb8 26. Qc7 Nd5 27. Qc6 Nb4 28. Qe4 d5 29. Qe1 e4 30. Nd4 Nd3 31. Nf5 Qf6 32. Qe3 Nxc1 33. Rxc1 Qxf5 34. Qd4 1-0
+
+

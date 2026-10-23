@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/game/zSrSk80l"]
+[Date "2026.10.23"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "Captain_Nemo_Perm"]
+[Result "0-1"]
+[GameId "zSrSk80l"]
+[UTCDate "2026.10.23"]
+[UTCTime "06:29:59"]
+[WhiteElo "1291"]
+[BlackElo "1305"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+8"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[Termination "Normal"]
+
+1. e3 e5 2. f4 Nc6 3. Nf3 Bd6 4. fxe5 Nxe5 5. b3 Ne7 6. Bb2 N7g6 7. Nxe5 Nxe5 8. g3 O-O 9. Qh5 Qf6 10. Bg2 Nf3+ 11. Bxf3 Qxb2 12. Be4 g6 13. Qa5 Qxa1 14. O-O Qe5 0-1
+
+

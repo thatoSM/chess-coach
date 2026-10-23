@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/game/BcgGDMYW"]
+[Date "2026.10.23"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "HOLIDS"]
+[Result "0-1"]
+[GameId "BcgGDMYW"]
+[UTCDate "2026.10.23"]
+[UTCTime "10:21:02"]
+[WhiteElo "1297"]
+[BlackElo "1310"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+60"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... c6 { [%eval 0.31] } 2. c3 { [%eval 0.3] } 2... d5 { [%eval 0.26] } 3. exd5 { [%eval 0.15] } 3... cxd5 { [%eval 0.13] } 4. d4 { [%eval 0.13] } 4... Nf6 { [%eval 0.22] } 5. Nf3 { [%eval 0.06] } 5... Bg4 { [%eval 0.25] } 6. h3 { [%eval 0.28] } 6... Bh5 { [%eval 0.38] } 7. Be2 { [%eval 0.01] } 7... Nc6 { [%eval 0.27] } 8. Bg5 { [%eval 0.06] } 8... e6 { [%eval 0.08] } 9. Nbd2 { [%eval -0.05] } 9... Be7 { [%eval 0.14] } 10. Nb3 { [%eval -0.19] } 10... b6 { [%eval 4.38] } 11. Bxf6 { [%eval 0.03] } 11... Bxf6 { [%eval -0.07] } 12. Bb5 { [%eval -0.04] } 12... Qc7 { [%eval 4.12] } 13. O-O { [%eval 0.0] } 13... O-O { [%eval 0.02] } 14. Qd2 { [%eval -1.35] } 14... h6 { [%eval 0.05] } 15. Rfe1 { [%eval -0.6] } 15... Bxf3 { [%eval -0.64] } 16. gxf3 { [%eval -1.74] } 16... Bg5 { [%eval -1.11] } 17. Qd3 { [%eval -2.24] } 17... a6 { [%eval -0.62] } 18. Bxa6 { [%eval -1.23] } 18... Qf4 { [%eval 0.38] } 19. Bb5 { [%eval -0.52] } 19... Ne7 { [%eval -0.67] } 20. Qe3 { [%eval -1.98] } 20... Qf5 { [%eval -1.58] } 21. Qe5 { [%eval -2.05] } 21... Qxh3 { [%eval -2.01] } 22. Qg3 { [%eval -2.05] } 22... Qf5 { [%eval -2.11] } 23. Re5 { [%eval -2.68] } 23... Bf4 { [%eval -0.55] } 24. Rxf5 { [%eval -0.52] } 24... Bxg3 { [%eval -0.59] } 25. fxg3 { [%eval -4.59] } 25... Nxf5 { [%eval -4.54] } 26. g4 { [%eval -4.51] } 26... Nh4 { [%eval -4.74] } 27. Kh2 { [%eval -5.54] } 27... Nxf3+ { [%eval -5.55] } 0-1
+
+

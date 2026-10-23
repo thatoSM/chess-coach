@@ -25,6 +25,21 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 1115 | LOSS | Black | caravaggioss (1398) | *pending* |
+| 1114 | LOSS | Black | nshnts (1249) | *pending* |
+| 1113 | WIN | White | ilmarjpb (1194) | *pending* |
+| 1112 | LOSS | White | HOLIDS (1310) | *pending* |
+| 1111 | WIN | Black | Nitesh07 (1291) | *pending* |
+| 1110 | WIN | White | SLEBRAVE (1274) | *pending* |
+| 1109 | LOSS | White | Captain_Nemo_Perm (1305) | *pending* |
+| 1108 | LOSS | Black | Arjun290406 (1401) | *pending* |
+| 1107 | LOSS | Black | Tabu233 (1280) | *pending* |
+| 1106 | LOSS | White | Nezolotoy_999 (1250) | *pending* |
+| 1105 | LOSS | White | shahjalal729 (1307) | *pending* |
+| 1104 | LOSS | White | YaChuHsieh (1311) | *pending* |
+| 1103 | LOSS | White | utku484852 (1326) | *pending* |
+| 1102 | WIN | Black | rakhim7A (1313) | *pending* |
+| 1101 | LOSS | White | Cap_Swalqah96 (1282) | *pending* |
 | 1100 | LOSS | Black | mkkirov43 (1233) | *pending* |
 | 1099 | DRAW | Black | VKO_4_Musabekova-M (1361) | *pending* |
 | 1098 | LOSS | Black | nguyenkhoichess (1420) | *pending* |
@@ -210,21 +225,6 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 | 918 | WIN | White | Yulia_Kalenkovich (1213) | *pending* |
 | 917 | LOSS | Black | harman_everything (1171) | *pending* |
 | 916 | WIN | White | imran1967 (1183) | *pending* |
-| 915 | LOSS | White | heavenshopper (1210) | *pending* |
-| 914 | WIN | Black | Nikita1986a (1196) | *pending* |
-| 913 | LOSS | White | antognoni (1271) | *pending* |
-| 912 | LOSS | White | reych9 (1234) | *pending* |
-| 911 | WIN | Black | reych9 (1240) | *pending* |
-| 910 | LOSS | Black | TemChang (1155) | *pending* |
-| 909 | DRAW | White | adambc (1207) | *pending* |
-| 908 | LOSS | Black | anwer1983 (1188) | *pending* |
-| 907 | DRAW | White | AMS_ES (1243) | *pending* |
-| 906 | WIN | Black | teoluma (1231) | *pending* |
-| 905 | WIN | White | dodo-1 (1223) | *pending* |
-| 904 | DRAW | White | WermterWx (1300) | *pending* |
-| 903 | WIN | Black | Tatiana_EROFF (1208) | *pending* |
-| 902 | DRAW | Black | Leleuprimitivo (1267) | *pending* |
-| 901 | LOSS | White | danilaagl (1206) | *pending* |
 | 1 | — | — | *profile snapshot* | — |
 
 ---

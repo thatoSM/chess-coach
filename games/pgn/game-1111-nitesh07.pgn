@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/game/KZtxfwNU"]
+[Date "2026.10.23"]
+[Round "-"]
+[White "Nitesh07"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "KZtxfwNU"]
+[UTCDate "2026.10.23"]
+[UTCTime "10:10:57"]
+[WhiteElo "1291"]
+[BlackElo "1291"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "E60"]
+[Opening "Indian Defense: West Indian Defense"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.15] } 1... Nf6 { [%eval 0.15] } 2. c4 { [%eval 0.16] } 2... g6 { [%eval 0.28] } 3. Bf4 { [%eval 0.12] } 3... Bg7 { [%eval 0.0] } 4. Nf3 { [%eval 0.0] } 4... O-O { [%eval 0.05] } 5. e3 { [%eval -0.14] } 5... d6 { [%eval 0.14] } 6. c5 { [%eval -1.59] } 6... dxc5 { [%eval -1.46] } 7. Nc3 { [%eval -1.66] } 7... cxd4 { [%eval -1.67] } 8. Nxd4 { [%eval -1.87] } 8... Nh5 { [%eval -1.76] } 9. Be2 { [%eval -4.78] } 9... Nxf4 { [%eval -4.7] } 10. exf4 { [%eval -4.96] } 10... Qxd4 { [%eval -4.96] } 11. Qxd4 { [%eval -5.08] } 11... Bxd4 { [%eval -4.79] } 12. O-O { [%eval -5.37] } 12... Nc6 { [%eval -5.33] } 13. Rfe1 { [%eval -5.39] } 13... Bxc3 { [%eval -4.99] } 14. bxc3 { [%eval -5.02] } 14... e6 { [%eval -4.71] } 15. Bg4 { [%eval -4.94] } 15... Re8 { [%eval -5.05] } 16. Rad1 { [%eval -5.14] } 16... e5 { [%eval -5.13] } 17. Bxc8 { [%eval -5.22] } 17... Raxc8 { [%eval -5.2] } 18. fxe5 { [%eval -5.21] } 18... Nxe5 { [%eval -5.2] } 19. f4 { [%eval -5.15] } 19... Nc4 { [%eval -5.54] } 20. Rxe8+ { [%eval -5.46] } 20... Rxe8 { [%eval -5.38] } 21. Rd7 { [%eval -5.36] } 21... Rc8 { [%eval -5.37] } 22. Rd4 { [%eval -5.57] } 22... Nd6 { [%eval -5.5] } 23. a4 { [%eval -5.77] } 23... a5 { [%eval -5.68] } 24. c4 { [%eval -5.58] } 24... b6 { [%eval -5.6] } 25. Rd5 { [%eval -6.27] } 25... Nxc4 { [%eval -6.36] } 26. f5 { [%eval -7.18] } 26... Ne3 { [%eval -7.13] } 0-1
+
+
