@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/game/oiyEf3Aj"]
+[Date "2026.10.25"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "laurentboye"]
+[Result "1-0"]
+[GameId "oiyEf3Aj"]
+[UTCDate "2026.10.25"]
+[UTCTime "11:04:03"]
+[WhiteElo "1295"]
+[BlackElo "1290"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "900+10"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defense: Scandinavian Variation, Exchange Variation"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... d5 { [%eval 0.54] } 2. exd5 { [%eval 0.51] } 2... Qxd5 { [%eval 0.52] } 3. d4 { [%eval 0.14] } 3... Nc6 { [%eval 0.27] } 4. Nf3 { [%eval 0.16] } 4... Bg4 { [%eval 0.28] } 5. Be2 { [%eval 0.05] } 5... e6 { [%eval 0.63] } 6. Nc3 { [%eval 0.01] } 6... Bb4 { [%eval 0.66] } 7. O-O { [%eval 0.69] } 7... Bxc3 { [%eval 0.68] } 8. bxc3 { [%eval 0.95] } 8... O-O-O { [%eval 1.45] } 9. h3 { [%eval 1.41] } 9... Bh5 { [%eval 1.94] } 10. Be3 { [%eval 1.51] } 10... Nf6 { [%eval 1.47] } 11. c4 { [%eval 1.5] } 11... Qa5 { [%eval 1.2] } 12. d5 { [%eval -2.13] } 12... exd5 { [%eval -2.22] } 13. Bd2 { [%eval -3.31] } 13... Qa4 { [%eval -2.06] } 14. cxd5 { [%eval -2.23] } 14... Rxd5 { [%eval -1.35] } 15. Re1 { [%eval -2.22] } 15... Rhd8 { [%eval -1.32] } 16. c4 { [%eval -1.18] } 16... Qxd1 { [%eval -1.16] } 17. Raxd1 { [%eval -1.17] } 17... R5d7 { [%eval -1.07] } 18. g4 { [%eval -1.52] } 18... Nxg4 { [%eval 0.53] } 19. hxg4 { [%eval 0.46] } 19... Bxg4 { [%eval 0.4] } 20. Nh2 { [%eval -2.38] } 20... Bh3 { [%eval 0.21] } 21. Bg5 { [%eval 0.16] } 21... f6 { [%eval 0.49] } 22. Rxd7 { [%eval 0.54] } 22... Rxd7 { [%eval 0.59] } 23. Be3 { [%eval 0.46] } 23... Kb8 { [%eval 1.05] } 24. Bg4 { [%eval -0.07] } 24... Bxg4 { [%eval -0.21] } 25. Nxg4 { [%eval -0.15] } 25... Nb4 { [%eval 0.32] } 26. a3 { [%eval -0.03] } 26... Nc2 { [%eval 0.0] } 27. Re2 { [%eval -0.02] } 27... Nxe3 { [%eval 0.0] } 28. Nxe3 { [%eval 0.0] } 28... a6 { [%eval 0.05] } 29. Kg2 { [%eval 0.0] } 29... c6 { [%eval 0.12] } 30. c5 { [%eval 0.15] } 30... h5 { [%eval 0.23] } 31. Nf5 { [%eval 0.0] } 31... g6 { [%eval 3.73] } 32. Nd6 { [%eval 3.44] } 32... g5 { [%eval 8.74] } 33. Re8+ { [%eval 8.38] } 33... Kc7 { [%eval #1] } 1-0
+
+

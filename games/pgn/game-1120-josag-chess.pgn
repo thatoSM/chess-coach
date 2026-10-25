@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/game/qsKFYJcP"]
+[Date "2026.10.25"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "Josag_chess"]
+[Result "1-0"]
+[GameId "qsKFYJcP"]
+[UTCDate "2026.10.25"]
+[UTCTime "09:59:22"]
+[WhiteElo "1289"]
+[BlackElo "1325"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-17"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "A43"]
+[Opening "Benoni Defense: French Benoni"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.18] } 1... e6 { [%eval 0.22] } 2. d4 { [%eval 0.29] } 2... c5 { [%eval 0.58] } 3. d5 { [%eval 0.52] } 3... exd5 { [%eval 0.67] } 4. exd5 { [%eval 0.9] } 4... d6 { [%eval 0.72] } 5. c4 { [%eval 0.45] } 5... Bd7 { [%eval 1.56] } 6. Nf3 { [%eval 0.93] } 6... Be7 { [%eval 1.61] } 7. g3 { [%eval 0.61] } 7... Nf6 { [%eval 0.77] } 8. Bg2 { [%eval 0.66] } 8... O-O { [%eval 0.74] } 9. O-O { [%eval 0.61] } 9... b5 { [%eval 0.6] } 10. b3 { [%eval 0.04] } 10... Ne4 { [%eval 0.11] } 11. Re1 { [%eval -0.98] } 11... Bf6 { [%eval -0.74] } 12. Ng5 { [%eval -6.75] } 12... Nxf2 { [%eval -3.47] } 13. Qh5 { [%eval -6.0] } 13... h6 { [%eval -5.74] } 14. Kxf2 { [%eval -6.79] } 14... Bxa1 { [%eval -5.88] } 15. Ne4 { [%eval -5.77] } 15... Bf5 { [%eval 1.42] } 16. Qxf5 { [%eval 1.7] } 16... Bd4+ { [%eval 1.96] } 17. Be3 { [%eval 1.62] } 17... Bxe3+ { [%eval 2.93] } 18. Rxe3 { [%eval 2.97] } 18... g6 { [%eval 4.22] } 19. Qf4 { [%eval 4.74] } 19... Kg7 { [%eval 5.93] } 20. Qxd6 { [%eval 5.0] } 20... Qxd6 { [%eval 6.28] } 21. Nxd6 { [%eval 6.18] } 1-0
+
+

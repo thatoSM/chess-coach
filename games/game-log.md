@@ -25,6 +25,14 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 1123 | WIN | White | laurentboye (1290) | *pending* |
+| 1122 | WIN | Black | Njandini (1309) | *pending* |
+| 1121 | LOSS | White | NotTooSerious (1282) | *pending* |
+| 1120 | WIN | White | Josag_chess (1325) | *pending* |
+| 1119 | WIN | Black | sdenysv (1263) | *pending* |
+| 1118 | LOSS | White | cheer_alisa (1230) | *pending* |
+| 1117 | WIN | Black | Khaledchess60 (1271) | *pending* |
+| 1116 | LOSS | White | keshavee (1227) | *pending* |
 | 1115 | LOSS | Black | caravaggioss (1398) | *pending* |
 | 1114 | LOSS | Black | nshnts (1249) | *pending* |
 | 1113 | WIN | White | ilmarjpb (1194) | *pending* |
@@ -217,14 +225,6 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 | 926 | LOSS | Black | kai20050301 (1185) | *pending* |
 | 925 | LOSS | White | cuixinghe (1182) | *pending* |
 | 924 | LOSS | White | faizanahmad_00 (1219) | *pending* |
-| 923 | WIN | Black | carlosabugieiro (1242) | *pending* |
-| 922 | WIN | White | Dekindtchess (1201) | *pending* |
-| 921 | WIN | Black | Aparajita67 (1170) | *pending* |
-| 920 | WIN | White | Vijender21 (1217) | *pending* |
-| 919 | WIN | Black | ICDream (1134) | *pending* |
-| 918 | WIN | White | Yulia_Kalenkovich (1213) | *pending* |
-| 917 | LOSS | Black | harman_everything (1171) | *pending* |
-| 916 | WIN | White | imran1967 (1183) | *pending* |
 | 1 | — | — | *profile snapshot* | — |
 
 ---
