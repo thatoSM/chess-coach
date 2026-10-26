@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/game/StmfWjUA"]
+[Date "2026.10.26"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "abdalsalam84"]
+[Result "0-1"]
+[GameId "StmfWjUA"]
+[UTCDate "2026.10.26"]
+[UTCTime "14:52:08"]
+[WhiteElo "1289"]
+[BlackElo "1228"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+10"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C44"]
+[Opening "Scotch Game: Scotch Gambit"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 h6 5. Nxd4 Bc5 6. Nf5 Qf6 7. Ng3 Nge7 8. O-O O-O 9. Re1 d6 10. Nc3 Bxf2+ 0-1
+
+

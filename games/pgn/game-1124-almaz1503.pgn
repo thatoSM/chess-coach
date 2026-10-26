@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/game/rXz4O4GC"]
+[Date "2026.10.25"]
+[Round "-"]
+[White "Almaz1503"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "rXz4O4GC"]
+[UTCDate "2026.10.25"]
+[UTCTime "19:41:56"]
+[WhiteElo "1298"]
+[BlackElo "1301"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "900+10"]
+[ECO "A45"]
+[Opening "Indian Defense"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.15] } 1... Nf6 { [%eval 0.15] } 2. e3 { [%eval 0.0] } 2... g6 { [%eval 0.28] } 3. Nf3 { [%eval 0.12] } 3... Bg7 { [%eval 0.19] } 4. Bd3 { [%eval -0.02] } 4... O-O { [%eval 0.15] } 5. b3 { [%eval -0.14] } 5... d6 { [%eval 0.0] } 6. Bb2 { [%eval 0.0] } 6... c5 { [%eval 0.0] } 7. Nbd2 { [%eval -0.3] } 7... Nbd7 { [%eval 0.08] } 8. O-O { [%eval 0.05] } 8... e5 { [%eval 0.4] } 9. dxe5 { [%eval 0.36] } 9... Nd5 { [%eval 0.81] } 10. exd6 { [%eval -3.45] } 10... Bxb2 { [%eval -3.35] } 11. Rb1 { [%eval -4.43] } 11... Bg7 { [%eval -3.67] } 12. Bc4 { [%eval -5.31] } 12... Nc3 { [%eval -5.32] } 13. Qc1 { [%eval -5.54] } 13... Ne2+ { [%eval 1.64] } 14. Bxe2 { [%eval 1.74] } 1-0
+
+

@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/game/1DHfPXFt"]
+[Date "2026.10.26"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "Quocccc"]
+[Result "0-1"]
+[GameId "1DHfPXFt"]
+[UTCDate "2026.10.26"]
+[UTCTime "08:32:26"]
+[WhiteElo "1295"]
+[BlackElo "1329"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+20"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "B22"]
+[Opening "Sicilian Defense: Alapin Variation"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... c5 { [%eval 0.32] } 2. c3 { [%eval 0.0] } 2... g6 { [%eval 0.28] } 3. d4 { [%eval 0.44] } 3... cxd4 { [%eval 0.65] } 4. cxd4 { [%eval 0.57] } 4... e6 { [%eval 1.0] } 5. Nc3 { [%eval 1.16] } 5... Bg7 { [%eval 1.76] } 6. Nf3 { [%eval 1.08] } 6... Ne7 { [%eval 1.19] } 7. Bg5 { [%eval 0.64] } 7... a6 { [%eval 1.06] } 8. Bc4 { [%eval 0.23] } 8... Nbc6 { [%eval 1.43] } 9. a3 { [%eval 0.01] } 9... O-O { [%eval 0.46] } 10. O-O { [%eval 0.02] } 10... b5 { [%eval 0.62] } 11. Ba2 { [%eval 0.83] } 11... Bb7 { [%eval 5.62] } 12. d5 { [%eval 5.79] } 12... exd5 { [%eval 6.39] } 13. Nxd5 { [%eval 4.64] } 13... h6 { [%eval 4.88] } 14. Nxe7+ { [%eval 0.08] } 14... Nxe7 { [%eval 0.15] } 15. Qd5 { [%eval -8.18] } 15... Bxd5 { [%eval -8.08] } 0-1
+
+

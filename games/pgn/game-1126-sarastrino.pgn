@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/game/VV25md2Z"]
+[Date "2026.10.25"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "Sarastrino"]
+[Result "0-1"]
+[GameId "VV25md2Z"]
+[UTCDate "2026.10.25"]
+[UTCTime "19:59:50"]
+[WhiteElo "1300"]
+[BlackElo "1339"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C42"]
+[Opening "Petrov's Defense: Cozio Attack"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Qe2 Qe7 6. d3 Nf6 7. Qxe7+ Bxe7 8. Be2 Bg4 9. h3 Be6 10. Ng5 h6 11. Nxe6 fxe6 12. O-O Nc6 13. Re1 O-O 14. Bf3 e5 15. Nc3 Nd4 16. Bd1 c6 17. Be3 c5 18. Bxd4 cxd4 19. Ne4 b6 20. Nxf6+ Bxf6 21. a4 a5 22. Ra3 Bg5 23. Bf3 Rab8 24. h4 Bd2 25. Rd1 Bb4 26. Raa1 Kh8 27. Rac1 Rbc8 28. Bg4 Rc7 29. Bf3 Rc5 30. Bg4 b5 31. axb5 Rxb5 32. c3 dxc3 33. bxc3 Bc5 34. d4 exd4 35. cxd4 Bb4 36. Bd7 Rb7 37. Ba4 Rbb8 38. d5 Rf6 39. g3 Rbf8 40. Rc2 Rf3 41. Kg2 Rc3 42. Rxc3 Bxc3 43. Rd3 Bb4 44. f4 Rc8 45. Kf3 Kg8 46. Ke4 Kf7 47. Kf5 g6+ 48. Ke4 Re8+ 49. Kf3 Re1 50. Kg4 Kf6 51. h5 Rh1 52. hxg6 Kxg6 53. Rd4 h5+ 54. Kf3 Kf5 55. Bd7+ Kf6 56. f5 Rf1+ 57. Ke4 Bc5 58. Rd3 Re1+ 59. Kf4 Ra1 60. g4 hxg4 61. Kxg4 a4 62. Rd2 a3 63. Re2 Rg1+ 64. Kf4 Rf1+ 65. Ke4 Rd1 66. Rh2 Rd4+ 67. Kf3 Rxd5 68. Kf4 Rd4+ 69. Kf3 Ke5 70. Rg2 Bb4 71. Rf2 Rd2 72. Be6 Rxf2+ 73. Kxf2 d5 74. Ke3 a2 75. Bxd5 a1=Q 0-1
+
+

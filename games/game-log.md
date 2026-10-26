@@ -25,6 +25,12 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 1129 | LOSS | Black | venkateshsriram1947 (1261) | *pending* |
+| 1128 | LOSS | White | abdalsalam84 (1228) | *pending* |
+| 1127 | LOSS | White | Quocccc (1329) | *pending* |
+| 1126 | LOSS | White | Sarastrino (1339) | *pending* |
+| 1125 | WIN | Black | Flaeppi (1230) | *pending* |
+| 1124 | LOSS | Black | Almaz1503 (1298) | *pending* |
 | 1123 | WIN | White | laurentboye (1290) | *pending* |
 | 1122 | WIN | Black | Njandini (1309) | *pending* |
 | 1121 | LOSS | White | NotTooSerious (1282) | *pending* |
@@ -219,12 +225,6 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 | 932 | LOSS | Black | tb20221 (1244) | *pending* |
 | 931 | LOSS | White | xuzhikai (1245) | *pending* |
 | 930 | LOSS | White | Evgenius_Tsk (1241) | *pending* |
-| 929 | WIN | White | BVchBAL (1174) | *pending* |
-| 928 | WIN | Black | michaelv2 (1287) | *pending* |
-| 927 | DRAW | Black | RookAndRoll_182 (1135) | *pending* |
-| 926 | LOSS | Black | kai20050301 (1185) | *pending* |
-| 925 | LOSS | White | cuixinghe (1182) | *pending* |
-| 924 | LOSS | White | faizanahmad_00 (1219) | *pending* |
 | 1 | — | — | *profile snapshot* | — |
 
 ---
