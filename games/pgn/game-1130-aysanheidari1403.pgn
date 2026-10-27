@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/game/4T1CogBf"]
+[Date "2026.10.27"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "aysanheidari1403"]
+[Result "0-1"]
+[GameId "4T1CogBf"]
+[UTCDate "2026.10.27"]
+[UTCTime "10:45:34"]
+[WhiteElo "1277"]
+[BlackElo "1341"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+45"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C44"]
+[Opening "Scotch Game: Scotch Gambit, London Defense"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. d4 { [%eval 0.07] } 3... exd4 { [%eval 0.04] } 4. Bc4 { [%eval 0.0] } 4... Bb4+ { [%eval -0.1] } 5. c3 { [%eval -0.05] } 5... dxc3 { [%eval -0.13] } 6. bxc3 { [%eval -0.15] } 6... Bc5 { [%eval 0.47] } 7. Bd5 { [%eval -1.15] } 7... Nf6 { [%eval -1.15] } 8. Bxc6 { [%eval -2.63] } 8... bxc6 { [%eval -1.51] } 9. e5 { [%eval -2.41] } 9... Nd5 { [%eval -1.01] } 10. c4 { [%eval -1.11] } 10... Nb6 { [%eval -1.08] } 11. O-O { [%eval -1.07] } 11... d6 { [%eval -0.35] } 12. Re1 { [%eval -1.23] } 12... O-O { [%eval -1.12] } 13. exd6 { [%eval -1.72] } 13... cxd6 { [%eval -1.12] } 14. Nbd2 { [%eval -1.73] } 14... Ba6 { [%eval -0.82] } 15. Nb3 { [%eval -1.73] } 15... Bb4 { [%eval -1.74] } 16. Bd2 { [%eval -2.25] } 16... Bxd2 { [%eval -2.12] } 17. Nbxd2 { [%eval -2.29] } 17... Nxc4 { [%eval -2.3] } 18. Nxc4 { [%eval -3.07] } 18... Bxc4 { [%eval -3.3] } 19. Qc2 { [%eval -3.7] } 19... Bd5 { [%eval -3.83] } 20. a4 { [%eval -4.91] } 20... a5 { [%eval -3.73] } 21. Rab1 { [%eval -4.68] } 21... Qf6 { [%eval -4.5] } 22. Re3 { [%eval -5.01] } 22... Rfe8 { [%eval -4.95] } 23. Rbe1 { [%eval -5.33] } 23... Bxf3 { [%eval #2] } 24. gxf3 { [%eval -4.61] } 24... Qg5+ { [%eval -3.67] } 25. Kf1 { [%eval -3.92] } 25... Rxe3 { [%eval -3.66] } 26. Rxe3 { [%eval -3.81] } 26... c5 { [%eval -3.75] } 27. Qe4 { [%eval -3.38] } 27... Rf8 { [%eval -3.45] } 28. Qe8 { [%eval -4.32] } 28... h6 { [%eval -4.22] } 29. f4 { [%eval -6.61] } 29... Qxf4 { [%eval -6.95] } 30. Qc6 { [%eval -6.93] } 30... Qxh2 { [%eval -6.82] } 31. Qxd6 { [%eval -13.82] } 31... Qxd6 { [%eval -13.33] } 0-1
+
+

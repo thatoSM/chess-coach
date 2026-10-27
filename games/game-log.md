@@ -25,6 +25,11 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 1134 | WIN | White | Selda12 (1301) | *pending* |
+| 1133 | WIN | Black | Fernando_Bravoc (1411) | *pending* |
+| 1132 | WIN | White | RomanMihan (1257) | *pending* |
+| 1131 | WIN | Black | Herzlos (1291) | *pending* |
+| 1130 | LOSS | White | aysanheidari1403 (1341) | *pending* |
 | 1129 | LOSS | Black | venkateshsriram1947 (1261) | *pending* |
 | 1128 | LOSS | White | abdalsalam84 (1228) | *pending* |
 | 1127 | LOSS | White | Quocccc (1329) | *pending* |
@@ -220,11 +225,6 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 | 937 | WIN | Black | rudy8929 (1500) | *pending* |
 | 936 | WIN | Black | Daxmatt (1281) | *pending* |
 | 935 | DRAW | White | CoArnavchess5967 (1240) | *pending* |
-| 934 | WIN | White | Samir_ALJENF4WI (1302) | *pending* |
-| 933 | WIN | Black | DavidTeneT (1183) | *pending* |
-| 932 | LOSS | Black | tb20221 (1244) | *pending* |
-| 931 | LOSS | White | xuzhikai (1245) | *pending* |
-| 930 | LOSS | White | Evgenius_Tsk (1241) | *pending* |
 | 1 | — | — | *profile snapshot* | — |
 
 ---
