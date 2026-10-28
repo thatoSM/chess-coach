@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/game/NppIH5Gh"]
+[Date "2026.10.28"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "Fedor_Pak17"]
+[Result "0-1"]
+[GameId "NppIH5Gh"]
+[UTCDate "2026.10.28"]
+[UTCTime "05:29:48"]
+[WhiteElo "1297"]
+[BlackElo "1261"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C44"]
+[Opening "Scotch Game: Scotch Gambit, Kingside Variation"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. e5 Ng4 6. O-O Bb4 7. Re1 Bxe1 8. Qxe1 d6 0-1
+
+

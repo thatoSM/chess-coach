@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/game/ZRbRgyG1"]
+[Date "2026.10.28"]
+[Round "-"]
+[White "Yanuchkrut"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "ZRbRgyG1"]
+[UTCDate "2026.10.28"]
+[UTCTime "11:24:52"]
+[WhiteElo "1302"]
+[BlackElo "1289"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "900+10"]
+[ECO "A05"]
+[Opening "King's Indian Attack: Wahls Defense"]
+[Termination "Normal"]
+
+1. Nf3 { [%eval 0.1] } 1... Nf6 { [%eval 0.18] } 2. g3 { [%eval 0.11] } 2... g6 { [%eval 0.21] } 3. Bg2 { [%eval 0.13] } 3... Bg7 { [%eval 0.18] } 4. d3 { [%eval 0.0] } 4... d5 { [%eval -0.07] } 5. O-O { [%eval -0.1] } 5... O-O { [%eval -0.06] } 6. Nbd2 { [%eval -0.16] } 6... c5 { [%eval 0.0] } 7. c4 { [%eval -0.45] } 7... dxc4 { [%eval 0.06] } 8. Nxc4 { [%eval 0.12] } 8... b6 { [%eval 0.42] } 9. Nfe5 { [%eval 0.32] } 9... Nd5 { [%eval 0.35] } 10. f4 { [%eval -0.14] } 10... Bb7 { [%eval -0.21] } 11. e4 { [%eval -0.53] } 11... Nc7 { [%eval -0.1] } 12. Qc2 { [%eval -0.49] } 12... Qd4+ { [%eval 0.13] } 13. Be3 { [%eval 0.11] } 13... Qd8 { [%eval 0.13] } 14. Rad1 { [%eval 0.09] } 14... Nc6 { [%eval 0.14] } 15. Nxc6 { [%eval 0.12] } 15... Bxc6 { [%eval 0.1] } 16. d4 { [%eval 0.0] } 16... Bxd4 { [%eval 0.12] } 17. Bxd4 { [%eval 0.02] } 17... cxd4 { [%eval 0.07] } 18. Ne5 { [%eval 0.03] } 18... Bb7 { [%eval 0.17] } 19. f5 { [%eval 0.0] } 19... Qd6 { [%eval 0.11] } 20. fxg6 { [%eval -0.52] } 20... Qxe5 { [%eval 0.07] } 21. gxh7+ { [%eval 0.0] } 21... Kxh7 { [%eval 4.5] } 22. Rf5 { [%eval 4.68] } 22... Qg7 { [%eval 4.32] } 23. e5 { [%eval 4.22] } 23... e6 { [%eval 9.65] } 24. Rg5+ { [%eval 9.22] } 1-0
+
+

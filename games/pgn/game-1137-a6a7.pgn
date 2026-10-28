@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/game/cImhuI2q"]
+[Date "2026.10.28"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "a6a7"]
+[Result "1-0"]
+[GameId "cImhuI2q"]
+[UTCDate "2026.10.28"]
+[UTCTime "06:19:27"]
+[WhiteElo "1284"]
+[BlackElo "1248"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... c6 { [%eval 0.31] } 2. c3 { [%eval 0.3] } 2... d5 { [%eval 0.26] } 3. exd5 { [%eval 0.15] } 3... cxd5 { [%eval 0.13] } 4. d4 { [%eval 0.13] } 4... Nc6 { [%eval 0.17] } 5. Bb5 { [%eval -0.01] } 5... Bd7 { [%eval 0.21] } 6. Nf3 { [%eval 0.12] } 6... a6 { [%eval 0.21] } 7. Ba4 { [%eval 0.08] } 7... b5 { [%eval 0.13] } 8. Bb3 { [%eval 0.19] } 8... Na5 { [%eval 2.21] } 9. Bxd5 { [%eval 2.26] } 9... Rc8 { [%eval 2.37] } 10. b4 { [%eval 0.73] } 10... Nc4 { [%eval 2.15] } 11. Bxc4 { [%eval 2.0] } 11... Rxc4 { [%eval 2.42] } 12. Ne5 { [%eval 2.4] } 12... Rc7 { [%eval 3.77] } 13. Nxd7 { [%eval 3.4] } 13... Rxd7 { [%eval 3.58] } 14. Be3 { [%eval 2.04] } 14... e5 { [%eval 2.6] } 15. O-O { [%eval 2.19] } 15... Ne7 { [%eval 3.39] } 16. Re1 { [%eval 1.48] } 16... Nf5 { [%eval 4.21] } 17. Bf4 { [%eval 3.98] } 17... Be7 { [%eval 4.56] } 18. Rxe5 { [%eval 3.6] } 18... g6 { [%eval 4.71] } 19. Re1 { [%eval 4.21] } 19... O-O { [%eval 4.47] } 20. Nd2 { [%eval 4.41] } 20... Nxd4 { [%eval 6.37] } 21. cxd4 { [%eval 5.38] } 21... Rxd4 { [%eval 6.41] } 22. Bh6 { [%eval 5.24] } 22... Re8 { [%eval 6.88] } 23. Qc2 { [%eval 6.1] } 23... Rxd2 { [%eval 8.24] } 24. Bxd2 { [%eval 7.98] } 24... Qb6 { [%eval 8.95] } 25. Bh6 { [%eval 8.9] } 25... Bf6 { [%eval #1] } 26. Rxe8# { [%eval #0] } 1-0
+
+

@@ -25,6 +25,19 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 1147 | WIN | Black | glucomannano (1298) | *pending* |
+| 1146 | LOSS | White | gao_tulinh (1373) | *pending* |
+| 1145 | LOSS | Black | Yanuchkrut (1302) | *pending* |
+| 1144 | WIN | Black | hed32 (1188) | *pending* |
+| 1143 | LOSS | White | Divyamsingh020317 (1190) | *pending* |
+| 1142 | LOSS | Black | Bela_Fera (1399) | *pending* |
+| 1141 | LOSS | White | Charles-gong (1313) | *pending* |
+| 1140 | WIN | White | Dmitry_Kovalev (1332) | *pending* |
+| 1139 | DRAW | Black | ED_Salk (1338) | *pending* |
+| 1138 | WIN | Black | Aslan_Pro_07 (1356) | *pending* |
+| 1137 | WIN | White | a6a7 (1248) | *pending* |
+| 1136 | LOSS | White | ThrimurthiGamya (1257) | *pending* |
+| 1135 | LOSS | White | Fedor_Pak17 (1261) | *pending* |
 | 1134 | WIN | White | Selda12 (1301) | *pending* |
 | 1133 | WIN | Black | Fernando_Bravoc (1411) | *pending* |
 | 1132 | WIN | White | RomanMihan (1257) | *pending* |
@@ -212,19 +225,6 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 | 950 | LOSS | White | Chimpancy (1254) | *pending* |
 | 949 | LOSS | White | Danil301084 (1222) | *pending* |
 | 948 | WIN | Black | Rekonkwista70 (1268) | *pending* |
-| 947 | LOSS | White | naveenchalimeti (1275) | *pending* |
-| 946 | LOSS | White | OGN (1345) | *pending* |
-| 945 | LOSS | Black | BongoHobbit (1223) | *pending* |
-| 944 | WIN | White | Feliziano (1268) | *pending* |
-| 943 | WIN | White | Bsisa77 (1292) | *pending* |
-| 942 | WIN | Black | savan105 (1218) | *pending* |
-| 941 | WIN | White | Plotnikova_Irina (1221) | *pending* |
-| 940 | WIN | White | artur06022017 (1247) | *pending* |
-| 939 | LOSS | Black | panteleon (1253) | *pending* |
-| 938 | WIN | White | gregg_ink (1255) | *pending* |
-| 937 | WIN | Black | rudy8929 (1500) | *pending* |
-| 936 | WIN | Black | Daxmatt (1281) | *pending* |
-| 935 | DRAW | White | CoArnavchess5967 (1240) | *pending* |
 | 1 | — | — | *profile snapshot* | — |
 
 ---

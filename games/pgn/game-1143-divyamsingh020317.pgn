@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/game/REAVXXBS"]
+[Date "2026.10.28"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "Divyamsingh020317"]
+[Result "0-1"]
+[GameId "REAVXXBS"]
+[UTCDate "2026.10.28"]
+[UTCTime "10:26:32"]
+[WhiteElo "1293"]
+[BlackElo "1190"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+9"]
+[Variant "Standard"]
+[TimeControl "900+10"]
+[ECO "B22"]
+[Opening "Sicilian Defense: Alapin Variation"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... c5 { [%eval 0.32] } 2. c3 { [%eval 0.0] } 2... e6 { [%eval 0.25] } 3. d4 { [%eval 0.28] } 3... cxd4 { [%eval 0.36] } 4. cxd4 { [%eval 0.35] } 4... d5 { [%eval 0.47] } 5. e5 { [%eval 0.38] } 5... f6 { [%eval 0.82] } 6. Nf3 { [%eval 0.8] } 6... fxe5 { [%eval 0.76] } 7. Nxe5 { [%eval 0.81] } 7... Bb4+ { [%eval 1.53] } 8. Bd2 { [%eval 1.24] } 8... Bxd2+ { [%eval 1.23] } 9. Qxd2 { [%eval 0.33] } 9... Nc6 { [%eval 0.66] } 10. Bb5 { [%eval 0.85] } 10... Qc7 { [%eval 1.8] } 11. Qc2 { [%eval 1.13] } 11... Ne7 { [%eval 1.13] } 12. O-O { [%eval 1.01] } 12... a6 { [%eval 1.87] } 13. Nxc6 { [%eval 0.0] } 13... axb5 { [%eval 0.0] } 14. Nb4 { [%eval 0.0] } 14... Qxc2 { [%eval 0.11] } 15. Nxc2 { [%eval 0.12] } 15... O-O { [%eval 0.2] } 16. Nc3 { [%eval 0.21] } 16... Rf5 { [%eval 0.86] } 17. Nxb5 { [%eval 0.94] } 17... Nc6 { [%eval 1.21] } 18. Nd6 { [%eval 0.8] } 18... Rf4 { [%eval 1.18] } 19. Nxc8 { [%eval 0.53] } 19... Rxc8 { [%eval 0.62] } 20. Rad1 { [%eval 0.31] } 20... Re8 { [%eval 1.23] } 21. Rfe1 { [%eval 1.03] } 21... Kf7 { [%eval 1.37] } 22. b4 { [%eval 0.31] } 22... Ra8 { [%eval 0.34] } 23. a3 { [%eval 0.31] } 23... Ne7 { [%eval 0.32] } 24. g3 { [%eval 0.12] } 24... Re4 { [%eval 0.18] } 25. Rxe4 { [%eval 0.09] } 25... dxe4 { [%eval 0.11] } 26. Re1 { [%eval 0.1] } 26... Rc8 { [%eval 0.18] } 27. Na1 { [%eval -0.04] } 27... Rc3 { [%eval -0.03] } 28. Re3 { [%eval -4.85] } 28... Rc1+ { [%eval -4.8] } 29. Kg2 { [%eval -4.67] } 29... Rxa1 { [%eval -4.77] } 30. Rxe4 { [%eval -4.71] } 30... Nd5 { [%eval -4.69] } 31. f4 { [%eval -4.78] } 31... g6 { [%eval -4.66] } 32. Re5 { [%eval -4.75] } 32... Rxa3 { [%eval -4.84] } 33. g4 { [%eval -7.06] } 33... Nxf4+ { [%eval -6.59] } 34. Kf2 { [%eval -8.13] } 34... Nd3+ { [%eval -8.03] } 0-1
+
+

@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/game/wSVZMfbZ"]
+[Date "2026.10.28"]
+[Round "-"]
+[White "Aslan_Pro_07"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "wSVZMfbZ"]
+[UTCDate "2026.10.28"]
+[UTCTime "06:38:44"]
+[WhiteElo "1356"]
+[BlackElo "1289"]
+[WhiteRatingDiff "-55"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "B11"]
+[Opening "Caro-Kann Defense: Two Knights Attack, Mindeno Variation"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... c6 { [%eval 0.31] } 2. Nf3 { [%eval 0.17] } 2... d5 { [%eval 0.21] } 3. Nc3 { [%eval 0.2] } 3... Bg4 { [%eval 0.27] } 4. d4 { [%eval 0.16] } 4... dxe4 { [%eval 0.37] } 5. Nxe4 { [%eval 0.34] } 5... Bxf3 { [%eval 0.79] } 6. Qxf3 { [%eval 0.83] } 6... Qxd4 { [%eval 1.59] } 7. Bd3 { [%eval 0.27] } 7... Nf6 { [%eval 0.92] } 8. O-O { [%eval 0.37] } 8... Nxe4 { [%eval 0.6] } 9. Bxe4 { [%eval 0.5] } 9... e6 { [%eval 2.03] } 10. c3 { [%eval 0.72] } 10... Qd8 { [%eval 0.81] } 11. Re1 { [%eval 0.1] } 11... Be7 { [%eval 0.46] } 12. Bf4 { [%eval 0.49] } 12... O-O { [%eval 1.41] } 13. Qg4 { [%eval -3.53] } 13... g6 { [%eval -0.02] } 14. Bh6 { [%eval -0.13] } 14... Re8 { [%eval -0.24] } 15. Bxg6 { [%eval -4.65] } 15... hxg6 { [%eval -4.55] } 16. Rxe6 { [%eval -5.0] } 16... Qd3 { [%eval 5.99] } 17. Rd1 { [%eval 0.22] } 17... Qf5 { [%eval 8.21] } 18. Rf6 { [%eval -9.98] } 18... Qxf6 { [%eval -8.52] } 0-1
+
+

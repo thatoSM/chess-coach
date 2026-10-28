@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/game/8evoTJYD"]
+[Date "2026.10.28"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "ThrimurthiGamya"]
+[Result "0-1"]
+[GameId "8evoTJYD"]
+[UTCDate "2026.10.28"]
+[UTCTime "05:31:46"]
+[WhiteElo "1290"]
+[BlackElo "1257"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C40"]
+[Opening "King's Pawn Game: McConnell Defense"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Qf6 3. d4 exd4 4. Nxd4 Bc5 5. Nf3 d6 6. h3 Be6 7. Bd3 Nd7 8. Bg5 Qxb2 9. Nbd2 Qb6 10. Nb3 Bxf2+ 0-1
+
+
