@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/game/bECUhH6s"]
+[Date "2026.10.29"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "Vaunandrei"]
+[Result "1-0"]
+[GameId "bECUhH6s"]
+[UTCDate "2026.10.29"]
+[UTCTime "06:07:01"]
+[WhiteElo "1287"]
+[BlackElo "1380"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C44"]
+[Opening "Scotch Game"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. d4 { [%eval 0.07] } 3... Bd6 { [%eval 0.8] } 4. d5 { [%eval 0.71] } 4... Nce7 { [%eval 0.75] } 5. Bg5 { [%eval 0.54] } 5... f6 { [%eval 0.54] } 6. Be3 { [%eval 0.49] } 6... b6 { [%eval 1.24] } 7. Bb5 { [%eval 1.09] } 7... Bb7 { [%eval 1.2] } 8. Nc3 { [%eval 1.07] } 8... a6 { [%eval 1.14] } 9. Be2 { [%eval 0.72] } 9... Bb4 { [%eval 1.43] } 10. Qd2 { [%eval 0.55] } 10... c6 { [%eval 1.43] } 11. a3 { [%eval -1.1] } 1-0
+
+

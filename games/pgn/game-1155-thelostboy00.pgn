@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/game/brHM1pA4"]
+[Date "2026.10.29"]
+[Round "-"]
+[White "thelostboy00"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "brHM1pA4"]
+[UTCDate "2026.10.29"]
+[UTCTime "16:16:04"]
+[WhiteElo "1317"]
+[BlackElo "1317"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "B15"]
+[Opening "Caro-Kann Defense: von Hennig Gambit"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... c6 { [%eval 0.31] } 2. d4 { [%eval 0.24] } 2... d5 { [%eval 0.24] } 3. Nc3 { [%eval 0.34] } 3... dxe4 { [%eval 0.18] } 4. Bc4 { [%eval -0.39] } 4... b5 { [%eval -0.46] } 5. Bb3 { [%eval -0.53] } 5... a5 { [%eval 0.23] } 6. a3 { [%eval -0.19] } 6... a4 { [%eval -0.12] } 7. Ba2 { [%eval -0.08] } 7... Nf6 { [%eval -0.03] } 8. f3 { [%eval -0.61] } 8... exf3 { [%eval -0.5] } 9. Nxf3 { [%eval -0.55] } 9... e6 { [%eval -0.54] } 10. Ne5 { [%eval -0.43] } 10... Bd6 { [%eval -0.34] } 11. Bf4 { [%eval -0.46] } 11... Nd5 { [%eval -0.35] } 12. Nxd5 { [%eval -0.52] } 12... exd5 { [%eval -0.31] } 13. Nxc6 { [%eval -6.11] } 13... Nxc6 { [%eval -6.06] } 14. Bxd6 { [%eval -6.11] } 14... Qxd6 { [%eval -5.85] } 15. c3 { [%eval -6.16] } 15... O-O { [%eval -6.15] } 16. Qd3 { [%eval -6.71] } 16... Re8+ { [%eval -6.76] } 17. Kd2 { [%eval #-14] } 17... Qf4+ { [%eval #-14] } 18. Kc2 { [%eval -15.2] } 18... Bf5 { [%eval -13.32] } 19. Rhf1 { [%eval #-2] } 19... Bxd3+ { [%eval #-5] } 20. Kxd3 { [%eval #-5] } 20... Qe3+ { [%eval #-4] } 21. Kc2 { [%eval #-4] } 21... Qe2+ { [%eval #-3] } 22. Kc1 { [%eval #-3] } 22... Qxf1+ { [%eval #-2] } 0-1
+
+

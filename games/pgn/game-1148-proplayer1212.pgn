@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/game/IobqgXJe"]
+[Date "2026.10.29"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "Proplayer1212"]
+[Result "1-0"]
+[GameId "IobqgXJe"]
+[UTCDate "2026.10.29"]
+[UTCTime "05:33:42"]
+[WhiteElo "1286"]
+[BlackElo "1301"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "900+10"]
+[ECO "C44"]
+[Opening "Scotch Game: Scotch Gambit, Sarratt Variation"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. d4 { [%eval 0.07] } 3... exd4 { [%eval 0.04] } 4. Bc4 { [%eval 0.0] } 4... Bc5 { [%eval 0.2] } 5. Ng5 { [%eval 0.0] } 5... Nh6 { [%eval 0.0] } 6. Bxf7+ { [%eval 0.0] } 6... Nxf7 { [%eval 0.0] } 7. Nxf7 { [%eval 0.0] } 7... Kxf7 { [%eval 0.0] } 8. Qh5+ { [%eval 0.0] } 8... g6 { [%eval 0.09] } 9. Qxc5 { [%eval 0.03] } 9... d6 { [%eval 0.11] } 10. Qc4+ { [%eval 0.21] } 10... Be6 { [%eval 0.21] } 11. Qe2 { [%eval 0.14] } 11... Qf6 { [%eval 0.17] } 12. O-O { [%eval 0.16] } 12... Ne5 { [%eval 1.51] } 13. h3 { [%eval -2.81] } 13... Bc4 { [%eval -2.35] } 14. Qd2 { [%eval -2.99] } 14... Bxf1 { [%eval -3.22] } 15. Kxf1 { [%eval -3.12] } 15... Nc6 { [%eval -3.3] } 16. c3 { [%eval -3.62] } 16... dxc3 { [%eval -1.04] } 17. Nxc3 { [%eval -1.02] } 17... Rad8 { [%eval -0.18] } 18. Nd5 { [%eval -0.23] } 18... Qe5 { [%eval -0.19] } 19. Nxc7 { [%eval -3.69] } 19... Qh2 { [%eval #7] } 20. Qc3 { [%eval -1.63] } 20... Ne5 { [%eval 4.6] } 21. Bh6 { [%eval 0.0] } 21... Rc8 { [%eval #9] } 22. f4 { [%eval 5.09] } 22... Rxc7 { [%eval 9.26] } 23. Qxc7+ { [%eval 8.99] } 23... Ke6 { [%eval 8.93] } 24. fxe5 { [%eval 8.57] } 24... dxe5 { [%eval 11.49] } 25. Qc4+ { [%eval 10.94] } 25... Kd7 { [%eval #3] } 26. Rd1+ { [%eval #2] } 26... Ke7 { [%eval #2] } 27. Bg5+ { [%eval #2] } 27... Kf8 { [%eval #2] } 28. Rd8+ { [%eval #1] } 28... Kg7 { [%eval #1] } 29. Qc7# { [%eval #0] } 1-0
+
+

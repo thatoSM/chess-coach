@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/game/H7BMJf2T"]
+[Date "2026.10.29"]
+[Round "-"]
+[White "JensHanf"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "H7BMJf2T"]
+[UTCDate "2026.10.29"]
+[UTCTime "05:57:32"]
+[WhiteElo "1335"]
+[BlackElo "1292"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "900+10"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Short Variation"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... c6 { [%eval 0.31] } 2. Nf3 { [%eval 0.17] } 2... d5 { [%eval 0.21] } 3. e5 { [%eval 0.12] } 3... Bf5 { [%eval 0.4] } 4. d4 { [%eval 0.15] } 4... e6 { [%eval 0.24] } 5. Bd3 { [%eval 0.0] } 5... Bxd3 { [%eval 0.0] } 6. Qxd3 { [%eval 0.03] } 6... c5 { [%eval 0.0] } 7. c4 { [%eval 0.0] } 7... dxc4 { [%eval 0.07] } 8. Qxc4 { [%eval 0.02] } 8... cxd4 { [%eval 0.11] } 9. Nxd4 { [%eval 0.08] } 9... Qa5+ { [%eval 1.79] } 10. Bd2 { [%eval -0.75] } 10... Qxe5+ { [%eval -0.74] } 11. Be3 { [%eval -0.67] } 11... Nf6 { [%eval 9.14] } 12. Qc8+ { [%eval 9.17] } 12... Ke7 { [%eval 9.16] } 13. Qxb7+ { [%eval 8.75] } 13... Ke8 { [%eval 8.49] } 14. Qxa8 { [%eval 8.16] } 14... Bc5 { [%eval 9.32] } 15. Nc6 { [%eval 8.84] } 15... Qxb2 { [%eval 8.5] } 16. Bxc5 { [%eval 8.62] } 16... Qxa1 { [%eval #3] } 17. Qxb8+ { [%eval #2] } 17... Kd7 { [%eval #2] } 18. Qb7+ { [%eval #1] } 1-0
+
+

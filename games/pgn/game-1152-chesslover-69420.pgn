@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/game/SbrMQ80X"]
+[Date "2026.10.29"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "chessLover_69420"]
+[Result "1-0"]
+[GameId "SbrMQ80X"]
+[UTCDate "2026.10.29"]
+[UTCTime "11:27:17"]
+[WhiteElo "1300"]
+[BlackElo "1336"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation, Main Line"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e6 { [%eval 0.22] } 2. d4 { [%eval 0.29] } 2... d5 { [%eval 0.38] } 3. e5 { [%eval 0.25] } 3... c5 { [%eval 0.2] } 4. c3 { [%eval 0.27] } 4... Nc6 { [%eval 0.11] } 5. Nf3 { [%eval 0.22] } 5... Qb6 { [%eval 0.22] } 6. a3 { [%eval 0.14] } 6... c4 { [%eval 0.28] } 7. Be2 { [%eval 0.15] } 7... Bd7 { [%eval 0.32] } 8. Nbd2 { [%eval 0.43] } 8... Nh6 { [%eval 1.11] } 9. b3 { [%eval 1.0] } 9... cxb3 { [%eval 1.06] } 10. Nxb3 { [%eval 1.11] } 10... Ne7 { [%eval 2.16] } 11. Bxh6 { [%eval 1.92] } 11... gxh6 { [%eval 1.92] } 12. Nc5 { [%eval 1.97] } 12... Bc6 { [%eval 1.71] } 13. Rb1 { [%eval 1.57] } 13... Qa5 { [%eval 3.9] } 14. O-O { [%eval 1.48] } 14... Qxc3 { [%eval 6.53] } 15. Nxb7 { [%eval 6.37] } 15... Bxb7 { [%eval 6.47] } 16. Rxb7 { [%eval 6.25] } 16... Qxa3 { [%eval 11.18] } 17. Bb5+ { [%eval 11.31] } 17... Kd8 { [%eval #7] } 18. Rd7+ { [%eval #6] } 18... Kc8 { [%eval #4] } 19. Qc2+ { [%eval #3] } 19... Kb8 { [%eval #1] } 20. Qc7# { [%eval #0] } 1-0
+
+

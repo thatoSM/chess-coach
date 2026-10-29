@@ -25,6 +25,14 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 1155 | WIN | Black | thelostboy00 (1317) | *pending* |
+| 1154 | WIN | White | MagnusNakamura231 (1307) | *pending* |
+| 1153 | WIN | Black | Oliverus2 (1309) | *pending* |
+| 1152 | WIN | White | chessLover_69420 (1336) | *pending* |
+| 1151 | WIN | Black | mkhabrai (1275) | *pending* |
+| 1150 | WIN | White | Vaunandrei (1380) | *pending* |
+| 1149 | LOSS | Black | JensHanf (1335) | *pending* |
+| 1148 | WIN | White | Proplayer1212 (1301) | *pending* |
 | 1147 | WIN | Black | glucomannano (1298) | *pending* |
 | 1146 | LOSS | White | gao_tulinh (1373) | *pending* |
 | 1145 | LOSS | Black | Yanuchkrut (1302) | *pending* |
@@ -217,14 +225,6 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 | 958 | WIN | White | hannaasemsem (1160) | *pending* |
 | 957 | WIN | White | Youssef9306 (1216) | *pending* |
 | 956 | LOSS | Black | xentomile (1281) | *pending* |
-| 955 | LOSS | Black | saurabh1101 (1148) | *pending* |
-| 954 | LOSS | Black | DonegalGAA (1179) | *pending* |
-| 953 | WIN | White | mildchess04 (1127) | *pending* |
-| 952 | LOSS | Black | Zongereg (1219) | *pending* |
-| 951 | WIN | Black | DrLee07 (1307) | *pending* |
-| 950 | LOSS | White | Chimpancy (1254) | *pending* |
-| 949 | LOSS | White | Danil301084 (1222) | *pending* |
-| 948 | WIN | Black | Rekonkwista70 (1268) | *pending* |
 | 1 | — | — | *profile snapshot* | — |
 
 ---
