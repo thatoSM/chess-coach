@@ -25,6 +25,7 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 1156 | LOSS | White | MiguelAngelGomez7824 (1323) | *pending* |
 | 1155 | WIN | Black | thelostboy00 (1317) | *pending* |
 | 1154 | WIN | White | MagnusNakamura231 (1307) | *pending* |
 | 1153 | WIN | Black | Oliverus2 (1309) | *pending* |
@@ -224,7 +225,6 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 | 959 | WIN | White | Lateigne91 (1311) | *pending* |
 | 958 | WIN | White | hannaasemsem (1160) | *pending* |
 | 957 | WIN | White | Youssef9306 (1216) | *pending* |
-| 956 | LOSS | Black | xentomile (1281) | *pending* |
 | 1 | — | — | *profile snapshot* | — |
 
 ---
