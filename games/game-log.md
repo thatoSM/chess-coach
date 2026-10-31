@@ -25,6 +25,11 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 1161 | WIN | Black | nagibator3400 (1286) | *pending* |
+| 1160 | WIN | White | denizden1 (1269) | *pending* |
+| 1159 | LOSS | Black | patrick851 (1378) | *pending* |
+| 1158 | LOSS | White | Granddragons-097 (1335) | *pending* |
+| 1157 | WIN | Black | zoro39150 (1432) | *pending* |
 | 1156 | LOSS | White | MiguelAngelGomez7824 (1323) | *pending* |
 | 1155 | WIN | Black | thelostboy00 (1317) | *pending* |
 | 1154 | WIN | White | MagnusNakamura231 (1307) | *pending* |
@@ -220,11 +225,6 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 | 964 | WIN | White | Frank-Bremen (1247) | *pending* |
 | 963 | LOSS | Black | El-shatranj-arg2609 (1154) | *pending* |
 | 962 | WIN | Black | Erbao180901 (1288) | *pending* |
-| 961 | WIN | White | michaelmaue (1294) | *pending* |
-| 960 | WIN | Black | Mokarina (1273) | *pending* |
-| 959 | WIN | White | Lateigne91 (1311) | *pending* |
-| 958 | WIN | White | hannaasemsem (1160) | *pending* |
-| 957 | WIN | White | Youssef9306 (1216) | *pending* |
 | 1 | — | — | *profile snapshot* | — |
 
 ---

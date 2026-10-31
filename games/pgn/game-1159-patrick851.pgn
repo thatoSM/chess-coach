@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/game/Dlc2AEF5"]
+[Date "2026.10.31"]
+[Round "-"]
+[White "patrick851"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "Dlc2AEF5"]
+[UTCDate "2026.10.31"]
+[UTCTime "09:53:39"]
+[WhiteElo "1378"]
+[BlackElo "1319"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-4"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "A48"]
+[Opening "London System"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bf4 Bg7 4. e3 d5 5. Bd3 O-O 6. c3 Nh5 7. Be5 f6 8. Bg3 Nxg3 9. hxg3 Bg4 10. Qc2 a5 11. Bxg6 hxg6 12. Qxg6 Qd7 13. Rh7 Bf5 14. Qxg7# 1-0
+
+

@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/game/guxzfcBJ"]
+[Date "2026.10.30"]
+[Round "-"]
+[White "zoro39150"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "guxzfcBJ"]
+[UTCDate "2026.10.30"]
+[UTCTime "19:18:16"]
+[WhiteElo "1432"]
+[BlackElo "1317"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense: Hillbilly Attack"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... c6 { [%eval 0.31] } 2. Bc4 { [%eval -0.28] } 2... d5 { [%eval -0.2] } 3. exd5 { [%eval -0.29] } 3... cxd5 { [%eval -0.27] } 4. Bb3 { [%eval -0.24] } 4... e5 { [%eval -0.03] } 5. d3 { [%eval -0.35] } 5... Nf6 { [%eval 0.0] } 6. Ne2 { [%eval -0.06] } 6... Be7 { [%eval 0.0] } 7. O-O { [%eval -0.07] } 7... O-O { [%eval 0.0] } 8. Ng3 { [%eval -0.39] } 8... h6 { [%eval -0.39] } 9. Nd2 { [%eval -0.89] } 9... Nc6 { [%eval -0.85] } 10. a3 { [%eval -1.12] } 10... Bg4 { [%eval -1.36] } 11. Qe1 { [%eval -1.23] } 11... a5 { [%eval -1.16] } 12. f3 { [%eval -2.15] } 12... Qb6+ { [%eval -1.37] } 13. Kh1 { [%eval -1.49] } 13... Be6 { [%eval -1.47] } 14. Ba2 { [%eval -2.11] } 14... Bc5 { [%eval -1.42] } 15. Nb3 { [%eval -1.6] } 15... Bd6 { [%eval -1.38] } 16. Be3 { [%eval -1.29] } 16... d4 { [%eval -1.28] } 17. Bg1 { [%eval -1.32] } 17... a4 { [%eval -1.41] } 18. Nd2 { [%eval -1.14] } 18... Qxb2 { [%eval 4.14] } 19. Bxe6 { [%eval 4.14] } 19... fxe6 { [%eval 4.14] } 20. Nc4 { [%eval 4.18] } 20... Qxc2 { [%eval 4.06] } 21. Nxd6 { [%eval 3.97] } 21... Na5 { [%eval 5.96] } 22. Nde4 { [%eval 3.7] } 22... Qxd3 { [%eval 5.12] } 23. Nxf6+ { [%eval 5.08] } 23... Rxf6 { [%eval 5.21] } 24. Qxe5 { [%eval 4.91] } 24... Nc4 { [%eval 5.56] } 25. Qc7 { [%eval 3.5] } 25... Nd2 { [%eval 7.1] } 26. Rfd1 { [%eval 7.37] } 26... Rxf3 { [%eval 7.96] } 27. gxf3 { [%eval #-1] } 27... Qxf3# { [%eval #0] } 0-1
+
+
