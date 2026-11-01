@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/game/68IgN6Wf"]
+[Date "2026.11.01"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "yamorasu"]
+[Result "1-0"]
+[GameId "68IgN6Wf"]
+[UTCDate "2026.11.01"]
+[UTCTime "07:01:04"]
+[WhiteElo "1330"]
+[BlackElo "1320"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C44"]
+[Opening "Scotch Game"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. d4 { [%eval 0.07] } 3... d5 { [%eval 0.91] } 4. dxe5 { [%eval 0.37] } 4... dxe4 { [%eval 0.28] } 5. Qxd8+ { [%eval 0.3] } 5... Nxd8 { [%eval 0.26] } 6. Nfd2 { [%eval 0.03] } 6... Bf5 { [%eval 0.0] } 7. Nc3 { [%eval 0.19] } 7... Bb4 { [%eval 0.66] } 8. a3 { [%eval -0.51] } 8... Bxc3 { [%eval -0.52] } 9. bxc3 { [%eval -0.58] } 9... Nc6 { [%eval -0.55] } 10. Bb5 { [%eval -0.75] } 10... O-O-O { [%eval 0.07] } 11. Bxc6 { [%eval 0.13] } 11... bxc6 { [%eval 0.15] } 12. Rb1 { [%eval -0.35] } 12... e3 { [%eval -0.37] } 13. fxe3 { [%eval -0.35] } 13... Bxc2 { [%eval -0.4] } 14. Rb2 { [%eval -0.39] } 14... Bd3 { [%eval -0.45] } 15. Nf3 { [%eval -0.94] } 15... Ne7 { [%eval -0.89] } 16. Rd2 { [%eval -1.17] } 16... Ng6 { [%eval -0.95] } 17. Nd4 { [%eval -4.93] } 17... Ba6 { [%eval -1.93] } 18. e6 { [%eval -1.99] } 18... fxe6 { [%eval -1.37] } 19. Nxe6 { [%eval -1.47] } 19... Rde8 { [%eval -1.63] } 20. Nxg7 { [%eval -1.55] } 20... Rxe3+ { [%eval -1.61] } 21. Kd1 { [%eval -1.71] } 21... Rd8 { [%eval 8.1] } 22. Rxd8+ { [%eval 7.81] } 22... Kxd8 { [%eval 7.72] } 1-0
+
+

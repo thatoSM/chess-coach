@@ -25,6 +25,9 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 1164 | WIN | Black | Conan302 (1316) | *pending* |
+| 1163 | WIN | White | yamorasu (1320) | *pending* |
+| 1162 | WIN | White | taraneh04 (1324) | *pending* |
 | 1161 | WIN | Black | nagibator3400 (1286) | *pending* |
 | 1160 | WIN | White | denizden1 (1269) | *pending* |
 | 1159 | LOSS | Black | patrick851 (1378) | *pending* |
@@ -222,9 +225,6 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 | 967 | LOSS | White | lambdallama (1385) | *pending* |
 | 966 | WIN | Black | Tushar_1311 (1313) | *pending* |
 | 965 | WIN | Black | FrankChess86 (1274) | *pending* |
-| 964 | WIN | White | Frank-Bremen (1247) | *pending* |
-| 963 | LOSS | Black | El-shatranj-arg2609 (1154) | *pending* |
-| 962 | WIN | Black | Erbao180901 (1288) | *pending* |
 | 1 | — | — | *profile snapshot* | — |
 
 ---

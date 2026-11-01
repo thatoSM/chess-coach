@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/game/N4VgLlsn"]
+[Date "2026.11.01"]
+[Round "-"]
+[White "Conan302"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "N4VgLlsn"]
+[UTCDate "2026.11.01"]
+[UTCTime "13:56:10"]
+[WhiteElo "1316"]
+[BlackElo "1335"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "B13"]
+[Opening "Caro-Kann Defense: Exchange Variation"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... c6 { [%eval 0.31] } 2. Nf3 { [%eval 0.17] } 2... d5 { [%eval 0.21] } 3. exd5 { [%eval 0.14] } 3... cxd5 { [%eval 0.07] } 4. d4 { [%eval 0.0] } 4... Nc6 { [%eval 0.13] } 5. Nc3 { [%eval -0.04] } 5... Nf6 { [%eval 0.0] } 6. Be2 { [%eval -0.16] } 6... Bg4 { [%eval 0.0] } 7. Ne5 { [%eval -0.34] } 7... Bxe2 { [%eval -0.11] } 8. Nxe2 { [%eval -0.18] } 8... Nxe5 { [%eval 0.3] } 9. dxe5 { [%eval 0.36] } 9... Ne4 { [%eval 0.4] } 10. O-O { [%eval 0.46] } 10... e6 { [%eval 0.38] } 11. Be3 { [%eval 0.31] } 11... Be7 { [%eval 0.82] } 12. Qd3 { [%eval 0.04] } 12... O-O { [%eval 0.16] } 13. c4 { [%eval 0.21] } 13... Nc5 { [%eval 0.21] } 14. Qc3 { [%eval -0.01] } 14... Na4 { [%eval 0.24] } 15. Qb3 { [%eval 0.34] } 15... Nb6 { [%eval 0.41] } 16. cxd5 { [%eval -0.14] } 16... Nxd5 { [%eval -0.15] } 17. Nf4 { [%eval -0.37] } 17... Nxe3 { [%eval -0.32] } 18. Qxe3 { [%eval -0.29] } 18... Qc7 { [%eval -0.14] } 19. Rac1 { [%eval -0.19] } 19... Qa5 { [%eval -0.17] } 20. a3 { [%eval -0.17] } 20... Bg5 { [%eval -0.08] } 21. Qg3 { [%eval -6.44] } 21... Qxe5 { [%eval -6.28] } 22. Nh5 { [%eval -6.95] } 22... Qxg3 { [%eval -6.88] } 23. Nxg3 { [%eval -6.71] } 23... Bxc1 { [%eval -6.56] } 24. Rxc1 { [%eval -6.58] } 0-1
+
+
