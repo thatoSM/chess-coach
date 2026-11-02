@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/game/5mKveneY"]
+[Date "2026.11.02"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "NicoPotato"]
+[Result "1-0"]
+[GameId "5mKveneY"]
+[UTCDate "2026.11.02"]
+[UTCTime "05:29:42"]
+[WhiteElo "1341"]
+[BlackElo "1387"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "900+10"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... c6 { [%eval 0.31] } 2. d4 { [%eval 0.24] } 2... d5 { [%eval 0.24] } 3. e5 { [%eval 0.33] } 3... c5 { [%eval 0.32] } 4. Nf3 { [%eval 0.32] } 4... Bg4 { [%eval 0.46] } 5. dxc5 { [%eval 0.52] } 5... e6 { [%eval 0.4] } 6. h3 { [%eval -0.34] } 6... Bxf3 { [%eval -0.44] } 7. Qxf3 { [%eval -0.32] } 7... Bxc5 { [%eval -0.32] } 8. Bb5+ { [%eval -0.43] } 8... Nd7 { [%eval -0.23] } 9. O-O { [%eval -0.23] } 9... a6 { [%eval 0.25] } 10. Qg4 { [%eval -0.49] } 10... g6 { [%eval 0.54] } 11. Bxd7+ { [%eval 0.45] } 11... Qxd7 { [%eval 0.46] } 12. Nc3 { [%eval -0.23] } 12... Nh6 { [%eval 6.85] } 13. Bxh6 { [%eval 6.81] } 1-0
+
+

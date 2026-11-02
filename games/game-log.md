@@ -25,6 +25,8 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 1166 | LOSS | Black | salvawagner (1381) | *pending* |
+| 1165 | WIN | White | NicoPotato (1387) | *pending* |
 | 1164 | WIN | Black | Conan302 (1316) | *pending* |
 | 1163 | WIN | White | yamorasu (1320) | *pending* |
 | 1162 | WIN | White | taraneh04 (1324) | *pending* |
@@ -223,8 +225,6 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 | 969 | WIN | White | Atharv_ACA (1219) | *pending* |
 | 968 | LOSS | White | atalib22 (1286) | *pending* |
 | 967 | LOSS | White | lambdallama (1385) | *pending* |
-| 966 | WIN | Black | Tushar_1311 (1313) | *pending* |
-| 965 | WIN | Black | FrankChess86 (1274) | *pending* |
 | 1 | — | — | *profile snapshot* | — |
 
 ---
