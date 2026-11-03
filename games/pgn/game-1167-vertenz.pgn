@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/game/SSeCFtwO"]
+[Date "2026.11.03"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "Vertenz"]
+[Result "1-0"]
+[GameId "SSeCFtwO"]
+[UTCDate "2026.11.03"]
+[UTCTime "16:10:10"]
+[WhiteElo "1342"]
+[BlackElo "1415"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-201"]
+[Variant "Standard"]
+[TimeControl "900+10"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... c6 { [%eval 0.31] } 2. d4 { [%eval 0.24] } 2... d5 { [%eval 0.24] } 3. e5 { [%eval 0.33] } 3... e6 { [%eval 0.54] } 4. c4 { [%eval 0.25] } 4... dxc4 { [%eval 0.53] } 5. Bxc4 { [%eval 0.39] } 5... Nd7 { [%eval 1.14] } 6. Nf3 { [%eval 1.19] } 6... c5 { [%eval 1.62] } 7. dxc5 { [%eval 0.64] } 7... Bxc5 { [%eval 0.79] } 8. Nc3 { [%eval 0.82] } 8... b6 { [%eval 1.39] } 9. O-O { [%eval 0.82] } 9... Bb7 { [%eval 1.27] } 10. Bb5 { [%eval 0.53] } 10... Bxf3 { [%eval 8.21] } 11. Qxf3 { [%eval 7.52] } 11... Ne7 { [%eval 8.4] } 12. Bg5 { [%eval 4.04] } 12... O-O { [%eval 3.91] } 13. Rad1 { [%eval 0.0] } 13... Qc8 { [%eval 6.66] } 14. Rxd7 { [%eval 6.52] } 14... Rd8 { [%eval 9.52] } 15. Rxd8+ { [%eval 6.87] } 15... Qxd8 { [%eval 7.26] } 16. Bxe7 { [%eval 6.82] } 16... Qxe7 { [%eval 10.04] } 17. Qxa8+ { [%eval 9.7] } 17... Qf8 { [%eval 9.47] } 18. Qxf8+ { [%eval 9.43] } 18... Kxf8 { [%eval 9.15] } 19. Rd1 { [%eval 8.96] } 19... g6 { [%eval 9.14] } 20. Rd8+ { [%eval 9.09] } 1-0
+
+
