@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/game/4ZDpurML"]
+[Date "2026.11.05"]
+[Round "-"]
+[White "Proplayer1212"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "4ZDpurML"]
+[UTCDate "2026.11.05"]
+[UTCTime "10:39:41"]
+[WhiteElo "1293"]
+[BlackElo "1364"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "900+10"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[Termination "Normal"]
+
+1. e4 c6 2. Qf3 d5 3. exd5 cxd5 4. h3 e6 5. g4 h6 6. d3 Nd7 7. c3 b5 8. a3 Bb7 9. Ne2 Rb8 10. d4 e5 11. Nd2 e4 12. Qg2 a5 13. Nf4 g5 14. Nxd5 Bxd5 15. Qg3 Nb6 16. Bg2 Nf6 17. Nxe4 Nxe4 18. Bxe4 Qe7 19. Qxb8+ Kd7 20. Qa7+ Kd6 21. Qxb6+ Bc6 22. Qxc6# 1-0
+
+

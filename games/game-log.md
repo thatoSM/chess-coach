@@ -25,6 +25,10 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 1172 | LOSS | White | Trichur (1347) | *pending* |
+| 1171 | LOSS | Black | Proplayer1212 (1293) | *pending* |
+| 1170 | WIN | White | fedyok_98 (1343) | *pending* |
+| 1169 | WIN | White | Thapsus-cz (1388) | *pending* |
 | 1168 | WIN | Black | Suffering83 (1319) | *pending* |
 | 1167 | WIN | White | Vertenz (1415) | *pending* |
 | 1166 | LOSS | Black | salvawagner (1381) | *pending* |
@@ -221,10 +225,6 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 | 975 | LOSS | White | King_Chess_2014 (1281) | *pending* |
 | 974 | WIN | Black | Knutero (1294) | *pending* |
 | 973 | WIN | White | vaibhavdg (1246) | *pending* |
-| 972 | LOSS | Black | arturrusakk (1280) | *pending* |
-| 971 | WIN | White | ego_189 (1361) | *pending* |
-| 970 | WIN | Black | Me_te15 (1300) | *pending* |
-| 969 | WIN | White | Atharv_ACA (1219) | *pending* |
 | 1 | — | — | *profile snapshot* | — |
 
 ---

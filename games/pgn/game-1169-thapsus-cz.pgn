@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/game/NToDC2hl"]
+[Date "2026.11.04"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "Thapsus-cz"]
+[Result "1-0"]
+[GameId "NToDC2hl"]
+[UTCDate "2026.11.04"]
+[UTCTime "13:25:10"]
+[WhiteElo "1352"]
+[BlackElo "1388"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-14"]
+[Variant "Standard"]
+[TimeControl "900+10"]
+[ECO "C41"]
+[Opening "Philidor Defense"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... d6 { [%eval 0.55] } 3. d4 { [%eval 0.58] } 3... f6 { [%eval 1.78] } 4. d5 { [%eval 0.77] } 4... c6 { [%eval 0.97] } 5. Nc3 { [%eval 1.02] } 5... c5 { [%eval 1.79] } 6. Bb5+ { [%eval 1.56] } 6... Bd7 { [%eval 1.6] } 7. Nxe5 { [%eval -2.51] } 7... fxe5 { [%eval -2.39] } 8. Qh5+ { [%eval -3.66] } 8... g6 { [%eval -3.55] } 9. Bxd7+ { [%eval -3.46] } 9... Nxd7 { [%eval -3.53] } 10. Qh3 { [%eval -3.57] } 10... Qa5 { [%eval -2.47] } 11. O-O { [%eval -2.33] } 11... Ngf6 { [%eval -1.23] } 12. Bg5 { [%eval -2.17] } 12... Be7 { [%eval -0.92] } 13. Bxf6 { [%eval -4.51] } 13... Bxf6 { [%eval -4.41] } 14. Qe6+ { [%eval -4.54] } 14... Be7 { [%eval -4.46] } 15. f4 { [%eval -4.37] } 15... Rf8 { [%eval 0.0] } 16. fxe5 { [%eval 0.03] } 16... Rxf1+ { [%eval 2.42] } 17. Rxf1 { [%eval 2.68] } 17... Nf8 { [%eval 10.11] } 18. Qf7+ { [%eval 9.94] } 18... Kd8 { [%eval 11.8] } 19. exd6 { [%eval 11.63] } 19... Bxd6 { [%eval 10.62] } 20. Qxb7 { [%eval 8.1] } 20... Rb8 { [%eval 8.93] } 21. Qc6 { [%eval 0.0] } 21... Qc7 { [%eval 0.03] } 22. e5 { [%eval 0.0] } 22... Qxc6 { [%eval 0.0] } 23. dxc6 { [%eval 0.04] } 23... Be7 { [%eval 0.12] } 24. Rd1+ { [%eval -0.74] } 24... Kc7 { [%eval 4.61] } 25. e6 { [%eval -5.21] } 25... Rxb2 { [%eval 2.12] } 26. Nd5+ { [%eval 2.41] } 26... Kd8 { [%eval 9.83] } 27. c7+ { [%eval 8.02] } 27... Kc8 { [%eval 7.94] } 28. Nxe7+ { [%eval 8.06] } 28... Kxc7 { [%eval 7.88] } 29. Nd5+ { [%eval 8.57] } 29... Kd6 { [%eval 7.89] } 30. e7 { [%eval 7.78] } 1-0
+
+
