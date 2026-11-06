@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/game/90CAMBgh"]
+[Date "2026.11.06"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "musicgonnasaveus"]
+[Result "1-0"]
+[GameId "90CAMBgh"]
+[UTCDate "2026.11.06"]
+[UTCTime "06:16:36"]
+[WhiteElo "1356"]
+[BlackElo "1500"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-350"]
+[Variant "Standard"]
+[TimeControl "900+10"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defense: Mikenas Variation"]
+[Termination "Normal"]
+
+1. e4 d6 2. d4 Nc6 3. d5 Ne5 4. Nf3 Nc4 5. Bxc4 e6 6. Nc3 h5 7. h4 Be7 8. g3 Bf6 9. Bd2 c6 10. Bg5 Qb6 11. Bxf6 gxf6 12. Bb3 Bd7 13. Nd2 Ne7 14. Nc4 Qd4 15. Qxd4 c5 16. Qxf6 a5 17. Qxh8+ Ng8 18. Qxg8+ Ke7 19. Qxa8 Bc6 20. Ba4 Bxa4 21. Nxa4 f5 22. exf5 exf5 23. Qxb7+ Kf6 24. Nxd6 Ke5 25. Nf7+ Ke4 26. d6+ Kd4 27. d7 c4 28. d8=Q# 1-0
+
+

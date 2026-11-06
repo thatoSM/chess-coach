@@ -1,0 +1,23 @@
+[Event "rated classical game"]
+[Site "https://lichess.org/game/IfnquIk7"]
+[Date "2026.11.06"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "LowOrbitPawn"]
+[Result "1-0"]
+[GameId "IfnquIk7"]
+[UTCDate "2026.11.06"]
+[UTCTime "10:38:09"]
+[WhiteElo "1225"]
+[BlackElo "1171"]
+[WhiteRatingDiff "+23"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "1800+0"]
+[ECO "C44"]
+[Opening "Scotch Game: Lolli Variation"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. d4 { [%eval 0.07] } 3... Nxd4 { [%eval 0.46] } 4. Nxd4 { [%eval 0.47] } 4... Qh4 { [%eval 3.49] } 5. Nf3 { [%eval 2.83] } 5... Qxe4+ { [%eval 4.84] } 6. Be2 { [%eval 2.81] } 6... Bc5 { [%eval 5.96] } 7. O-O { [%eval 6.03] } 7... d5 { [%eval 7.36] } 8. Nc3 { [%eval 7.62] } 8... Qd4 { [%eval 10.42] } 9. Nxd4 { [%eval 10.02] } 9... exd4 { [%eval 10.58] } 10. Nxd5 { [%eval 10.25] } 1-0
+
+

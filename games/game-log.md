@@ -25,6 +25,13 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 1179 | WIN | White | mehrsahi (1162) | *pending* |
+| 1178 | WIN | White | LowOrbitPawn (1171) | *pending* |
+| 1177 | WIN | Black | NurfarqainJ (1269) | *pending* |
+| 1176 | WIN | White | pro1393 (1191) | *pending* |
+| 1175 | LOSS | Black | xhbwzjg (1123) | *pending* |
+| 1174 | WIN | White | musicgonnasaveus (1500) | *pending* |
+| 1173 | WIN | Black | cyrinekatej (1285) | *pending* |
 | 1172 | LOSS | White | Trichur (1347) | *pending* |
 | 1171 | LOSS | Black | Proplayer1212 (1293) | *pending* |
 | 1170 | WIN | White | fedyok_98 (1343) | *pending* |
@@ -218,13 +225,6 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 | 982 | WIN | White | swing_bowler (1266) | *pending* |
 | 981 | LOSS | Black | Anna_Korotina (1317) | *pending* |
 | 980 | LOSS | Black | LEON_13 (1400) | *pending* |
-| 979 | WIN | White | web_developer (1360) | *pending* |
-| 978 | WIN | White | Ovesiss (1075) | *pending* |
-| 977 | LOSS | White | Piet2017 (1284) | *pending* |
-| 976 | LOSS | Black | Piet2017 (1277) | *pending* |
-| 975 | LOSS | White | King_Chess_2014 (1281) | *pending* |
-| 974 | WIN | Black | Knutero (1294) | *pending* |
-| 973 | WIN | White | vaibhavdg (1246) | *pending* |
 | 1 | — | — | *profile snapshot* | — |
 
 ---

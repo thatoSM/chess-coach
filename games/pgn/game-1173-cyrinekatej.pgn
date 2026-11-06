@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/game/bYW67Hr2"]
+[Date "2026.11.06"]
+[Round "-"]
+[White "cyrinekatej"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "bYW67Hr2"]
+[UTCDate "2026.11.06"]
+[UTCTime "05:52:52"]
+[WhiteElo "1285"]
+[BlackElo "1351"]
+[WhiteRatingDiff "-16"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.18] } 1... c6 { [%eval 0.31] } 2. Qh5 { [%eval -0.44] } 2... g6 { [%eval -0.13] } 3. Qd1 { [%eval -0.33] } 3... d5 { [%eval -0.04] } 4. exd5 { [%eval 0.01] } 4... cxd5 { [%eval 0.04] } 5. c4 { [%eval -0.9] } 5... Nf6 { [%eval -0.82] } 6. cxd5 { [%eval -0.84] } 6... Nxd5 { [%eval -0.92] } 7. Bc4 { [%eval -0.95] } 7... Bg7 { [%eval -1.11] } 8. Nf3 { [%eval -1.02] } 8... O-O { [%eval -1.05] } 9. O-O { [%eval -1.04] } 9... e6 { [%eval -0.22] } 10. Nd4 { [%eval -7.3] } 10... Bxd4 { [%eval -7.25] } 11. Nc3 { [%eval -7.27] } 11... Nxc3 { [%eval -6.27] } 12. bxc3 { [%eval -6.61] } 12... Bg7 { [%eval -6.59] } 13. Bb2 { [%eval -6.68] } 13... a6 { [%eval -6.6] } 14. Qf3 { [%eval -7.08] } 14... Qxd2 { [%eval -7.06] } 15. Rab1 { [%eval -7.0] } 15... Nc6 { [%eval -6.86] } 16. Rfd1 { [%eval -7.03] } 16... Qg5 { [%eval -7.12] } 17. Bc1 { [%eval -7.27] } 17... Qc5 { [%eval -7.03] } 18. Qe2 { [%eval -7.31] } 18... Bxc3 { [%eval -7.3] } 19. Be3 { [%eval -7.39] } 19... Qe7 { [%eval -7.4] } 20. Rd3 { [%eval -7.73] } 20... Bg7 { [%eval -7.63] } 21. a4 { [%eval -7.66] } 21... Ne5 { [%eval -7.48] } 22. Rd2 { [%eval -7.53] } 22... Nxc4 { [%eval -7.48] } 23. Ra2 { [%eval -9.71] } 23... Nxe3 { [%eval -9.81] } 24. Qxe3 { [%eval -9.73] } 24... Rd8 { [%eval -9.64] } 25. Rc1 { [%eval -9.99] } 25... Qd7 { [%eval -9.66] } 26. Raa1 { [%eval -9.93] } 26... b5 { [%eval -9.95] } 27. Rab1 { [%eval -10.04] } 27... bxa4 { [%eval -10.0] } 28. Rd1 { [%eval -15.21] } 28... Qxd1+ { [%eval -14.72] } 0-1
+
+

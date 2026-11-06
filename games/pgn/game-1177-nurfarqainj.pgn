@@ -1,0 +1,23 @@
+[Event "rated classical game"]
+[Site "https://lichess.org/game/AKjrIGrH"]
+[Date "2026.11.06"]
+[Round "-"]
+[White "NurfarqainJ"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "AKjrIGrH"]
+[UTCDate "2026.11.06"]
+[UTCTime "10:32:03"]
+[WhiteElo "1269"]
+[BlackElo "1191"]
+[WhiteRatingDiff "-81"]
+[BlackRatingDiff "+34"]
+[Variant "Standard"]
+[TimeControl "1800+0"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[Termination "Time forfeit"]
+
+1. e4 c6 0-1
+
+

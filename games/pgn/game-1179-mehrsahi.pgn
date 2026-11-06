@@ -1,0 +1,23 @@
+[Event "rated classical game"]
+[Site "https://lichess.org/game/l5kmtUfa"]
+[Date "2026.11.06"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "mehrsahi"]
+[Result "1-0"]
+[GameId "l5kmtUfa"]
+[UTCDate "2026.11.06"]
+[UTCTime "10:49:37"]
+[WhiteElo "1248"]
+[BlackElo "1162"]
+[WhiteRatingDiff "+19"]
+[BlackRatingDiff "-23"]
+[Variant "Standard"]
+[TimeControl "1800+0"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... c6 { [%eval 0.31] } 2. c3 { [%eval 0.3] } 2... e5 { [%eval 0.37] } 3. d4 { [%eval 0.4] } 3... exd4 { [%eval 0.43] } 4. cxd4 { [%eval 0.25] } 4... Bb4+ { [%eval 0.5] } 5. Bd2 { [%eval 0.17] } 5... Bd6 { [%eval 1.17] } 6. Nc3 { [%eval 1.26] } 6... c5 { [%eval 2.38] } 7. d5 { [%eval 2.16] } 7... Ne7 { [%eval 3.2] } 8. Nb5 { [%eval 3.21] } 8... Be5 { [%eval 3.18] } 9. Qh5 { [%eval 0.55] } 9... Bxb2 { [%eval #2] } 10. Nd6+ { [%eval #1] } 10... Kf8 { [%eval #1] } 11. Qxf7# 1-0
+
+

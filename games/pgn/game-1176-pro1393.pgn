@@ -1,0 +1,23 @@
+[Event "rated classical game"]
+[Site "https://lichess.org/game/krewsjSs"]
+[Date "2026.11.06"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "pro1393"]
+[Result "1-0"]
+[GameId "krewsjSs"]
+[UTCDate "2026.11.06"]
+[UTCTime "10:15:48"]
+[WhiteElo "1156"]
+[BlackElo "1191"]
+[WhiteRatingDiff "+35"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "1800+0"]
+[ECO "C44"]
+[Opening "Scotch Game"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. d4 { [%eval 0.07] } 3... d6 { [%eval 0.67] } 4. d5 { [%eval 0.9] } 4... Nd4 { [%eval 1.66] } 5. Nxd4 { [%eval 2.2] } 5... exd4 { [%eval 1.79] } 6. Qxd4 { [%eval 1.62] } 6... Nf6 { [%eval 1.89] } 7. Nc3 { [%eval 1.63] } 7... Be7 { [%eval 2.26] } 8. Bb5+ { [%eval 2.29] } 8... Bd7 { [%eval 2.37] } 9. Bxd7+ { [%eval 2.29] } 9... Qxd7 { [%eval 2.33] } 10. Bg5 { [%eval 1.9] } 10... O-O { [%eval 1.97] } 11. O-O { [%eval 1.58] } 11... Rfe8 { [%eval 1.79] } 12. Rfe1 { [%eval 1.61] } 12... Ng4 { [%eval 2.31] } 13. Bxe7 { [%eval 2.31] } 13... Rxe7 { [%eval 2.32] } 14. h3 { [%eval 2.27] } 14... Ne5 { [%eval 2.48] } 15. a4 { [%eval 2.06] } 15... a6 { [%eval 2.39] } 16. b4 { [%eval 1.32] } 16... a5 { [%eval 1.96] } 17. b5 { [%eval 1.56] } 17... c6 { [%eval 3.39] } 18. bxc6 { [%eval 2.4] } 18... bxc6 { [%eval 2.4] } 19. dxc6 { [%eval 2.2] } 19... Nxc6 { [%eval 2.42] } 20. Qc4 { [%eval 1.73] } 20... Nb4 { [%eval 1.75] } 21. Nb5 { [%eval -3.13] } 21... Qc6 { [%eval 3.6] } 22. Qxc6 { [%eval 3.68] } 22... Nxc6 { [%eval 3.33] } 23. c3 { [%eval 2.25] } 23... Rae8 { [%eval 3.74] } 24. Nxd6 { [%eval 3.05] } 24... Rd8 { [%eval 3.13] } 25. Nb5 { [%eval 2.14] } 25... f5 { [%eval 5.49] } 26. exf5 { [%eval 5.45] } 26... Rxe1+ { [%eval 5.93] } 27. Rxe1 { [%eval 5.41] } 27... Rd5 { [%eval 5.97] } 28. g4 { [%eval 5.57] } 28... g6 { [%eval 5.48] } 29. fxg6 { [%eval 5.4] } 29... hxg6 { [%eval 5.65] } 30. Kg2 { [%eval 5.46] } 30... Ne5 { [%eval 5.71] } 31. Kg3 { [%eval 5.15] } 31... Nd3 { [%eval 5.18] } 32. Rd1 { [%eval 5.25] } 32... Kf7 { [%eval 6.06] } 33. c4 { [%eval 5.72] } 33... Rd8 { [%eval 6.9] } 34. c5 { [%eval 6.66] } 1-0
+
+
