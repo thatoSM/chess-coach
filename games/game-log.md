@@ -25,6 +25,8 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 1181 | WIN | Black | alvarete1663 (1293) | *pending* |
+| 1180 | WIN | White | vimpa (1344) | *pending* |
 | 1179 | WIN | White | mehrsahi (1162) | *pending* |
 | 1178 | WIN | White | LowOrbitPawn (1171) | *pending* |
 | 1177 | WIN | Black | NurfarqainJ (1269) | *pending* |
@@ -223,8 +225,6 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 | 984 | WIN | White | vikas55856 (1241) | *pending* |
 | 983 | WIN | Black | RossoneroHadi (1258) | *pending* |
 | 982 | WIN | White | swing_bowler (1266) | *pending* |
-| 981 | LOSS | Black | Anna_Korotina (1317) | *pending* |
-| 980 | LOSS | Black | LEON_13 (1400) | *pending* |
 | 1 | — | — | *profile snapshot* | — |
 
 ---
