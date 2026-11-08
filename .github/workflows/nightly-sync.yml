@@ -1,0 +1,49 @@
+name: Nightly Lichess sync
+
+# Same job as routine-prompt.md, run as plain code (sync/nightly_sync.py).
+# Uses no Claude usage. 19:07 UTC = 21:07 SAST.
+on:
+  schedule:
+    - cron: "7 19 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: nightly-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install python-chess
+        run: pip install chess==1.11.2
+
+      - name: Run sync
+        id: sync
+        run: |
+          msg=$(python sync/nightly_sync.py | tail -n 1)
+          echo "msg=$msg" >> "$GITHUB_OUTPUT"
+
+      - name: Commit and push if anything changed
+        run: |
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "Nothing changed."
+            exit 0
+          fi
+          git config user.name "chess-coach-sync"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "${{ steps.sync.outputs.msg }}"
+          git push origin main
