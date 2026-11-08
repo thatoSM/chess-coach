@@ -25,6 +25,9 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 1184 | LOSS | White | Albin8340 (1460) | *pending* |
+| 1183 | WIN | Black | DmitriyV39 (1426) | *pending* |
+| 1182 | WIN | Black | assiszin012 (1287) | *pending* |
 | 1181 | WIN | Black | alvarete1663 (1293) | *pending* |
 | 1180 | WIN | White | vimpa (1344) | *pending* |
 | 1179 | WIN | White | mehrsahi (1162) | *pending* |
@@ -222,9 +225,6 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 | 987 | WIN | Black | matin-7 (1258) | *pending* |
 | 986 | WIN | White | Mirii09 (1307) | *pending* |
 | 985 | WIN | Black | Snurre3 (1284) | *pending* |
-| 984 | WIN | White | vikas55856 (1241) | *pending* |
-| 983 | WIN | Black | RossoneroHadi (1258) | *pending* |
-| 982 | WIN | White | swing_bowler (1266) | *pending* |
 | 1 | — | — | *profile snapshot* | — |
 
 ---

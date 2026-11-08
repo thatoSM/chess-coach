@@ -1,0 +1,23 @@
+[Event "rated classical game"]
+[Site "https://lichess.org/game/0oMsxd7H"]
+[Date "2026.11.08"]
+[Round "-"]
+[White "assiszin012"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "0oMsxd7H"]
+[UTCDate "2026.11.08"]
+[UTCTime "12:45:43"]
+[WhiteElo "1287"]
+[BlackElo "1319"]
+[WhiteRatingDiff "-133"]
+[BlackRatingDiff "+17"]
+[Variant "Standard"]
+[TimeControl "1800+0"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense: Breyer Variation"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... c6 { [%eval 0.31] } 2. d3 { [%eval 0.03] } 2... d5 { [%eval 0.18] } 3. exd5 { [%eval -0.12] } 3... cxd5 { [%eval -0.12] } 4. Nf3 { [%eval -0.23] } 4... Bg4 { [%eval 0.0] } 5. Ne5 { [%eval -9.23] } 5... Bxd1 { [%eval -8.33] } 6. Kxd1 { [%eval -8.75] } 6... Nc6 { [%eval -8.55] } 7. Nxf7 { [%eval -9.22] } 7... Kxf7 { [%eval -9.39] } 8. Nc3 { [%eval -9.21] } 8... Nf6 { [%eval -9.19] } 9. Nb5 { [%eval -9.57] } 9... a6 { [%eval -9.77] } 10. Be2 { [%eval -10.8] } 10... axb5 { [%eval -10.86] } 11. Bh5+ { [%eval -12.73] } 11... Nxh5 { [%eval -12.35] } 12. h4 { [%eval -12.96] } 12... e6 { [%eval -12.46] } 13. a3 { [%eval -12.79] } 13... Bc5 { [%eval -12.59] } 14. f3 { [%eval -12.63] } 14... Re8 { [%eval -12.2] } 15. Bg5 { [%eval -12.37] } 15... Be7 { [%eval -12.07] } 16. Be3 { [%eval -13.15] } 16... Ng3 { [%eval -13.23] } 17. Ke1 { [%eval -15.59] } 17... Nxh1 { [%eval -15.15] } 18. g4 { [%eval -15.98] } 18... Ng3 { [%eval -15.87] } 19. Kf2 { [%eval -16.05] } 19... Bxh4 { [%eval -16.11] } 20. Bf4 { [%eval -22.48] } 20... Nh5+ { [%eval -28.18] } 21. Ke3 { [%eval #-6] } 21... Nxf4 { [%eval -26.46] } 22. Kxf4 { [%eval #-1] } 22... Qg5# { [%eval #0] } 0-1
+
+

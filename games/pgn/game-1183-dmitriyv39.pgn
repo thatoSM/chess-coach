@@ -1,0 +1,23 @@
+[Event "rated classical game"]
+[Site "https://lichess.org/game/xk4HQ60G"]
+[Date "2026.11.08"]
+[Round "-"]
+[White "DmitriyV39"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "xk4HQ60G"]
+[UTCDate "2026.11.08"]
+[UTCTime "12:57:07"]
+[WhiteElo "1426"]
+[BlackElo "1336"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+27"]
+[Variant "Standard"]
+[TimeControl "1800+0"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Ulysses Gambit"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... c6 { [%eval 0.31] } 2. Nf3 { [%eval 0.17] } 2... d5 { [%eval 0.21] } 3. d4 { [%eval -0.84] } 3... dxe4 { [%eval -0.8] } 4. Ng5 { [%eval -0.77] } 4... Nf6 { [%eval -0.71] } 5. Bc4 { [%eval -0.47] } 5... e6 { [%eval -0.5] } 6. O-O { [%eval -1.44] } 6... g6 { [%eval 0.72] } 7. Re1 { [%eval 0.34] } 7... Bg7 { [%eval 0.43] } 8. Nxe4 { [%eval -0.18] } 8... Nxe4 { [%eval -0.13] } 9. Rxe4 { [%eval -0.17] } 9... O-O { [%eval -0.12] } 10. b3 { [%eval -1.38] } 10... c5 { [%eval -1.5] } 11. Bb2 { [%eval -2.12] } 11... Nc6 { [%eval -1.46] } 12. c3 { [%eval -1.19] } 12... a6 { [%eval -1.16] } 13. d5 { [%eval -6.76] } 13... exd5 { [%eval -6.7] } 14. Bxd5 { [%eval -6.55] } 14... Be6 { [%eval -5.86] } 15. c4 { [%eval -9.02] } 15... Bxb2 { [%eval -8.9] } 16. Nd2 { [%eval -8.6] } 16... Bxa1 { [%eval -8.76] } 17. Qxa1 { [%eval -8.72] } 17... Bxd5 { [%eval -8.77] } 18. cxd5 { [%eval -8.66] } 18... Qxd5 { [%eval -8.8] } 19. Qb2 { [%eval -8.91] } 19... Rad8 { [%eval -8.91] } 0-1
+
+
