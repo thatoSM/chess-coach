@@ -1,0 +1,23 @@
+[Event "rated classical game"]
+[Site "https://lichess.org/game/BjhW0uXd"]
+[Date "2026.11.09"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "trg789986"]
+[Result "0-1"]
+[GameId "BjhW0uXd"]
+[UTCDate "2026.11.09"]
+[UTCTime "15:54:07"]
+[WhiteElo "1343"]
+[BlackElo "1349"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+21"]
+[Variant "Standard"]
+[TimeControl "1800+0"]
+[ECO "C42"]
+[Opening "Petrov's Defense"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 Qe7 4. d4 Nxe4 5. Qe2 d5 6. f3 Nc5 7. Nc3 Ne6 8. Qb5+ c6 9. Qb3 Nxd4 10. Qa4 Qxe5+ 0-1
+
+

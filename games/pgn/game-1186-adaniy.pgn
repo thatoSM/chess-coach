@@ -1,0 +1,23 @@
+[Event "rated classical game"]
+[Site "https://lichess.org/game/tOlgD8RP"]
+[Date "2026.11.09"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "Adaniy"]
+[Result "1/2-1/2"]
+[GameId "tOlgD8RP"]
+[UTCDate "2026.11.09"]
+[UTCTime "05:44:13"]
+[WhiteElo "1325"]
+[BlackElo "1500"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-114"]
+[Variant "Standard"]
+[TimeControl "1800+0"]
+[ECO "C40"]
+[Opening "King's Knight Opening"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Bd6 3. Bc4 f5 4. d3 f4 5. g3 Nf6 6. gxf4 Bb4+ 7. Bd2 Qe7 8. fxe5 Bxd2+ 9. Qxd2 d5 10. exd5 Ne4 11. Qf4 Nd6 12. Bb3 Rf8 13. Qg3 Rf7 14. Nc3 Ne4 15. Nxe4 Rxf3 16. Qxf3 Qf7 17. Qxf7+ Kxf7 18. d6+ Ke8 19. dxc7 b5 20. Bd5 Kd7 21. Bxa8 Kxc7 22. O-O-O a5 23. a3 a4 24. Rhg1 Bg4 25. Rxg4 h5 26. Rxg7+ Kb6 27. Rb7+ Ka5 28. Rxb8 h4 29. Nc5 h3 30. b4+ axb3 31. cxb3 b4 32. a4 1/2-1/2
+
+

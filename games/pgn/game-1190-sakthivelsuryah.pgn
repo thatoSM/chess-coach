@@ -1,0 +1,23 @@
+[Event "rated classical game"]
+[Site "https://lichess.org/game/JCzYOdN0"]
+[Date "2026.11.09"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "Sakthivelsuryah"]
+[Result "0-1"]
+[GameId "JCzYOdN0"]
+[UTCDate "2026.11.09"]
+[UTCTime "10:32:16"]
+[WhiteElo "1315"]
+[BlackElo "1356"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+9"]
+[Variant "Standard"]
+[TimeControl "1800+0"]
+[ECO "C45"]
+[Opening "Scotch Game"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nxd4 5. Qxd4 Nf6 6. Bf4 Be7 7. Bd3 O-O 8. O-O b6 9. Re1 Bb7 10. Nd2 Ng4 11. h3 Bc5 12. Qc4 Nxf2 13. Nf3 Nxd3+ 0-1
+
+

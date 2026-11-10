@@ -1,0 +1,23 @@
+[Event "rated classical game"]
+[Site "https://lichess.org/game/EOhg2msO"]
+[Date "2026.11.09"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "BlueRocketShooter"]
+[Result "0-1"]
+[GameId "EOhg2msO"]
+[UTCDate "2026.11.09"]
+[UTCTime "05:56:24"]
+[WhiteElo "1328"]
+[BlackElo "1318"]
+[WhiteRatingDiff "-18"]
+[BlackRatingDiff "+37"]
+[Variant "Standard"]
+[TimeControl "1800+0"]
+[ECO "B06"]
+[Opening "Modern Defense"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... g6 { [%eval 0.55] } 2. d4 { [%eval 0.48] } 2... Bg7 { [%eval 0.48] } 3. e5 { [%eval -0.12] } 3... d6 { [%eval -0.16] } 4. Nf3 { [%eval -0.2] } 4... Nc6 { [%eval 0.27] } 5. Bb5 { [%eval 0.27] } 5... Bd7 { [%eval 0.43] } 6. Bg5 { [%eval -1.76] } 6... dxe5 { [%eval -1.71] } 7. dxe5 { [%eval -2.02] } 7... Nxe5 { [%eval -1.86] } 8. Bxd7+ { [%eval -1.92] } 8... Nxd7 { [%eval -1.23] } 9. O-O { [%eval -3.71] } 9... Bxb2 { [%eval -3.22] } 10. Re1 { [%eval -6.7] } 10... Bxa1 { [%eval -6.63] } 11. c3 { [%eval -6.71] } 11... Ndf6 { [%eval -5.79] } 12. Qxd8+ { [%eval -8.02] } 12... Rxd8 { [%eval -8.16] } 13. Bxf6 { [%eval -8.55] } 13... Nxf6 { [%eval -8.52] } 14. Ne5 { [%eval -8.65] } 14... O-O { [%eval -8.62] } 15. Nc4 { [%eval -8.6] } 15... Nd5 { [%eval -8.53] } 16. f3 { [%eval -8.87] } 16... f5 { [%eval -8.79] } 17. Na5 { [%eval -8.76] } 17... Nxc3 { [%eval -8.69] } 18. Nxc3 { [%eval -9.75] } 18... Bxc3 { [%eval -9.41] } 19. Nxb7 { [%eval -9.81] } 19... Bxe1 { [%eval -9.49] } 0-1
+
+

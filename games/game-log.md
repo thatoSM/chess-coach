@@ -25,6 +25,18 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 1196 | WIN | Black | brunogpunto (1388) | *pending* |
+| 1195 | WIN | White | cploton (1287) | *pending* |
+| 1194 | LOSS | White | trg789986 (1349) | *pending* |
+| 1193 | WIN | Black | Alexey747474 (1308) | *pending* |
+| 1192 | WIN | White | Alexey747474 (1335) | *pending* |
+| 1191 | WIN | Black | Raffi_81_PL (1278) | *pending* |
+| 1190 | LOSS | White | Sakthivelsuryah (1356) | *pending* |
+| 1189 | LOSS | Black | sansau (1374) | *pending* |
+| 1188 | WIN | Black | kridayC (1325) | *pending* |
+| 1187 | LOSS | White | BlueRocketShooter (1318) | *pending* |
+| 1186 | DRAW | White | Adaniy (1500) | *pending* |
+| 1185 | LOSS | Black | sashwingeetha (1278) | *pending* |
 | 1184 | LOSS | White | Albin8340 (1460) | *pending* |
 | 1183 | WIN | Black | DmitriyV39 (1426) | *pending* |
 | 1182 | WIN | Black | assiszin012 (1287) | *pending* |
@@ -213,18 +225,6 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 | 999 | LOSS | White | nirmal1990 (1323) | *pending* |
 | 998 | WIN | Black | COSMOC111 (1406) | *pending* |
 | 997 | LOSS | White | NadymMT (1296) | *pending* |
-| 996 | WIN | Black | keerthu_8 (1429) | *pending* |
-| 995 | LOSS | White | mateinsixxtynine (1328) | *pending* |
-| 994 | LOSS | Black | viktoruss (1412) | *pending* |
-| 993 | LOSS | Black | sershev (1348) | *pending* |
-| 992 | WIN | White | sereeyni (1242) | *pending* |
-| 991 | WIN | White | jollee33 (1344) | *pending* |
-| 990 | WIN | White | rsantoschess (1351) | *pending* |
-| 989 | WIN | Black | Modawii (1200) | *pending* |
-| 988 | WIN | White | raika10 (1353) | *pending* |
-| 987 | WIN | Black | matin-7 (1258) | *pending* |
-| 986 | WIN | White | Mirii09 (1307) | *pending* |
-| 985 | WIN | Black | Snurre3 (1284) | *pending* |
 | 1 | — | — | *profile snapshot* | — |
 
 ---
