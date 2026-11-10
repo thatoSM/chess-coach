@@ -25,6 +25,12 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 1202 | WIN | Black | AL-14 (1434) | *pending* |
+| 1201 | WIN | White | hcda2018 (1386) | *pending* |
+| 1200 | WIN | White | cptamerica84 (1351) | *pending* |
+| 1199 | WIN | Black | Pfeni (1318) | *pending* |
+| 1198 | WIN | Black | PrItEEsH_SiVaM (1352) | *pending* |
+| 1197 | LOSS | White | ajedrezcofre (1500) | *pending* |
 | 1196 | WIN | Black | brunogpunto (1388) | *pending* |
 | 1195 | WIN | White | cploton (1287) | *pending* |
 | 1194 | LOSS | White | trg789986 (1349) | *pending* |
@@ -219,12 +225,6 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 | 1005 | LOSS | Black | m0s6afa (1371) | *pending* |
 | 1004 | WIN | White | Geistmann24 (1268) | *pending* |
 | 1003 | WIN | White | Hulio322 (1227) | *pending* |
-| 1002 | WIN | Black | Raghav_Teddler (1359) | *pending* |
-| 1001 | WIN | Black | leon_nog (1298) | *pending* |
-| 1000 | LOSS | White | iamblind02 (1327) | *pending* |
-| 999 | LOSS | White | nirmal1990 (1323) | *pending* |
-| 998 | WIN | Black | COSMOC111 (1406) | *pending* |
-| 997 | LOSS | White | NadymMT (1296) | *pending* |
 | 1 | — | — | *profile snapshot* | — |
 
 ---

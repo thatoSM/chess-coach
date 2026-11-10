@@ -1,0 +1,23 @@
+[Event "rated classical game"]
+[Site "https://lichess.org/game/8FqZyNej"]
+[Date "2026.11.10"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "cptamerica84"]
+[Result "1-0"]
+[GameId "8FqZyNej"]
+[UTCDate "2026.11.10"]
+[UTCTime "08:25:55"]
+[WhiteElo "1374"]
+[BlackElo "1351"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-11"]
+[Variant "Standard"]
+[TimeControl "1800+20"]
+[ECO "C44"]
+[Opening "Scotch Game"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. d4 { [%eval 0.07] } 3... Bd6 { [%eval 0.8] } 4. Nc3 { [%eval 0.68] } 4... Nf6 { [%eval 1.02] } 5. Bg5 { [%eval 0.0] } 5... O-O { [%eval 0.75] } 6. h4 { [%eval -0.32] } 6... Be7 { [%eval 2.02] } 7. dxe5 { [%eval 1.9] } 7... Ng4 { [%eval 1.9] } 8. Bxe7 { [%eval 1.88] } 8... Qxe7 { [%eval 1.62] } 9. Bd3 { [%eval 0.63] } 9... Ngxe5 { [%eval 0.89] } 10. Nd5 { [%eval 0.58] } 10... Nxd3+ { [%eval 1.67] } 11. Qxd3 { [%eval 1.64] } 11... Qd6 { [%eval 2.5] } 12. O-O { [%eval 1.21] } 12... Ne5 { [%eval 3.07] } 13. Nxe5 { [%eval 3.1] } 13... Qxe5 { [%eval 2.83] } 14. c4 { [%eval 1.38] } 14... c6 { [%eval 1.28] } 15. Ne3 { [%eval 0.21] } 15... Qxb2 { [%eval 0.83] } 16. h5 { [%eval 0.4] } 16... Qf6 { [%eval 0.62] } 17. Nf5 { [%eval -1.56] } 17... g6 { [%eval 3.73] } 18. hxg6 { [%eval 1.24] } 18... hxg6 { [%eval 4.04] } 19. Nh6+ { [%eval -0.17] } 19... Kh8 { [%eval 0.2] } 20. Qh3 { [%eval -0.27] } 20... Kg7 { [%eval -0.29] } 21. Ng4 { [%eval -0.41] } 21... Qg5 { [%eval 0.29] } 22. f3 { [%eval -3.64] } 22... d6 { [%eval -3.47] } 23. Kf2 { [%eval -7.67] } 23... Bxg4 { [%eval -4.06] } 24. fxg4 { [%eval -5.64] } 24... Rh8 { [%eval -3.53] } 25. Qc3+ { [%eval -3.57] } 25... Kf8 { [%eval 9.49] } 26. Qxh8+ { [%eval 7.31] } 1-0
+
+

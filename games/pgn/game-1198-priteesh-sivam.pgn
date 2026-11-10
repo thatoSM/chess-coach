@@ -1,0 +1,23 @@
+[Event "rated classical game"]
+[Site "https://lichess.org/game/1qopQxsK"]
+[Date "2026.11.10"]
+[Round "-"]
+[White "PrItEEsH_SiVaM"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "1qopQxsK"]
+[UTCDate "2026.11.10"]
+[UTCTime "06:50:47"]
+[WhiteElo "1352"]
+[BlackElo "1350"]
+[WhiteRatingDiff "-16"]
+[BlackRatingDiff "+13"]
+[Variant "Standard"]
+[TimeControl "1800+0"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense: Endgame Offer"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.18] } 1... c6 { [%eval 0.31] } 2. Nf3 { [%eval 0.17] } 2... d5 { [%eval 0.21] } 3. d3 { [%eval 0.17] } 3... dxe4 { [%eval 0.2] } 4. Ng5 { [%eval -0.44] } 4... exd3 { [%eval -0.4] } 5. Bxd3 { [%eval -0.27] } 5... Nh6 { [%eval 0.23] } 6. Qf3 { [%eval -0.93] } 6... Qa5+ { [%eval -0.91] } 7. Bd2 { [%eval -1.13] } 7... Qe5+ { [%eval -1.12] } 8. Ne4 { [%eval -2.18] } 8... Qxb2 { [%eval -0.67] } 9. Bxh6 { [%eval -2.75] } 9... gxh6 { [%eval -1.47] } 10. O-O { [%eval -1.68] } 10... Qxa1 { [%eval -0.44] } 11. Nbc3 { [%eval -0.28] } 11... Qb2 { [%eval -0.45] } 12. Re1 { [%eval -4.05] } 12... Qb4 { [%eval -1.7] } 13. Nd6+ { [%eval -8.12] } 13... Qxd6 { [%eval -8.13] } 14. Bc4 { [%eval -9.04] } 14... e6 { [%eval -9.02] } 15. Ne4 { [%eval -8.59] } 15... Qe5 { [%eval -0.51] } 16. Rd1 { [%eval -9.69] } 16... Bg7 { [%eval -4.0] } 17. Ng3 { [%eval -9.3] } 17... Nd7 { [%eval -9.14] } 18. Nh5 { [%eval -9.34] } 18... Rg8 { [%eval -9.35] } 19. Rd2 { [%eval -11.29] } 19... Nf6 { [%eval -9.54] } 20. Nxf6+ { [%eval -9.65] } 20... Qxf6 { [%eval -9.53] } 0-1
+
+
