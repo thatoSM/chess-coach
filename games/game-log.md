@@ -25,6 +25,17 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 1213 | WIN | White | Schachzeus1 (1129) | *pending* |
+| 1212 | WIN | White | Resignation (1419) | *pending* |
+| 1211 | LOSS | Black | Resignation (1413) | *pending* |
+| 1210 | WIN | White | DawidMania (1009) | *pending* |
+| 1209 | WIN | Black | ssj4goku (1043) | *pending* |
+| 1208 | WIN | Black | pappamolla (1354) | *pending* |
+| 1207 | WIN | White | yasinduyash (1387) | *pending* |
+| 1206 | LOSS | White | janmichalak (1396) | *pending* |
+| 1205 | LOSS | Black | Emidio42 (1477) | *pending* |
+| 1204 | LOSS | Black | Aakash0409 (1397) | *pending* |
+| 1203 | WIN | White | Juako05 (1130) | *pending* |
 | 1202 | WIN | Black | AL-14 (1434) | *pending* |
 | 1201 | WIN | White | hcda2018 (1386) | *pending* |
 | 1200 | WIN | White | cptamerica84 (1351) | *pending* |
@@ -214,17 +225,6 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 | 1016 | LOSS | White | HAI52 (1415) | *pending* |
 | 1015 | LOSS | Black | AtharvKPrasad (1367) | *pending* |
 | 1014 | LOSS | White | pat-postman (1401) | *pending* |
-| 1013 | WIN | Black | karmapolice44 (1336) | *pending* |
-| 1012 | WIN | White | abdollah1335 (1354) | *pending* |
-| 1011 | WIN | Black | batangmawmaw (1407) | *pending* |
-| 1010 | WIN | White | Yunnika16 (1350) | *pending* |
-| 1009 | DRAW | Black | Ghost5337 (1285) | *pending* |
-| 1008 | WIN | Black | Pietrix07 (1379) | *pending* |
-| 1007 | WIN | White | Phanik07 (1304) | *pending* |
-| 1006 | DRAW | White | Daniel_Borel (1320) | *pending* |
-| 1005 | LOSS | Black | m0s6afa (1371) | *pending* |
-| 1004 | WIN | White | Geistmann24 (1268) | *pending* |
-| 1003 | WIN | White | Hulio322 (1227) | *pending* |
 | 1 | — | — | *profile snapshot* | — |
 
 ---

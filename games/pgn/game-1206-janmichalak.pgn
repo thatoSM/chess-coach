@@ -1,0 +1,23 @@
+[Event "rated classical game"]
+[Site "https://lichess.org/game/RWs2KbfZ"]
+[Date "2026.11.11"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "janmichalak"]
+[Result "0-1"]
+[GameId "RWs2KbfZ"]
+[UTCDate "2026.11.11"]
+[UTCTime "10:26:31"]
+[WhiteElo "1393"]
+[BlackElo "1396"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "1800+0"]
+[ECO "C00"]
+[Opening "French Defense: Normal Variation"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.15] } 1... e6 { [%eval 0.42] } 2. e4 { [%eval 0.29] } 2... Qh4 { [%eval 1.44] } 3. Nc3 { [%eval 1.04] } 3... Bb4 { [%eval 1.34] } 4. Qd3 { [%eval 0.54] } 4... b6 { [%eval 0.75] } 5. g3 { [%eval 0.76] } 5... Qh5 { [%eval 1.32] } 6. a3 { [%eval 0.1] } 6... Ba6 { [%eval 0.21] } 7. Qf3 { [%eval -0.1] } 7... Qxf3 { [%eval -0.07] } 8. Nxf3 { [%eval -0.09] } 8... Nf6 { [%eval 6.75] } 9. axb4 { [%eval 6.44] } 9... Bxf1 { [%eval 6.69] } 10. Kxf1 { [%eval 6.88] } 10... Nc6 { [%eval 6.61] } 11. b5 { [%eval 6.84] } 11... Nb4 { [%eval 6.92] } 12. Ne1 { [%eval 6.51] } 12... h6 { [%eval 7.61] } 13. Ra4 { [%eval 6.53] } 13... a5 { [%eval 6.61] } 14. Kg2 { [%eval 6.38] } 14... g5 { [%eval 6.95] } 15. h4 { [%eval 6.84] } 15... g4 { [%eval 7.04] } 16. f3 { [%eval 6.37] } 16... c6 { [%eval 6.49] } 17. fxg4 { [%eval 6.16] } 17... Nxg4 { [%eval 6.05] } 18. Kf3 { [%eval 5.84] } 18... h5 { [%eval 5.8] } 19. bxc6 { [%eval 5.66] } 19... dxc6 { [%eval 5.69] } 20. Ne2 { [%eval 5.58] } 20... Rd8 { [%eval 6.58] } 21. c3 { [%eval 6.21] } 21... Na6 { [%eval 6.72] } 22. Bg5 { [%eval 6.4] } 22... Rd7 { [%eval 6.87] } 23. Nc2 { [%eval 5.93] } 23... Rg8 { [%eval 7.01] } 24. Ne3 { [%eval 7.13] } 24... Rg6 { [%eval 7.79] } 25. Nxg4 { [%eval 7.46] } 25... hxg4+ { [%eval 7.21] } 26. Kxg4 { [%eval 6.86] } 26... f6 { [%eval 7.01] } 27. h5 { [%eval 3.19] } 27... Rxg5+ { [%eval 3.04] } 28. Kf4 { [%eval 2.0] } 28... Rdg7 { [%eval 3.29] } 29. d5 { [%eval 0.04] } 29... Rg4+ { [%eval 5.08] } 30. Kf3 { [%eval 4.92] } 30... cxd5 { [%eval 5.93] } 31. Nd4 { [%eval -2.45] } 31... dxe4+ { [%eval -0.35] } 32. Ke3 { [%eval -4.57] } 32... Rxg3+ { [%eval -3.92] } 33. Kxe4 { [%eval #-1] } 33... R7g4# { [%eval #0] } 0-1
+
+

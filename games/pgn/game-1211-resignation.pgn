@@ -1,0 +1,23 @@
+[Event "rated classical game"]
+[Site "https://lichess.org/game/c8IEMdfc"]
+[Date "2026.11.11"]
+[Round "-"]
+[White "Resignation"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "c8IEMdfc"]
+[UTCDate "2026.11.11"]
+[UTCTime "16:41:53"]
+[WhiteElo "1413"]
+[BlackElo "1405"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-8"]
+[Variant "Standard"]
+[TimeControl "2700+25"]
+[ECO "D00"]
+[Opening "Blackmar-Diemer Gambit Accepted"]
+[Termination "Normal"]
+
+1. d4 d5 2. Nc3 Nf6 3. e4 dxe4 4. f3 exf3 5. Nxf3 Bg4 6. Bc4 e6 7. O-O Be7 8. d5 exd5 9. Nxd5 Nxd5 10. Bxd5 O-O 11. Bxb7 Bxf3 12. Qxf3 Bc5+ 13. Kh1 Nd7 14. Bxa8 Qh4 15. Bf4 Rxa8 16. Qxa8+ Nf8 17. Rad1 1-0
+
+

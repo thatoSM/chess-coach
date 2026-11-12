@@ -1,0 +1,23 @@
+[Event "rated classical game"]
+[Site "https://lichess.org/game/fx4dqSIx"]
+[Date "2026.11.11"]
+[Round "-"]
+[White "ssj4goku"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "fx4dqSIx"]
+[UTCDate "2026.11.11"]
+[UTCTime "16:08:42"]
+[WhiteElo "1043"]
+[BlackElo "1401"]
+[WhiteRatingDiff "-21"]
+[BlackRatingDiff "+2"]
+[Variant "Standard"]
+[TimeControl "2700+25"]
+[ECO "A02"]
+[Opening "Bird Opening"]
+[Termination "Time forfeit"]
+
+1. f4 { [%eval -0.23] } 1... Nc6 { [%eval 0.1] } 2. e3 { [%eval -0.14] } 2... e5 { [%eval -0.24] } 3. Nh3 { [%eval -1.26] } 3... exf4 { [%eval -0.23] } 4. exf4 { [%eval -1.94] } 4... Qh4+ { [%eval -1.31] } 5. g3 { [%eval -1.73] } 5... Qf6 { [%eval -0.5] } 0-1
+
+

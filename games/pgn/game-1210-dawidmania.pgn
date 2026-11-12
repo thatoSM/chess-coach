@@ -1,0 +1,23 @@
+[Event "rated classical game"]
+[Site "https://lichess.org/game/81EAWNCS"]
+[Date "2026.11.11"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "DawidMania"]
+[Result "1-0"]
+[GameId "81EAWNCS"]
+[UTCDate "2026.11.11"]
+[UTCTime "16:16:22"]
+[WhiteElo "1403"]
+[BlackElo "1009"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-1"]
+[Variant "Standard"]
+[TimeControl "2700+25"]
+[ECO "D06"]
+[Opening "Queen's Gambit Declined: Baltic Defense"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.15] } 1... d5 { [%eval 0.27] } 2. c4 { [%eval 0.22] } 2... Bf5 { [%eval 0.84] } 3. Nc3 { [%eval 0.27] } 3... dxc4 { [%eval 1.22] } 4. e4 { [%eval 1.2] } 4... Bg6 { [%eval 1.25] } 5. Bxc4 { [%eval 1.17] } 5... f5 { [%eval 4.45] } 6. exf5 { [%eval 6.56] } 6... Bxf5 { [%eval 6.08] } 7. Nf3 { [%eval 6.27] } 7... Nc6 { [%eval 7.06] } 8. O-O { [%eval 6.43] } 8... Nb4 { [%eval 8.36] } 9. Bb3 { [%eval 5.86] } 9... Bd3 { [%eval 9.21] } 1-0
+
+

@@ -1,0 +1,23 @@
+[Event "rated classical game"]
+[Site "https://lichess.org/game/YDho7ymu"]
+[Date "2026.11.11"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "Juako05"]
+[Result "1-0"]
+[GameId "YDho7ymu"]
+[UTCDate "2026.11.11"]
+[UTCTime "03:06:28"]
+[WhiteElo "1406"]
+[BlackElo "1130"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-62"]
+[Variant "Standard"]
+[TimeControl "1800+0"]
+[ECO "D31"]
+[Opening "Queen's Gambit Declined: Queen's Knight Variation"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.15] } 1... d5 { [%eval 0.27] } 2. c4 { [%eval 0.22] } 2... e6 { [%eval 0.17] } 3. Nc3 { [%eval 0.22] } 3... Ne7 { [%eval 0.76] } 4. cxd5 { [%eval 0.34] } 4... exd5 { [%eval 0.38] } 5. Bg5 { [%eval 0.3] } 5... f6 { [%eval 0.79] } 6. Bh4 { [%eval -0.4] } 6... Nf5 { [%eval -0.37] } 7. Bg3 { [%eval -0.32] } 7... Nxg3 { [%eval 0.58] } 8. hxg3 { [%eval 0.6] } 8... Bb4 { [%eval 0.98] } 9. e3 { [%eval 1.08] } 9... Nc6 { [%eval 1.15] } 10. a3 { [%eval 0.57] } 10... Ba5 { [%eval 3.87] } 11. b4 { [%eval 2.99] } 11... Nxb4 { [%eval 6.64] } 12. axb4 { [%eval 6.66] } 12... Bxb4 { [%eval 7.79] } 13. Qb3 { [%eval 4.14] } 13... Bd6 { [%eval 5.97] } 14. Qxd5 { [%eval 6.1] } 14... Bb4 { [%eval 8.61] } 15. Qb5+ { [%eval 8.8] } 15... c6 { [%eval 8.64] } 16. Qxb4 { [%eval 8.85] } 16... Bg4 { [%eval 9.42] } 17. Be2 { [%eval 9.15] } 17... Qd7 { [%eval 9.37] } 18. Bxg4 { [%eval 9.57] } 18... Qxg4 { [%eval 9.6] } 19. Qxb7 { [%eval 9.71] } 19... O-O { [%eval 9.25] } 20. Qxc6 { [%eval 9.27] } 20... Rac8 { [%eval 9.45] } 21. Qd5+ { [%eval 8.98] } 21... Kh8 { [%eval 9.14] } 22. Nge2 { [%eval 9.14] } 22... Rcd8 { [%eval 9.51] } 23. Qe4 { [%eval 8.7] } 23... Qxe4 { [%eval 8.56] } 24. Nxe4 { [%eval 8.54] } 24... f5 { [%eval 9.04] } 25. Ng5 { [%eval 8.61] } 25... Rd6 { [%eval 9.77] } 26. Nxh7 { [%eval 9.57] } 26... Ra8 { [%eval #1] } 27. Ng5+ { [%eval 9.04] } 27... Kg8 { [%eval 9.03] } 28. Nf4 { [%eval 8.95] } 28... a5 { [%eval 8.61] } 29. Ke2 { [%eval 8.82] } 29... Rb6 { [%eval 9.18] } 30. Kf3 { [%eval 9.11] } 30... Rg6 { [%eval #2] } 31. Nxg6 { [%eval #1] } 1-0
+
+

@@ -1,0 +1,23 @@
+[Event "rated classical game"]
+[Site "https://lichess.org/game/t50I8ogv"]
+[Date "2026.11.11"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "Resignation"]
+[Result "1-0"]
+[GameId "t50I8ogv"]
+[UTCDate "2026.11.11"]
+[UTCTime "16:47:07"]
+[WhiteElo "1397"]
+[BlackElo "1419"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "2700+25"]
+[ECO "A40"]
+[Opening "Englund Gambit: Hartlaub-Charlick Gambit"]
+[Termination "Normal"]
+
+1. d4 e5 2. dxe5 d6 3. exd6 Bxd6 4. Nf3 Nf6 5. g3 Nc6 6. Bg2 Bg4 7. h3 Bh5 8. O-O Qe7 9. Re1 O-O-O 10. a4 Ne4 11. Nbd2 Nc5 12. b4 Ne4 13. Nxe4 Bxg3 14. Bd2 Qxe4 15. b5 Bxf3 16. Bxf3 Qh4 17. Rf1 Bf4 18. bxc6 bxc6 19. Bg4+ Kb8 20. Qb1+ Ka8 21. Bxf4 f5 22. Bg3 Qg5 23. Bf3 f4 24. h4 Qg6 25. c3 fxg3 26. Qxg6 gxf2+ 27. Kxf2 hxg6 28. Bxc6+ Kb8 29. Rab1+ Kc8 30. Rh1 Rhf8+ 31. Bf3 Rf4 32. Rb4 Rf5 33. Kg3 Rc5 34. Bg4+ Rd7 1-0
+
+
