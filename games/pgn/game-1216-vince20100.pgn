@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/game/N8uOJ6XQ"]
+[Date "2026.11.12"]
+[Round "-"]
+[White "Vince20100"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "N8uOJ6XQ"]
+[UTCDate "2026.11.12"]
+[UTCTime "10:04:15"]
+[WhiteElo "1413"]
+[BlackElo "1360"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "900+10"]
+[ECO "E20"]
+[Opening "Nimzo-Indian Defense"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bd2 c6 5. e4 d5 6. e5 Bxc3 7. Bxc3 Ne4 8. Qd3 Na6 9. f3 Nxc3 10. Qxc3 c5 11. Rd1 cxd4 12. Rxd4 Nc5 13. cxd5 Nd7 1-0
+
+

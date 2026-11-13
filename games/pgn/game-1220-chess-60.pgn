@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/game/p3cmpKV8"]
+[Date "2026.11.12"]
+[Round "-"]
+[White "chess-60"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "p3cmpKV8"]
+[UTCDate "2026.11.12"]
+[UTCTime "11:16:20"]
+[WhiteElo "1303"]
+[BlackElo "1355"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "900+14"]
+[ECO "B18"]
+[Opening "Caro-Kann Defense: Classical Variation"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Bd3 Qxd4 6. Nf3 Qd7 7. Nc5 Qc8 8. O-O Bxd3 9. Nxd3 e6 10. Nfe5 Nd7 11. Qf3 Nxe5 12. Nxe5 Nh6 13. Bxh6 f6 14. Qh5+ Ke7 15. Qf7+ Kd8 16. Bxg7 Bxg7 17. Qxg7 Qc7 18. Qxh8+ 1-0
+
+

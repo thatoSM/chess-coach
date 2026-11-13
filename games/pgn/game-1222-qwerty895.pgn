@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/game/MyeNtwjc"]
+[Date "2026.11.12"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "qwerty895"]
+[Result "0-1"]
+[GameId "MyeNtwjc"]
+[UTCDate "2026.11.12"]
+[UTCTime "16:12:42"]
+[WhiteElo "1343"]
+[BlackElo "1301"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "900+10"]
+[ECO "C41"]
+[Opening "Philidor Defense: Hanham Variation"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nd7 4. Bb5 c6 5. Bc4 h6 6. dxe5 Nxe5 7. Nxe5 dxe5 8. Qxd8+ Kxd8 9. Bxf7 Nf6 10. Nc3 Bb4 11. Bg6 Be6 12. O-O Kc7 13. Bd2 Rhd8 14. a3 Rxd2 15. axb4 Rxc2 16. Ra2 Rd8 17. Rxa7 Rxb2 18. Nd1 Rbd2 19. Ra1 h5 20. f3 Bc4 21. Re1 Bb3 22. Nc3 R8d3 23. Ne2 Bd1 24. Ng3 h4 25. Nh5 Nxh5 26. Bxh5 g5 27. Bg4 Bc2 28. Rac1 Ba4 29. Kf1 Bb5 30. Kg1 Rb3 31. Rc5 Rbb2 32. f4 Rxg2+ 33. Kh1 Rxh2+ 34. Kg1 Rbg2# 0-1
+
+

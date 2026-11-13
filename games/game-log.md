@@ -25,6 +25,16 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 1223 | WIN | White | madiar1960 (1343) | *pending* |
+| 1222 | LOSS | White | qwerty895 (1301) | *pending* |
+| 1221 | LOSS | Black | solalehkazemzadeh (1383) | *pending* |
+| 1220 | LOSS | Black | chess-60 (1303) | *pending* |
+| 1219 | WIN | Black | Arinka2702 (1164) | *pending* |
+| 1218 | WIN | White | Witless_darin (960) | *pending* |
+| 1217 | LOSS | Black | AZakaria82 (1482) | *pending* |
+| 1216 | LOSS | Black | Vince20100 (1413) | *pending* |
+| 1215 | LOSS | White | Robsd (1510) | *pending* |
+| 1214 | WIN | White | dtp870 (1500) | *pending* |
 | 1213 | WIN | White | Schachzeus1 (1129) | *pending* |
 | 1212 | WIN | White | Resignation (1419) | *pending* |
 | 1211 | LOSS | Black | Resignation (1413) | *pending* |
@@ -215,16 +225,6 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 | 1026 | LOSS | White | mypoint (1467) | *pending* |
 | 1025 | WIN | Black | old6500 (1371) | *pending* |
 | 1024 | WIN | White | AlTorS (1243) | *pending* |
-| 1023 | WIN | Black | sirokodaleko (1369) | *pending* |
-| 1022 | LOSS | Black | Kampmarsvin (1316) | *pending* |
-| 1021 | WIN | Black | rolv123 (1248) | *pending* |
-| 1020 | WIN | Black | karlospecht (1428) | *pending* |
-| 1019 | LOSS | White | kubag285 (1332) | *pending* |
-| 1018 | LOSS | White | don_delulu (1320) | *pending* |
-| 1017 | LOSS | Black | wuz4 (1432) | *pending* |
-| 1016 | LOSS | White | HAI52 (1415) | *pending* |
-| 1015 | LOSS | Black | AtharvKPrasad (1367) | *pending* |
-| 1014 | LOSS | White | pat-postman (1401) | *pending* |
 | 1 | — | — | *profile snapshot* | — |
 
 ---

@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/game/zXG3bjrC"]
+[Date "2026.11.12"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "madiar1960"]
+[Result "1-0"]
+[GameId "zXG3bjrC"]
+[UTCDate "2026.11.12"]
+[UTCTime "16:49:52"]
+[WhiteElo "1336"]
+[BlackElo "1343"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "900+10"]
+[ECO "C45"]
+[Opening "Scotch Game"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. d4 { [%eval 0.07] } 3... exd4 { [%eval 0.04] } 4. Nxd4 { [%eval 0.06] } 4... Nxd4 { [%eval 0.63] } 5. Qxd4 { [%eval 0.54] } 5... d6 { [%eval 0.91] } 6. Nc3 { [%eval 0.97] } 6... Nf6 { [%eval 0.88] } 7. Bg5 { [%eval 0.62] } 7... Be7 { [%eval 0.89] } 8. Bc4 { [%eval 0.8] } 8... Be6 { [%eval 0.91] } 9. O-O { [%eval 0.46] } 9... c6 { [%eval 1.5] } 10. Rfe1 { [%eval -0.1] } 10... d5 { [%eval 1.42] } 11. exd5 { [%eval 1.45] } 11... cxd5 { [%eval 2.87] } 12. Bb5+ { [%eval 1.62] } 12... Bd7 { [%eval 6.98] } 13. Bxf6 { [%eval 6.81] } 13... O-O { [%eval 8.3] } 14. Bxe7 { [%eval 8.33] } 1-0
+
+

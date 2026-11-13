@@ -1,0 +1,23 @@
+[Event "rated classical game"]
+[Site "https://lichess.org/game/VXv6FLhb"]
+[Date "2026.11.12"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "dtp870"]
+[Result "1-0"]
+[GameId "VXv6FLhb"]
+[UTCDate "2026.11.12"]
+[UTCTime "09:36:27"]
+[WhiteElo "1409"]
+[BlackElo "1500"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-298"]
+[Variant "Standard"]
+[TimeControl "1800+20"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation"]
+[Termination "Time forfeit"]
+
+1. d4 { [%eval 0.15] } 1... c6 { [%eval 0.33] } 2. e4 { [%eval 0.24] } 2... d5 { [%eval 0.24] } 3. e5 { [%eval 0.33] } 3... f6 { [%eval 0.84] } 4. Nf3 { [%eval 0.86] } 4... fxe5 { [%eval 0.98] } 5. Nxe5 { [%eval 0.97] } 5... Nf6 { [%eval 0.97] } 6. Bg5 { [%eval 0.52] } 6... Nbd7 { [%eval 0.53] } 7. Bxf6 { [%eval -0.45] } 7... exf6 { [%eval -0.49] } 8. Qh5+ { [%eval -0.55] } 8... g6 { [%eval 1.66] } 9. Nxg6 { [%eval 1.67] } 9... Rg8 { [%eval 6.06] } 10. Ne5+ { [%eval 4.87] } 1-0
+
+
