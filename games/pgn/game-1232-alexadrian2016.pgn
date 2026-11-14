@@ -1,0 +1,23 @@
+[Event "rated classical game"]
+[Site "https://lichess.org/game/m3pVkPUX"]
+[Date "2026.11.14"]
+[Round "-"]
+[White "AlexAdrian2016"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "m3pVkPUX"]
+[UTCDate "2026.11.14"]
+[UTCTime "10:41:07"]
+[WhiteElo "1500"]
+[BlackElo "1422"]
+[WhiteRatingDiff "-307"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "1800+0"]
+[ECO "B13"]
+[Opening "Caro-Kann Defense: Exchange Variation"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... c6 { [%eval 0.31] } 2. d4 { [%eval 0.24] } 2... d5 { [%eval 0.24] } 3. exd5 { [%eval 0.08] } 3... cxd5 { [%eval 0.18] } 4. Bb5+ { [%eval 0.0] } 4... Bd7 { [%eval 0.0] } 5. Bxd7+ { [%eval 0.0] } 5... Qxd7 { [%eval 0.0] } 6. Nf3 { [%eval 0.0] } 6... Nf6 { [%eval 0.0] } 7. Nc3 { [%eval -0.12] } 7... e6 { [%eval 0.0] } 8. Bg5 { [%eval -0.19] } 8... Be7 { [%eval -0.08] } 9. Bxf6 { [%eval -0.16] } 9... Bxf6 { [%eval -0.07] } 10. O-O { [%eval -0.23] } 10... O-O { [%eval -0.13] } 11. h3 { [%eval -0.17] } 11... Nc6 { [%eval -0.14] } 12. Ne5 { [%eval -3.63] } 12... Nxe5 { [%eval -3.68] } 13. dxe5 { [%eval -3.71] } 13... Bxe5 { [%eval -3.54] } 14. Re1 { [%eval -4.69] } 14... Bxc3 { [%eval -4.74] } 15. bxc3 { [%eval -4.61] } 15... Qc7 { [%eval -2.71] } 16. Qh5 { [%eval -5.81] } 16... Qxc3 { [%eval -5.96] } 17. Qe2 { [%eval -6.05] } 17... Rac8 { [%eval -6.06] } 18. Rec1 { [%eval -6.17] } 18... a6 { [%eval -5.41] } 19. Rab1 { [%eval -5.99] } 19... b5 { [%eval -5.79] } 20. Qg4 { [%eval -6.41] } 20... Qa3 { [%eval -6.39] } 21. Ra1 { [%eval -6.67] } 21... Rc4 { [%eval -6.4] } 22. Qe2 { [%eval -6.71] } 22... Rfc8 { [%eval -6.57] } 23. Kh2 { [%eval -6.79] } 23... Qa4 { [%eval -6.77] } 24. g3 { [%eval -6.85] } 24... Rxc2 { [%eval -7.19] } 25. Rxc2 { [%eval -7.29] } 25... Rxc2 { [%eval -7.12] } 26. Rc1 { [%eval -9.46] } 26... Rxc1 { [%eval -9.03] } 0-1
+
+

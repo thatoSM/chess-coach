@@ -25,6 +25,12 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 1235 | WIN | Black | Nursultan1111 (1455) | *pending* |
+| 1234 | WIN | Black | Sonka_67 (1500) | *pending* |
+| 1233 | LOSS | White | Foume (1483) | *pending* |
+| 1232 | WIN | Black | AlexAdrian2016 (1500) | *pending* |
+| 1231 | WIN | Black | skufskiye_koni (1363) | *pending* |
+| 1230 | WIN | White | utigard123 (1324) | *pending* |
 | 1229 | WIN | White | Masterchifu76 (1384) | *pending* |
 | 1228 | WIN | White | AmineSofia (1413) | *pending* |
 | 1227 | WIN | White | SirMaxPlanck (1392) | *pending* |
@@ -219,12 +225,6 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 | 1038 | WIN | White | BVKnights11 (1367) | *pending* |
 | 1037 | DRAW | Black | QueenKnights (1372) | *pending* |
 | 1036 | WIN | Black | WBDWBD (1378) | *pending* |
-| 1035 | LOSS | White | cadillo1938 (1372) | *pending* |
-| 1034 | LOSS | White | Tanav_ppca (1450) | *pending* |
-| 1033 | WIN | White | bhargavseela (1342) | *pending* |
-| 1032 | WIN | Black | tiruchirajan77 (1411) | *pending* |
-| 1031 | LOSS | Black | vanshking01 (1388) | *pending* |
-| 1030 | WIN | White | garriballd (1373) | *pending* |
 | 1 | — | — | *profile snapshot* | — |
 
 ---

@@ -1,0 +1,23 @@
+[Event "rated classical game"]
+[Site "https://lichess.org/game/aehpz0XE"]
+[Date "2026.11.14"]
+[Round "-"]
+[White "Sonka_67"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "aehpz0XE"]
+[UTCDate "2026.11.14"]
+[UTCTime "15:20:21"]
+[WhiteElo "1500"]
+[BlackElo "1420"]
+[WhiteRatingDiff "-309"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "1800+20"]
+[ECO "A00"]
+[Opening "Clemenz Opening"]
+[Termination "Normal"]
+
+1. h3 { [%eval -0.03] } 1... e5 { [%eval 0.01] } 2. a4 { [%eval -0.61] } 2... d5 { [%eval -0.58] } 3. g4 { [%eval -1.51] } 3... f5 { [%eval -1.62] } 4. f3 { [%eval #-1] } 4... b6 { [%eval -2.79] } 5. gxf5 { [%eval #-1] } 5... Bxf5 { [%eval -3.08] } 6. h4 { [%eval -3.24] } 6... h5 { [%eval -1.45] } 7. b3 { [%eval -3.41] } 7... Nd7 { [%eval -1.43] } 8. Na3 { [%eval -2.98] } 8... Be7 { [%eval -2.87] } 9. Nh3 { [%eval -4.69] } 9... Bxh4+ { [%eval -4.38] } 10. Nf2 { [%eval -4.09] } 10... Bxf2+ { [%eval -2.27] } 11. Kxf2 { [%eval -2.35] } 11... Qg5 { [%eval -0.03] } 12. Rxh5 { [%eval -9.24] } 12... Qxh5 { [%eval -9.31] } 13. Nc4 { [%eval #-2] } 13... dxc4 { [%eval -11.4] } 14. bxc4 { [%eval #-2] } 14... Qh4+ { [%eval #-1] } 15. Ke3 { [%eval #-1] } 15... Qd4# 0-1
+
+
