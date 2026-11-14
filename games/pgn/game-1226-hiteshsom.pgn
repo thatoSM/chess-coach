@@ -1,0 +1,23 @@
+[Event "rated classical game"]
+[Site "https://lichess.org/game/bRVARf5V"]
+[Date "2026.11.13"]
+[Round "-"]
+[White "hiteshsom"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "bRVARf5V"]
+[UTCDate "2026.11.13"]
+[UTCTime "05:09:32"]
+[WhiteElo "1425"]
+[BlackElo "1407"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "1800+20"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... c6 { [%eval 0.31] } 2. e5 { [%eval -0.12] } 2... d5 { [%eval 0.3] } 3. exd6 { [%eval 0.0] } 3... Qxd6 { [%eval 0.11] } 4. Nf3 { [%eval 0.12] } 4... Nf6 { [%eval 0.17] } 5. d4 { [%eval 0.17] } 5... Bg4 { [%eval 0.24] } 6. h3 { [%eval -0.43] } 6... Bxf3 { [%eval -0.45] } 7. Qxf3 { [%eval -0.47] } 7... Qxd4 { [%eval -0.46] } 8. Nc3 { [%eval -0.39] } 8... e6 { [%eval -0.29] } 9. Bb5 { [%eval -1.19] } 9... Be7 { [%eval -0.87] } 10. Be3 { [%eval -0.83] } 10... Qd8 { [%eval -0.82] } 11. Rd1 { [%eval -0.99] } 11... Qc8 { [%eval -0.51] } 12. Bd3 { [%eval -0.62] } 12... Nbd7 { [%eval -0.56] } 13. Ne4 { [%eval -0.83] } 13... h6 { [%eval 0.0] } 14. O-O { [%eval -0.17] } 14... Nxe4 { [%eval -0.19] } 15. Bxe4 { [%eval -0.17] } 15... Nf6 { [%eval -0.15] } 16. Bd3 { [%eval -0.38] } 16... Nd5 { [%eval 0.0] } 17. a4 { [%eval -0.63] } 17... Nxe3 { [%eval -0.58] } 18. fxe3 { [%eval -0.98] } 18... O-O { [%eval -0.28] } 19. b4 { [%eval -1.12] } 19... Bxb4 { [%eval 6.26] } 20. Qe4 { [%eval 6.52] } 20... f5 { [%eval 6.52] } 21. Qxb4 { [%eval 6.32] } 21... Rd8 { [%eval 6.7] } 22. e4 { [%eval 6.59] } 22... a5 { [%eval 7.43] } 23. Qe7 { [%eval 7.38] } 23... Re8 { [%eval 7.27] } 24. Qd6 { [%eval 6.85] } 24... Rd8 { [%eval 7.41] } 25. Qe5 { [%eval 7.46] } 25... b5 { [%eval 7.86] } 26. exf5 { [%eval 7.97] } 26... exf5 { [%eval 10.19] } 27. Rxf5 { [%eval 7.52] } 27... Rd5 { [%eval 7.44] } 28. Qf4 { [%eval 7.34] } 28... Rxf5 { [%eval 7.43] } 29. Bxf5 { [%eval 7.13] } 29... b4 { [%eval #7] } 1-0
+
+

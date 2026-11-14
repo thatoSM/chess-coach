@@ -1,0 +1,23 @@
+[Event "rated classical game"]
+[Site "https://lichess.org/game/f7xds3a0"]
+[Date "2026.11.13"]
+[Round "-"]
+[White "Raiders44"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "f7xds3a0"]
+[UTCDate "2026.11.13"]
+[UTCTime "04:32:13"]
+[WhiteElo "1436"]
+[BlackElo "1398"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+9"]
+[Variant "Standard"]
+[TimeControl "1800+20"]
+[ECO "B13"]
+[Opening "Caro-Kann Defense: Exchange Variation"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... c6 { [%eval 0.31] } 2. d4 { [%eval 0.24] } 2... d5 { [%eval 0.24] } 3. exd5 { [%eval 0.08] } 3... cxd5 { [%eval 0.18] } 4. Bd3 { [%eval 0.1] } 4... Nc6 { [%eval 0.26] } 5. c3 { [%eval 0.19] } 5... Nf6 { [%eval 0.19] } 6. Nf3 { [%eval 0.15] } 6... Bg4 { [%eval 0.2] } 7. h3 { [%eval 0.24] } 7... Bh5 { [%eval 0.15] } 8. O-O { [%eval 0.13] } 8... e6 { [%eval 0.17] } 9. Na3 { [%eval -0.85] } 9... Be7 { [%eval -0.4] } 10. g4 { [%eval -1.14] } 10... Bg6 { [%eval -1.06] } 11. Ne5 { [%eval -2.18] } 11... Bxd3 { [%eval -1.32] } 12. Qxd3 { [%eval -1.36] } 12... Nxe5 { [%eval -1.2] } 13. dxe5 { [%eval -1.29] } 13... Ne4 { [%eval -0.29] } 14. Qb5+ { [%eval -0.23] } 14... Qd7 { [%eval -0.31] } 15. Qxd7+ { [%eval -0.26] } 15... Kxd7 { [%eval -0.32] } 16. Be3 { [%eval -4.91] } 16... a6 { [%eval -0.39] } 17. Kg2 { [%eval -4.46] } 17... b5 { [%eval -0.26] } 18. Kf3 { [%eval -5.11] } 18... Ng5+ { [%eval -0.23] } 19. Bxg5 { [%eval -0.34] } 19... Bxg5 { [%eval -0.44] } 20. Nc2 { [%eval -0.41] } 20... f6 { [%eval -0.15] } 21. exf6 { [%eval -0.13] } 21... Bxf6 { [%eval -0.09] } 22. Nd4 { [%eval -0.79] } 22... Rhf8 { [%eval -0.59] } 23. Kg2 { [%eval -1.49] } 23... Bxd4 { [%eval -1.54] } 24. cxd4 { [%eval -1.39] } 24... Rf4 { [%eval -0.26] } 25. Rad1 { [%eval -0.24] } 25... Rc8 { [%eval -0.23] } 26. Rc1 { [%eval -4.15] } 26... Rxc1 { [%eval -3.94] } 27. Rxc1 { [%eval -3.5] } 27... Rxd4 { [%eval -3.65] } 28. Kg3 { [%eval -4.45] } 28... Rd2 { [%eval -4.01] } 29. Kg2 { [%eval -6.3] } 29... Rxb2 { [%eval -6.04] } 0-1
+
+

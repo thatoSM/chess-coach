@@ -1,0 +1,23 @@
+[Event "rated classical game"]
+[Site "https://lichess.org/game/rqPLMndN"]
+[Date "2026.11.13"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "SirMaxPlanck"]
+[Result "1-0"]
+[GameId "rqPLMndN"]
+[UTCDate "2026.11.13"]
+[UTCTime "07:57:34"]
+[WhiteElo "1400"]
+[BlackElo "1392"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-9"]
+[Variant "Standard"]
+[TimeControl "1800+0"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Main Line, Mieses Variation"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... d5 { [%eval 0.54] } 2. exd5 { [%eval 0.51] } 2... Qxd5 { [%eval 0.52] } 3. Nc3 { [%eval 0.47] } 3... Qa5 { [%eval 0.57] } 4. d4 { [%eval 0.5] } 4... Nf6 { [%eval 0.56] } 5. Bd2 { [%eval 0.31] } 5... Bg4 { [%eval 0.33] } 6. Be2 { [%eval 0.16] } 6... Bxe2 { [%eval 0.11] } 7. Qxe2 { [%eval 0.12] } 7... Qb6 { [%eval 1.19] } 8. O-O-O { [%eval 1.16] } 8... Nc6 { [%eval 1.99] } 9. Be3 { [%eval 1.41] } 9... O-O-O { [%eval 6.67] } 10. d5 { [%eval 6.75] } 1-0
+
+

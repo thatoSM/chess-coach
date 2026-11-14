@@ -1,0 +1,23 @@
+[Event "rated classical game"]
+[Site "https://lichess.org/game/e6H3LUBR"]
+[Date "2026.11.13"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "Masterchifu76"]
+[Result "1-0"]
+[GameId "e6H3LUBR"]
+[UTCDate "2026.11.13"]
+[UTCTime "10:44:23"]
+[WhiteElo "1415"]
+[BlackElo "1384"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "1800+0"]
+[ECO "C41"]
+[Opening "Philidor Defense"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... d6 { [%eval 0.55] } 3. d4 { [%eval 0.58] } 3... Nc6 { [%eval 0.67] } 4. d5 { [%eval 0.9] } 4... Nd4 { [%eval 1.66] } 5. Nxd4 { [%eval 2.2] } 5... exd4 { [%eval 1.79] } 6. Qxd4 { [%eval 1.62] } 6... Nf6 { [%eval 1.89] } 7. Bb5+ { [%eval 1.66] } 7... Bd7 { [%eval 1.72] } 8. Bxd7+ { [%eval 2.24] } 8... Qxd7 { [%eval 2.31] } 9. Nc3 { [%eval 2.22] } 9... c5 { [%eval 3.47] } 10. dxc6 { [%eval 3.48] } 10... bxc6 { [%eval 3.39] } 11. f3 { [%eval 2.44] } 11... c5 { [%eval 3.05] } 12. Qa4 { [%eval 2.83] } 12... Qxa4 { [%eval 2.9] } 13. Nxa4 { [%eval 2.88] } 13... Be7 { [%eval 3.05] } 14. Bg5 { [%eval 2.97] } 14... O-O { [%eval 4.34] } 15. O-O { [%eval 2.86] } 15... h6 { [%eval 2.92] } 16. Bh4 { [%eval 2.82] } 16... g5 { [%eval 2.81] } 17. Bg3 { [%eval 2.28] } 17... Rac8 { [%eval 3.17] } 18. h4 { [%eval 1.01] } 18... g4 { [%eval 3.26] } 19. c4 { [%eval 2.06] } 19... gxf3 { [%eval 2.0] } 20. gxf3 { [%eval 0.89] } 20... Kh7 { [%eval 1.97] } 21. Kh2 { [%eval 1.33] } 21... d5 { [%eval 4.22] } 22. cxd5 { [%eval 3.74] } 22... c4 { [%eval 5.29] } 23. Rac1 { [%eval 3.52] } 23... Rg8 { [%eval 5.33] } 24. Bf2 { [%eval 2.56] } 24... Nh5 { [%eval 2.92] } 25. Bxa7 { [%eval -2.26] } 25... Bxh4 { [%eval 1.13] } 26. Bf2 { [%eval 0.77] } 26... Bg3+ { [%eval 5.09] } 27. Bxg3 { [%eval 4.75] } 27... Nxg3 { [%eval 5.82] } 28. Rg1 { [%eval 5.76] } 28... Ne2 { [%eval 5.21] } 29. Rxg8 { [%eval 5.0] } 29... Rxg8 { [%eval 5.24] } 30. Rc2 { [%eval 5.33] } 30... Nd4 { [%eval 5.13] } 31. Rxc4 { [%eval 0.0] } 31... Nxf3+ { [%eval 0.0] } 32. Kh3 { [%eval 0.0] } 32... h5 { [%eval 0.67] } 33. Rc3 { [%eval 0.56] } 33... Ng5+ { [%eval 0.68] } 34. Kh4 { [%eval 0.0] } 34... Kh6 { [%eval 4.36] } 35. e5 { [%eval 0.0] } 35... Ne4 { [%eval 0.0] } 36. Rc6+ { [%eval 0.0] } 36... Rg6 { [%eval 8.69] } 37. Rxg6+ { [%eval 5.14] } 37... fxg6 { [%eval 9.11] } 38. d6 { [%eval 9.09] } 38... g5+ { [%eval 9.05] } 39. Kh3 { [%eval 8.85] } 39... g4+ { [%eval 9.14] } 40. Kg2 { [%eval 8.98] } 40... g3 { [%eval 13.61] } 41. d7 { [%eval 12.8] } 41... h4 { [%eval 12.75] } 42. d8=Q { [%eval 16.64] } 42... h3+ { [%eval #13] } 43. Kxh3 { [%eval #13] } 43... Kh5 { [%eval #7] } 44. Qh4+ { [%eval #6] } 1-0
+
+

@@ -25,6 +25,12 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 1229 | WIN | White | Masterchifu76 (1384) | *pending* |
+| 1228 | WIN | White | AmineSofia (1413) | *pending* |
+| 1227 | WIN | White | SirMaxPlanck (1392) | *pending* |
+| 1226 | LOSS | Black | hiteshsom (1425) | *pending* |
+| 1225 | WIN | Black | Raiders44 (1436) | *pending* |
+| 1224 | LOSS | White | NARAYINI (1378) | *pending* |
 | 1223 | WIN | White | madiar1960 (1343) | *pending* |
 | 1222 | LOSS | White | qwerty895 (1301) | *pending* |
 | 1221 | LOSS | Black | solalehkazemzadeh (1383) | *pending* |
@@ -219,12 +225,6 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 | 1032 | WIN | Black | tiruchirajan77 (1411) | *pending* |
 | 1031 | LOSS | Black | vanshking01 (1388) | *pending* |
 | 1030 | WIN | White | garriballd (1373) | *pending* |
-| 1029 | WIN | White | Toren54 (1417) | *pending* |
-| 1028 | LOSS | Black | ZoroHD (1336) | *pending* |
-| 1027 | WIN | White | rafamg68 (1356) | *pending* |
-| 1026 | LOSS | White | mypoint (1467) | *pending* |
-| 1025 | WIN | Black | old6500 (1371) | *pending* |
-| 1024 | WIN | White | AlTorS (1243) | *pending* |
 | 1 | — | — | *profile snapshot* | — |
 
 ---

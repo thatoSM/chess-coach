@@ -1,0 +1,23 @@
+[Event "rated classical game"]
+[Site "https://lichess.org/game/tS6mnoTa"]
+[Date "2026.11.13"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "NARAYINI"]
+[Result "0-1"]
+[GameId "tS6mnoTa"]
+[UTCDate "2026.11.13"]
+[UTCTime "04:28:11"]
+[WhiteElo "1407"]
+[BlackElo "1378"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "1800+20"]
+[ECO "D13"]
+[Opening "Slav Defense: Exchange Variation"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. cxd5 cxd5 5. e3 Nc6 6. Bb5 Bd7 7. Nc3 a6 8. Ba4 e6 9. Qe2 Bd6 10. e4 dxe4 11. Nxe4 Nxe4 12. Qxe4 Qa5+ 13. Bd2 0-1
+
+
