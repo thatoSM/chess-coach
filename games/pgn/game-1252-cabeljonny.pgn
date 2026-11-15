@@ -1,0 +1,23 @@
+[Event "rated classical game"]
+[Site "https://lichess.org/game/63EmuQlU"]
+[Date "2026.11.15"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "cabeljonny"]
+[Result "1/2-1/2"]
+[GameId "63EmuQlU"]
+[UTCDate "2026.11.15"]
+[UTCTime "13:56:36"]
+[WhiteElo "1452"]
+[BlackElo "1531"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "-14"]
+[Variant "Standard"]
+[TimeControl "1800+0"]
+[ECO "C44"]
+[Opening "Scotch Game"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 d6 4. d5 Nce7 5. Bb5+ c6 6. dxc6 bxc6 7. Ba4 Qa5+ 8. Nc3 Qb4 9. a3 Qb6 10. Be3 Qxb2 11. Bd2 1/2-1/2
+
+

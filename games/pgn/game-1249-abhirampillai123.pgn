@@ -1,0 +1,23 @@
+[Event "rated classical game"]
+[Site "https://lichess.org/game/GNaUJRr9"]
+[Date "2026.11.15"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "Abhirampillai123"]
+[Result "1-0"]
+[GameId "GNaUJRr9"]
+[UTCDate "2026.11.15"]
+[UTCTime "12:47:39"]
+[WhiteElo "1451"]
+[BlackElo "1500"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-262"]
+[Variant "Standard"]
+[TimeControl "1800+0"]
+[ECO "C40"]
+[Opening "King's Pawn Game: Busch-Gass Gambit"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Bc5 { [%eval 1.81] } 3. d4 { [%eval 0.0] } 3... exd4 { [%eval 0.0] } 4. Nxd4 { [%eval -0.03] } 4... Bxd4 { [%eval 1.32] } 5. Qxd4 { [%eval 0.96] } 5... Nc6 { [%eval 2.79] } 6. Qxg7 { [%eval 2.88] } 6... Nb4 { [%eval 10.25] } 7. Bc4 { [%eval 5.21] } 7... Qe7 { [%eval 7.98] } 8. Na3 { [%eval 7.19] } 8... Rb8 { [%eval 9.69] } 9. O-O { [%eval 7.73] } 9... Nh6 { [%eval 11.45] } 10. Qxh8+ { [%eval 11.17] } 10... Qf8 { [%eval 11.15] } 11. Qxf8+ { [%eval 10.05] } 11... Kxf8 { [%eval 10.03] } 12. Bxh6+ { [%eval 10.01] } 1-0
+
+

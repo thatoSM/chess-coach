@@ -1,0 +1,23 @@
+[Event "rated classical game"]
+[Site "https://lichess.org/game/0RzgolY2"]
+[Date "2026.11.15"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "gasoleros"]
+[Result "1-0"]
+[GameId "0RzgolY2"]
+[UTCDate "2026.11.15"]
+[UTCTime "03:43:21"]
+[WhiteElo "1433"]
+[BlackElo "1506"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-16"]
+[Variant "Standard"]
+[TimeControl "1800+0"]
+[ECO "B22"]
+[Opening "Sicilian Defense: Alapin Variation"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.18] } 1... c5 { [%eval 0.32] } 2. c3 { [%eval 0.0] } 2... e6 { [%eval 0.25] } 3. d4 { [%eval 0.28] } 3... d5 { [%eval 0.27] } 4. exd5 { [%eval 0.14] } 4... exd5 { [%eval 0.25] } 5. Nf3 { [%eval 0.17] } 5... cxd4 { [%eval 0.3] } 6. Nxd4 { [%eval 0.18] } 6... Nf6 { [%eval 0.63] } 7. g3 { [%eval -0.05] } 7... Be6 { [%eval 1.5] } 8. Bg2 { [%eval 0.71] } 8... Be7 { [%eval 1.16] } 9. O-O { [%eval 0.49] } 9... O-O { [%eval 1.09] } 10. Re1 { [%eval 0.25] } 10... Bg4 { [%eval 0.25] } 11. Qb3 { [%eval 0.33] } 11... Ne4 { [%eval 6.69] } 12. Nd2 { [%eval 2.54] } 12... b6 { [%eval 7.72] } 13. Nxe4 { [%eval 7.81] } 13... dxe4 { [%eval 8.04] } 14. Bxe4 { [%eval 7.99] } 14... Bc5 { [%eval 8.57] } 15. Bxa8 { [%eval 8.41] } 15... Qf6 { [%eval 8.51] } 16. Be3 { [%eval 8.52] } 16... Nc6 { [%eval 8.9] } 17. Bxc6 { [%eval 8.86] } 17... Bxd4 { [%eval 8.86] } 18. Bxd4 { [%eval 8.46] } 18... Qxc6 { [%eval 8.29] } 19. Re3 { [%eval 8.2] } 19... Bh3 { [%eval 8.28] } 20. f3 { [%eval 8.27] } 20... h6 { [%eval 8.28] } 21. Rae1 { [%eval 8.21] } 21... h5 { [%eval 8.43] } 22. Kf2 { [%eval 8.42] } 22... Qg6 { [%eval 8.5] } 23. Ke2 { [%eval 8.07] } 23... h4 { [%eval 8.51] } 24. Rg1 { [%eval 8.21] } 24... Be6 { [%eval 8.11] } 25. Qa4 { [%eval 7.71] } 25... Qc2+ { [%eval 14.01] } 26. Qxc2 { [%eval 13.02] } 1-0
+
+

@@ -1,0 +1,23 @@
+[Event "rated classical game"]
+[Site "https://lichess.org/game/9Fbv2OZe"]
+[Date "2026.11.15"]
+[Round "-"]
+[White "Charles-Ye"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "9Fbv2OZe"]
+[UTCDate "2026.11.15"]
+[UTCTime "04:25:13"]
+[WhiteElo "1413"]
+[BlackElo "1446"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "1800+0"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense: Hillbilly Attack"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... c6 { [%eval 0.31] } 2. Bc4 { [%eval -0.28] } 2... d5 { [%eval -0.2] } 3. exd5 { [%eval -0.29] } 3... cxd5 { [%eval -0.27] } 4. Bb5+ { [%eval -0.34] } 4... Bd7 { [%eval -0.34] } 5. Bxd7+ { [%eval -0.24] } 5... Qxd7 { [%eval -0.28] } 6. Nf3 { [%eval -0.4] } 6... Nf6 { [%eval -0.28] } 7. O-O { [%eval -0.24] } 7... e6 { [%eval -0.21] } 8. d4 { [%eval -0.2] } 8... Be7 { [%eval -0.01] } 9. Bg5 { [%eval -0.11] } 9... h6 { [%eval -0.12] } 10. Bh4 { [%eval -0.25] } 10... Ne4 { [%eval -0.02] } 11. Ne5 { [%eval 0.0] } 11... Qc7 { [%eval 0.11] } 12. Bxe7 { [%eval -0.05] } 12... Qxe7 { [%eval -0.04] } 13. Nd2 { [%eval 0.04] } 13... Nxd2 { [%eval 0.09] } 14. Qxd2 { [%eval 0.06] } 14... Nd7 { [%eval 0.07] } 15. Qb4 { [%eval -8.44] } 15... Qxb4 { [%eval -8.45] } 0-1
+
+

@@ -1,0 +1,23 @@
+[Event "rated classical game"]
+[Site "https://lichess.org/game/hQfm1tZM"]
+[Date "2026.11.15"]
+[Round "-"]
+[White "FrankJavier2026"]
+[Black "ThatoSM"]
+[Result "1/2-1/2"]
+[GameId "hQfm1tZM"]
+[UTCDate "2026.11.15"]
+[UTCTime "04:41:23"]
+[WhiteElo "1534"]
+[BlackElo "1452"]
+[WhiteRatingDiff "-1"]
+[BlackRatingDiff "+2"]
+[Variant "Standard"]
+[TimeControl "1800+0"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... c6 { [%eval 0.31] } 2. d4 { [%eval 0.24] } 2... d5 { [%eval 0.24] } 3. e5 { [%eval 0.33] } 3... Bf5 { [%eval 0.22] } 4. Bd3 { [%eval 0.23] } 4... Bxd3 { [%eval 0.17] } 5. Qxd3 { [%eval 0.03] } 5... e6 { [%eval 0.0] } 6. Nf3 { [%eval 0.03] } 6... c5 { [%eval 0.0] } 7. dxc5 { [%eval -0.03] } 7... Bxc5 { [%eval -0.04] } 8. Be3 { [%eval -0.19] } 8... Bxe3 { [%eval -0.25] } 9. Qxe3 { [%eval -0.23] } 9... Nc6 { [%eval -0.22] } 10. O-O { [%eval -0.23] } 10... Nge7 { [%eval -0.16] } 11. Nd4 { [%eval -2.11] } 11... O-O { [%eval -0.46] } 12. Nxc6 { [%eval -0.49] } 12... Nxc6 { [%eval -0.28] } 13. Nd2 { [%eval -0.41] } 13... Qc7 { [%eval -0.31] } 14. f4 { [%eval -1.1] } 14... Rfd8 { [%eval -0.18] } 15. c3 { [%eval -0.46] } 15... b5 { [%eval -0.14] } 16. Qg3 { [%eval -0.46] } 16... Qb6+ { [%eval -0.23] } 17. Kh1 { [%eval -0.22] } 17... a5 { [%eval 0.14] } 18. Nf3 { [%eval -0.16] } 18... d4 { [%eval -0.05] } 19. cxd4 { [%eval -0.09] } 19... Nxd4 { [%eval 0.25] } 20. Nxd4 { [%eval -0.66] } 20... Qxd4 { [%eval -0.55] } 21. Qh4 { [%eval -3.94] } 21... Qxb2 { [%eval -3.92] } 22. Rad1 { [%eval -5.6] } 22... Rdc8 { [%eval -3.64] } 23. h3 { [%eval -3.56] } 23... h6 { [%eval -2.72] } 24. Rd7 { [%eval -4.77] } 24... Rc2 { [%eval -4.18] } 25. Qg3 { [%eval -5.08] } 25... Qxa2 { [%eval -4.41] } 26. f5 { [%eval -5.58] } 26... exf5 { [%eval -5.88] } 27. Rxf5 { [%eval -6.47] } 27... Qb1+ { [%eval -5.19] } 28. Kh2 { [%eval -4.75] } 28... Rxg2+ { [%eval 4.47] } 29. Qxg2 { [%eval 4.43] } 29... Qxf5 { [%eval 4.15] } 30. Qxa8+ { [%eval 3.98] } 30... Kh7 { [%eval 3.4] } 31. Rd5 { [%eval 0.0] } 31... Qf2+ { [%eval 0.0] } 32. Kh1 { [%eval 0.0] } 32... Qf1+ { [%eval 0.0] } 33. Kh2 { [%eval 0.0] } 33... Qf2+ { [%eval 0.0] } 34. Kh1 { [%eval 0.0] } 34... Qf1+ { [%eval 0.0] } 35. Kh2 { [%eval 0.0] } 35... Qf2+ { [%eval 0.0] } 1/2-1/2
+
+

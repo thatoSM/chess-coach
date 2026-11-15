@@ -1,0 +1,23 @@
+[Event "rated classical game"]
+[Site "https://lichess.org/game/YvQ8vABx"]
+[Date "2026.11.15"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "MatthewClark"]
+[Result "1-0"]
+[GameId "YvQ8vABx"]
+[UTCDate "2026.11.15"]
+[UTCTime "08:44:48"]
+[WhiteElo "1439"]
+[BlackElo "1238"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+[Variant "Standard"]
+[TimeControl "2700+14"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Bg4 6. h3 Bh5 7. Bb5 cxd4 8. cxd4 e6 9. Qa4 Qd7 10. Nbd2 Nge7 11. g4 Bg6 12. h4 a6 13. h5 Be4 14. Nxe4 dxe4 15. Bxc6 bxc6 16. Nd2 Qd5 17. O-O g6 18. Re1 gxh5 19. gxh5 Rg8+ 20. Kf1 e3 21. Rxe3 Qg2+ 22. Ke2 Nd5 23. Qxc6+ Kd8 24. Qxa8+ Ke7 25. Qb7+ Ke8 26. Qc8+ Ke7 27. Nc4 Nxe3 28. Qc5+ Ke8 29. Qc8+ Ke7 30. Bxe3 Qg4+ 31. f3 Qxh5 32. Qc7+ Ke8 33. Nd6+ Bxd6 34. exd6 Qh2+ 35. Bf2 Rg2 36. Qe7# 1-0
+
+

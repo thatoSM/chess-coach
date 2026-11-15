@@ -25,6 +25,24 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 1253 | WIN | White | Anna_Poletaeva (1356) | *pending* |
+| 1252 | DRAW | White | cabeljonny (1531) | *pending* |
+| 1251 | WIN | White | sunfloxxer (1500) | *pending* |
+| 1250 | LOSS | Black | Uiej (1496) | *pending* |
+| 1249 | WIN | White | Abhirampillai123 (1500) | *pending* |
+| 1248 | WIN | Black | Himesh_06 (1475) | *pending* |
+| 1247 | WIN | Black | TimBlack (986) | *pending* |
+| 1246 | WIN | Black | Qiu2016122 (993) | *pending* |
+| 1245 | WIN | White | MatthewClark (1238) | *pending* |
+| 1244 | LOSS | Black | MatthewClark (1229) | *pending* |
+| 1243 | LOSS | White | krivchenkovboris (1431) | *pending* |
+| 1242 | DRAW | White | torkashaliiran (1544) | *pending* |
+| 1241 | LOSS | White | ramy140114 (1461) | *pending* |
+| 1240 | WIN | Black | gizlacoc (1449) | *pending* |
+| 1239 | DRAW | Black | FrankJavier2026 (1534) | *pending* |
+| 1238 | WIN | Black | Charles-Ye (1413) | *pending* |
+| 1237 | WIN | White | ja1rondon (1500) | *pending* |
+| 1236 | WIN | White | gasoleros (1506) | *pending* |
 | 1235 | WIN | Black | Nursultan1111 (1455) | *pending* |
 | 1234 | WIN | Black | Sonka_67 (1500) | *pending* |
 | 1233 | LOSS | White | Foume (1483) | *pending* |
@@ -207,24 +225,6 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 | 1056 | DRAW | White | Chess_Master321123gg (1314) | *pending* |
 | 1055 | LOSS | Black | Reyansh_2016 (1341) | *pending* |
 | 1054 | LOSS | Black | Observant50 (1440) | *pending* |
-| 1053 | LOSS | Black | laknat85 (1313) | *pending* |
-| 1052 | LOSS | White | revanshihatkar7890 (1224) | *pending* |
-| 1051 | LOSS | White | Watercake (1340) | *pending* |
-| 1050 | LOSS | White | liumiaolin1 (1245) | *pending* |
-| 1049 | WIN | White | AadyaLandge123 (1298) | *pending* |
-| 1048 | LOSS | Black | tallliiingg (1395) | *pending* |
-| 1047 | WIN | Black | baudie (1394) | *pending* |
-| 1046 | LOSS | White | Popova_Valeria (1317) | *pending* |
-| 1045 | LOSS | White | garriballd (1378) | *pending* |
-| 1044 | LOSS | Black | Romashka2020 (1383) | *pending* |
-| 1043 | LOSS | Black | yurish1964 (1298) | *pending* |
-| 1042 | LOSS | Black | Garigacho (1417) | *pending* |
-| 1041 | WIN | Black | Satianadewa (1316) | *pending* |
-| 1040 | LOSS | White | Jamren_18 (1322) | *pending* |
-| 1039 | LOSS | White | Trikon (1411) | *pending* |
-| 1038 | WIN | White | BVKnights11 (1367) | *pending* |
-| 1037 | DRAW | Black | QueenKnights (1372) | *pending* |
-| 1036 | WIN | Black | WBDWBD (1378) | *pending* |
 | 1 | — | — | *profile snapshot* | — |
 
 ---

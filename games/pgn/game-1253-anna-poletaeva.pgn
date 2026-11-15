@@ -1,0 +1,23 @@
+[Event "rated classical game"]
+[Site "https://lichess.org/game/GL8mn8cH"]
+[Date "2026.11.15"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "Anna_Poletaeva"]
+[Result "1-0"]
+[GameId "GL8mn8cH"]
+[UTCDate "2026.11.15"]
+[UTCTime "14:14:25"]
+[WhiteElo "1453"]
+[BlackElo "1356"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-13"]
+[Variant "Standard"]
+[TimeControl "1800+0"]
+[ECO "C40"]
+[Opening "King's Pawn Game: Busch-Gass Gambit"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Bc5 { [%eval 1.81] } 3. d4 { [%eval 0.0] } 3... Bb4+ { [%eval 2.26] } 4. Bd2 { [%eval 1.13] } 4... Be7 { [%eval 3.04] } 5. Nxe5 { [%eval 2.35] } 5... f6 { [%eval 10.31] } 6. Nf3 { [%eval 5.15] } 6... Nc6 { [%eval 5.77] } 7. Bb5 { [%eval 4.93] } 7... Bd6 { [%eval 5.93] } 8. Nc3 { [%eval 5.21] } 8... a6 { [%eval 5.24] } 9. Bxc6 { [%eval 3.28] } 9... dxc6 { [%eval 3.22] } 10. h3 { [%eval 2.41] } 10... g5 { [%eval 6.05] } 11. e5 { [%eval 5.72] } 11... fxe5 { [%eval 6.48] } 12. dxe5 { [%eval 5.75] } 12... Be7 { [%eval 5.8] } 13. Bxg5 { [%eval 0.36] } 13... Qxd1+ { [%eval 5.61] } 14. Rxd1 { [%eval 5.62] } 14... Bc5 { [%eval 7.95] } 15. O-O { [%eval 6.48] } 15... h6 { [%eval 7.87] } 16. Bh4 { [%eval 6.24] } 16... Bf5 { [%eval 6.38] } 17. Rd2 { [%eval 5.92] } 17... b5 { [%eval 6.42] } 18. Rfd1 { [%eval 6.04] } 18... Be7 { [%eval 6.93] } 19. Bxe7 { [%eval 6.08] } 19... Nxe7 { [%eval 6.14] } 20. g4 { [%eval 5.72] } 20... Be6 { [%eval 6.57] } 21. a3 { [%eval 5.65] } 21... O-O { [%eval 6.47] } 22. Nd4 { [%eval 6.42] } 22... Bd7 { [%eval 6.89] } 23. Nde2 { [%eval 6.37] } 23... Ng6 { [%eval 7.76] } 24. Rxd7 { [%eval 7.86] } 24... Nh4 { [%eval 8.63] } 25. Re7 { [%eval 8.27] } 25... Nf3+ { [%eval 8.67] } 26. Kg2 { [%eval 8.87] } 26... Nh4+ { [%eval 8.69] } 27. Kg3 { [%eval 8.73] } 27... Ng6 { [%eval 8.55] } 28. Rxc7 { [%eval 8.35] } 28... Nxe5 { [%eval 7.88] } 29. f4 { [%eval 7.99] } 29... Nc4 { [%eval 16.8] } 30. Rdd7 { [%eval 15.43] } 30... Rf7 { [%eval #12] } 31. Rxf7 { [%eval #11] } 31... Nd6 { [%eval #11] } 32. Rg7+ { [%eval 11.69] } 32... Kf8 { [%eval 11.59] } 33. Rh7 { [%eval 11.42] } 33... Kg8 { [%eval 11.16] } 34. Rxh6 { [%eval 10.91] } 34... Nf7 { [%eval 13.55] } 35. Rhxc6 { [%eval 13.1] } 35... Re8 { [%eval 14.06] } 36. Rc8 { [%eval 13.97] } 36... Rxc8 { [%eval 13.57] } 37. Rxc8+ { [%eval 13.86] } 37... Kg7 { [%eval 13.26] } 38. Ra8 { [%eval 13.08] } 38... Kg6 { [%eval #10] } 39. Rxa6+ { [%eval #9] } 39... Kg7 { [%eval #9] } 40. Nxb5 { [%eval #8] } 40... Kh7 { [%eval #9] } 41. Ra7 { [%eval #8] } 41... Kg6 { [%eval #8] } 42. Rxf7 { [%eval #11] } 42... Kxf7 { [%eval #11] } 43. a4 { [%eval #10] } 43... Ke6 { [%eval #10] } 44. a5 { [%eval #9] } 44... Kd7 { [%eval #9] } 45. a6 { [%eval #8] } 45... Kc8 { [%eval #8] } 46. g5 { [%eval #7] } 46... Kb8 { [%eval #7] } 47. g6 { [%eval #6] } 47... Ka8 { [%eval #2] } 48. g7 { [%eval #1] } 48... Kb8 { [%eval #1] } 49. g8=Q# 1-0
+
+
