@@ -1,0 +1,23 @@
+[Event "rated classical game"]
+[Site "https://lichess.org/game/Y2874iPa"]
+[Date "2026.11.16"]
+[Round "-"]
+[White "chryskinge"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "Y2874iPa"]
+[UTCDate "2026.11.16"]
+[UTCTime "11:02:52"]
+[WhiteElo "1461"]
+[BlackElo "1470"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "1800+0"]
+[ECO "A46"]
+[Opening "Indian Defense: London System"]
+[Termination "Normal"]
+
+1. d4 { [%eval 0.15] } 1... Nf6 { [%eval 0.15] } 2. Nf3 { [%eval 0.11] } 2... e6 { [%eval 0.14] } 3. Bf4 { [%eval 0.1] } 3... d5 { [%eval 0.1] } 4. e3 { [%eval 0.0] } 4... b6 { [%eval 0.48] } 5. Bb5+ { [%eval 0.1] } 5... Bd7 { [%eval 0.55] } 6. Bd3 { [%eval 0.56] } 6... Bc6 { [%eval 0.64] } 7. O-O { [%eval 0.53] } 7... Bd6 { [%eval 0.52] } 8. Ne5 { [%eval 0.59] } 8... Ne4 { [%eval 2.8] } 9. Nd2 { [%eval 0.7] } 9... Nxd2 { [%eval 0.62] } 10. Qxd2 { [%eval 0.68] } 10... Bxe5 { [%eval 1.27] } 11. Bxe5 { [%eval 1.19] } 11... Nd7 { [%eval 3.06] } 12. Qc3 { [%eval 0.17] } 12... Nxe5 { [%eval 0.21] } 13. dxe5 { [%eval 0.18] } 13... Bb7 { [%eval 0.6] } 14. Bb5+ { [%eval 0.63] } 14... Ke7 { [%eval 1.56] } 15. Qb4+ { [%eval 0.46] } 15... c5 { [%eval 0.62] } 16. Qh4+ { [%eval 0.23] } 16... Kf8 { [%eval 0.35] } 17. f4 { [%eval -8.38] } 17... Qxh4 { [%eval -8.15] } 0-1
+
+

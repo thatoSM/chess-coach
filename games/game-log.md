@@ -25,6 +25,13 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 1260 | WIN | Black | Ashot2707 (1500) | *pending* |
+| 1259 | WIN | White | sarma2002 (1603) | *pending* |
+| 1258 | LOSS | Black | ariel_manto2 (1477) | *pending* |
+| 1257 | WIN | White | H_2017 (1471) | *pending* |
+| 1256 | WIN | Black | chryskinge (1461) | *pending* |
+| 1255 | WIN | White | sunrunner7 (1482) | *pending* |
+| 1254 | WIN | Black | graanfer (1473) | *pending* |
 | 1253 | WIN | White | Anna_Poletaeva (1356) | *pending* |
 | 1252 | DRAW | White | cabeljonny (1531) | *pending* |
 | 1251 | WIN | White | sunfloxxer (1500) | *pending* |
@@ -218,13 +225,6 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 | 1063 | LOSS | White | Mfaul27 (1346) | *pending* |
 | 1062 | LOSS | White | sebaspro14 (1298) | *pending* |
 | 1061 | WIN | Black | Ranindu_Sadeep (1321) | *pending* |
-| 1060 | LOSS | White | He3am_h (1223) | *pending* |
-| 1059 | WIN | Black | FBARALLOBRE (1309) | *pending* |
-| 1058 | LOSS | White | Nasser_Augusto (1250) | *pending* |
-| 1057 | DRAW | Black | Tiberius-Rancor (1297) | *pending* |
-| 1056 | DRAW | White | Chess_Master321123gg (1314) | *pending* |
-| 1055 | LOSS | Black | Reyansh_2016 (1341) | *pending* |
-| 1054 | LOSS | Black | Observant50 (1440) | *pending* |
 | 1 | — | — | *profile snapshot* | — |
 
 ---

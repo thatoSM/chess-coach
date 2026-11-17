@@ -1,0 +1,23 @@
+[Event "rated classical game"]
+[Site "https://lichess.org/game/Zw0SLlCO"]
+[Date "2026.11.16"]
+[Round "-"]
+[White "Ashot2707"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "Zw0SLlCO"]
+[UTCDate "2026.11.16"]
+[UTCTime "17:17:13"]
+[WhiteElo "1500"]
+[BlackElo "1483"]
+[WhiteRatingDiff "-256"]
+[BlackRatingDiff "+3"]
+[Variant "Standard"]
+[TimeControl "1800+0"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[Termination "Time forfeit"]
+
+1. e3 { [%eval 0.08] } 1... d5 { [%eval 0.05] } 2. Qf3 { [%eval -0.71] } 2... Nf6 { [%eval -0.79] } 3. Nc3 { [%eval -0.92] } 3... Bg4 { [%eval -0.44] } 4. Qf4 { [%eval -0.5] } 4... e6 { [%eval -0.48] } 5. h3 { [%eval -0.94] } 5... Bh5 { [%eval -0.87] } 6. g4 { [%eval -1.45] } 6... Bg6 { [%eval -1.44] } 7. d3 { [%eval -1.44] } 7... Bd6 { [%eval -1.28] } 8. Qf3 { [%eval -1.07] } 8... Nc6 { [%eval -0.84] } 9. h4 { [%eval -1.8] } 9... h5 { [%eval -1.75] } 10. g5 { [%eval -1.53] } 10... Ng4 { [%eval -1.8] } 11. Qg2 { [%eval -1.88] } 11... d4 { [%eval -1.89] } 12. f3 { [%eval -3.31] } 12... dxc3 { [%eval -1.96] } 13. f4 { [%eval -9.14] } 13... cxb2 { [%eval -9.02] } 14. Bxb2 { [%eval -8.8] } 14... Nxe3 { [%eval -9.08] } 15. Qe2 { [%eval -9.65] } 15... Nxf1 { [%eval -8.2] } 16. Qxf1 { [%eval -8.15] } 16... Bb4+ { [%eval -8.31] } 17. c3 { [%eval -8.82] } 17... Ba5 { [%eval -8.77] } 18. d4 { [%eval -10.26] } 18... Qxd4 { [%eval -10.35] } 19. Rd1 { [%eval -10.29] } 19... Bxc3+ { [%eval -9.41] } 20. Bxc3 { [%eval -9.49] } 20... Qxc3+ { [%eval -9.51] } 21. Rd2 { [%eval -10.92] } 21... Rd8 { [%eval -10.79] } 22. Nf3 { [%eval -12.44] } 22... Qc1+ { [%eval -11.03] } 23. Kf2 { [%eval -10.91] } 23... Qxf1+ { [%eval -7.86] } 24. Rxf1 { [%eval -7.79] } 24... Rxd2+ { [%eval -7.76] } 25. Nxd2 { [%eval -7.66] } 25... Ke7 { [%eval -7.56] } 26. Nf3 { [%eval -7.51] } 26... Rd8 { [%eval -7.57] } 27. a3 { [%eval -7.82] } 27... Be4 { [%eval -7.98] } 0-1
+
+
