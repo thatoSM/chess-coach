@@ -1,0 +1,23 @@
+[Event "rated classical game"]
+[Site "https://lichess.org/game/anSsGcjq"]
+[Date "2026.11.17"]
+[Round "-"]
+[White "Alex270911"]
+[Black "ThatoSM"]
+[Result "1-0"]
+[GameId "anSsGcjq"]
+[UTCDate "2026.11.17"]
+[UTCTime "08:45:21"]
+[WhiteElo "1625"]
+[BlackElo "1500"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-3"]
+[Variant "Standard"]
+[TimeControl "1800+0"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Maróczy Variation"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... c6 { [%eval 0.31] } 2. d4 { [%eval 0.24] } 2... d5 { [%eval 0.24] } 3. f3 { [%eval 0.19] } 3... e6 { [%eval 0.21] } 4. Nc3 { [%eval 0.2] } 4... Nf6 { [%eval 0.31] } 5. e5 { [%eval 0.41] } 5... Nfd7 { [%eval 0.31] } 6. Nh3 { [%eval -0.47] } 6... Bb4 { [%eval 0.33] } 7. Qd3 { [%eval -0.62] } 7... Qa5 { [%eval -0.08] } 8. Bd2 { [%eval -0.46] } 8... c5 { [%eval -0.32] } 9. Qb5 { [%eval -2.04] } 9... Qxb5 { [%eval 1.0] } 10. Nxb5 { [%eval 1.05] } 10... Bxd2+ { [%eval 0.99] } 11. Kxd2 { [%eval 1.04] } 11... Kd8 { [%eval 2.22] } 12. Ng5 { [%eval 2.37] } 12... Rg8 { [%eval 2.87] } 13. Nxf7+ { [%eval 3.13] } 13... Ke7 { [%eval 3.0] } 14. Nbd6 { [%eval 0.24] } 14... a6 { [%eval 2.58] } 15. Bd3 { [%eval 2.5] } 15... h6 { [%eval 2.51] } 16. Bg6 { [%eval 1.14] } 16... cxd4 { [%eval 1.03] } 17. Nxc8+ { [%eval -3.11] } 17... Ke8 { [%eval 7.75] } 1-0
+
+

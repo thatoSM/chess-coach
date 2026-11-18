@@ -25,6 +25,19 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 1273 | WIN | Black | sd-sd-torneio2024 (1557) | *pending* |
+| 1272 | WIN | White | Albin8340 (1524) | *pending* |
+| 1271 | LOSS | Black | leraklim (1327) | *pending* |
+| 1270 | WIN | White | SybrenJ (1500) | *pending* |
+| 1269 | WIN | White | cheetah6996 (1476) | *pending* |
+| 1268 | LOSS | White | milonga54 (1503) | *pending* |
+| 1267 | WIN | Black | danyainferno (1500) | *pending* |
+| 1266 | LOSS | Black | Alex270911 (1625) | *pending* |
+| 1265 | WIN | White | Worolga (1541) | *pending* |
+| 1264 | WIN | Black | Dejvmaster (1438) | *pending* |
+| 1263 | LOSS | White | joachimhof (1506) | *pending* |
+| 1262 | WIN | White | Abbalz (1483) | *pending* |
+| 1261 | WIN | White | Xeon-lish (1500) | *pending* |
 | 1260 | WIN | Black | Ashot2707 (1500) | *pending* |
 | 1259 | WIN | White | sarma2002 (1603) | *pending* |
 | 1258 | LOSS | Black | ariel_manto2 (1477) | *pending* |
@@ -212,19 +225,6 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 | 1076 | WIN | Black | Foxrotty (1328) | *pending* |
 | 1075 | LOSS | Black | Alec23 (1329) | *pending* |
 | 1074 | LOSS | White | bounty1310 (1210) | *pending* |
-| 1073 | WIN | Black | shourypadaval (1306) | *pending* |
-| 1072 | LOSS | White | thereal_madmax (1328) | *pending* |
-| 1071 | LOSS | White | amin5253 (1448) | *pending* |
-| 1070 | WIN | Black | JackMakita (1307) | *pending* |
-| 1069 | WIN | Black | tomchzz (1357) | *pending* |
-| 1068 | WIN | White | Ssssimo (1302) | *pending* |
-| 1067 | WIN | Black | cloggedcigar (1251) | *pending* |
-| 1066 | WIN | Black | MaxRex62 (1368) | *pending* |
-| 1065 | WIN | White | Alex182017 (1285) | *pending* |
-| 1064 | LOSS | Black | dorukerkan (1284) | *pending* |
-| 1063 | LOSS | White | Mfaul27 (1346) | *pending* |
-| 1062 | LOSS | White | sebaspro14 (1298) | *pending* |
-| 1061 | WIN | Black | Ranindu_Sadeep (1321) | *pending* |
 | 1 | — | — | *profile snapshot* | — |
 
 ---

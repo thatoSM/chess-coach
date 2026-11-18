@@ -1,0 +1,23 @@
+[Event "rated classical game"]
+[Site "https://lichess.org/game/ZaHMuIVI"]
+[Date "2026.11.17"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "Albin8340"]
+[Result "1-0"]
+[GameId "ZaHMuIVI"]
+[UTCDate "2026.11.17"]
+[UTCTime "15:58:09"]
+[WhiteElo "1505"]
+[BlackElo "1524"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "1800+0"]
+[ECO "C42"]
+[Opening "Petrov's Defense"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nf6 { [%eval 0.34] } 3. Nxe5 { [%eval 0.29] } 3... Qe7 { [%eval 0.69] } 4. d4 { [%eval 0.67] } 4... d6 { [%eval 0.76] } 5. Nf3 { [%eval 0.69] } 5... Nxe4 { [%eval 0.87] } 6. Qe2 { [%eval 0.03] } 6... Nf6 { [%eval 0.36] } 7. Qxe7+ { [%eval 0.15] } 7... Bxe7 { [%eval 0.08] } 8. Bc4 { [%eval -0.06] } 8... d5 { [%eval -0.01] } 9. Bb5+ { [%eval -0.08] } 9... Bd7 { [%eval -0.03] } 10. Bxd7+ { [%eval -0.13] } 10... Nbxd7 { [%eval -0.09] } 11. Bf4 { [%eval -0.2] } 11... c6 { [%eval -0.06] } 12. Nc3 { [%eval -0.14] } 12... Bb4 { [%eval -0.12] } 13. Bd2 { [%eval -0.17] } 13... Bxc3 { [%eval -0.14] } 14. Bxc3 { [%eval -0.2] } 14... Ne4 { [%eval -0.2] } 15. Bb4 { [%eval -0.32] } 15... c5 { [%eval 0.68] } 16. dxc5 { [%eval 0.77] } 16... Nexc5 { [%eval 3.63] } 17. O-O-O { [%eval 3.62] } 17... O-O { [%eval 5.07] } 18. Rxd5 { [%eval 5.2] } 18... Rfc8 { [%eval 5.54] } 19. Rhd1 { [%eval 5.5] } 19... Rc7 { [%eval 7.94] } 20. Bxc5 { [%eval 7.72] } 20... Nxc5 { [%eval #2] } 21. Rd8+ { [%eval #1] } 1-0
+
+

@@ -1,0 +1,23 @@
+[Event "rated classical game"]
+[Site "https://lichess.org/game/ZNIcjh7S"]
+[Date "2026.11.17"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "SybrenJ"]
+[Result "1-0"]
+[GameId "ZNIcjh7S"]
+[UTCDate "2026.11.17"]
+[UTCTime "13:41:30"]
+[WhiteElo "1500"]
+[BlackElo "1500"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "1800+0"]
+[ECO "C45"]
+[Opening "Scotch Game"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. d4 { [%eval 0.07] } 3... exd4 { [%eval 0.04] } 4. Nxd4 { [%eval 0.06] } 4... Nxd4 { [%eval 0.63] } 5. Qxd4 { [%eval 0.54] } 5... Qf6 { [%eval 0.39] } 6. Be3 { [%eval 0.26] } 6... d6 { [%eval 1.52] } 7. Nc3 { [%eval 0.71] } 7... Be6 { [%eval 3.26] } 8. Nb5 { [%eval 0.48] } 8... Qd8 { [%eval 1.63] } 9. Nxa7 { [%eval 0.17] } 9... Nf6 { [%eval 0.93] } 10. Nb5 { [%eval 0.86] } 10... Be7 { [%eval 0.82] } 11. Nc3 { [%eval 0.19] } 11... O-O { [%eval 0.31] } 12. Bc4 { [%eval 0.28] } 12... Bxc4 { [%eval 0.72] } 13. Qxc4 { [%eval 0.65] } 13... Nd7 { [%eval 1.36] } 14. O-O { [%eval 1.32] } 14... Bf6 { [%eval 1.47] } 15. Bd4 { [%eval 0.64] } 15... Bxd4 { [%eval 1.56] } 16. Qxd4 { [%eval 1.58] } 16... Ne5 { [%eval 2.19] } 17. a4 { [%eval 2.21] } 17... c5 { [%eval 2.86] } 18. Qd5 { [%eval 3.1] } 18... b6 { [%eval 3.6] } 19. Rfd1 { [%eval 2.59] } 19... Re8 { [%eval 3.81] } 20. Qxd6 { [%eval 3.47] } 20... Qxd6 { [%eval 5.1] } 21. Rxd6 { [%eval 4.88] } 21... Re6 { [%eval 5.23] } 22. Rxe6 { [%eval 4.65] } 22... fxe6 { [%eval 4.54] } 23. Nb5 { [%eval 4.04] } 23... Nc4 { [%eval 5.01] } 24. b3 { [%eval 5.01] } 24... Nd2 { [%eval 6.32] } 25. f3 { [%eval 6.22] } 1-0
+
+
