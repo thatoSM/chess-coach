@@ -1,0 +1,23 @@
+[Event "rated classical game"]
+[Site "https://lichess.org/game/fFOXzWob"]
+[Date "2026.11.18"]
+[Round "-"]
+[White "DanGeorg"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "fFOXzWob"]
+[UTCDate "2026.11.18"]
+[UTCTime "10:00:14"]
+[WhiteElo "1634"]
+[BlackElo "1520"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+8"]
+[Variant "Standard"]
+[TimeControl "1800+0"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense: Hillbilly Attack"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... c6 { [%eval 0.31] } 2. Bc4 { [%eval -0.28] } 2... d5 { [%eval -0.2] } 3. exd5 { [%eval -0.29] } 3... cxd5 { [%eval -0.27] } 4. Bb3 { [%eval -0.24] } 4... Nf6 { [%eval -0.23] } 5. h3 { [%eval -0.26] } 5... Bf5 { [%eval -0.23] } 6. Nf3 { [%eval -0.26] } 6... h6 { [%eval -0.25] } 7. O-O { [%eval -0.32] } 7... e6 { [%eval -0.44] } 8. c4 { [%eval -0.34] } 8... Bc5 { [%eval 0.09] } 9. d4 { [%eval 0.12] } 9... Bb6 { [%eval 0.38] } 10. Nc3 { [%eval -0.03] } 10... dxc4 { [%eval -0.05] } 11. Bxc4 { [%eval -0.16] } 11... O-O { [%eval 0.0] } 12. d5 { [%eval -0.02] } 12... exd5 { [%eval 0.0] } 13. Nxd5 { [%eval -0.01] } 13... Nbd7 { [%eval 0.29] } 14. Re1 { [%eval -0.08] } 14... Rc8 { [%eval 4.75] } 15. Ne7+ { [%eval 4.83] } 15... Kh8 { [%eval 5.13] } 16. Nxc8 { [%eval 4.79] } 16... Qxc8 { [%eval 4.68] } 17. b3 { [%eval 3.1] } 17... Ba5 { [%eval 4.87] } 18. Re2 { [%eval 3.62] } 18... Bc3 { [%eval 5.26] } 19. Rb1 { [%eval -2.49] } 19... Bxb1 { [%eval -2.21] } 20. Be3 { [%eval -6.05] } 20... Bh7 { [%eval -5.81] } 21. Bxa7 { [%eval -6.87] } 21... b6 { [%eval -6.77] } 22. Qd6 { [%eval -6.95] } 22... Ba5 { [%eval -4.8] } 23. Re7 { [%eval -4.97] } 23... Kg8 { [%eval -3.96] } 24. Nd4 { [%eval -4.07] } 24... Qc5 { [%eval -3.04] } 25. Qxc5 { [%eval -3.77] } 25... Nxc5 { [%eval -1.51] } 26. b4 { [%eval -5.68] } 26... Bxb4 { [%eval -5.17] } 27. Bxb6 { [%eval -7.09] } 27... Ncd7 { [%eval -7.26] } 28. Re3 { [%eval -8.8] } 28... Nxb6 { [%eval -8.62] } 29. Rb3 { [%eval -8.63] } 29... Nxc4 { [%eval -8.07] } 30. Rxb4 { [%eval -7.85] } 30... Ne5 { [%eval -7.81] } 31. a4 { [%eval -7.9] } 31... Ra8 { [%eval -7.87] } 32. a5 { [%eval -7.92] } 32... g5 { [%eval -7.55] } 0-1
+
+

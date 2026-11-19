@@ -25,6 +25,9 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 1276 | WIN | Black | DanGeorg (1634) | *pending* |
+| 1275 | LOSS | White | island333 (1605) | *pending* |
+| 1274 | WIN | Black | vakero11 (1633) | *pending* |
 | 1273 | WIN | Black | sd-sd-torneio2024 (1557) | *pending* |
 | 1272 | WIN | White | Albin8340 (1524) | *pending* |
 | 1271 | LOSS | Black | leraklim (1327) | *pending* |
@@ -222,9 +225,6 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 | 1079 | LOSS | White | auliacute (1347) | *pending* |
 | 1078 | WIN | Black | MRShakki521 (1346) | *pending* |
 | 1077 | LOSS | White | vahidtajnia (1374) | *pending* |
-| 1076 | WIN | Black | Foxrotty (1328) | *pending* |
-| 1075 | LOSS | Black | Alec23 (1329) | *pending* |
-| 1074 | LOSS | White | bounty1310 (1210) | *pending* |
 | 1 | — | — | *profile snapshot* | — |
 
 ---
