@@ -25,6 +25,8 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 1278 | LOSS | Black | S_F02 (1583) | *pending* |
+| 1277 | WIN | Black | atlante-farnese (1529) | *pending* |
 | 1276 | WIN | Black | DanGeorg (1634) | *pending* |
 | 1275 | LOSS | White | island333 (1605) | *pending* |
 | 1274 | WIN | Black | vakero11 (1633) | *pending* |
@@ -223,8 +225,6 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 | 1081 | LOSS | Black | Saptarshi2019 (1355) | *pending* |
 | 1080 | WIN | White | HSV4thewin (1336) | *pending* |
 | 1079 | LOSS | White | auliacute (1347) | *pending* |
-| 1078 | WIN | Black | MRShakki521 (1346) | *pending* |
-| 1077 | LOSS | White | vahidtajnia (1374) | *pending* |
 | 1 | — | — | *profile snapshot* | — |
 
 ---
