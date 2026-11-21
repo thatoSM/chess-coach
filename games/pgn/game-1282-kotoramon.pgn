@@ -1,0 +1,23 @@
+[Event "rated classical game"]
+[Site "https://lichess.org/game/dHxFgQPV"]
+[Date "2026.11.21"]
+[Round "-"]
+[White "kotoramon"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "dHxFgQPV"]
+[UTCDate "2026.11.21"]
+[UTCTime "04:32:34"]
+[WhiteElo "1595"]
+[BlackElo "1534"]
+[WhiteRatingDiff "-53"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "1800+0"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Short Variation"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... c6 { [%eval 0.31] } 2. d4 { [%eval 0.24] } 2... d5 { [%eval 0.24] } 3. e5 { [%eval 0.33] } 3... Bf5 { [%eval 0.22] } 4. Nf3 { [%eval 0.15] } 4... h6 { [%eval 0.62] } 5. Bd3 { [%eval 0.37] } 5... Bxd3 { [%eval 0.29] } 6. Qxd3 { [%eval 0.36] } 6... e6 { [%eval 0.34] } 7. Bd2 { [%eval 0.09] } 7... Qb6 { [%eval 0.28] } 8. Bc3 { [%eval -0.02] } 8... Ne7 { [%eval 0.11] } 9. Nbd2 { [%eval -0.01] } 9... Ng6 { [%eval 0.2] } 10. Qe3 { [%eval -0.03] } 10... Bb4 { [%eval 0.2] } 11. O-O { [%eval 0.06] } 11... O-O { [%eval 0.1] } 12. a3 { [%eval -0.15] } 12... Bxc3 { [%eval -0.12] } 13. Qxc3 { [%eval -0.11] } 13... Rc8 { [%eval -0.08] } 14. Nb3 { [%eval -0.36] } 14... Nd7 { [%eval -0.36] } 15. a4 { [%eval -0.41] } 15... c5 { [%eval -0.48] } 16. a5 { [%eval -0.56] } 16... Qc6 { [%eval -0.37] } 17. g3 { [%eval -3.03] } 17... cxd4 { [%eval -2.96] } 18. Qb4 { [%eval -3.15] } 18... Qxc2 { [%eval -2.12] } 19. Nfxd4 { [%eval -2.13] } 19... Qxb2 { [%eval -2.21] } 20. Rfb1 { [%eval -2.81] } 20... Qc3 { [%eval -2.82] } 21. Qd6 { [%eval -6.09] } 21... Ndxe5 { [%eval -6.05] } 22. Rc1 { [%eval -5.93] } 22... Qd3 { [%eval -5.71] } 23. Rd1 { [%eval -6.08] } 23... Qa6 { [%eval -5.39] } 24. Qb4 { [%eval -6.06] } 24... Rc4 { [%eval -6.29] } 25. Qa3 { [%eval -6.28] } 25... Nc6 { [%eval -6.25] } 26. Nc5 { [%eval -6.06] } 26... Qxa5 { [%eval -6.05] } 27. Nxc6 { [%eval -6.52] } 27... Qxa3 { [%eval -6.43] } 28. Rxa3 { [%eval -6.35] } 28... bxc6 { [%eval -6.27] } 29. Nb3 { [%eval -7.14] } 29... Rb4 { [%eval -6.61] } 30. Rda1 { [%eval -6.96] } 30... Ne7 { [%eval -6.44] } 31. Nc5 { [%eval -6.46] } 31... Rb5 { [%eval -6.68] } 32. Nd7 { [%eval -6.81] } 32... Rb7 { [%eval -6.41] } 33. Nc5 { [%eval -6.34] } 33... Rb5 { [%eval -6.34] } 34. Nd7 { [%eval -6.94] } 34... Nc8 { [%eval -6.36] } 35. Ne5 { [%eval -6.85] } 35... c5 { [%eval -6.76] } 36. Ra6 { [%eval -6.78] } 36... Rb6 { [%eval -6.75] } 37. Nc6 { [%eval -6.84] } 37... Rxa6 { [%eval -6.72] } 38. Rxa6 { [%eval -6.51] } 38... c4 { [%eval -6.48] } 0-1
+
+

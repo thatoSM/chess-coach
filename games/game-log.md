@@ -25,6 +25,10 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 1285 | LOSS | Black | ZB_BASURTO1960 (1470) | *pending* |
+| 1284 | LOSS | Black | Rafismaster0 (1525) | *pending* |
+| 1283 | WIN | White | Ehn-Aton (1504) | *pending* |
+| 1282 | WIN | Black | kotoramon (1595) | *pending* |
 | 1281 | LOSS | White | DoctorShe (1511) | *pending* |
 | 1280 | WIN | White | AnpuTheDestroyer777 (1547) | *pending* |
 | 1279 | WIN | White | Santhoshovk (1522) | *pending* |
@@ -221,10 +225,6 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 | 1088 | LOSS | White | fethican (1309) | *pending* |
 | 1087 | LOSS | White | Slavikys (1371) | *pending* |
 | 1086 | LOSS | White | Rohanhrr (1325) | *pending* |
-| 1085 | WIN | Black | JOR480 (1357) | *pending* |
-| 1084 | LOSS | White | muhammedrafi (1411) | *pending* |
-| 1083 | WIN | White | Faulerfisch (1320) | *pending* |
-| 1082 | WIN | Black | Cherdack (1295) | *pending* |
 | 1 | — | — | *profile snapshot* | — |
 
 ---
