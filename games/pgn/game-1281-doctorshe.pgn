@@ -1,0 +1,23 @@
+[Event "rated classical game"]
+[Site "https://lichess.org/game/Ol6s5SIw"]
+[Date "2026.11.20"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "DoctorShe"]
+[Result "0-1"]
+[GameId "Ol6s5SIw"]
+[UTCDate "2026.11.20"]
+[UTCTime "15:40:19"]
+[WhiteElo "1540"]
+[BlackElo "1511"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+13"]
+[Variant "Standard"]
+[TimeControl "1800+0"]
+[ECO "C45"]
+[Opening "Scotch Game"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. d4 { [%eval 0.07] } 3... exd4 { [%eval 0.04] } 4. Nxd4 { [%eval 0.06] } 4... Nxd4 { [%eval 0.63] } 5. Qxd4 { [%eval 0.54] } 5... d6 { [%eval 0.91] } 6. Nc3 { [%eval 0.97] } 6... Nf6 { [%eval 0.88] } 7. Bg5 { [%eval 0.62] } 7... Be7 { [%eval 0.89] } 8. Bc4 { [%eval 0.7] } 8... Be6 { [%eval 0.77] } 9. Bxe6 { [%eval 0.5] } 9... fxe6 { [%eval 0.53] } 10. O-O { [%eval 0.33] } 10... O-O { [%eval 0.29] } 11. e5 { [%eval 0.22] } 11... Nh5 { [%eval 0.28] } 12. Bxe7 { [%eval 0.26] } 12... Qxe7 { [%eval 0.4] } 13. exd6 { [%eval 0.41] } 13... cxd6 { [%eval 0.43] } 14. Rac1 { [%eval 0.26] } 14... b6 { [%eval 0.31] } 15. a4 { [%eval 0.16] } 15... Rac8 { [%eval 0.07] } 16. Nb5 { [%eval -1.11] } 16... Nf4 { [%eval -1.19] } 17. Rfe1 { [%eval -5.83] } 17... e5 { [%eval -3.37] } 18. Qxd6 { [%eval -3.8] } 18... Qg5 { [%eval -2.85] } 19. g3 { [%eval -2.58] } 19... Ne2+ { [%eval -2.5] } 20. Rxe2 { [%eval -2.98] } 20... Qxc1+ { [%eval -2.55] } 21. Kg2 { [%eval -2.73] } 21... Rxc2 { [%eval -2.76] } 22. Re1 { [%eval #-6] } 0-1
+
+

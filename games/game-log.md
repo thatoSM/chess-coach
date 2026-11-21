@@ -25,6 +25,9 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 1281 | LOSS | White | DoctorShe (1511) | *pending* |
+| 1280 | WIN | White | AnpuTheDestroyer777 (1547) | *pending* |
+| 1279 | WIN | White | Santhoshovk (1522) | *pending* |
 | 1278 | LOSS | Black | S_F02 (1583) | *pending* |
 | 1277 | WIN | Black | atlante-farnese (1529) | *pending* |
 | 1276 | WIN | Black | DanGeorg (1634) | *pending* |
@@ -222,9 +225,6 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 | 1084 | LOSS | White | muhammedrafi (1411) | *pending* |
 | 1083 | WIN | White | Faulerfisch (1320) | *pending* |
 | 1082 | WIN | Black | Cherdack (1295) | *pending* |
-| 1081 | LOSS | Black | Saptarshi2019 (1355) | *pending* |
-| 1080 | WIN | White | HSV4thewin (1336) | *pending* |
-| 1079 | LOSS | White | auliacute (1347) | *pending* |
 | 1 | — | — | *profile snapshot* | — |
 
 ---
