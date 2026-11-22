@@ -61,7 +61,6 @@ Full detail: `docs/05-coaching-principles.md`.
 | `training/wellbeing-and-schedule.md` | The rules I keep, the ones retired, the tea experiment |
 | `games/game-log.md` | One row per game, newest first — **the Leak column is the point** |
 | `games/logs/` | Full game entries, 40 per file |
-| `games/pgn/` | Raw `.pgn` exports |
 | `games/leak-scan/` | Auto Leak #1 classification and evidence for every rated rapid game |
 | `games/_pgn-template.md` | How to export a PGN + the entry template |
 | `scripts/leak-scan.py` | Re-runs the Leak #1 scan (needs Stockfish) |

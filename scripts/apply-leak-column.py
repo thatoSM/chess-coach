@@ -2,7 +2,6 @@
 
 Reads:
     games/logs/*.md                    game number -> Lichess ID (the Link: lines)
-    games/pgn/game-NN-*.pgn            fallback for the same mapping ([Site] tag)
     games/leak-scan/leak-by-game.json  labels written by scripts/leak-scan.py
 
 Only cells that still say *pending* are changed. Anything I have labelled by
@@ -29,8 +28,6 @@ import re
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 LOG = ROOT / "games" / "game-log.md"
 LOGS = ROOT / "games" / "logs"
-PGNS = ROOT / "games" / "pgn"
-PGN_NAME = re.compile(r"^game-(\d+)-")
 SCAN = ROOT / "games" / "leak-scan" / "leak-by-game.json"
 
 HEADING = re.compile(r"^## Game (\d+) ", re.M)
@@ -49,14 +46,6 @@ def number_to_id() -> dict:
             link = LINK.search(text[pos:end])
             if link:
                 mapping[num] = link.group(1)
-    # Fallback: the PGN files carry the Lichess link in their [Site] tag.
-    for path in PGNS.glob("game-*.pgn"):
-        m = PGN_NAME.match(path.name)
-        if not m or int(m.group(1)) in mapping:
-            continue
-        link = LINK.search(path.read_text(encoding="utf-8", errors="ignore"))
-        if link:
-            mapping[int(m.group(1))] = link.group(1)
     return mapping
 
 
