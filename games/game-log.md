@@ -25,6 +25,9 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 1288 | LOSS | White | ARJAarupSAHA (1546) | *pending* |
+| 1287 | LOSS | Black | Fomichev-Evgeniy (1413) | *pending* |
+| 1286 | LOSS | White | Malikbulldog11 (1571) | *pending* |
 | 1285 | LOSS | Black | ZB_BASURTO1960 (1470) | *pending* |
 | 1284 | LOSS | Black | Rafismaster0 (1525) | *pending* |
 | 1283 | WIN | White | Ehn-Aton (1504) | *pending* |
@@ -222,9 +225,6 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 | 1091 | LOSS | White | s4242 (1351) | *pending* |
 | 1090 | WIN | Black | niilo013chess (1245) | *pending* |
 | 1089 | LOSS | Black | Cheeshx (1200) | *pending* |
-| 1088 | LOSS | White | fethican (1309) | *pending* |
-| 1087 | LOSS | White | Slavikys (1371) | *pending* |
-| 1086 | LOSS | White | Rohanhrr (1325) | *pending* |
 | 1 | — | — | *profile snapshot* | — |
 
 ---

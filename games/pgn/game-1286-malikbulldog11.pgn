@@ -1,0 +1,23 @@
+[Event "rated classical game"]
+[Site "https://lichess.org/game/rmARUqkA"]
+[Date "2026.11.22"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "Malikbulldog11"]
+[Result "0-1"]
+[GameId "rmARUqkA"]
+[UTCDate "2026.11.22"]
+[UTCTime "04:33:50"]
+[WhiteElo "1533"]
+[BlackElo "1571"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+113"]
+[Variant "Standard"]
+[TimeControl "1800+0"]
+[ECO "C45"]
+[Opening "Scotch Game: Classical Variation"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. d4 { [%eval 0.07] } 3... exd4 { [%eval 0.04] } 4. Nxd4 { [%eval 0.06] } 4... Bc5 { [%eval 0.22] } 5. Nxc6 { [%eval 0.0] } 5... Qf6 { [%eval 0.02] } 6. f4 { [%eval -0.22] } 6... dxc6 { [%eval -0.24] } 7. Nc3 { [%eval -0.17] } 7... Ne7 { [%eval 0.35] } 8. a4 { [%eval -0.28] } 8... O-O { [%eval 0.0] } 9. Qf3 { [%eval 0.0] } 9... Re8 { [%eval 0.21] } 10. h4 { [%eval -1.36] } 10... b6 { [%eval 0.26] } 11. h5 { [%eval -1.04] } 11... h6 { [%eval 0.45] } 12. g4 { [%eval -0.68] } 12... Nd5 { [%eval -0.58] } 13. Bd2 { [%eval -0.54] } 13... Nxc3 { [%eval 0.09] } 14. Bxc3 { [%eval 0.09] } 14... Qe6 { [%eval 0.22] } 15. Bd3 { [%eval -0.03] } 15... Qxg4 { [%eval 0.28] } 16. Qxg4 { [%eval -0.53] } 16... Bxg4 { [%eval -0.6] } 17. Rg1 { [%eval -6.74] } 17... Bxg1 { [%eval -6.77] } 0-1
+
+
