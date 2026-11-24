@@ -25,6 +25,7 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 1289 | LOSS | Black | Chandramoulibadal33 (1523) | *pending* |
 | 1288 | LOSS | White | ARJAarupSAHA (1546) | *pending* |
 | 1287 | LOSS | Black | Fomichev-Evgeniy (1413) | *pending* |
 | 1286 | LOSS | White | Malikbulldog11 (1571) | *pending* |
@@ -224,7 +225,6 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 | 1092 | WIN | Black | Shivamsoni (1397) | *pending* |
 | 1091 | LOSS | White | s4242 (1351) | *pending* |
 | 1090 | WIN | Black | niilo013chess (1245) | *pending* |
-| 1089 | LOSS | Black | Cheeshx (1200) | *pending* |
 | 1 | — | — | *profile snapshot* | — |
 
 ---
