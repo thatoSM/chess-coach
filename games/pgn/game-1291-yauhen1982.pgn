@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/game/4XHKxG6e"]
+[Date "2026.11.24"]
+[Round "-"]
+[White "Yauhen1982"]
+[Black "ThatoSM"]
+[Result "0-1"]
+[GameId "4XHKxG6e"]
+[UTCDate "2026.11.24"]
+[UTCTime "17:12:25"]
+[WhiteElo "1326"]
+[BlackElo "1348"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... c6 { [%eval 0.31] } 2. Nc3 { [%eval 0.21] } 2... d5 { [%eval 0.38] } 3. f3 { [%eval -0.51] } 3... dxe4 { [%eval 0.22] } 4. fxe4 { [%eval 0.24] } 4... Nf6 { [%eval 0.64] } 5. d3 { [%eval 0.0] } 5... e5 { [%eval 0.0] } 6. Bg5 { [%eval -0.34] } 6... Bb4 { [%eval -0.04] } 7. Ne2 { [%eval -0.59] } 7... Bg4 { [%eval -0.15] } 8. h3 { [%eval -0.21] } 8... Bxe2 { [%eval 0.15] } 9. Bxe2 { [%eval 0.18] } 9... Bxc3+ { [%eval 0.81] } 10. bxc3 { [%eval 0.73] } 10... h6 { [%eval 0.84] } 11. Bd2 { [%eval 0.73] } 11... Nbd7 { [%eval 0.81] } 12. Rb1 { [%eval 0.81] } 12... b5 { [%eval 0.91] } 13. c4 { [%eval -0.15] } 13... a6 { [%eval 0.2] } 14. cxb5 { [%eval -0.02] } 14... axb5 { [%eval -0.12] } 15. Rb2 { [%eval -0.09] } 15... O-O { [%eval 0.0] } 16. O-O { [%eval 0.0] } 16... Qb6+ { [%eval 0.03] } 17. Rf2 { [%eval -0.29] } 17... Rfb8 { [%eval -0.04] } 18. Qb1 { [%eval -0.17] } 18... Nc5 { [%eval 0.81] } 19. c4 { [%eval 0.0] } 19... Na4 { [%eval 0.0] } 20. Rb4 { [%eval 0.0] } 20... Qc5 { [%eval 0.42] } 21. cxb5 { [%eval 0.0] } 21... cxb5 { [%eval 0.36] } 22. Kf1 { [%eval -0.17] } 22... Ra7 { [%eval 0.33] } 23. a3 { [%eval -0.19] } 23... Rab7 { [%eval 0.42] } 24. d4 { [%eval 0.0] } 24... exd4 { [%eval -0.03] } 25. Rf5 { [%eval -0.11] } 25... Qc6 { [%eval -0.13] } 26. Bd3 { [%eval -1.09] } 26... Nxe4 { [%eval 7.2] } 27. Bxb5 { [%eval -8.31] } 27... Nxd2+ { [%eval -8.18] } 0-1
+
+

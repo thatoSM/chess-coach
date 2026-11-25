@@ -1,0 +1,23 @@
+[Event "rated classical game"]
+[Site "https://lichess.org/game/EW3le3Tl"]
+[Date "2026.11.24"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "Nole1957"]
+[Result "1-0"]
+[GameId "EW3le3Tl"]
+[UTCDate "2026.11.24"]
+[UTCTime "17:30:18"]
+[WhiteElo "1504"]
+[BlackElo "1544"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "1800+0"]
+[ECO "C41"]
+[Opening "Philidor Defense"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... d6 { [%eval 0.55] } 3. d4 { [%eval 0.58] } 3... h6 { [%eval 1.15] } 4. dxe5 { [%eval 1.1] } 4... Bg4 { [%eval 1.28] } 5. Be2 { [%eval 0.73] } 5... Bxf3 { [%eval 0.74] } 6. Bxf3 { [%eval 0.64] } 6... dxe5 { [%eval 0.57] } 7. Qxd8+ { [%eval 0.52] } 7... Kxd8 { [%eval 0.53] } 8. Nc3 { [%eval 0.27] } 8... c6 { [%eval 0.39] } 9. b3 { [%eval 0.11] } 9... Bb4 { [%eval 0.24] } 10. Bb2 { [%eval 0.3] } 10... Nf6 { [%eval 0.36] } 11. a3 { [%eval 0.33] } 11... Bxc3+ { [%eval 0.36] } 12. Bxc3 { [%eval 0.39] } 12... Nbd7 { [%eval 0.56] } 13. Rd1 { [%eval 0.27] } 13... Kc7 { [%eval 0.24] } 14. h3 { [%eval 0.23] } 14... g5 { [%eval 0.53] } 15. Bg4 { [%eval 0.42] } 15... Rad8 { [%eval 1.93] } 16. Bxd7 { [%eval 0.45] } 16... Rxd7 { [%eval 6.47] } 17. Bxe5+ { [%eval 6.56] } 17... Kd8 { [%eval 9.0] } 18. Bxf6+ { [%eval 9.13] } 1-0
+
+

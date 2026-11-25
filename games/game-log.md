@@ -25,6 +25,10 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 1293 | WIN | White | Nole1957 (1544) | *pending* |
+| 1292 | WIN | White | rafa_flamenquin (1241) | *pending* |
+| 1291 | WIN | Black | Yauhen1982 (1326) | *pending* |
+| 1290 | LOSS | White | IlREelaREGINA (1489) | *pending* |
 | 1289 | LOSS | Black | Chandramoulibadal33 (1523) | *pending* |
 | 1288 | LOSS | White | ARJAarupSAHA (1546) | *pending* |
 | 1287 | LOSS | Black | Fomichev-Evgeniy (1413) | *pending* |
@@ -221,10 +225,6 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 | 1096 | WIN | White | chicken111111 (1333) | *pending* |
 | 1095 | WIN | Black | igor_shaposhnyk89 (1304) | *pending* |
 | 1094 | WIN | White | igor_shaposhnyk89 (1310) | *pending* |
-| 1093 | WIN | White | WorldChampion2026 (1309) | *pending* |
-| 1092 | WIN | Black | Shivamsoni (1397) | *pending* |
-| 1091 | LOSS | White | s4242 (1351) | *pending* |
-| 1090 | WIN | Black | niilo013chess (1245) | *pending* |
 | 1 | — | — | *profile snapshot* | — |
 
 ---

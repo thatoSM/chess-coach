@@ -1,0 +1,23 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/game/NY3QOukM"]
+[Date "2026.11.24"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "rafa_flamenquin"]
+[Result "1-0"]
+[GameId "NY3QOukM"]
+[UTCDate "2026.11.24"]
+[UTCTime "17:25:02"]
+[WhiteElo "1355"]
+[BlackElo "1241"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-4"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C45"]
+[Opening "Scotch Game"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. d4 { [%eval 0.07] } 3... exd4 { [%eval 0.04] } 4. Nxd4 { [%eval 0.06] } 4... Nxd4 { [%eval 0.63] } 5. Qxd4 { [%eval 0.54] } 5... Nf6 { [%eval 1.75] } 6. Nc3 { [%eval 0.94] } 6... b6 { [%eval 2.95] } 7. Bc4 { [%eval 0.69] } 7... Ng4 { [%eval 5.48] } 8. Qd5 { [%eval 5.4] } 8... c6 { [%eval #1] } 9. Qxf7# 1-0
+
+
