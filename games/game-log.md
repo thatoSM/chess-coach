@@ -25,6 +25,19 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 1306 | LOSS | Black | bgaylor (1519) | *pending* |
+| 1305 | WIN | White | bayram3 (1500) | *pending* |
+| 1304 | WIN | White | KVTIGER (1433) | *pending* |
+| 1303 | WIN | White | Yusif1317 (1500) | *pending* |
+| 1302 | LOSS | White | Pankrat_mh (1511) | *pending* |
+| 1301 | WIN | Black | sd-sd-torneio2024 (1537) | *pending* |
+| 1300 | LOSS | White | sd-sd-torneio2024 (1530) | *pending* |
+| 1299 | WIN | White | sakib98 (1500) | *pending* |
+| 1298 | WIN | Black | Anatoly_974 (1472) | *pending* |
+| 1297 | WIN | White | Hossein_Amani (1489) | *pending* |
+| 1296 | WIN | White | JosephK1975 (1628) | *pending* |
+| 1295 | LOSS | Black | PedroLopez5144 (1493) | *pending* |
+| 1294 | WIN | Black | heathenssoul (1251) | *pending* |
 | 1293 | WIN | White | Nole1957 (1544) | *pending* |
 | 1292 | WIN | White | rafa_flamenquin (1241) | *pending* |
 | 1291 | WIN | Black | Yauhen1982 (1326) | *pending* |
@@ -212,19 +225,6 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 | 1109 | LOSS | White | Captain_Nemo_Perm (1305) | *pending* |
 | 1108 | LOSS | Black | Arjun290406 (1401) | *pending* |
 | 1107 | LOSS | Black | Tabu233 (1280) | *pending* |
-| 1106 | LOSS | White | Nezolotoy_999 (1250) | *pending* |
-| 1105 | LOSS | White | shahjalal729 (1307) | *pending* |
-| 1104 | LOSS | White | YaChuHsieh (1311) | *pending* |
-| 1103 | LOSS | White | utku484852 (1326) | *pending* |
-| 1102 | WIN | Black | rakhim7A (1313) | *pending* |
-| 1101 | LOSS | White | Cap_Swalqah96 (1282) | *pending* |
-| 1100 | LOSS | Black | mkkirov43 (1233) | *pending* |
-| 1099 | DRAW | Black | VKO_4_Musabekova-M (1361) | *pending* |
-| 1098 | LOSS | Black | nguyenkhoichess (1420) | *pending* |
-| 1097 | WIN | White | spartaco57 (1237) | *pending* |
-| 1096 | WIN | White | chicken111111 (1333) | *pending* |
-| 1095 | WIN | Black | igor_shaposhnyk89 (1304) | *pending* |
-| 1094 | WIN | White | igor_shaposhnyk89 (1310) | *pending* |
 | 1 | — | — | *profile snapshot* | — |
 
 ---
