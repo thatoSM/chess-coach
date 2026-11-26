@@ -1,0 +1,23 @@
+[Event "rated classical game"]
+[Site "https://lichess.org/game/1sgZkYau"]
+[Date "2026.11.25"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "Hossein_Amani"]
+[Result "1-0"]
+[GameId "1sgZkYau"]
+[UTCDate "2026.11.25"]
+[UTCTime "08:05:18"]
+[WhiteElo "1514"]
+[BlackElo "1489"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-73"]
+[Variant "Standard"]
+[TimeControl "1800+0"]
+[ECO "C45"]
+[Opening "Scotch Game"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. d4 { [%eval 0.07] } 3... exd4 { [%eval 0.04] } 4. Nxd4 { [%eval 0.06] } 4... Nxd4 { [%eval 0.63] } 5. Qxd4 { [%eval 0.54] } 5... Nf6 { [%eval 1.75] } 6. Nc3 { [%eval 0.94] } 6... c5 { [%eval 1.8] } 7. Qd1 { [%eval 0.95] } 7... d5 { [%eval 2.27] } 8. exd5 { [%eval 1.92] } 8... Qe7+ { [%eval 2.63] } 9. Qe2 { [%eval 1.93] } 9... Qxe2+ { [%eval 1.88] } 10. Bxe2 { [%eval 1.67] } 10... Bg4 { [%eval 2.29] } 11. Bxg4 { [%eval 2.06] } 11... Nxg4 { [%eval 2.23] } 12. Nb5 { [%eval 1.06] } 12... O-O-O { [%eval 3.16] } 13. c4 { [%eval 0.91] } 13... Re8+ { [%eval 1.09] } 14. Kf1 { [%eval 1.14] } 14... Re4 { [%eval 4.91] } 15. b3 { [%eval 3.09] } 15... a6 { [%eval 2.98] } 16. Nc3 { [%eval 3.05] } 16... Rd4 { [%eval 4.36] } 17. f3 { [%eval 2.81] } 17... Rd1+ { [%eval 8.32] } 18. Nxd1 { [%eval 8.35] } 18... Ne3+ { [%eval 8.95] } 19. Nxe3 { [%eval 9.01] } 1-0
+
+

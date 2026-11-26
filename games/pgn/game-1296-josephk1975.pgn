@@ -1,0 +1,23 @@
+[Event "rated classical game"]
+[Site "https://lichess.org/game/dbib9nvR"]
+[Date "2026.11.25"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "JosephK1975"]
+[Result "1-0"]
+[GameId "dbib9nvR"]
+[UTCDate "2026.11.25"]
+[UTCTime "06:47:15"]
+[WhiteElo "1507"]
+[BlackElo "1628"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-8"]
+[Variant "Standard"]
+[TimeControl "1800+0"]
+[ECO "B22"]
+[Opening "Sicilian Defense: Alapin Variation"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... c5 { [%eval 0.32] } 2. c3 { [%eval 0.0] } 2... e6 { [%eval 0.25] } 3. d4 { [%eval 0.28] } 3... cxd4 { [%eval 0.36] } 4. cxd4 { [%eval 0.35] } 4... Nf6 { [%eval 0.97] } 5. Nc3 { [%eval 0.78] } 5... d5 { [%eval 0.91] } 6. e5 { [%eval 0.71] } 6... Nfd7 { [%eval 1.23] } 7. Nf3 { [%eval 0.97] } 7... Be7 { [%eval 0.96] } 8. Bb5 { [%eval 0.97] } 8... a6 { [%eval 1.0] } 9. Ba4 { [%eval 0.99] } 9... b5 { [%eval 1.35] } 10. Bc2 { [%eval 1.33] } 10... Nc6 { [%eval 1.48] } 11. a3 { [%eval 0.82] } 11... O-O { [%eval 1.85] } 12. Qd3 { [%eval 0.92] } 12... Re8 { [%eval #2] } 13. Qxh7+ { [%eval #1] } 13... Kf8 { [%eval #1] } 14. Qh8# { [%eval #0] } 1-0
+
+
