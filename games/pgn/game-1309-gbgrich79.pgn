@@ -1,0 +1,23 @@
+[Event "rated classical game"]
+[Site "https://lichess.org/game/dL7tX3gR"]
+[Date "2026.11.26"]
+[Round "-"]
+[White "ThatoSM"]
+[Black "GBGRICH79"]
+[Result "1-0"]
+[GameId "dL7tX3gR"]
+[UTCDate "2026.11.26"]
+[UTCTime "09:44:55"]
+[WhiteElo "1526"]
+[BlackElo "1491"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "1800+0"]
+[ECO "B02"]
+[Opening "Alekhine Defense: Mokele Mbembe"]
+[Termination "Normal"]
+
+1. e4 { [%eval 0.18] } 1... Nf6 { [%eval 0.68] } 2. e5 { [%eval 0.53] } 2... Ne4 { [%eval 1.42] } 3. d4 { [%eval 1.47] } 3... Nxf2 { [%eval 3.08] } 4. Kxf2 { [%eval 3.82] } 4... d5 { [%eval 3.42] } 5. Nf3 { [%eval 3.31] } 5... e6 { [%eval 6.42] } 6. Bd3 { [%eval 3.52] } 6... h6 { [%eval 6.72] } 7. Rf1 { [%eval 6.73] } 7... g5 { [%eval 6.84] } 8. h3 { [%eval 6.67] } 8... g4 { [%eval 6.9] } 9. hxg4 { [%eval 6.83] } 9... Qh4+ { [%eval 11.36] } 10. Nxh4 { [%eval 10.91] } 10... Be7 { [%eval 11.01] } 11. Nf3 { [%eval 10.86] } 11... Nc6 { [%eval 11.11] } 12. Bb5 { [%eval 11.28] } 12... Bd7 { [%eval 11.19] } 13. Bxc6 { [%eval 11.0] } 13... Bxc6 { [%eval 11.26] } 14. Nc3 { [%eval 10.7] } 14... O-O-O { [%eval 10.51] } 15. Rh1 { [%eval 10.76] } 15... Rdg8 { [%eval 10.71] } 16. g5 { [%eval 10.63] } 16... h5 { [%eval 11.46] } 17. Rh2 { [%eval 11.72] } 17... Be8 { [%eval 12.0] } 18. Qh1 { [%eval 11.78] } 18... f5 { [%eval 11.94] } 19. gxf6 { [%eval 11.76] } 19... Bb4 { [%eval 11.58] } 20. Bd2 { [%eval 11.54] } 20... Ba5 { [%eval 12.37] } 21. a3 { [%eval 11.42] } 21... Bb6 { [%eval 12.19] } 22. Ne2 { [%eval 11.86] } 22... Rg4 { [%eval 12.17] } 23. c3 { [%eval 11.73] } 23... c5 { [%eval 11.77] } 24. Nf4 { [%eval 11.67] } 24... cxd4 { [%eval 11.96] } 25. cxd4 { [%eval 12.0] } 25... Rhg8 { [%eval 14.55] } 26. Nxh5 { [%eval 12.05] } 26... Bxh5 { [%eval 16.56] } 27. Rxh5 { [%eval 15.24] } 27... Rxg2+ { [%eval #9] } 28. Qxg2 { [%eval #8] } 28... Rxg2+ { [%eval #8] } 29. Kxg2 { [%eval #7] } 1-0
+
+
