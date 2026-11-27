@@ -25,6 +25,13 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 1313 | WIN | White | WAFIFA (1435) | *pending* |
+| 1312 | WIN | White | Math_Khak (1563) | *pending* |
+| 1311 | LOSS | Black | ekfansis (1594) | *pending* |
+| 1310 | WIN | Black | hareeth4k (1548) | *pending* |
+| 1309 | WIN | White | GBGRICH79 (1491) | *pending* |
+| 1308 | LOSS | White | hys_chess (1333) | *pending* |
+| 1307 | LOSS | Black | Iranches (1323) | *pending* |
 | 1306 | LOSS | Black | bgaylor (1519) | *pending* |
 | 1305 | WIN | White | bayram3 (1500) | *pending* |
 | 1304 | WIN | White | KVTIGER (1433) | *pending* |
@@ -218,13 +225,6 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 | 1116 | LOSS | White | keshavee (1227) | *pending* |
 | 1115 | LOSS | Black | caravaggioss (1398) | *pending* |
 | 1114 | LOSS | Black | nshnts (1249) | *pending* |
-| 1113 | WIN | White | ilmarjpb (1194) | *pending* |
-| 1112 | LOSS | White | HOLIDS (1310) | *pending* |
-| 1111 | WIN | Black | Nitesh07 (1291) | *pending* |
-| 1110 | WIN | White | SLEBRAVE (1274) | *pending* |
-| 1109 | LOSS | White | Captain_Nemo_Perm (1305) | *pending* |
-| 1108 | LOSS | Black | Arjun290406 (1401) | *pending* |
-| 1107 | LOSS | Black | Tabu233 (1280) | *pending* |
 | 1 | — | — | *profile snapshot* | — |
 
 ---
