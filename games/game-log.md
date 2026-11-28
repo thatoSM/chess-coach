@@ -25,6 +25,12 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 
 | # | Result | Colour | Opponent | Leak |
 |---|---|---|---|---|
+| 1319 | WIN | Black | staff2018 (1437) | *pending* |
+| 1318 | LOSS | Black | Alimjan1962 (1545) | *pending* |
+| 1317 | WIN | White | wed29 (1550) | *pending* |
+| 1316 | WIN | White | Wisja (1595) | *pending* |
+| 1315 | WIN | Black | Hitya (1406) | *pending* |
+| 1314 | DRAW | Black | BobbyFisher71 (1550) | *pending* |
 | 1313 | WIN | White | WAFIFA (1435) | *pending* |
 | 1312 | WIN | White | Math_Khak (1563) | *pending* |
 | 1311 | LOSS | Black | ekfansis (1594) | *pending* |
@@ -219,12 +225,6 @@ Detail file for games 441–480: [`logs/games-441-480.md`](logs/games-441-480.md
 | 1122 | WIN | Black | Njandini (1309) | *pending* |
 | 1121 | LOSS | White | NotTooSerious (1282) | *pending* |
 | 1120 | WIN | White | Josag_chess (1325) | *pending* |
-| 1119 | WIN | Black | sdenysv (1263) | *pending* |
-| 1118 | LOSS | White | cheer_alisa (1230) | *pending* |
-| 1117 | WIN | Black | Khaledchess60 (1271) | *pending* |
-| 1116 | LOSS | White | keshavee (1227) | *pending* |
-| 1115 | LOSS | Black | caravaggioss (1398) | *pending* |
-| 1114 | LOSS | Black | nshnts (1249) | *pending* |
 | 1 | — | — | *profile snapshot* | — |
 
 ---
