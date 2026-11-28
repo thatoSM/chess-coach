@@ -15,6 +15,9 @@ scratch/
 # Opening explorer cache (generated locally, regenerated on demand)
 explorer/*.json
 
+# Per-game PGNs: redundant with the movetext already inline in games/logs/*.md
+games/pgn/
+
 chess-coach-bundle.md
 repomix-output.xml
 

@@ -33,8 +33,11 @@ or the `(auto)` label to my own label, e.g. `**#1**`, `*clean*`, `cand. A`.
 1. Open the game on lichess.org.
 2. Click **Share & export** (the tab row under the board).
 3. In the **PGN** section click **Download**.
-4. Save it into `games/pgn/` named `game-NN-opponentname.pgn` (zero-padded
-   number, lowercase, hyphens).
+
+The repo doesn't keep per-game `.pgn` files — the movetext is already inline
+in the entry's `Moves:` block, and the original is always on Lichess via the
+`Link:` line. Keep a downloaded copy locally if you want one; it doesn't need
+to go in the repo.
 
 ---
 

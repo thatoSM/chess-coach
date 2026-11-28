@@ -1,20 +1,22 @@
 """Nightly Lichess sync for the chess-coach repo.
 
-Does the same six parts as routine-prompt.md, as plain code, so it can run
+Does the same job as routine-prompt.md, as plain code, so it can run
 on GitHub Actions without using any Claude usage:
   1. add new finished rated games as DRAFT entries
   2. backfill Lichess server analysis into draft entries (or mark them after 7 days)
-  3. backfill my Elo into old headings
-  4. remove zero-move games
-  5. trim to the 200 most recent games (Game 1 always stays)
-  6. regenerate STATS.md
+  3. remove zero-move games
+  4. trim to the 200 most recent games (Game 1 always stays)
+  5. regenerate STATS.md
+
+No per-game PGN files are kept: each entry's full movetext already lives
+inline in its "Moves:" block, and the original is always on Lichess via
+the entry's "Link:" line.
 
 Run from the repo root:  python sync/nightly_sync.py
 Exit code 0 always unless something unexpected crashes; prints a summary line
 that the workflow uses as the commit message.
 """
 
-import io
 import json
 import re
 import sys
@@ -24,7 +26,6 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 import chess
-import chess.pgn
 
 USER = "ThatoSM"
 UA = {"User-Agent": "Mozilla/5.0"}
@@ -32,7 +33,6 @@ KEEP = 200
 SAST = timezone(timedelta(hours=2))
 ROOT = Path(".")
 LOGS = ROOT / "games" / "logs"
-PGN_DIR = ROOT / "games" / "pgn"
 INDEX = ROOT / "games" / "game-log.md"
 STATS = ROOT / "STATS.md"
 RMIGNORE = ROOT / ".repomixignore"
@@ -90,10 +90,6 @@ def detail_file_for(n):
     lo = (n - 1) // 40 * 40 + 1
     hi = lo + 39
     return LOGS / f"games-{lo:03d}-{hi:03d}.md"
-
-
-def slug(name):
-    return re.sub(r"[^a-z0-9]", "-", name.lower())
 
 
 def fmt_eval(e):
@@ -209,9 +205,6 @@ def part1():
             mode = "Rated" if f"{my_name}RatingDiff" in hdr else "Unrated"
         eval_dir = "positive evals are my advantage." if me == "white" else "NEGATIVE evals are my advantage."
 
-        pgn_name = f"game-{n:02d}-{slug(opp_name)}.pgn"
-        (PGN_DIR / pgn_name).write_text(pgn_text, encoding="utf-8")
-
         entry = (
             f"## Game {n} — {result} · {my_name}{my_elo_s} vs {opp_name}{opp_elo_s} · {tail}\n\n"
             f"- Colour: I played {my_name}. Eval direction: {eval_dir}\n"
@@ -219,7 +212,6 @@ def part1():
             f"- Played: {local:%Y-%m-%d %H:%M} SAST\n"
             f"- Mode: {mode} · {tc_s}\n"
             f"- Date: {local:%Y/%m/%d}\n"
-            f"- PGN: `games/pgn/{pgn_name}`\n"
             f"- Opening: {g.get('opening', {}).get('name', '—')}\n"
             f"- Moves:\n  ```\n  {movetext(pgn_text)}\n  ```\n"
             f"- Result: {result_line}\n"
@@ -347,40 +339,13 @@ def part2():
         summary.append(f"backfill analysis ({filled} analysed, {stale} marked local-engine)")
 
 
-# ---------- part 3: Elo in old headings ----------
-
-def part3():
-    fixed = 0
-    for f in log_files():
-        body = f.read_text(encoding="utf-8")
-        orig = body
-        for m in ENTRY_RE.finditer(orig):
-            ent = m.group(0)
-            head = ent.split("\n", 1)[0]
-            hm = re.match(r"^(## Game \d+ — \S+ · )(White|Black)( vs .*)$", head)
-            pm = re.search(r"- PGN: `([^`]+)`", ent)
-            if not hm or not pm or not Path(pm.group(1)).exists():
-                continue
-            elo = re.search(rf'^\[{hm.group(2)}Elo "([^"]*)"\]', Path(pm.group(1)).read_text(encoding="utf-8"), re.M)
-            if elo and elo.group(1) not in ("", "?"):
-                body = body.replace(head, f"{hm.group(1)}{hm.group(2)} ({elo.group(1)}){hm.group(3)}", 1)
-                fixed += 1
-        if body != orig:
-            f.write_text(body, encoding="utf-8")
-    if fixed:
-        summary.append(f"Elo added to {fixed} headings")
-
-
-# ---------- parts 4 + 5: remove games ----------
+# ---------- parts 3 + 4: remove games ----------
 
 def remove_game(n):
     for f in log_files():
         body = f.read_text(encoding="utf-8")
         m = re.search(rf"^## Game {n} —.*?^---\n", body, re.M | re.S)
         if m:
-            pm = re.search(r"- PGN: `([^`]+)`", m.group(0))
-            if pm and Path(pm.group(1)).exists():
-                Path(pm.group(1)).unlink()
             body = body[: m.start()] + body[m.end():]
             f.write_text(body, encoding="utf-8")
             if not re.search(r"^## (Game |The through-line)", body, re.M):
@@ -389,27 +354,54 @@ def remove_game(n):
                     lines = [l for l in RMIGNORE.read_text(encoding="utf-8").splitlines() if l != f"games/logs/{f.name}"]
                     RMIGNORE.write_text("\n".join(lines) + "\n", encoding="utf-8")
             break
-    for p in PGN_DIR.glob(f"game-{n:02d}-*.pgn"):
-        p.unlink()
     idx = INDEX.read_text(encoding="utf-8")
     INDEX.write_text(re.sub(rf"^\| {n} \|.*\n", "", idx, flags=re.M), encoding="utf-8")
 
 
-def part4():
-    # A saved PGN with no moves = a zero-move game (cheaper than 200 API calls).
+def find_number_for_id(gid):
+    for f in log_files():
+        body = f.read_text(encoding="utf-8")
+        for m in ENTRY_RE.finditer(body):
+            if f"lichess.org/{gid}" in m.group(0):
+                nm = re.match(r"^## Game (\d+)", m.group(0))
+                return int(nm.group(1)) if nm else None
+    return None
+
+
+def bulk_export(ids):
+    """POST bulk game export in batches of 50 with a count check — Lichess
+    has silently truncated larger batches before."""
+    out = []
+    for i in range(0, len(ids), 50):
+        batch = ids[i:i + 50]
+        games = []
+        for attempt in range(3):
+            games = ndjson(http("https://lichess.org/api/games/export/_ids",
+                                 data=",".join(batch).encode(), accept="application/x-ndjson"))
+            if len(games) == len(batch):
+                break
+            time.sleep(2)
+        else:
+            print(f"WARN bulk export short for batch starting {batch[0]}", file=sys.stderr)
+        out.extend(games)
+    return out
+
+
+def part3():
     removed = []
-    for p in PGN_DIR.glob("game-*.pgn"):
-        game = chess.pgn.read_game(io.StringIO(p.read_text(encoding="utf-8")))
-        if game is not None and game.next() is None:
-            removed.append(int(p.name.split("-")[1]))
+    for g in bulk_export(sorted(logged_ids())):
+        if (g.get("moves") or "").split():
+            continue
+        n = find_number_for_id(g["id"])
+        if n and n != 1:
+            removed.append(n)
     for n in removed:
-        if n != 1:
-            remove_game(n)
+        remove_game(n)
     if removed:
         summary.append(f"removed zero-move games {removed}")
 
 
-def part5():
+def part4():
     cutoff = highest_number() - KEEP
     if cutoff <= 0:
         return
@@ -423,13 +415,13 @@ def part5():
         summary.append(f"trim to 200 (removed {len(old)})")
 
 
-# ---------- part 6: STATS.md ----------
+# ---------- part 5: STATS.md ----------
 
 def d(iso):
     return iso[:10] if iso else "—"
 
 
-def part6():
+def part5():
     perf_t = http(f"https://lichess.org/api/user/{USER}/perf/rapid")
     user_t = http(f"https://lichess.org/api/user/{USER}")
     if not perf_t or not user_t:
@@ -536,6 +528,5 @@ if __name__ == "__main__":
     part3()
     part4()
     part5()
-    part6()
     msg = "Nightly sync: " + (", ".join(summary) if summary else "stats refresh")
     print(msg)
